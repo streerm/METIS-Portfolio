@@ -1,0 +1,1415 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1d3 20150301//EN" "http://jats.nlm.nih.gov/publishing/1.1d3/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.1d3" xml:lang="en" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+<front>
+<journal-meta>
+<journal-id journal-id-type="nlm-ta">PLoS ONE</journal-id>
+<journal-id journal-id-type="publisher-id">plos</journal-id>
+<journal-id journal-id-type="pmc">plosone</journal-id>
+<journal-title-group>
+<journal-title>PLOS ONE</journal-title>
+</journal-title-group>
+<issn pub-type="epub">1932-6203</issn>
+<publisher>
+<publisher-name>Public Library of Science</publisher-name>
+<publisher-loc>San Francisco, CA USA</publisher-loc>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.1371/journal.pone.0215736</article-id>
+<article-id pub-id-type="publisher-id">PONE-D-18-26765</article-id>
+<article-categories>
+<subj-group subj-group-type="heading">
+<subject>Research Article</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Negative BOLD responses during hand and foot movements: An fMRI study</article-title>
+<alt-title alt-title-type="running-head">Negative BOLD responses during hand and foot movements</alt-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" corresp="yes" xlink:type="simple">
+<contrib-id authenticated="true" contrib-id-type="orcid">http://orcid.org/0000-0002-8549-6468</contrib-id>
+<name name-style="western">
+<surname>Nakata</surname>
+<given-names>Hiroki</given-names>
+</name>
+<role content-type="http://credit.casrai.org/">Data curation</role>
+<role content-type="http://credit.casrai.org/">Formal analysis</role>
+<role content-type="http://credit.casrai.org/">Investigation</role>
+<role content-type="http://credit.casrai.org/">Methodology</role>
+<role content-type="http://credit.casrai.org/">Project administration</role>
+<role content-type="http://credit.casrai.org/">Resources</role>
+<role content-type="http://credit.casrai.org/">Validation</role>
+<role content-type="http://credit.casrai.org/">Writing – original draft</role>
+<xref ref-type="aff" rid="aff001"><sup>1</sup></xref>
+<xref ref-type="aff" rid="aff002"><sup>2</sup></xref>
+<xref ref-type="corresp" rid="cor001">*</xref>
+</contrib>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western">
+<surname>Domoto</surname>
+<given-names>Ryo</given-names>
+</name>
+<role content-type="http://credit.casrai.org/">Data curation</role>
+<role content-type="http://credit.casrai.org/">Formal analysis</role>
+<xref ref-type="aff" rid="aff003"><sup>3</sup></xref>
+</contrib>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western">
+<surname>Mizuguchi</surname>
+<given-names>Nobuaki</given-names>
+</name>
+<role content-type="http://credit.casrai.org/">Supervision</role>
+<role content-type="http://credit.casrai.org/">Validation</role>
+<xref ref-type="aff" rid="aff004"><sup>4</sup></xref>
+<xref ref-type="aff" rid="aff005"><sup>5</sup></xref>
+</contrib>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western">
+<surname>Sakamoto</surname>
+<given-names>Kiwako</given-names>
+</name>
+<role content-type="http://credit.casrai.org/">Methodology</role>
+<role content-type="http://credit.casrai.org/">Supervision</role>
+<xref ref-type="aff" rid="aff006"><sup>6</sup></xref>
+</contrib>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western">
+<surname>Kanosue</surname>
+<given-names>Kazuyuki</given-names>
+</name>
+<role content-type="http://credit.casrai.org/">Supervision</role>
+<role content-type="http://credit.casrai.org/">Validation</role>
+<xref ref-type="aff" rid="aff001"><sup>1</sup></xref>
+</contrib>
+</contrib-group>
+<aff id="aff001"><label>1</label> <addr-line>Faculty of Sport Sciences, Waseda University, Tokorozawa, Japan</addr-line></aff>
+<aff id="aff002"><label>2</label> <addr-line>Health Sciences, Faculty of Human Life and Environment, Nara Women’s University, Nara City, Japan</addr-line></aff>
+<aff id="aff003"><label>3</label> <addr-line>School of Sport Sciences, Waseda University, Tokorozawa, Japan</addr-line></aff>
+<aff id="aff004"><label>4</label> <addr-line>The Japan Society for the Promotion of Science, Tokyo, Japan</addr-line></aff>
+<aff id="aff005"><label>5</label> <addr-line>Faculty of Science and Technology, Keio University, Yokohama, Japan</addr-line></aff>
+<aff id="aff006"><label>6</label> <addr-line>Department of Integrative Physiology, National Institute for Physiological Sciences, Okazaki, Japan</addr-line></aff>
+<contrib-group>
+<contrib contrib-type="editor" xlink:type="simple">
+<name name-style="western">
+<surname>Mierau</surname>
+<given-names>Andreas</given-names>
+</name>
+<role>Editor</role>
+<xref ref-type="aff" rid="edit1"/>
+</contrib>
+</contrib-group>
+<aff id="edit1"><addr-line>LUNEX International University of Health, Exercise and Sports, LUXEMBOURG</addr-line></aff>
+<author-notes>
+<fn fn-type="conflict" id="coi001">
+<p>The authors have declared that no competing interests exist.</p>
+</fn>
+<corresp id="cor001">* E-mail: <email xlink:type="simple">hiroki-nakata@cc.nara-wu.ac.jp</email></corresp>
+</author-notes>
+<pub-date pub-type="epub">
+<day>19</day>
+<month>4</month>
+<year>2019</year>
+</pub-date>
+<pub-date pub-type="collection">
+<year>2019</year>
+</pub-date>
+<volume>14</volume>
+<issue>4</issue>
+<elocation-id>e0215736</elocation-id>
+<history>
+<date date-type="received">
+<day>20</day>
+<month>9</month>
+<year>2018</year>
+</date>
+<date date-type="accepted">
+<day>8</day>
+<month>4</month>
+<year>2019</year>
+</date>
+</history>
+<permissions>
+<copyright-year>2019</copyright-year>
+<copyright-holder>Nakata et al</copyright-holder>
+<license xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+<license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+</license>
+</permissions>
+<self-uri content-type="pdf" xlink:href="info:doi/10.1371/journal.pone.0215736"/>
+<abstract>
+<p>The present study employed functional magnetic resonance imaging (fMRI) to examine the characteristics of negative blood oxygen level-dependent (Negative BOLD) signals during motor execution. Subjects repeated extension and flexion of one of the following: the right hand, left hand, right ankle, or left ankle. Negative BOLD responses during hand movements were observed in the ipsilateral hemisphere of the hand primary sensorimotor area (SMI), medial frontal gyrus (MeFG), middle frontal gyrus (MFG), and superior frontal gyrus (SFG). Negative BOLD responses during foot movements were also noted in the bilateral hand SMI, MeFG, MFG, SFG, inferior frontal gyrus, middle temporal gyrus, parahippocampal gyrus, anterior cingulate cortex, cingulate gyrus (CG), fusiform gyrus, and precuneus. A conjunction analysis showed that portions of the MeFG and CG involving similar regions to those of the default mode network were commonly deactivated during voluntary movements of the right/left hand or foot. The present results suggest that three mechanisms are involved in the Negative BOLD responses observed during voluntary movements: (1) transcallosal inhibition from the contralateral to ipsilateral hemisphere in the SMI, (2) the deactivated neural network with several brain regions, and (3) the default mode network in the MeFG and CG.</p>
+</abstract>
+<funding-group>
+<award-group id="award001">
+<funding-source>
+<institution>Sport Sciences for the Promotion of Active Life</institution>
+</funding-source>
+<principal-award-recipient>
+<name name-style="western">
+<surname>Kanosue</surname>
+<given-names>Kazuyuki</given-names>
+</name>
+</principal-award-recipient>
+</award-group>
+<award-group id="award002">
+<funding-source>
+<institution>JSPS KAKENHI Grant</institution>
+</funding-source>
+<principal-award-recipient>
+<contrib-id authenticated="true" contrib-id-type="orcid">http://orcid.org/0000-0002-8549-6468</contrib-id>
+<name name-style="western">
+<surname>Nakata</surname>
+<given-names>Hiroki</given-names>
+</name>
+</principal-award-recipient>
+</award-group>
+<funding-statement>This study was supported by a Grant-in-aid for the Global COE, Waseda University “Sport Sciences for the Promotion of Active Life”, from the Ministry of Education, Culture, Sports, Science and Technology (MEXT) of Japan, and by JSPS KAKENHI Grant (HN). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</funding-statement>
+</funding-group>
+<counts>
+<fig-count count="6"/>
+<table-count count="2"/>
+<page-count count="18"/>
+</counts>
+<custom-meta-group>
+<custom-meta id="data-availability">
+<meta-name>Data Availability</meta-name>
+<meta-value>All relevant data are within the manuscript and its Supporting Information files.</meta-value>
+</custom-meta>
+</custom-meta-group>
+</article-meta>
+</front>
+<body>
+<sec id="sec001" sec-type="intro">
+<title>Introduction</title>
+<p>Recent neuroimaging studies using functional magnetic resonance imaging (fMRI) reported not only increases, but also decreases in blood oxygen level-dependent (BOLD) signals during tasks. These decreases are often referred to as ‘Negative BOLD responses’, and several phenomena have been suggested to be involved. The first involves transcallosal inhibition from one hemisphere to the other. BOLD signals generally increase in the primary motor area (MI) of the contralateral hemisphere during the voluntary movement of a limb, but decrease in the MI ipsilateral to the movement [<xref ref-type="bibr" rid="pone.0215736.ref001">1</xref>–<xref ref-type="bibr" rid="pone.0215736.ref008">8</xref>]. The second phenomenon involves the task-related deactivation of associated areas that belong to an irrelevant sensory modality. For example, deactivation of the visual cortex occurs during somatosensory (tactile) discrimination tasks [<xref ref-type="bibr" rid="pone.0215736.ref009">9</xref>–<xref ref-type="bibr" rid="pone.0215736.ref012">12</xref>]. The third involves the “blood steal” phenomenon. When BOLD signals in some parts of the primary visual cortex increase after particular types of visual stimuli, signals in other parts of the visual cortex decrease [<xref ref-type="bibr" rid="pone.0215736.ref013">13</xref>, <xref ref-type="bibr" rid="pone.0215736.ref014">14</xref>]. This is often explained by the blood steal phenomenon, which occurs due a decrease in blood flow (i.e. Negative response) in regions that are adjacent to activated regions with increased blood flow (i.e. Positive response) and supplied by a common artery. However, if the distance between Negative and Positive BOLD foci is large (e.g., left and right hemispheres, and frontal and occipital cortices), it is difficult to explain the relationship between Negative and Positive BOLD responses by the blood steal phenomenon [<xref ref-type="bibr" rid="pone.0215736.ref015">15</xref>]. The fourth is related to default mode network. This phenomenon comprises task-independent deactivation regions during the baseline or resting state of the brain involving a specific set of mental operations [<xref ref-type="bibr" rid="pone.0215736.ref016">16</xref>–<xref ref-type="bibr" rid="pone.0215736.ref018">18</xref>].</p>
+<p>The physiological basis of Negative BOLD responses remains a matter of debate. Non-human studies revealed a relationship between Negative BOLD signals and decreases in neural activity [<xref ref-type="bibr" rid="pone.0215736.ref019">19</xref>–<xref ref-type="bibr" rid="pone.0215736.ref021">21</xref>]. Devor and colleagues [<xref ref-type="bibr" rid="pone.0215736.ref020">20</xref>] utilized a somatosensory stimulation in the rat to investigate neurovascular coupling in the primary somatosensory cortex (SI). They demonstrated that neuronal inhibition and concurrent arteriolar vasoconstriction were coupled with decreases in blood oxygenation, and that this may form the physiological basis for the Negative BOLD responses observed in the fMRI of humans. On the other hand, Maggioni and colleagues [<xref ref-type="bibr" rid="pone.0215736.ref022">22</xref>] reported a relationship between the neuronal rhythms at 10 and 12 Hz on electroencephalography and Negative BOLD responses in the extra-striate visual cortex, suggesting that Negative BOLD responses to visual stimuli were neuronal in origin rather than reflecting pure vascular phenomena.</p>
+<p>As described above, previous studies reported Positive BOLD responses in the MI contralateral to the moved hand and Negative BOLD responses in the ipsilateral MI. Zeharia and colleagues [<xref ref-type="bibr" rid="pone.0215736.ref007">7</xref>] showed somatotopic organization in the MI for Negative BOLD responses. They demonstrated that the Negative BOLD spatial pattern in the MI was not randomly distributed, but was organized somatotopically across the entire MI. Negative BOLD responses were located outside the somatotopic location of the classified body parts (e.g., Negative BOLD elicited by bilateral hand movements were located in the leg and face areas). However, this study did not focus on Negative BOLD responses in brain regions other than the MI, and the underlying mechanisms of the Negative BOLD response across the entire brain during voluntary movement remain unclear. Furthermore, previous studies utilizing Positive BOLD responses reported neural substrates related to simple hand, foot, and tongue movements, and complex movements with the hand and foot [<xref ref-type="bibr" rid="pone.0215736.ref023">23</xref>, <xref ref-type="bibr" rid="pone.0215736.ref024">24</xref>]. However, the laterality of the Negative BOLD response during even simple hand and foot movements has not yet been clarified. The objective of the present study was to elucidate how Negative BOLD responses are recruited across the whole brain during voluntary unilateral movements of the hands or feet on either side of the body.</p>
+<p>The present study also used the term ‘primary somatosensory-motor area (SMI)’ to refer to a condition in which neural activities in the MI and/or SI were observed during voluntary movements. This is because corticocortical connections have been reported between the MI and SI [<xref ref-type="bibr" rid="pone.0215736.ref025">25</xref>], the distance between them is small and activation in the MI and SI may not be discriminated. Moreover, voluntary hand and foot movements themselves give rise to proprioceptive inputs. Therefore, many fMRI studies have used the term “SMI” to refer to condition in which voluntary movements were performed [<xref ref-type="bibr" rid="pone.0215736.ref026">26</xref>, <xref ref-type="bibr" rid="pone.0215736.ref027">27</xref>]. We employed this usage of SMI in the present study.</p>
+</sec>
+<sec id="sec002" sec-type="materials|methods">
+<title>Materials and methods</title>
+<sec id="sec003">
+<title>Subjects</title>
+<p>Fifteen normal right-handed subjects (two females and thirteen males; mean age 20.8 years, range 18–25 years) participated in the present study. All subjects were undergraduate or graduate students. They were all right handed according to the criteria of the Edinburgh Inventory [<xref ref-type="bibr" rid="pone.0215736.ref028">28</xref>]. Subjects had no record of neurological or psychiatric disorders. The protocol was approved by the Human Research Ethics Committee of Waseda University, Japan. Subjects were informed in detail about the experiments prior to their participation, and gave written informed consent for the involvement in this study.</p>
+</sec>
+<sec id="sec004">
+<title>Procedure</title>
+<p>Recordings were conducted under four conditions: (1) right hand movement (RH), (2) left hand movement (LH), (3) right foot movement (RF), and (4) left foot movement (LF). Under the RH and LH conditions, subjects were asked to repeatedly perform extension and flexion of the right or left hand. Under the RF and LF conditions, subjects were instructed to repeatedly perform plantar flexion and dorsiflexion of the right or left ankle. Subjects were told to perform each movement at their own pace, and to not count the number of movements performed. In addition, they were asked to match the pace of the hand and foot movements throughout all of the experiments. A practice session of several trials for each movement was performed before the recording in order to enable subjects to become familiar with the experimental conditions.</p>
+<p>Two experimenters monitored the number of movements under all of the conditions tested (<xref ref-type="supplementary-material" rid="pone.0215736.s001">S1 Table</xref>), and we performed an analysis of variance (ANOVA) with repeated measures using within-subject factors, limb (hand vs. foot), laterality (left vs. right), and block (1<sup>st</sup>, 2<sup>nd</sup>, 3<sup>rd</sup>, 4<sup>th</sup>, and 5<sup>th</sup>), to assess differences in motor performance between the various conditions. This analysis revealed that there was a main effect of limb (F (1, 14) = 6.028, p &lt; 0.05), which indicated a significant difference in the speed of movement between the hand and foot conditions. Mean movement frequencies across all subjects were 1.33 Hz in the RH condition, 1.33 Hz in the LH condition, 1.16 Hz in the RF condition, and 1.14 Hz in the LF condition.</p>
+</sec>
+<sec id="sec005">
+<title>fMRI data acquisition and analysis</title>
+<p>On MRI, a 5-min 12-s run for each condition consisted of five alternate repetitions of the task and rest periods, each of which was 30 s. The first four volumes (12 s) of each fMRI session were discarded because of unstable magnetization. Subjects were informed about the start and end of each task period via a tactile cue. The cue was presented by an experimenter to the dorsum of the hand or foot that was to be subsequently moved or stopped from moving. The order of the four conditions (RH, LH, RF, and LF) was randomized for each subject and counterbalanced across all subjects. Subjects were also asked to keep their muscles relaxed and not to think about anything throughout the entire procedure. Any communication between the experimenter and subject was made via an intercom.</p>
+<p>All images were acquired using a 1.5 T MR scanner (Signa, General Electric, Wisc., USA). BOLD contrast functional images were acquired using T2*-weighted echo planar imaging (EPI) free induction decay (FID) sequences with the following parameters: TR 3000 ms, TE 50 ms, FOV 22 × 22 cm, matrix size 64 × 64, flip angle 90°, slice thickness 5 mm, gap 1 mm, and 25 slices. The orientation of axial slices was parallel to the AC—PC line. T1-weighted images (TR 30 ms, TE 6 ms, FOV 24 × 24 cm, matrix size 256 × 256, flip angle 90°, slice thickness 1 mm, no gap, and 124 slices) were also obtained for each subject as an anatomical reference. These procedures generally followed those of previous studies [<xref ref-type="bibr" rid="pone.0215736.ref029">29</xref>, <xref ref-type="bibr" rid="pone.0215736.ref030">30</xref>].</p>
+<p>Raw data were analyzed using Statistical Parametric Mapping (SPM12, Wellcome Department of Cognitive Neurology, London, UK) [<xref ref-type="bibr" rid="pone.0215736.ref031">31</xref>] implemented in Matlab (Mathworks, Sherborn, Massachusetts, USA). The effects of head motion were corrected by realigning all scans to the first scan. Realigned images were normalized to the standard template of the Montreal Neurological Institute (MNI) brain using a transformation matrix obtained from the normalization process of the high-resolution image of each individual participant to the MNI template [<xref ref-type="bibr" rid="pone.0215736.ref032">32</xref>]. Images were then spatially smoothed using an isotropic Gaussian kernel of 8-mm full width at half maximum (FWHM) in the x, y, and z axes. Statistical analyses were performed on two levels. A first-level analysis was performed for each subject using a general linear model. Individual task-related activation and deactivation were initially evaluated. We constructed a statistical parametric map of the <italic>t</italic>-statistic for the eight contrasts: (1) Positive BOLD for RH, (2) Negative BOLD for RH, (3) Positive BOLD for LH, (4) Negative BOLD for LH, (5) Positive BOLD for RF, (6) Negative BOLD for RF, (7) Positive BOLD for LF, and (8) Negative BOLD for LF. Subject-specific contrast images of the estimated parameter were used for the second-level analysis (random-effect model) [<xref ref-type="bibr" rid="pone.0215736.ref033">33</xref>]. The second-level analysis utilizing a full factorial design (a one-way ANOVA, factor = limb, four levels) was performed to extend the inference of individual activation data to the general population. One-sample <italic>t</italic>-tests were used with a voxel-wise threshold of p &lt; 0.0001 (uncorrected) to generate cluster images (spatial extent &gt; 10 voxels). In addition, we evaluated the strong deactivation regions using the familywise error rate (FWE) with a cluster-level threshold of p &lt; 0.05 for Negative BOLD responses for RH, LH, RF, and LF. We also checked whether the surviving cluster at the cluster-FWE threshold of p &lt; 0.05 involved less than 10 voxels, but no such cluster was detected. The locations of brain activity were transformed from MNI coordinates into Talairach standard brain coordinates using the Talairach Daemon atlas [<xref ref-type="bibr" rid="pone.0215736.ref034">34</xref>]. This atlas was also used to localize the local maxima of the clusters in order to identify peak deactivation (activation) loci. All the coordinates were reported in the Talairach space. A conjunction analysis, to assess whether tasks altered activity in the same region of the brain, was also employed to detect brain regions commonly deactivated during all four (RH, LH, RF, and LF) conditions by utilizing SPM [<xref ref-type="bibr" rid="pone.0215736.ref035">35</xref>]. Using the SPM template, data were superimposed on a 3D-rendered standard brain. ‘Slightly in brighten blobs’ was selected as the ‘Display’ option for rendering in SPM [<xref ref-type="bibr" rid="pone.0215736.ref036">36</xref>–<xref ref-type="bibr" rid="pone.0215736.ref039">39</xref>]. We also confirmed the time course of the hemodynamic response (HDR) in each individual. Hand SMIs in the left and right hemispheres were selected based on <xref ref-type="table" rid="pone.0215736.t001">Table 1</xref>. Each set of data was collected from all subjects using the ‘Plot’ option of SPM.</p>
+<table-wrap id="pone.0215736.t001" position="float">
+<object-id pub-id-type="doi">10.1371/journal.pone.0215736.t001</object-id>
+<label>Table 1</label> <caption><title>Deactivation regions for each condition.</title></caption>
+<alternatives>
+<graphic id="pone.0215736.t001g" mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0215736.t001" xlink:type="simple"/>
+<table>
+<colgroup>
+<col align="left" valign="middle"/>
+<col align="left" valign="middle"/>
+<col align="left" valign="middle"/>
+<col align="left" valign="middle"/>
+<col align="left" valign="middle"/>
+<col align="left" valign="middle"/>
+<col align="left" valign="middle"/>
+</colgroup>
+<thead>
+<tr>
+<th align="center"/>
+<th align="center"/>
+<th align="center"/>
+<th align="center" colspan="3">Talairach coordinates</th>
+<th align="center">Z-score</th>
+</tr>
+<tr>
+<th align="center">Region</th>
+<th align="center">Side</th>
+<th align="center">BA</th>
+<th align="center">X</th>
+<th align="center">Y</th>
+<th align="center">Z</th>
+<th align="center"/>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">&lt;RH condition&gt;</td>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="left">Frontal Lobe</td>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">Superior Frontal Gyrus</td>
+<td align="center">L</td>
+<td align="center">8</td>
+<td align="center">-20</td>
+<td align="center">26</td>
+<td align="center">47</td>
+<td align="center">4.60 <xref ref-type="table-fn" rid="t001fn002">#</xref></td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center">L</td>
+<td align="center">9</td>
+<td align="center">-8</td>
+<td align="center">51</td>
+<td align="center">20</td>
+<td align="center">4.11 <xref ref-type="table-fn" rid="t001fn002">#</xref></td>
+</tr>
+<tr>
+<td align="center">Medial Frontal Gyrus</td>
+<td align="center">L</td>
+<td align="center">9</td>
+<td align="center">-16</td>
+<td align="center">40</td>
+<td align="center">22</td>
+<td align="center">4.57</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center">L</td>
+<td align="center">10</td>
+<td align="center">-2</td>
+<td align="center">53</td>
+<td align="center">12</td>
+<td align="center">4.74 <xref ref-type="table-fn" rid="t001fn002">#</xref></td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center">R</td>
+<td align="center">10</td>
+<td align="center">2</td>
+<td align="center">49</td>
+<td align="center">12</td>
+<td align="center">4.67</td>
+</tr>
+<tr>
+<td align="center">Middle Frontal Gyrus</td>
+<td align="center">L</td>
+<td align="center">8</td>
+<td align="center">-24</td>
+<td align="center">35</td>
+<td align="center">37</td>
+<td align="center">4.37</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center">L</td>
+<td align="center">9</td>
+<td align="center">-30</td>
+<td align="center">17</td>
+<td align="center">32</td>
+<td align="center">4.41 <xref ref-type="table-fn" rid="t001fn002">#</xref></td>
+</tr>
+<tr>
+<td align="center">Precentral Gyrus</td>
+<td align="center">R</td>
+<td align="center">4</td>
+<td align="center">40</td>
+<td align="center">-19</td>
+<td align="center">53</td>
+<td align="center">4.40 <xref ref-type="table-fn" rid="t001fn002">#</xref></td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center">R</td>
+<td align="center">6</td>
+<td align="center">50</td>
+<td align="center">-5</td>
+<td align="center">50</td>
+<td align="center">4.08</td>
+</tr>
+<tr>
+<td align="left">Parietal Lobe</td>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">Precuneus</td>
+<td align="center">L</td>
+<td align="center">7</td>
+<td align="center">-18</td>
+<td align="center">-53</td>
+<td align="center">38</td>
+<td align="center">4.04</td>
+</tr>
+<tr>
+<td align="center">Postcentral Gyrus</td>
+<td align="center">R</td>
+<td align="center">5</td>
+<td align="center">32</td>
+<td align="center">-44</td>
+<td align="center">57</td>
+<td align="center">4.07</td>
+</tr>
+<tr>
+<td align="left">Temporal Lobe</td>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">Superior Temporal Gyrus</td>
+<td align="center">R</td>
+<td align="center">39</td>
+<td align="center">44</td>
+<td align="center">-51</td>
+<td align="center">27</td>
+<td align="center">4.40</td>
+</tr>
+<tr>
+<td align="left">Limbic Lobe</td>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">Parahippocampal Gyrus</td>
+<td align="center">L</td>
+<td align="center"/>
+<td align="center">-28</td>
+<td align="center">-28</td>
+<td align="center">-7</td>
+<td align="center">4.55</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center">R</td>
+<td align="center">36</td>
+<td align="center">36</td>
+<td align="center">-34</td>
+<td align="center">12</td>
+<td align="center">4.01</td>
+</tr>
+<tr>
+<td align="left">Sub-lobar</td>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">Insula</td>
+<td align="center">L</td>
+<td align="center">13</td>
+<td align="center">-42</td>
+<td align="center">26</td>
+<td align="center">8</td>
+<td align="center">4.06</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center">R</td>
+<td align="center">13</td>
+<td align="center">40</td>
+<td align="center">-9</td>
+<td align="center">19</td>
+<td align="center">4.44</td>
+</tr>
+<tr>
+<td align="center">Cerebellum (Tuber)</td>
+<td align="center">R</td>
+<td align="center"/>
+<td align="center">40</td>
+<td align="center">-65</td>
+<td align="center">-27</td>
+<td align="center">4.05</td>
+</tr>
+<tr>
+<td align="left">&lt;LH condition&gt;</td>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="left">Frontal Lobe</td>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">Superior Frontal Gyrus</td>
+<td align="center">R</td>
+<td align="center">11</td>
+<td align="center">12</td>
+<td align="center">48</td>
+<td align="center">-12</td>
+<td align="center">4.41</td>
+</tr>
+<tr>
+<td align="center">Medial Frontal Gyrus</td>
+<td align="center">L</td>
+<td align="center">6</td>
+<td align="center">-12</td>
+<td align="center">-26</td>
+<td align="center">60</td>
+<td align="center">3.88</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center">R</td>
+<td align="center">11</td>
+<td align="center">6</td>
+<td align="center">48</td>
+<td align="center">-11</td>
+<td align="center">4.18</td>
+</tr>
+<tr>
+<td align="center">Middle Frontal Gyrus</td>
+<td align="center">L</td>
+<td align="center">9</td>
+<td align="center">-28</td>
+<td align="center">33</td>
+<td align="center">35</td>
+<td align="center">4.82</td>
+</tr>
+<tr>
+<td align="center">Precentral Gyrus</td>
+<td align="center">L</td>
+<td align="center">4</td>
+<td align="center">-46</td>
+<td align="center">-13</td>
+<td align="center">54</td>
+<td align="center">4.23</td>
+</tr>
+<tr>
+<td align="center">Paracentral Lobule</td>
+<td align="center">L</td>
+<td align="center">6</td>
+<td align="center">-10</td>
+<td align="center">-32</td>
+<td align="center">55</td>
+<td align="center">3.97</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center">R</td>
+<td align="center">5</td>
+<td align="center">12</td>
+<td align="center">-32</td>
+<td align="center">50</td>
+<td align="center">4.38</td>
+</tr>
+<tr>
+<td align="left">Sub-lobar</td>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">Insula</td>
+<td align="center">L</td>
+<td align="center">13</td>
+<td align="center">-32</td>
+<td align="center">-19</td>
+<td align="center">18</td>
+<td align="center">4.18</td>
+</tr>
+<tr>
+<td align="left">&lt;RF condition&gt;</td>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="left">Frontal Lobe</td>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">Superior Frontal Gyrus</td>
+<td align="center">L</td>
+<td align="center">8</td>
+<td align="center">-20</td>
+<td align="center">22</td>
+<td align="center">49</td>
+<td align="center">4.29</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center">R</td>
+<td align="center">9</td>
+<td align="center">26</td>
+<td align="center">35</td>
+<td align="center">31</td>
+<td align="center">4.90 <xref ref-type="table-fn" rid="t001fn002">#</xref></td>
+</tr>
+<tr>
+<td align="center">Medial Frontal Gyrus</td>
+<td align="center">L</td>
+<td align="center">10</td>
+<td align="center">-8</td>
+<td align="center">42</td>
+<td align="center">-9</td>
+<td align="center">4.15 <xref ref-type="table-fn" rid="t001fn002">#</xref></td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center">R</td>
+<td align="center">10</td>
+<td align="center">4</td>
+<td align="center">49</td>
+<td align="center">9</td>
+<td align="center">4.07</td>
+</tr>
+<tr>
+<td align="center">Middle Frontal Gyrus</td>
+<td align="center">L</td>
+<td align="center">11</td>
+<td align="center">-30</td>
+<td align="center">36</td>
+<td align="center">-19</td>
+<td align="center">4.17</td>
+</tr>
+<tr>
+<td align="center">Precentral Gyrus</td>
+<td align="center">L</td>
+<td align="center">4</td>
+<td align="center">-40</td>
+<td align="center">-20</td>
+<td align="center">58</td>
+<td align="center">5.23 <xref ref-type="table-fn" rid="t001fn002">#</xref></td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center">R</td>
+<td align="center">4</td>
+<td align="center">36</td>
+<td align="center">-26</td>
+<td align="center">55</td>
+<td align="center">4.33 <xref ref-type="table-fn" rid="t001fn002">#</xref></td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center">R</td>
+<td align="center">6</td>
+<td align="center">30</td>
+<td align="center">-13</td>
+<td align="center">54</td>
+<td align="center">4.27</td>
+</tr>
+<tr>
+<td align="center">Inferior Frontal Gyrus</td>
+<td align="center">L</td>
+<td align="center">47</td>
+<td align="center">-24</td>
+<td align="center">15</td>
+<td align="center">-19</td>
+<td align="center">4.80</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center">R</td>
+<td align="center">13</td>
+<td align="center">34</td>
+<td align="center">13</td>
+<td align="center">-12</td>
+<td align="center">4.27 <xref ref-type="table-fn" rid="t001fn002">#</xref></td>
+</tr>
+<tr>
+<td align="left">Parietal Lobe</td>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">Postcentral Gyrus</td>
+<td align="center">L</td>
+<td align="center">3</td>
+<td align="center">-46</td>
+<td align="center">-17</td>
+<td align="center">52</td>
+<td align="center">4.93 <xref ref-type="table-fn" rid="t001fn002">#</xref></td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center">R</td>
+<td align="center">3</td>
+<td align="center">42</td>
+<td align="center">-17</td>
+<td align="center">52</td>
+<td align="center">4.11 <xref ref-type="table-fn" rid="t001fn002">#</xref></td>
+</tr>
+<tr>
+<td align="left">Temporal Lobe</td>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">Inferior Frontal Gyrus</td>
+<td align="center">R</td>
+<td align="center">13</td>
+<td align="center">32</td>
+<td align="center">5</td>
+<td align="center">-10</td>
+<td align="center">3.76</td>
+</tr>
+<tr>
+<td align="center">Middle Temporal Gyrus</td>
+<td align="center">R</td>
+<td align="center">21</td>
+<td align="center">50</td>
+<td align="center">-14</td>
+<td align="center">-13</td>
+<td align="center">4.09</td>
+</tr>
+<tr>
+<td align="left">Occipital Lobe</td>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">Fusiform Gyrus</td>
+<td align="center">L</td>
+<td align="center">37</td>
+<td align="center">-34</td>
+<td align="center">-43</td>
+<td align="center">-11</td>
+<td align="center">4.76 <xref ref-type="table-fn" rid="t001fn002">#</xref></td>
+</tr>
+<tr>
+<td align="left">Limbic Lobe</td>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">Parahippocampal Gyrus</td>
+<td align="center">L</td>
+<td align="center">36</td>
+<td align="center">-24</td>
+<td align="center">-32</td>
+<td align="center">-14</td>
+<td align="center">5.23 <xref ref-type="table-fn" rid="t001fn002">#</xref></td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center">R</td>
+<td align="center">36</td>
+<td align="center">34</td>
+<td align="center">-35</td>
+<td align="center">-10</td>
+<td align="center">4.98 <xref ref-type="table-fn" rid="t001fn002">#</xref></td>
+</tr>
+<tr>
+<td align="center">Anterior Cingulate</td>
+<td align="center">L</td>
+<td align="center">10</td>
+<td align="center">-12</td>
+<td align="center">50</td>
+<td align="center">-1</td>
+<td align="center">4.25 <xref ref-type="table-fn" rid="t001fn002">#</xref></td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center">L</td>
+<td align="center">24</td>
+<td align="center">-8</td>
+<td align="center">31</td>
+<td align="center">0</td>
+<td align="center">4.78 <xref ref-type="table-fn" rid="t001fn002">#</xref></td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center">L</td>
+<td align="center">32</td>
+<td align="center">-4</td>
+<td align="center">41</td>
+<td align="center">-2</td>
+<td align="center">3.83</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center">R</td>
+<td align="center">32</td>
+<td align="center">2</td>
+<td align="center">41</td>
+<td align="center">-2</td>
+<td align="center">3.99</td>
+</tr>
+<tr>
+<td align="center">Cingulate Gyrus</td>
+<td align="center">L</td>
+<td align="center">31</td>
+<td align="center">-10</td>
+<td align="center">-39</td>
+<td align="center">30</td>
+<td align="center">4.37 <xref ref-type="table-fn" rid="t001fn002">#</xref></td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center">R</td>
+<td align="center">31</td>
+<td align="center">8</td>
+<td align="center">-41</td>
+<td align="center">35</td>
+<td align="center">4.40 <xref ref-type="table-fn" rid="t001fn002">#</xref></td>
+</tr>
+<tr>
+<td align="left">&lt;LF condition&gt;</td>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="left">Frontal Lobe</td>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">Middle Frontal Gyrus</td>
+<td align="center">R</td>
+<td align="center">9</td>
+<td align="center">26</td>
+<td align="center">37</td>
+<td align="center">35</td>
+<td align="center">4.42</td>
+</tr>
+<tr>
+<td align="center">Precentral Gyrus</td>
+<td align="center">L</td>
+<td align="center">4</td>
+<td align="center">-42</td>
+<td align="center">-17</td>
+<td align="center">41</td>
+<td align="center">3.98 <xref ref-type="table-fn" rid="t001fn002">#</xref></td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center">R</td>
+<td align="center">4</td>
+<td align="center">32</td>
+<td align="center">-18</td>
+<td align="center">38</td>
+<td align="center">4.46 <xref ref-type="table-fn" rid="t001fn002">#</xref></td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center">R</td>
+<td align="center">6</td>
+<td align="center">40</td>
+<td align="center">-12</td>
+<td align="center">32</td>
+<td align="center">3.97 <xref ref-type="table-fn" rid="t001fn002">#</xref></td>
+</tr>
+<tr>
+<td align="left">Parietal Lobe</td>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">Postcentral Gyrus</td>
+<td align="center">L</td>
+<td align="center">3</td>
+<td align="center">-42</td>
+<td align="center">-19</td>
+<td align="center">53</td>
+<td align="center">4.96 <xref ref-type="table-fn" rid="t001fn002">#</xref></td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center">R</td>
+<td align="center">3</td>
+<td align="center">42</td>
+<td align="center">-17</td>
+<td align="center">51</td>
+<td align="center">4.89 <xref ref-type="table-fn" rid="t001fn002">#</xref></td>
+</tr>
+<tr>
+<td align="center">Precuneus</td>
+<td align="center">L</td>
+<td align="center">7</td>
+<td align="center">-16</td>
+<td align="center">-42</td>
+<td align="center">46</td>
+<td align="center">4.54</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center">R</td>
+<td align="center">7</td>
+<td align="center">4</td>
+<td align="center">-48</td>
+<td align="center">45</td>
+<td align="center">4.85 <xref ref-type="table-fn" rid="t001fn002">#</xref></td>
+</tr>
+<tr>
+<td align="left">Temporal Lobe</td>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">Superior Temporal Gyrus</td>
+<td align="center">R</td>
+<td align="center">22</td>
+<td align="center">51</td>
+<td align="center">-12</td>
+<td align="center">-1</td>
+<td align="center">4.10 <xref ref-type="table-fn" rid="t001fn002">#</xref></td>
+</tr>
+<tr>
+<td align="center">Middle Temporal Gyrus</td>
+<td align="center">R</td>
+<td align="center">21</td>
+<td align="center">51</td>
+<td align="center">-12</td>
+<td align="center">-13</td>
+<td align="center">4.63 <xref ref-type="table-fn" rid="t001fn002">#</xref></td>
+</tr>
+<tr>
+<td align="center">Sub-Gyral</td>
+<td align="center">R</td>
+<td align="center">21</td>
+<td align="center">48</td>
+<td align="center">-16</td>
+<td align="center">-13</td>
+<td align="center">4.55</td>
+</tr>
+<tr>
+<td align="left">Limbic Lobe</td>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">Parahippocampal Gyrus</td>
+<td align="center">L</td>
+<td align="center">36</td>
+<td align="center">-24</td>
+<td align="center">-39</td>
+<td align="center">-6</td>
+<td align="center">3.75</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center">R</td>
+<td align="center"/>
+<td align="center">32</td>
+<td align="center">-6</td>
+<td align="center">-13</td>
+<td align="center">4.84 <xref ref-type="table-fn" rid="t001fn002">#</xref></td>
+</tr>
+<tr>
+<td align="center">Cingulate Gyrus</td>
+<td align="center">L</td>
+<td align="center">31</td>
+<td align="center">-10</td>
+<td align="center">-35</td>
+<td align="center">33</td>
+<td align="center">4.19 <xref ref-type="table-fn" rid="t001fn002">#</xref></td>
+</tr>
+<tr>
+<td align="left">Sub-lobar</td>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">Lentiform Nucleus</td>
+<td align="center">L</td>
+<td align="center"/>
+<td align="center">-28</td>
+<td align="center">-18</td>
+<td align="center">-6</td>
+<td align="center">3.96</td>
+</tr>
+</tbody>
+</table>
+</alternatives>
+<table-wrap-foot>
+<fn id="t001fn001"><p>BA, Brodmann’s area; L, left hemisphere; R, right hemisphere</p></fn>
+<fn id="t001fn002"><p>#, activation regions using the FWE with a cluster-level threshold of p &lt; 0.05.</p></fn>
+</table-wrap-foot>
+</table-wrap>
+<p>After the whole-brain analysis was completed, we conducted a region of interest (ROI) analysis to compare the strength of the hand SMI regions under each condition using MarsBaR (<ext-link ext-link-type="uri" xlink:href="http://marsbar.sourceforge.net/" xlink:type="simple">http://marsbar.sourceforge.net/</ext-link>). The coordinates of the ROI centers were defined by the local maximum voxel for the hand SMI in the group analysis. We detected the mean amplitude values of ROIs over the task block for each subject. Each ROI was defined as a 10-mm-radius sphere with the peak coordinates of the cluster (threshold p &lt; 0.05, uncorrected), following a previous study using ROIs for SMIs [<xref ref-type="bibr" rid="pone.0215736.ref008">8</xref>]. The mean amplitude values of hand SMIs ipsilateral to the moving hand over the task block under the RH and LH conditions were evaluated by a repeated measures ANOVA using the factor of Condition (RH vs. LH). The mean amplitude values of bilateral hand SMIs over the task block under the RF and LF conditions were assessed by a repeated measures ANOVA using the factors of Condition (RF vs. LF) and Hemisphere (right vs. left). Significance was set at p &lt; 0.05.</p>
+</sec>
+</sec>
+<sec id="sec006" sec-type="results">
+<title>Results</title>
+<sec id="sec007">
+<title>Negative BOLD under each condition</title>
+<p>Regions deactivated under the RH condition were located in the left superior frontal gyrus (SFG) (Brodmann’s areas: BA 8 and 9), medial frontal gyrus (MeFG) (BA 9 and 10), middle frontal gyrus (MFG) (BA 8 and 9), precuneus (BA 7), parahippocampal gyrus (PHG), and insula. Areas deactivated in the right hemisphere were in the SMI (BA 3/4), MeFG (BA 10), precentral gyrus (BA 6), postcentral gyrus (BA 5), superior temporal gyrus (STG) (BA 39), PHG (BA 36), insula (BA 13), and cerebellum (Tuber) (<xref ref-type="fig" rid="pone.0215736.g001">Fig 1</xref>, <xref ref-type="table" rid="pone.0215736.t001">Table 1</xref>). The time courses of HDRs in the left (Positive BOLD) and right (Negative BOLD) SMI are shown in <xref ref-type="fig" rid="pone.0215736.g001">Fig 1C</xref>.</p>
+<fig id="pone.0215736.g001" position="float">
+<object-id pub-id-type="doi">10.1371/journal.pone.0215736.g001</object-id>
+<label>Fig 1</label>
+<caption>
+<title/>
+<p>Group activation map showing (A) activated (Positive BOLD) and (B) deactivated (Negative BOLD) brain regions in the RH condition. (C) The mean time course of HDRs in the left (Positive BOLD) and right (Negative BOLD) SMI across all subjects. SMI = primary somatosensory-motor area.</p>
+</caption>
+<graphic mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0215736.g001" xlink:type="simple"/>
+</fig>
+<p>Regions deactivated under the LH condition were observed in the left SMI (BA 3/4), MeFG (BA 6), MFG (BA 9), paracentral lobule (BA 6), and insula (BA 13). Areas deactivated in the right hemisphere were in the SFG (BA 11), MeFG (BA 11), and paracentral lobule (BA 6) (<xref ref-type="fig" rid="pone.0215736.g002">Fig 2</xref>, <xref ref-type="table" rid="pone.0215736.t001">Table 1</xref>). The time courses of HDRs in the right (Positive BOLD) and left (Negative BOLD) SMI are shown in <xref ref-type="fig" rid="pone.0215736.g002">Fig 2C</xref>.</p>
+<fig id="pone.0215736.g002" position="float">
+<object-id pub-id-type="doi">10.1371/journal.pone.0215736.g002</object-id>
+<label>Fig 2</label>
+<caption>
+<title/>
+<p>Group activation map showing (A) activated (Positive BOLD) and (B) deactivated (Negative BOLD) brain regions in the LH condition. (C) The mean time courses of HDRs in the right (Positive BOLD) and left (Negative BOLD) SMI across all subjects.</p>
+</caption>
+<graphic mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0215736.g002" xlink:type="simple"/>
+</fig>
+<p>Negative activities under the RF condition were found in the left hand SMI (BA 3/4), SFG (BA 8), MeFG (BA 10), MFG (BA 11), inferior frontal gyrus (IFG) (BA 47), PHG (BA 36), fusiform gyrus (BA 37), anterior cingulate cortex (ACC) (BA 10, 24, and 32), and cingulate gyrus (CG) (BA 31). In the right hemisphere, deactivated regions were detected in the hand SMI (BA 3/4), SFG (BA 9), MeFG (BA 10), precentral gyrus (BA 6), IFG (BA 13), inferior temporal gyrus (BA 13), middle temporal gyrus (MTG) (BA 21), PHG (BA 36), ACC (BA 32), and CG (BA 31) (<xref ref-type="fig" rid="pone.0215736.g003">Fig 3</xref>, <xref ref-type="table" rid="pone.0215736.t001">Table 1</xref>). The time courses of HDRs in the foot (Positive BOLD) and hand (Negative BOLD) SMI are shown in <xref ref-type="fig" rid="pone.0215736.g003">Fig 3C</xref>.</p>
+<fig id="pone.0215736.g003" position="float">
+<object-id pub-id-type="doi">10.1371/journal.pone.0215736.g003</object-id>
+<label>Fig 3</label>
+<caption>
+<title/>
+<p>Group activation map showing (A) activated (Positive BOLD) and (B) deactivated (Negative BOLD) brain regions in the RF condition. (C) The mean time courses of HDRs in the foot (Positive BOLD) and hand (Negative BOLD) SMI across all subjects.</p>
+</caption>
+<graphic mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0215736.g003" xlink:type="simple"/>
+</fig>
+<p>Negative activities under the LF condition were found in the left hand SMI (BA 3/4), precuneus (BA 7), PHG (BA 36), CG (BA 31), and lentiform nucleus. In the right hemisphere, deactivated regions were detected in the hand SMI (BA 3/4), MFG (BA 9), precentral gyrus (BA 6), precuneus (BA 7), STG (BA 22), MTG (BA 21), sub-gyral (BA 21), and PHG (<xref ref-type="fig" rid="pone.0215736.g004">Fig 4</xref>, <xref ref-type="table" rid="pone.0215736.t001">Table 1</xref>). The time courses of HDRs in the foot (Positive BOLD) and hand (Negative BOLD) SMI are shown in <xref ref-type="fig" rid="pone.0215736.g004">Fig 4C</xref>.</p>
+<fig id="pone.0215736.g004" position="float">
+<object-id pub-id-type="doi">10.1371/journal.pone.0215736.g004</object-id>
+<label>Fig 4</label>
+<caption>
+<title/>
+<p>Group activation map showing (A) activated (Positive BOLD) and (B) deactivated (Negative BOLD) brain regions in the LF condition. (C) The mean time courses of HDRs in the foot (Positive BOLD) and hand (Negative BOLD) SMI across all subjects.</p>
+</caption>
+<graphic mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0215736.g004" xlink:type="simple"/>
+</fig>
+</sec>
+<sec id="sec008">
+<title>Comparison of BOLD strength between conditions in the ROI analysis</title>
+<p>In the ROI analysis, the ANOVA for the strength of the ipsilateral hand SMI of Negative BOLD during the right and left hand conditions revealed no significant main effect of Condition (<xref ref-type="fig" rid="pone.0215736.g005">Fig 5A</xref>). The ANOVA for the hand SMI strength of Negative BOLD during the right and left foot conditions also showed no significant main effect of Condition (<xref ref-type="fig" rid="pone.0215736.g005">Fig 5B</xref>).</p>
+<fig id="pone.0215736.g005" position="float">
+<object-id pub-id-type="doi">10.1371/journal.pone.0215736.g005</object-id>
+<label>Fig 5</label>
+<caption>
+<title/>
+<p>(A) ROI analysis for Negative BOLD responses in the ipsilateral hand SMI among Hand conditions. (B) ROI analysis for Negative BOLD responses in the bilateral hand SMI among Foot conditions.</p>
+</caption>
+<graphic mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0215736.g005" xlink:type="simple"/>
+</fig>
+</sec>
+<sec id="sec009">
+<title>Conjunction analysis</title>
+<p>A conjunction analysis for common regions deactivated under all four (RH, LH, RF, and LF) conditions revealed significant deactivation in the left precuneus (BA 19), SPL (BA 7), cuneus (BA 17), and CG (BA 31), and in the right MeFG (BA 10), SFG (BA 10), precuneus (BA7), postcentral gyrus (BA 7), MTG (BA 39), cuneus (BA 7, 18 and 19), middle occipital gyrus (BA 18 and 19), posterior cingulate (BA 30), and cerebellum (declive) (<xref ref-type="fig" rid="pone.0215736.g006">Fig 6</xref>, <xref ref-type="table" rid="pone.0215736.t002">Table 2</xref>).</p>
+<fig id="pone.0215736.g006" position="float">
+<object-id pub-id-type="doi">10.1371/journal.pone.0215736.g006</object-id>
+<label>Fig 6</label>
+<caption>
+<title>Brain regions commonly deactivated among RH, LH, RF, and LF conditions.</title>
+<p>Using the SPM template, areas showing a decrease in the BOLD signal are superimposed on a 3D-rendered standard brain (upper figures) as well as on the sagittal plane (lower figure). MeFG = medial frontal gyrus; CG = cingulate gyrus.</p>
+</caption>
+<graphic mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0215736.g006" xlink:type="simple"/>
+</fig>
+<table-wrap id="pone.0215736.t002" position="float">
+<object-id pub-id-type="doi">10.1371/journal.pone.0215736.t002</object-id>
+<label>Table 2</label> <caption><title>Deactivated regions for the conjunction analysis during RH, LH, RF, and LF conditions.</title></caption>
+<alternatives>
+<graphic id="pone.0215736.t002g" mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0215736.t002" xlink:type="simple"/>
+<table>
+<colgroup>
+<col align="left" valign="middle"/>
+<col align="left" valign="middle"/>
+<col align="left" valign="middle"/>
+<col align="left" valign="middle"/>
+<col align="left" valign="middle"/>
+<col align="left" valign="middle"/>
+<col align="left" valign="middle"/>
+</colgroup>
+<thead>
+<tr>
+<th align="left"/>
+<th align="center"/>
+<th align="center"/>
+<th align="center" colspan="3">Talairach coordinates</th>
+<th align="center">Z-score</th>
+</tr>
+<tr>
+<th align="center">Region</th>
+<th align="center">Side</th>
+<th align="center">BA</th>
+<th align="center">X</th>
+<th align="center">Y</th>
+<th align="center">Z</th>
+<th align="center"/>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">Frontal Lobe</td>
+<td align="left"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">Superior Frontal Gyrus</td>
+<td align="center">R</td>
+<td align="center">10</td>
+<td align="center">10</td>
+<td align="center">56</td>
+<td align="center">-11</td>
+<td align="center">3.59</td>
+</tr>
+<tr>
+<td align="center">Medial Frontal Gyrus</td>
+<td align="center">R</td>
+<td align="center">10</td>
+<td align="center">10</td>
+<td align="center">56</td>
+<td align="center">1</td>
+<td align="center">4.24</td>
+</tr>
+<tr>
+<td align="left">Parietal Lobe</td>
+<td align="left"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">Precuneus</td>
+<td align="center">L</td>
+<td align="center">19</td>
+<td align="center">-8</td>
+<td align="center">-80</td>
+<td align="center">37</td>
+<td align="center">4.30</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center">R</td>
+<td align="center">7</td>
+<td align="center">6</td>
+<td align="center">-35</td>
+<td align="center">46</td>
+<td align="center">4.13</td>
+</tr>
+<tr>
+<td align="center">Postcentral Gyrus</td>
+<td align="center">R</td>
+<td align="center">7</td>
+<td align="center">8</td>
+<td align="center">-55</td>
+<td align="center">62</td>
+<td align="center">4.22</td>
+</tr>
+<tr>
+<td align="center">Superior Parietal Lobule</td>
+<td align="center">L</td>
+<td align="center">7</td>
+<td align="center">-24</td>
+<td align="center">-60</td>
+<td align="center">47</td>
+<td align="center">3.77</td>
+</tr>
+<tr>
+<td align="left">Temporal Lobe</td>
+<td align="left"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">Middle Temporal Gyrus</td>
+<td align="center">R</td>
+<td align="center">39</td>
+<td align="center">42</td>
+<td align="center">-65</td>
+<td align="center">14</td>
+<td align="center">3.93</td>
+</tr>
+<tr>
+<td align="left">Occipital Lobe</td>
+<td align="left"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">Cuneus</td>
+<td align="center">L</td>
+<td align="center">17</td>
+<td align="center">0</td>
+<td align="center">-79</td>
+<td align="center">11</td>
+<td align="center">3.75</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center">R</td>
+<td align="center">7</td>
+<td align="center">22</td>
+<td align="center">-78</td>
+<td align="center">33</td>
+<td align="center">4.58</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center">R</td>
+<td align="center">18</td>
+<td align="center">18</td>
+<td align="center">-77</td>
+<td align="center">17</td>
+<td align="center">5.23</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center">R</td>
+<td align="center">19</td>
+<td align="center">2</td>
+<td align="center">-80</td>
+<td align="center">32</td>
+<td align="center">4.56</td>
+</tr>
+<tr>
+<td align="center">Middle Occipital Gyrus</td>
+<td align="center">R</td>
+<td align="center">18</td>
+<td align="center">38</td>
+<td align="center">-85</td>
+<td align="center">13</td>
+<td align="center">4.10</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center">R</td>
+<td align="center">19</td>
+<td align="center">24</td>
+<td align="center">-85</td>
+<td align="center">10</td>
+<td align="center">4.44</td>
+</tr>
+<tr>
+<td align="left">Limbic Lobe</td>
+<td align="left"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">Cingulate Gyrus</td>
+<td align="center">L</td>
+<td align="center">31</td>
+<td align="center">-2</td>
+<td align="center">-45</td>
+<td align="center">28</td>
+<td align="center">3.44</td>
+</tr>
+<tr>
+<td align="center">Posterior Cingulate</td>
+<td align="center">R</td>
+<td align="center">30</td>
+<td align="center">14</td>
+<td align="center">-50</td>
+<td align="center">14</td>
+<td align="center">3.47</td>
+</tr>
+<tr>
+<td align="left">Sub-lobar</td>
+<td align="left"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">Cerebellum (Declive)</td>
+<td align="center">R</td>
+<td align="center"/>
+<td align="center">34</td>
+<td align="center">-79</td>
+<td align="center">-20</td>
+<td align="center">3.93</td>
+</tr>
+</tbody>
+</table>
+</alternatives>
+<table-wrap-foot>
+<fn id="t002fn001"><p>BA, Brodmann’s area; L, left hemisphere; R, right hemisphere</p></fn>
+<fn id="t002fn002"><p>Activated regions in the Positive BOLD analysis are listed in <xref ref-type="supplementary-material" rid="pone.0215736.s002">S2 Table</xref>.</p></fn>
+</table-wrap-foot>
+</table-wrap>
+</sec>
+</sec>
+<sec id="sec010" sec-type="conclusions">
+<title>Discussion</title>
+<p>As described in the Introduction section, many studies have demonstrated deactivation in the ipsilateral MI during voluntary hand movements, suggesting transcallosal inhibition from one hemisphere to the other [<xref ref-type="bibr" rid="pone.0215736.ref001">1</xref>–<xref ref-type="bibr" rid="pone.0215736.ref008">8</xref>]. To the best of our knowledge, only one study has reported deactivation in brain regions other than the ipsilateral MI during actively initiated movements [<xref ref-type="bibr" rid="pone.0215736.ref002">2</xref>], and deactivation was observed in the precuneus when subjects performed a right-handed pinch grip. However, since only six right-handed subjects were used in that study, deactivation regions need to be confirmed using a larger number of subjects.</p>
+<p>In the RH and LH conditions of the present study, Negative BOLD responses were detected not only in the ipsilateral SMI, but also in several brain regions, such as the MeFG, MFG, and SFG (Figs <xref ref-type="fig" rid="pone.0215736.g001">1</xref> and <xref ref-type="fig" rid="pone.0215736.g002">2</xref>, and <xref ref-type="table" rid="pone.0215736.t001">Table 1</xref>). These results suggest that Negative BOLD responses occurred during voluntary hand movements in addition to conventional transcallosal inhibition from the contralateral to ipsilateral hemisphere in the SMI. We also found Negative BOLD responses during the RF and LF conditions in the hand areas of the SMI, MeFG, SFG, IFG, MTG, PHG, ACC, CG, fusiform gyrus, and precuneus (Figs <xref ref-type="fig" rid="pone.0215736.g003">3</xref> and <xref ref-type="fig" rid="pone.0215736.g004">4</xref>, and <xref ref-type="table" rid="pone.0215736.t001">Table 1</xref>).</p>
+<p>Negative BOLD responses were previously recorded during tongue movement [<xref ref-type="bibr" rid="pone.0215736.ref040">40</xref>]. Tongue movement generally showed a bilateral pattern of activation in the MI (a Positive BOLD) [<xref ref-type="bibr" rid="pone.0215736.ref041">41</xref>, <xref ref-type="bibr" rid="pone.0215736.ref042">42</xref>]. Sakamoto and colleagues [<xref ref-type="bibr" rid="pone.0215736.ref040">40</xref>] did not detect a Negative BOLD response in cortical motor areas, such as the MI, SMA, premotor area (PM), and cerebellum, whereas this response was present in the paracentral lobule (BA 5), SPL, precuneus, and MTG. Sakamoto’s findings indicated that neural inhibition during voluntary movements occurred in brain regions not necessarily related to transcallosal inhibition mediated between the bilateral MI. On the other hand, as discussed in the Introduction section, Zeharia and colleagues [<xref ref-type="bibr" rid="pone.0215736.ref007">7</xref>] reported a Negative BOLD homunculus in the MI related to tongue, hand, and foot movements. They used a ROI analysis, which located a Negative BOLD homunculus in the MI, but not the SMA. Previous studies [<xref ref-type="bibr" rid="pone.0215736.ref002">2</xref>, <xref ref-type="bibr" rid="pone.0215736.ref040">40</xref>] together with the present results indicate that a neural network of Negative BOLD signals exists during voluntary movements, which involves regions such as the precuneus, SPL, SFG, and MTG. Anatomical data demonstrated that the precuneus has strong reciprocal corticocortical connections with adjacent areas of the SPL, MTG, and prefrontal cortex (BA 8, 9, and 46) [<xref ref-type="bibr" rid="pone.0215736.ref043">43</xref>]. The prefrontal cortex, including the SFG, is also connected with many brain regions, such as the SPL, MTG, and limbic system, but not with primary sensory and motor cortices [<xref ref-type="bibr" rid="pone.0215736.ref044">44</xref>]. Negative BOLD signals in the MeFG and CG are discussed in more detail below.</p>
+<p>We need to consider why bilateral hand SMI were deactivated under the RF and LF conditions (Figs <xref ref-type="fig" rid="pone.0215736.g003">3</xref> and <xref ref-type="fig" rid="pone.0215736.g004">4</xref>). Since no direct anatomical connection was found between hand MI and foot MI [<xref ref-type="bibr" rid="pone.0215736.ref045">45</xref>], the functional hand-foot connection may be elicited by common inputs arising from secondary motor areas, such as the SMA and PM, rather than via horizontal connectivity within the MI [<xref ref-type="bibr" rid="pone.0215736.ref046">46</xref>]. If this is the case, the Negative BOLD responses of bilateral hand SMI during foot movements may be accomplished by inhibitory signals from the SMA and PM to the hand SMI. These signals may be generated together with excitatory signals to the foot SMI. Zeharia and colleagues [<xref ref-type="bibr" rid="pone.0215736.ref007">7</xref>] also suggested that Negative BOLD is related to the neural mechanisms underlying the balance between the suppression and activation of muscles across the body. Moreover, Volz and colleagues [<xref ref-type="bibr" rid="pone.0215736.ref047">47</xref>] used fMRI and dynamic causal modeling to investigate differences in the effective connectivity responsible for isolated movements of the hands or feet. This group showed that bilateral hand MI were inhibited during right or left foot movements. We assumed that the inhibition of bilateral hand SMI during unilateral foot movement was associated with adjusting body coordination in order to perform a specific, non-routine movement in the correct manner. This unilateral foot movement is in contrast to the more elementary, usual bi-pedal lower limb movements of our daily life and sport activities, such as walking, stepping, and running. It is interesting to note that some neuroimaging studies demonstrated that unilateral foot movement was generated with bilateral MI activity rather than with simple contralateral MI activity [<xref ref-type="bibr" rid="pone.0215736.ref047">47</xref>, <xref ref-type="bibr" rid="pone.0215736.ref048">48</xref>]. Thus, unilateral plantar flexion and dorsiflexion in this study may be regarded as specific, non-routine movements for subjects. Specific brain activity may be required to perform the required movements correctly. To test this hypothesis, further studies are needed that utilize Positive and Negative BOLD signals to compare unilateral and bilateral lower limb movements.</p>
+<p>In addition, Negative BOLD responses in the ipsilateral hand SMI did not significantly differ between the RH and LH conditions (<xref ref-type="fig" rid="pone.0215736.g005">Fig 5A</xref>), and Negative BOLD responses in the bilateral hand SMI also did not differ significantly between the RF and LF conditions (<xref ref-type="fig" rid="pone.0215736.g005">Fig 5B</xref>). These results suggest that the strength of the Negative BOLD response in the ipsilateral hand SMI during the hand condition and in the bilateral hand SMI during the foot condition may not be related to the laterality of handedness, irrespective of the right-handedness of all subjects. A number of studies using Positive BOLD responses noted that the recruitment of MI neurons during ipsilateral movement was more common in the left hemisphere (the left MI) than in the right hemisphere (the right MI) in right-handed subjects [<xref ref-type="bibr" rid="pone.0215736.ref005">5</xref>, <xref ref-type="bibr" rid="pone.0215736.ref049">49</xref>, <xref ref-type="bibr" rid="pone.0215736.ref050">50</xref>]. This finding indicates that asymmetric neural activity is involved in motor execution. To the best of our knowledge, differences between right and left hand or foot movement for Negative BOLD responses have not yet been examined in the whole brain. These results of this study indicate that there is no dominance in Negative BOLD responses in the ipsilateral hand SMI.</p>
+<p>The conjunction analysis conducted in the present study demonstrated that a common Negative BOLD response occurred in the MeFG, CG, posterior cingulate, SPL, MTG, postcentral gyrus, precuneus, middle occipital gyrus, and cerebellum under all four conditions (RH, LH, RF, and LF) (<xref ref-type="fig" rid="pone.0215736.g006">Fig 6</xref>, and <xref ref-type="table" rid="pone.0215736.t002">Table 2</xref>). It currently remains unclear why deactivation occur in these regions during voluntary movements of all body parts tested (right/left hand and right/left foot). Our hypothesis is that it occurred in ‘the context of a default mode network’. The default mode network has been identified in task-induced deactivation or in the brain activity associated with a passive fixation baseline condition relative to specific attention-demanding tasks [<xref ref-type="bibr" rid="pone.0215736.ref016">16</xref>, <xref ref-type="bibr" rid="pone.0215736.ref051">51</xref>]. This network involves the MeFG (BA 9, 10, 24, and 32), medial and lateral parietal areas (BA 39 and 40), and posterior CG (BA 23, 29, 30, and 31) [<xref ref-type="bibr" rid="pone.0215736.ref017">17</xref>, <xref ref-type="bibr" rid="pone.0215736.ref018">18</xref>, <xref ref-type="bibr" rid="pone.0215736.ref052">52</xref>]. The crucial difference between previous studies investigating the default mode network and the present study is the task condition. Previous studies investigated neural activity during cognitive processing such as mind-wandering [<xref ref-type="bibr" rid="pone.0215736.ref053">53</xref>] and autobiographical remembering [<xref ref-type="bibr" rid="pone.0215736.ref054">54</xref>]. The present study did not use these cognitive tasks. However, the default mode network may be active not only during relatively unfocused cognitive tasks, but also during voluntary movements of the hands and feet.</p>
+<p>Another possible explanation for the Negative BOLD responses observed in the present study involves the blood steal phenomenon. However, this explanation is not applicable to the present study because the regions that showed Negative and Positive BOLD responses were not adjacent (Figs <xref ref-type="fig" rid="pone.0215736.g001">1</xref>–<xref ref-type="fig" rid="pone.0215736.g004">4</xref>). In future studies, diffusion tensor imaging may be useful for clarifying the neuropathology related to Negative and Positive BOLD responses in more detail.</p>
+<p>A limitation of the present study was that the frequency of motor execution did not match between the hand and foot conditions (<xref ref-type="supplementary-material" rid="pone.0215736.s001">S1 Table</xref>). This occurred even though subjects were told to use a similar pace under all the conditions tested. We did not use a metronome during recording because other cognitive neural activities, such as auditory processing and audio-motor matching activity, may be included in Negative and Positive BOLD signals. We speculated that the motor execution of repetitive plantar flexion and dorsiflexion with the right or left ankle may be more difficult to perform than that of repetitive extension and flexion of the right or left hand. Positive BOLD signals in the SMI were enhanced as the frequency of motor execution increased [<xref ref-type="bibr" rid="pone.0215736.ref005">5</xref>, <xref ref-type="bibr" rid="pone.0215736.ref055">55</xref>]. In Sadato’s study [<xref ref-type="bibr" rid="pone.0215736.ref055">55</xref>], movements of the right index finger were paced with the steady beat (0.25, 0.5, 0.75, 1, 2, 2.5, 3, and 4 Hz) of a metronome, which was placed close to the subject’s ear. They classified these paces into four categories: very slow (0.25 and 0.5 Hz), slow (0.75 and 1 Hz), fast (2 and 2.5 Hz), and very fast (3 and 4 Hz). They then compared the magnitude of brain activity for the different rates. The magnitude in the SMI was almost the same between 0.75 and 1 Hz at the slow rate. In the present study, the mean values of frequencies across all subjects were 1.33 Hz in the RH condition, 1.33 Hz in the LH condition, 1.16 Hz in the RF condition, and 1.14 Hz in the LF condition. The difference between the right hand and foot was approximately 0.17 Hz, and approximately 0.19 Hz between the left hand and foot. Therefore, although the difference in frequency was significant, the effects of frequency on Negative BOLD signals between the hand and foot conditions appeared to be negligible.</p>
+<p>In addition, no Negative BOLD responses under the LH condition were detected using the FWE with a cluster-level threshold of p &lt; 0.05, whereas those for SMI under the RH, RF, and LF conditions were found (<xref ref-type="table" rid="pone.0215736.t001">Table 1</xref>). These findings suggest differences in the strength of Negative BOLD responses among conditions. The detailed mechanisms should be clarified in future studies.</p>
+</sec>
+<sec id="sec011" sec-type="conclusions">
+<title>Conclusion</title>
+<p>Negative BOLD responses during hand movements were observed not only in the ipsilateral hemisphere of SMI, but also in other brain regions, such as the MeFG, MFG, and SFG. Furthermore, Negative BOLD responses during foot movement were detected in the bilateral hand SMI as well as in the MeFG, SFG, IFG, MTG, PHG, ACC, CG, fusiform gyrus, and precuneus. There were also two common deactivated regions, the MeFG and CG, which were independent of the movements of the upper and lower limbs. These regions closely corresponded to the default mode network, which was previously reported.</p>
+<p>We suggest that the Negative BOLD responses observed during voluntary movements are produced by three mechanisms: (1) transcallosal inhibition from the contralateral to ipsilateral hemisphere in the SMI, (2) the deactivated neural network with several brain regions, and (3) the default mode network in the MeFG and CG. The present results extend the potential of utilizing Negative and Positive BOLD signal comparisons to obtain a better understanding of the motor control system.</p>
+</sec>
+<sec id="sec012">
+<title>Supporting information</title>
+<supplementary-material id="pone.0215736.s001" mimetype="application/vnd.openxmlformats-officedocument.wordprocessingml.document" position="float" xlink:href="info:doi/10.1371/journal.pone.0215736.s001" xlink:type="simple">
+<label>S1 Table</label>
+<caption>
+<title>The number of hand and foot movements for each subject under each condition.</title>
+<p>(DOCX)</p>
+</caption>
+</supplementary-material>
+<supplementary-material id="pone.0215736.s002" mimetype="application/vnd.openxmlformats-officedocument.wordprocessingml.document" position="float" xlink:href="info:doi/10.1371/journal.pone.0215736.s002" xlink:type="simple">
+<label>S2 Table</label>
+<caption>
+<title>Activation regions under each condition.</title>
+<p>(DOCX)</p>
+</caption>
+</supplementary-material>
+</sec>
+</body>
+<back>
+<ref-list>
+<title>References</title>
+<ref id="pone.0215736.ref001"><label>1</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Allison</surname> <given-names>JD</given-names></name>, <name name-style="western"><surname>Meador</surname> <given-names>KJ</given-names></name>, <name name-style="western"><surname>Loring</surname> <given-names>DW</given-names></name>, <name name-style="western"><surname>Figueroa</surname> <given-names>RE</given-names></name>, <name name-style="western"><surname>Wright</surname> <given-names>JC</given-names></name>. <article-title>Functional MRI cerebral activation and deactivation during finger movement</article-title>. <source>Neurology</source>. <year>2000</year>; <volume>54</volume>: <fpage>135</fpage>–<lpage>142</lpage>. <object-id pub-id-type="pmid">10636139</object-id></mixed-citation></ref>
+<ref id="pone.0215736.ref002"><label>2</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Hamzei</surname> <given-names>F</given-names></name>, <name name-style="western"><surname>Dettmers</surname> <given-names>FC</given-names></name>, <name name-style="western"><surname>Rzanny</surname> <given-names>R</given-names></name>, <name name-style="western"><surname>Liepert</surname> <given-names>J</given-names></name>, <name name-style="western"><surname>Büchel</surname> <given-names>C</given-names></name>, <name name-style="western"><surname>Weiller</surname> <given-names>C</given-names></name>. <article-title>Reduction of excitability ("inhibition") in the ipsilateral primary motor cortex is mirrored by fMRI signal decreases</article-title>. <source>NeuroImage</source>. <year>2002</year>; <volume>17</volume>: <fpage>490</fpage>–<lpage>496</lpage>. <object-id pub-id-type="pmid">12482101</object-id></mixed-citation></ref>
+<ref id="pone.0215736.ref003"><label>3</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Stefanovic</surname> <given-names>B</given-names></name>, <name name-style="western"><surname>Warnking</surname> <given-names>JM</given-names></name>, <name name-style="western"><surname>Pike</surname> <given-names>GB</given-names></name>. <article-title>Hemodynamic and metabolic responses to neuronal inhibition</article-title>. <source>NeuroImage</source>. <year>2004</year>; <volume>22</volume>: <fpage>771</fpage>–<lpage>778</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.neuroimage.2004.01.036" xlink:type="simple">10.1016/j.neuroimage.2004.01.036</ext-link></comment> <object-id pub-id-type="pmid">15193606</object-id></mixed-citation></ref>
+<ref id="pone.0215736.ref004"><label>4</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Newton</surname> <given-names>JM</given-names></name>, <name name-style="western"><surname>Sunderland</surname> <given-names>A</given-names></name>, <name name-style="western"><surname>Gowland</surname> <given-names>PA</given-names></name>. <article-title>fMRI signal decreases in ipsilateral primary motor cortex during unilateral hand movements are related to duration and side of movement</article-title>. <source>NeuroImage</source>. <year>2005</year>; <volume>24</volume>: <fpage>1080</fpage>–<lpage>1087</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.neuroimage.2004.10.003" xlink:type="simple">10.1016/j.neuroimage.2004.10.003</ext-link></comment> <object-id pub-id-type="pmid">15670685</object-id></mixed-citation></ref>
+<ref id="pone.0215736.ref005"><label>5</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Hayashi</surname> <given-names>MJ</given-names></name>, <name name-style="western"><surname>Saito</surname> <given-names>DN</given-names></name>, <name name-style="western"><surname>Aramaki</surname> <given-names>Y</given-names></name>, <name name-style="western"><surname>Asai</surname> <given-names>T</given-names></name>, <name name-style="western"><surname>Fujibayashi</surname> <given-names>Y</given-names></name>, <name name-style="western"><surname>Sadato</surname> <given-names>N</given-names></name>. <article-title>Hemispheric asymmetry of frequency-dependent suppression in the ipsilateral primary motor cortex during finger movement: a functional magnetic resonance imaging study</article-title>. <source>Cereb Cortex</source>. <year>2008</year>; <volume>18</volume>: <fpage>2932</fpage>–<lpage>2940</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1093/cercor/bhn053" xlink:type="simple">10.1093/cercor/bhn053</ext-link></comment> <object-id pub-id-type="pmid">18413350</object-id></mixed-citation></ref>
+<ref id="pone.0215736.ref006"><label>6</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Yuan</surname> <given-names>H</given-names></name>, <name name-style="western"><surname>Perdoni</surname> <given-names>C</given-names></name>, <name name-style="western"><surname>Yang</surname> <given-names>L</given-names></name>, <name name-style="western"><surname>He</surname> <given-names>B</given-names></name>. <article-title>Differential electrophysiological coupling for positive and negative BOLD responses during unilateral hand movements</article-title>. <source>J Neurosci</source>. <year>2011</year>; <volume>31</volume>: <fpage>9585</fpage>–<lpage>9593</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1523/JNEUROSCI.5312-10.2011" xlink:type="simple">10.1523/JNEUROSCI.5312-10.2011</ext-link></comment> <object-id pub-id-type="pmid">21715623</object-id></mixed-citation></ref>
+<ref id="pone.0215736.ref007"><label>7</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Zeharia</surname> <given-names>N</given-names></name>, <name name-style="western"><surname>Hertz</surname> <given-names>U</given-names></name>, <name name-style="western"><surname>Flash</surname> <given-names>T</given-names></name>, <name name-style="western"><surname>Amedi</surname> <given-names>A</given-names></name>. <article-title>Negative blood oxygenation level dependent homunculus and somatotopic information in primary motor cortex and supplementary motor area</article-title>. <source>Proc Natl Acad Sci USA</source>. <year>2012</year>; <volume>109</volume>: <fpage>18565</fpage>–<lpage>18570</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1073/pnas.1119125109" xlink:type="simple">10.1073/pnas.1119125109</ext-link></comment> <object-id pub-id-type="pmid">23086164</object-id></mixed-citation></ref>
+<ref id="pone.0215736.ref008"><label>8</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Tzourio-Mazoyer</surname> <given-names>N</given-names></name>, <name name-style="western"><surname>Petit</surname> <given-names>L</given-names></name>, <name name-style="western"><surname>Zago</surname> <given-names>L</given-names></name>, <name name-style="western"><surname>Crivello</surname> <given-names>F</given-names></name>, <name name-style="western"><surname>Vinuesa</surname> <given-names>N</given-names></name>, <name name-style="western"><surname>Joliot</surname> <given-names>M</given-names></name>, <etal>et al</etal>. <article-title>Between-hand difference in ipsilateral deactivation is associated with hand lateralization: fMRI mapping of 284 volunteers balanced for handedness</article-title>. <source>Front Hum Neurosci</source>. <year>2015</year>; <volume>9</volume>: <fpage>5</fpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.3389/fnhum.2015.00005" xlink:type="simple">10.3389/fnhum.2015.00005</ext-link></comment> <object-id pub-id-type="pmid">25705184</object-id></mixed-citation></ref>
+<ref id="pone.0215736.ref009"><label>9</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Kawashima</surname> <given-names>R</given-names></name>, <name name-style="western"><surname>O’Sullivan</surname> <given-names>BT</given-names></name>, <name name-style="western"><surname>Roland</surname> <given-names>PE</given-names></name>. <article-title>Positron-emission tomography studies of cross-modality inhibition in selective attentional tasks: closing the "mind's eye"</article-title>. <source>Proc Natil Acad Sci USA</source> <year>1995</year>; <volume>92</volume>: <fpage>5969</fpage>–<lpage>5972</lpage>.</mixed-citation></ref>
+<ref id="pone.0215736.ref010"><label>10</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Sadato</surname> <given-names>N</given-names></name>, <name name-style="western"><surname>Pascual-Leone</surname> <given-names>A</given-names></name>, <name name-style="western"><surname>Grafman</surname> <given-names>J</given-names></name>, <name name-style="western"><surname>Ibañez</surname> <given-names>V</given-names></name>, <name name-style="western"><surname>Deiber</surname> <given-names>MP</given-names></name>, <name name-style="western"><surname>Dold</surname> <given-names>G</given-names></name>, <etal>et al</etal>. <article-title>Activation of the primary visual cortex by Braille reading in blind subjects</article-title>. <source>Nature</source>. <year>1996</year>; <volume>380</volume>: <fpage>526</fpage>–<lpage>528</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1038/380526a0" xlink:type="simple">10.1038/380526a0</ext-link></comment> <object-id pub-id-type="pmid">8606771</object-id></mixed-citation></ref>
+<ref id="pone.0215736.ref011"><label>11</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Sadato</surname> <given-names>N</given-names></name>, <name name-style="western"><surname>Pascual-Leone</surname> <given-names>A</given-names></name>, <name name-style="western"><surname>Grafman</surname> <given-names>J</given-names></name>, <name name-style="western"><surname>Deiber</surname> <given-names>MP</given-names></name>, <name name-style="western"><surname>Ibañez</surname> <given-names>V</given-names></name>, <name name-style="western"><surname>Hallett</surname> <given-names>M</given-names></name>. <article-title>Neural networks for Braille reading by the blind</article-title>. <source>Brain</source>. <year>1998</year>; <volume>121</volume>: <fpage>1213</fpage>–<lpage>1229</lpage>. <object-id pub-id-type="pmid">9679774</object-id></mixed-citation></ref>
+<ref id="pone.0215736.ref012"><label>12</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Nakashita</surname> <given-names>S</given-names></name>, <name name-style="western"><surname>Saito</surname> <given-names>DN</given-names></name>, <name name-style="western"><surname>Kochiyama</surname> <given-names>T</given-names></name>, <name name-style="western"><surname>Honda</surname> <given-names>M</given-names></name>, <name name-style="western"><surname>Tanabe</surname> <given-names>HC</given-names></name>, <name name-style="western"><surname>Sadato</surname> <given-names>N</given-names></name>. <article-title>Tactile-visual integration in the posterior parietal cortex: a functional magnetic resonance imaging study</article-title>. <source>Brain Res Bull</source>. <year>2008</year>; <volume>75</volume>: <fpage>513</fpage>–<lpage>525</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.brainresbull.2007.09.004" xlink:type="simple">10.1016/j.brainresbull.2007.09.004</ext-link></comment> <object-id pub-id-type="pmid">18355627</object-id></mixed-citation></ref>
+<ref id="pone.0215736.ref013"><label>13</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Harel</surname> <given-names>N</given-names></name>, <name name-style="western"><surname>Lee</surname> <given-names>SP</given-names></name>, <name name-style="western"><surname>Nagaoka</surname> <given-names>T</given-names></name>, <name name-style="western"><surname>Kim</surname> <given-names>DS</given-names></name>, <name name-style="western"><surname>Kim</surname> <given-names>SG</given-names></name>. <article-title>Origin of negative blood oxygenation level-dependent fMRI signals</article-title>. <source>J Cereb Blood Flow Metab</source>. <year>2002</year>; <volume>22</volume>: <fpage>908</fpage>–<lpage>917</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1097/00004647-200208000-00002" xlink:type="simple">10.1097/00004647-200208000-00002</ext-link></comment> <object-id pub-id-type="pmid">12172376</object-id></mixed-citation></ref>
+<ref id="pone.0215736.ref014"><label>14</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Shmuel</surname> <given-names>A</given-names></name>, <name name-style="western"><surname>Yacoub</surname> <given-names>E</given-names></name>, <name name-style="western"><surname>Pfeuffer</surname> <given-names>J</given-names></name>, <name name-style="western"><surname>Van de Moortele</surname> <given-names>PF</given-names></name>, <name name-style="western"><surname>Adriany</surname> <given-names>G</given-names></name>, <name name-style="western"><surname>Hu</surname> <given-names>X</given-names></name>, <etal>et al</etal>. <article-title>Sustained negative BOLD, blood flow and oxygen consumption response and its coupling to the positive response in the human brain</article-title>. <source>Neuron</source>. <year>2002</year>; <volume>36</volume>: <fpage>1195</fpage>–<lpage>1210</lpage>. <object-id pub-id-type="pmid">12495632</object-id></mixed-citation></ref>
+<ref id="pone.0215736.ref015"><label>15</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Liu</surname> <given-names>Y</given-names></name>, <name name-style="western"><surname>Shen</surname> <given-names>H</given-names></name>, <name name-style="western"><surname>Zhou</surname> <given-names>Z</given-names></name>, <name name-style="western"><surname>Hu</surname> <given-names>D</given-names></name>. <article-title>Sustained negative BOLD response in human fMRI finger tapping task</article-title>. <source>PLoS One</source>. <year>2011</year>; <volume>6</volume>: <fpage>e23839</fpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1371/journal.pone.0023839" xlink:type="simple">10.1371/journal.pone.0023839</ext-link></comment> <object-id pub-id-type="pmid">21887329</object-id></mixed-citation></ref>
+<ref id="pone.0215736.ref016"><label>16</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Gusnard</surname> <given-names>DA</given-names></name>, <name name-style="western"><surname>Raichle</surname> <given-names>ME</given-names></name>. <article-title>Searching for a baseline: functional imaging and the resting human brain</article-title>. <source>Nat Rev Neurosci</source>. <year>2001</year>; <volume>2</volume>: <fpage>685</fpage>–<lpage>694</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1038/35094500" xlink:type="simple">10.1038/35094500</ext-link></comment> <object-id pub-id-type="pmid">11584306</object-id></mixed-citation></ref>
+<ref id="pone.0215736.ref017"><label>17</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Fox</surname> <given-names>MD</given-names></name>, <name name-style="western"><surname>Snyder</surname> <given-names>AZ</given-names></name>, <name name-style="western"><surname>Vincent</surname> <given-names>JL</given-names></name>, <name name-style="western"><surname>Corbetta</surname> <given-names>M</given-names></name>, <name name-style="western"><surname>Van Essen</surname> <given-names>DC</given-names></name>, <name name-style="western"><surname>Raichle</surname> <given-names>ME</given-names></name>. <article-title>The human brain is intrinsically organized into dynamic, anticorrelated functional networks</article-title>. <source>Proc Natl Acad Sci USA</source>. <year>2005</year>; <volume>102</volume>: <fpage>9673</fpage>–<lpage>9678</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1073/pnas.0504136102" xlink:type="simple">10.1073/pnas.0504136102</ext-link></comment> <object-id pub-id-type="pmid">15976020</object-id></mixed-citation></ref>
+<ref id="pone.0215736.ref018"><label>18</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Buckner</surname> <given-names>RL</given-names></name>, <name name-style="western"><surname>Andrews-Hanna</surname> <given-names>JR</given-names></name>, <name name-style="western"><surname>Schacter</surname> <given-names>DL</given-names></name>. <article-title>The brain's default network</article-title>. <source>Ann NY Acad Sci</source>. <year>2008</year>; <volume>1124</volume>: <fpage>1</fpage>–<lpage>38</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1196/annals.1440.011" xlink:type="simple">10.1196/annals.1440.011</ext-link></comment> <object-id pub-id-type="pmid">18400922</object-id></mixed-citation></ref>
+<ref id="pone.0215736.ref019"><label>19</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Shmuel</surname> <given-names>A</given-names></name>, <name name-style="western"><surname>Augath</surname> <given-names>M</given-names></name>, <name name-style="western"><surname>Oeltermann</surname> <given-names>A</given-names></name>, <name name-style="western"><surname>Logothetis</surname> <given-names>NK</given-names></name>. <article-title>Negative functional MRI response correlates with decreases in neuronal activity in monkey visual area V1</article-title>. <source>Nat Neurosci</source>. <year>2006</year>; <volume>9</volume>: <fpage>569</fpage>–<lpage>577</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1038/nn1675" xlink:type="simple">10.1038/nn1675</ext-link></comment> <object-id pub-id-type="pmid">16547508</object-id></mixed-citation></ref>
+<ref id="pone.0215736.ref020"><label>20</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Devor</surname> <given-names>A</given-names></name>, <name name-style="western"><surname>Tian</surname> <given-names>P</given-names></name>, <name name-style="western"><surname>Nishimura</surname> <given-names>N</given-names></name>, <name name-style="western"><surname>Teng</surname> <given-names>IC</given-names></name>, <name name-style="western"><surname>Hillman</surname> <given-names>EM</given-names></name>, <name name-style="western"><surname>Narayanan</surname> <given-names>SN</given-names></name>, <etal>et al</etal>. <article-title>Suppressed neuronal activity and concurrent arteriolar vasoconstriction may explain negative blood oxygenation level-dependent signal</article-title>. <source>J Neurosci</source>. <year>2007</year>; <volume>27</volume>: <fpage>4452</fpage>–<lpage>4459</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1523/JNEUROSCI.0134-07.2007" xlink:type="simple">10.1523/JNEUROSCI.0134-07.2007</ext-link></comment> <object-id pub-id-type="pmid">17442830</object-id></mixed-citation></ref>
+<ref id="pone.0215736.ref021"><label>21</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Boorman</surname> <given-names>L</given-names></name>, <name name-style="western"><surname>Kennerley</surname> <given-names>AJ</given-names></name>, <name name-style="western"><surname>Johnston</surname> <given-names>D</given-names></name>, <name name-style="western"><surname>Jones</surname> <given-names>M</given-names></name>, <name name-style="western"><surname>Zheng</surname> <given-names>Y</given-names></name>, <name name-style="western"><surname>Redgrave</surname> <given-names>P</given-names></name>, <etal>et al</etal>. <article-title>Negative blood oxygen level dependence in the rat: a model for investigating the role of suppression in neurovascular coupling</article-title>. <source>J Neurosci</source>. <year>2010</year>; <volume>30</volume>: <fpage>4285</fpage>–<lpage>4294</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1523/JNEUROSCI.6063-09.2010" xlink:type="simple">10.1523/JNEUROSCI.6063-09.2010</ext-link></comment> <object-id pub-id-type="pmid">20335464</object-id></mixed-citation></ref>
+<ref id="pone.0215736.ref022"><label>22</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Maggioni</surname> <given-names>E</given-names></name>, <name name-style="western"><surname>Zucca</surname> <given-names>C</given-names></name>, <name name-style="western"><surname>Reni</surname> <given-names>G</given-names></name>, <name name-style="western"><surname>Cerutti</surname> <given-names>S</given-names></name>, <name name-style="western"><surname>Triulzi</surname> <given-names>FM</given-names></name>, <name name-style="western"><surname>Bianchi</surname> <given-names>AM</given-names></name>, <etal>et al</etal>. <article-title>Investigation of the electrophysiological correlates of negative BOLD response during intermittent photic stimulation: An EEG-fMRI study</article-title>. <source>Hum Brain Mapp</source>. <year>2016</year>; <volume>37</volume>: <fpage>2247</fpage>–<lpage>2262</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1002/hbm.23170" xlink:type="simple">10.1002/hbm.23170</ext-link></comment> <object-id pub-id-type="pmid">26987932</object-id></mixed-citation></ref>
+<ref id="pone.0215736.ref023"><label>23</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Ehrsson</surname> <given-names>HH</given-names></name>, <name name-style="western"><surname>Naito</surname> <given-names>E</given-names></name>, <name name-style="western"><surname>Geyer</surname> <given-names>S</given-names></name>, <name name-style="western"><surname>Amunts</surname> <given-names>K</given-names></name>, <name name-style="western"><surname>Zilles</surname> <given-names>K</given-names></name>, <name name-style="western"><surname>Forssberg</surname> <given-names>H</given-names></name>, <etal>et al</etal>. <article-title>Simultaneous movements of upper and lower limbs are coordinated by motor representations that are shared by both limbs: a PET study</article-title>. <source>Eur J Neurosci</source>. <year>2000</year>; <volume>12</volume>: <fpage>3385</fpage>–<lpage>98</lpage>. <object-id pub-id-type="pmid">10998121</object-id></mixed-citation></ref>
+<ref id="pone.0215736.ref024"><label>24</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Ehrsson</surname> <given-names>HH</given-names></name>, <name name-style="western"><surname>Geyer</surname> <given-names>S</given-names></name>, <name name-style="western"><surname>Naito</surname> <given-names>E</given-names></name>. <article-title>Imagery of voluntary movement of fingers, toes, and tongue activates corresponding body-part-specific motor representations</article-title>. <source>J Neurophysiol</source>. <year>2003</year>; <volume>90</volume>: <fpage>3304</fpage>–<lpage>3316</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1152/jn.01113.2002" xlink:type="simple">10.1152/jn.01113.2002</ext-link></comment> <object-id pub-id-type="pmid">14615433</object-id></mixed-citation></ref>
+<ref id="pone.0215736.ref025"><label>25</label><mixed-citation publication-type="book" xlink:type="simple"><name name-style="western"><surname>Jones</surname> <given-names>EG</given-names></name>. <chapter-title>Connectivity of the primate sensory-motor cortex</chapter-title>. In: <name name-style="western"><surname>Jones</surname> <given-names>EG</given-names></name>, <name name-style="western"><surname>Peters</surname> <given-names>A</given-names></name>, editors. <source>Cerebral Cortex</source>, Vol <volume>5</volume>. <publisher-loc>New York</publisher-loc>: <publisher-name>Plenum Press</publisher-name>; <year>1986</year>; p. <fpage>113</fpage>–<lpage>183</lpage>.</mixed-citation></ref>
+<ref id="pone.0215736.ref026"><label>26</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Benwell</surname> <given-names>NM</given-names></name>, <name name-style="western"><surname>Mastaglia</surname> <given-names>FL</given-names></name>, <name name-style="western"><surname>Thickbroom</surname> <given-names>GW</given-names></name>. <article-title>Changes in the functional MR signal in motor and non-motor areas during intermittent fatiguing hand exercise</article-title>. <source>Exp Brain Res</source>. <year>2007</year>; <volume>182</volume>: <fpage>93</fpage>–<lpage>97</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1007/s00221-007-0973-5" xlink:type="simple">10.1007/s00221-007-0973-5</ext-link></comment> <object-id pub-id-type="pmid">17549462</object-id></mixed-citation></ref>
+<ref id="pone.0215736.ref027"><label>27</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Lee</surname> <given-names>MY</given-names></name>, <name name-style="western"><surname>Chang</surname> <given-names>PH</given-names></name>, <name name-style="western"><surname>Kwon</surname> <given-names>YH</given-names></name>, <name name-style="western"><surname>Jang</surname> <given-names>SH</given-names></name>. <article-title>Differences of the frontal activation patterns by finger and toe movements: a functional MRI study</article-title>. <source>Neurosci Lett</source>. <year>2013</year>; <volume>533</volume>: <fpage>7</fpage>–<lpage>10</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.neulet.2012.11.041" xlink:type="simple">10.1016/j.neulet.2012.11.041</ext-link></comment> <object-id pub-id-type="pmid">23206749</object-id></mixed-citation></ref>
+<ref id="pone.0215736.ref028"><label>28</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Oldfield</surname> <given-names>RC</given-names></name>. <article-title>The assessment and analysis of handedness: the Edinburgh inventory</article-title>. <source>Neuropsychologia</source>. <year>1971</year>; <volume>9</volume>: <fpage>97</fpage>–<lpage>113</lpage>. <object-id pub-id-type="pmid">5146491</object-id></mixed-citation></ref>
+<ref id="pone.0215736.ref029"><label>29</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Kitada</surname> <given-names>R</given-names></name>, <name name-style="western"><surname>Sasaki</surname> <given-names>AT</given-names></name>, <name name-style="western"><surname>Okamoto</surname> <given-names>Y</given-names></name>, <name name-style="western"><surname>Kochiyama</surname> <given-names>T</given-names></name>, <name name-style="western"><surname>Sadato</surname> <given-names>N</given-names></name>. <article-title>Role of the precuneus in the detection of incongruency between tactile and visual texture information: A functional MRI study</article-title>. <source>Neuropsychologia</source>. <year>2014</year>; <volume>64</volume>: <fpage>252</fpage>–<lpage>262</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.neuropsychologia.2014.09.028" xlink:type="simple">10.1016/j.neuropsychologia.2014.09.028</ext-link></comment> <object-id pub-id-type="pmid">25281887</object-id></mixed-citation></ref>
+<ref id="pone.0215736.ref030"><label>30</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Tosoni</surname> <given-names>A</given-names></name>, <name name-style="western"><surname>Corbetta</surname> <given-names>M</given-names></name>, <name name-style="western"><surname>Calluso</surname> <given-names>C</given-names></name>, <name name-style="western"><surname>Committeri</surname> <given-names>G</given-names></name>, <name name-style="western"><surname>Pezzulo</surname> <given-names>G</given-names></name>, <name name-style="western"><surname>Romani</surname> <given-names>GL</given-names></name>, <etal>et al</etal>. <article-title>Decision and action planning signals in human posterior parietal cortex during delayed perceptual choices</article-title>. <source>Eur J Neurosci</source>. <year>2014</year>; <volume>39</volume>: <fpage>1370</fpage>–<lpage>1383</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/ejn.12511" xlink:type="simple">10.1111/ejn.12511</ext-link></comment> <object-id pub-id-type="pmid">24612482</object-id></mixed-citation></ref>
+<ref id="pone.0215736.ref031"><label>31</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Friston</surname> <given-names>KJ</given-names></name>, <name name-style="western"><surname>Holmes</surname> <given-names>AP</given-names></name>, <name name-style="western"><surname>Worsley</surname> <given-names>KJ</given-names></name>, <name name-style="western"><surname>Poline</surname> <given-names>J-P</given-names></name>, <name name-style="western"><surname>Frith</surname> <given-names>CD</given-names></name>, <name name-style="western"><surname>Frackowiak</surname> <given-names>RSJ</given-names></name>. <article-title>Spatial parametric maps in functional imaging: a general linear approach</article-title>. <source>Hum Brain Mapp</source>. <year>1995</year>; <volume>2</volume>: <fpage>189</fpage>–<lpage>210</lpage>.</mixed-citation></ref>
+<ref id="pone.0215736.ref032"><label>32</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Aizawa</surname> <given-names>Y</given-names></name>, <name name-style="western"><surname>Harada</surname> <given-names>T</given-names></name>, <name name-style="western"><surname>Nakata</surname> <given-names>H</given-names></name>, <name name-style="western"><surname>Tsunakawa</surname> <given-names>M</given-names></name>, <name name-style="western"><surname>Sadato</surname> <given-names>N</given-names></name>, <name name-style="western"><surname>Nagashima</surname> <given-names>K</given-names></name>. <article-title>Assessment of brain mechanisms involved in the processes of thermal sensation, pleasantness/unpleasantness, and evaluation</article-title>. <source>IBRO Rep</source>. <year>2019</year>; <volume>6</volume>: <fpage>54</fpage>–<lpage>63</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.ibror.2019.01.003" xlink:type="simple">10.1016/j.ibror.2019.01.003</ext-link></comment> <object-id pub-id-type="pmid">30656240</object-id></mixed-citation></ref>
+<ref id="pone.0215736.ref033"><label>33</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Friston</surname> <given-names>KJ</given-names></name>, <name name-style="western"><surname>Holmes</surname> <given-names>AP</given-names></name>, <name name-style="western"><surname>Worsley</surname> <given-names>KJ</given-names></name>. <article-title>How many subjects constitute a study?</article-title> <source>NeuroImage</source>. <year>1999</year>; <volume>10</volume>: <fpage>1</fpage>–<lpage>5</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1006/nimg.1999.0439" xlink:type="simple">10.1006/nimg.1999.0439</ext-link></comment> <object-id pub-id-type="pmid">10385576</object-id></mixed-citation></ref>
+<ref id="pone.0215736.ref034"><label>34</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Lancaster</surname> <given-names>JL</given-names></name>, <name name-style="western"><surname>Woldorff</surname> <given-names>MG</given-names></name>, <name name-style="western"><surname>Parsons</surname> <given-names>LM</given-names></name>, <name name-style="western"><surname>Liotti</surname> <given-names>M</given-names></name>, <name name-style="western"><surname>Freitas</surname> <given-names>CS</given-names></name>, <name name-style="western"><surname>Rainey</surname> <given-names>L</given-names></name>, <etal>et al</etal>. <article-title>Automated Talairach Atlas labels for functional brain mapping</article-title>. <source>Hum Brain Mapp</source>. <year>2000</year>; <volume>10</volume>: <fpage>120</fpage>–<lpage>131</lpage>. <object-id pub-id-type="pmid">10912591</object-id></mixed-citation></ref>
+<ref id="pone.0215736.ref035"><label>35</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Price</surname> <given-names>CJ</given-names></name>, <name name-style="western"><surname>Friston</surname> <given-names>KJ</given-names></name>. <article-title>Cognitive conjunction: a new approach to brain activation experiments</article-title>. <source>NeuroImage</source>. <year>1997</year>; <volume>5</volume>: <fpage>261</fpage>–<lpage>270</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1006/nimg.1997.0269" xlink:type="simple">10.1006/nimg.1997.0269</ext-link></comment> <object-id pub-id-type="pmid">9345555</object-id></mixed-citation></ref>
+<ref id="pone.0215736.ref036"><label>36</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Nakata</surname> <given-names>H</given-names></name>, <name name-style="western"><surname>Sakamoto</surname> <given-names>K</given-names></name>, <name name-style="western"><surname>Ferretti</surname> <given-names>A</given-names></name>, <name name-style="western"><surname>Gianni Perrucci</surname> <given-names>M</given-names></name>, <name name-style="western"><surname>Del Gratta</surname> <given-names>C</given-names></name>, <name name-style="western"><surname>Kakigi</surname> <given-names>R</given-names></name>, <etal>et al</etal>. <article-title>Somato-motor inhibitory processing in humans: an event-related functional MRI study</article-title>. <source>NeuroImage</source>. <year>2008</year>; <volume>39</volume>: <fpage>1858</fpage>–<lpage>1866</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.neuroimage.2007.10.041" xlink:type="simple">10.1016/j.neuroimage.2007.10.041</ext-link></comment> <object-id pub-id-type="pmid">18083602</object-id></mixed-citation></ref>
+<ref id="pone.0215736.ref037"><label>37</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Mizuguchi</surname> <given-names>N</given-names></name>, <name name-style="western"><surname>Nakata</surname> <given-names>H</given-names></name>, <name name-style="western"><surname>Hayashi</surname> <given-names>T</given-names></name>, <name name-style="western"><surname>Sakamoto</surname> <given-names>M</given-names></name>, <name name-style="western"><surname>Muraoka</surname> <given-names>T</given-names></name>, <name name-style="western"><surname>Uchida</surname> <given-names>Y</given-names></name>, <etal>et al</etal>. <article-title>Brain activity during motor imagery of an action with an object: a functional magnetic resonance imaging study</article-title>. <source>Neurosci Res</source>. <year>2013</year>; <volume>76</volume>: <fpage>150</fpage>–<lpage>155</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.neures.2013.03.012" xlink:type="simple">10.1016/j.neures.2013.03.012</ext-link></comment> <object-id pub-id-type="pmid">23562793</object-id></mixed-citation></ref>
+<ref id="pone.0215736.ref038"><label>38</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Mizuguchi</surname> <given-names>N</given-names></name>, <name name-style="western"><surname>Nakata</surname> <given-names>H</given-names></name>, <name name-style="western"><surname>Kanosue</surname> <given-names>K</given-names></name>. <article-title>Activity of right premotor-parietal regions dependent upon imagined force level: an fMRI study</article-title>. <source>Front Hum Neurosci</source>. <year>2014</year>; <volume>8</volume>: <fpage>810</fpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.3389/fnhum.2014.00810" xlink:type="simple">10.3389/fnhum.2014.00810</ext-link></comment> <object-id pub-id-type="pmid">25339893</object-id></mixed-citation></ref>
+<ref id="pone.0215736.ref039"><label>39</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Yan</surname> <given-names>LR</given-names></name>, <name name-style="western"><surname>Wu</surname> <given-names>YB</given-names></name>, <name name-style="western"><surname>Zeng</surname> <given-names>XH</given-names></name>, <name name-style="western"><surname>Gao</surname> <given-names>LC</given-names></name>. <article-title>Dysfunctional putamen modulation during bimanual finger-to-thumb movement in patients with Parkinson's disease</article-title>. <source>Front Hum Neurosci</source>. <year>2015</year>; <volume>9</volume>: <fpage>516</fpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.3389/fnhum.2015.00516" xlink:type="simple">10.3389/fnhum.2015.00516</ext-link></comment> <object-id pub-id-type="pmid">26483652</object-id></mixed-citation></ref>
+<ref id="pone.0215736.ref040"><label>40</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Sakamoto</surname> <given-names>K</given-names></name>, <name name-style="western"><surname>Nakata</surname> <given-names>H</given-names></name>, <name name-style="western"><surname>Perrucci</surname> <given-names>MG</given-names></name>, <name name-style="western"><surname>Del Gratta</surname> <given-names>C</given-names></name>, <name name-style="western"><surname>Kakigi</surname> <given-names>R</given-names></name>, <name name-style="western"><surname>Romani</surname> <given-names>GL</given-names></name>. <article-title>Negative BOLD during tongue movement: a functional magnetic resonance imaging study</article-title>. <source>Neurosci Lett</source>. <year>2009</year>; <volume>466</volume>: <fpage>120</fpage>–<lpage>123</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.neulet.2009.09.038" xlink:type="simple">10.1016/j.neulet.2009.09.038</ext-link></comment> <object-id pub-id-type="pmid">19781597</object-id></mixed-citation></ref>
+<ref id="pone.0215736.ref041"><label>41</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Fesl</surname> <given-names>G</given-names></name>, <name name-style="western"><surname>Moriggl</surname> <given-names>B</given-names></name>, <name name-style="western"><surname>Schmid</surname> <given-names>UD</given-names></name>, <name name-style="western"><surname>Naidich</surname> <given-names>TP</given-names></name>, <name name-style="western"><surname>Herholz</surname> <given-names>K</given-names></name>, <name name-style="western"><surname>Yousry</surname> <given-names>TA</given-names></name>. <article-title>Inferior central sulcus: variations of anatomy and function on the example of the motor tongue area</article-title>. <source>NeuroImage</source>. <year>2003</year>; <volume>20</volume>: <fpage>601</fpage>–<lpage>610</lpage>. <object-id pub-id-type="pmid">14527621</object-id></mixed-citation></ref>
+<ref id="pone.0215736.ref042"><label>42</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Martin</surname> <given-names>RE</given-names></name>, <name name-style="western"><surname>MacIntosh</surname> <given-names>BJ</given-names></name>, <name name-style="western"><surname>Smith</surname> <given-names>RC</given-names></name>, <name name-style="western"><surname>Barr</surname> <given-names>AM</given-names></name>, <name name-style="western"><surname>Stevens</surname> <given-names>TK</given-names></name>, <name name-style="western"><surname>Gati</surname> <given-names>JS</given-names></name>, <etal>et al</etal>. <article-title>Cerebral areas processing swallowing and tongue movement are overlapping but distinct: a functional magnetic resonance imaging study</article-title>. <source>J Neurophysiol</source>. <year>2004</year>; <volume>92</volume>: <fpage>2428</fpage>–<lpage>2443</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1152/jn.01144.2003" xlink:type="simple">10.1152/jn.01144.2003</ext-link></comment> <object-id pub-id-type="pmid">15163677</object-id></mixed-citation></ref>
+<ref id="pone.0215736.ref043"><label>43</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Cavanna</surname> <given-names>AE</given-names></name>, <name name-style="western"><surname>Trimble</surname> <given-names>MR</given-names></name>. <article-title>The precuneus: a review of its functional anatomy and behavioural correlates</article-title>. <source>Brain</source>. <year>2006</year>; <volume>129</volume>: <fpage>564</fpage>–<lpage>583</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1093/brain/awl004" xlink:type="simple">10.1093/brain/awl004</ext-link></comment> <object-id pub-id-type="pmid">16399806</object-id></mixed-citation></ref>
+<ref id="pone.0215736.ref044"><label>44</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Fuster</surname> <given-names>JM</given-names></name>. <article-title>The prefrontal cortex—an update: time is of the essence</article-title>. <source>Neuron</source>. <year>2001</year>; <volume>30</volume>: <fpage>319</fpage>–<lpage>333</lpage>. <object-id pub-id-type="pmid">11394996</object-id></mixed-citation></ref>
+<ref id="pone.0215736.ref045"><label>45</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Huntley</surname> <given-names>GW</given-names></name>, <name name-style="western"><surname>Jones</surname> <given-names>EG</given-names></name>. <article-title>Relationship of intrinsic connections to forelimb movement representations in monkey motor cortex: a correlative anatomic and physiological study</article-title>. <source>J Neurophysiol</source>. <year>1991</year>; <volume>66</volume>: <fpage>390</fpage>–<lpage>413</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1152/jn.1991.66.2.390" xlink:type="simple">10.1152/jn.1991.66.2.390</ext-link></comment> <object-id pub-id-type="pmid">1723093</object-id></mixed-citation></ref>
+<ref id="pone.0215736.ref046"><label>46</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>McIntyre-Robinson</surname> <given-names>AJ</given-names></name>, <name name-style="western"><surname>Byblow</surname> <given-names>WD</given-names></name>. <article-title>A neurophysiological basis for the coordination between hand and foot movement</article-title>. <source>J Neurophysiol</source>. <year>2013</year>; <volume>110</volume>: <fpage>1039</fpage>–<lpage>1046</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1152/jn.00266.2013" xlink:type="simple">10.1152/jn.00266.2013</ext-link></comment> <object-id pub-id-type="pmid">23741039</object-id></mixed-citation></ref>
+<ref id="pone.0215736.ref047"><label>47</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Volz</surname> <given-names>LJ</given-names></name>, <name name-style="western"><surname>Eickhoff</surname> <given-names>SB</given-names></name>, <name name-style="western"><surname>Pool</surname> <given-names>EM</given-names></name>, <name name-style="western"><surname>Fink</surname> <given-names>GR</given-names></name>, <name name-style="western"><surname>Grefkes</surname> <given-names>C</given-names></name>. <article-title>Differential modulation of motor network connectivity during movements of the upper and lower limbs</article-title>. <source>NeuroImage</source>. <year>2015</year>; <volume>119</volume>: <fpage>44</fpage>–<lpage>53</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.neuroimage.2015.05.101" xlink:type="simple">10.1016/j.neuroimage.2015.05.101</ext-link></comment> <object-id pub-id-type="pmid">26095089</object-id></mixed-citation></ref>
+<ref id="pone.0215736.ref048"><label>48</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Miyai</surname> <given-names>I</given-names></name>, <name name-style="western"><surname>Tanabe</surname> <given-names>HC</given-names></name>, <name name-style="western"><surname>Sase</surname> <given-names>I</given-names></name>, <name name-style="western"><surname>Eda</surname> <given-names>H</given-names></name>, <name name-style="western"><surname>Oda</surname> <given-names>I</given-names></name>, <name name-style="western"><surname>Konishi</surname> <given-names>I</given-names></name>, <etal>et al</etal>. <article-title>Cortical mapping of gait in humans: a near-infrared spectroscopic topography study</article-title>. <source>NeuroImage</source>. <year>2001</year>; <volume>14</volume>: <fpage>1186</fpage>–<lpage>1192</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1006/nimg.2001.0905" xlink:type="simple">10.1006/nimg.2001.0905</ext-link></comment> <object-id pub-id-type="pmid">11697950</object-id></mixed-citation></ref>
+<ref id="pone.0215736.ref049"><label>49</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Kim</surname> <given-names>SG</given-names></name>, <name name-style="western"><surname>Ashe</surname> <given-names>J</given-names></name>, <name name-style="western"><surname>Hendrich</surname> <given-names>K</given-names></name>, <name name-style="western"><surname>Ellermann</surname> <given-names>JM</given-names></name>, <name name-style="western"><surname>Merkle</surname> <given-names>H</given-names></name>, <name name-style="western"><surname>Uğurbil</surname> <given-names>K</given-names></name>, <name name-style="western"><surname>Georgopoulos</surname> <given-names>AP</given-names></name>. <article-title>Functional magnetic resonance imaging of motor cortex: hemispheric asymmetry and handedness</article-title>. <source>Science</source>. <year>1993</year>; <volume>261</volume>: <fpage>615</fpage>–<lpage>617</lpage>. <object-id pub-id-type="pmid">8342027</object-id></mixed-citation></ref>
+<ref id="pone.0215736.ref050"><label>50</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Aramaki</surname> <given-names>Y</given-names></name>, <name name-style="western"><surname>Honda</surname> <given-names>M</given-names></name>, <name name-style="western"><surname>Sadato</surname> <given-names>N</given-names></name>. <article-title>Suppression of the non-dominant motor cortex during bimanual symmetric finger movement: a functional magnetic resonance imaging study</article-title>. <source>Neuroscience</source>. <year>2006</year>; <volume>141</volume>: <fpage>2147</fpage>–<lpage>2153</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.neuroscience.2006.05.030" xlink:type="simple">10.1016/j.neuroscience.2006.05.030</ext-link></comment> <object-id pub-id-type="pmid">16793210</object-id></mixed-citation></ref>
+<ref id="pone.0215736.ref051"><label>51</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Spreng</surname> <given-names>RN</given-names></name>. <article-title>The fallacy of a "task-negative" network</article-title>. <source>Front Psychol</source>. <year>2012</year>; <volume>3</volume>: <fpage>145</fpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.3389/fpsyg.2012.00145" xlink:type="simple">10.3389/fpsyg.2012.00145</ext-link></comment> <object-id pub-id-type="pmid">22593750</object-id></mixed-citation></ref>
+<ref id="pone.0215736.ref052"><label>52</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Deshpande</surname> <given-names>G</given-names></name>, <name name-style="western"><surname>Santhanam</surname> <given-names>P</given-names></name>, <name name-style="western"><surname>Hu</surname> <given-names>X</given-names></name>. <article-title>Instantaneous and causal connectivity in resting state brain networks derived from functional MRI data</article-title>. <source>NeuroImage</source>. <year>2011</year>; <volume>54</volume>: <fpage>1043</fpage>–<lpage>1052</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.neuroimage.2010.09.024" xlink:type="simple">10.1016/j.neuroimage.2010.09.024</ext-link></comment> <object-id pub-id-type="pmid">20850549</object-id></mixed-citation></ref>
+<ref id="pone.0215736.ref053"><label>53</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Mason</surname> <given-names>MF</given-names></name>, <name name-style="western"><surname>Norton</surname> <given-names>MI</given-names></name>, <name name-style="western"><surname>Van Horn</surname> <given-names>JD</given-names></name>, <name name-style="western"><surname>Wegner</surname> <given-names>DM</given-names></name>, <name name-style="western"><surname>Grafton</surname> <given-names>ST</given-names></name>, <name name-style="western"><surname>Macrae</surname> <given-names>CN</given-names></name>. <article-title>Wandering minds: the default network and stimulus-independent thought</article-title>. <source>Science</source>. <year>2007</year>; <volume>315</volume>: <fpage>393</fpage>–<lpage>395</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1126/science.1131295" xlink:type="simple">10.1126/science.1131295</ext-link></comment> <object-id pub-id-type="pmid">17234951</object-id></mixed-citation></ref>
+<ref id="pone.0215736.ref054"><label>54</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Spreng</surname> <given-names>RN</given-names></name>, <name name-style="western"><surname>Grady</surname> <given-names>CL</given-names></name>. <article-title>Patterns of brain activity supporting autobiographical memory, prospection, and theory of mind, and their relationship to the default mode network</article-title>. <source>J Cogn Neurosci</source>. <year>2010</year>; <volume>22</volume>: <fpage>1112</fpage>–<lpage>1123</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1162/jocn.2009.21282" xlink:type="simple">10.1162/jocn.2009.21282</ext-link></comment> <object-id pub-id-type="pmid">19580387</object-id></mixed-citation></ref>
+<ref id="pone.0215736.ref055"><label>55</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Sadato</surname> <given-names>N</given-names></name>, <name name-style="western"><surname>Ibañez</surname> <given-names>V</given-names></name>, <name name-style="western"><surname>Deiber</surname> <given-names>MP</given-names></name>, <name name-style="western"><surname>Campbell</surname> <given-names>G</given-names></name>, <name name-style="western"><surname>Leonardo</surname> <given-names>M</given-names></name>, <name name-style="western"><surname>Hallett</surname> <given-names>M</given-names></name>. <article-title>Frequency-dependent changes of regional cerebral blood flow during finger movements</article-title>. <source>J Cereb Blood Flow Metab</source>. <year>1996b</year>; <volume>16</volume>: <fpage>23</fpage>–<lpage>33</lpage>.</mixed-citation></ref>
+</ref-list>
+</back>
+</article>

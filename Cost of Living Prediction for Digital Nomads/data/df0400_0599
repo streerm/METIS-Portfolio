@@ -1,0 +1,201 @@
+population,capital,admin_name,lat,lng
+1841179.0,admin,Hamburg,53.55,10.0
+538068.0,admin,Lower Saxony,52.3744,9.7386
+160355.0,minor,Baden-Württemberg,49.4122,8.71
+39017.0,,Thuringia,50.6872,10.9142
+313092.0,minor,Baden-Württemberg,49.0167,8.4
+593197.0,minor,Saxony,51.3333,12.3833
+1471508.0,admin,Bavaria,48.1372,11.5755
+314319.0,minor,North Rhine-Westphalia,51.9625,7.6256
+518365.0,minor,Bavaria,49.4539,11.0775
+168210.0,minor,Lower Saxony,53.1439,8.2139
+164748.0,minor,Lower Saxony,52.2789,8.0431
+208886.0,,Mecklenburg-Western Pomerania,54.0833,12.1333
+180741.0,admin,Saarland,49.2333,7.0
+634830.0,admin,Baden-Württemberg,48.7761,9.1775
+127880.0,minor,Bavaria,49.7944,9.9294
+2291352.0,primary,Greater Accra,5.6037,-0.187
+187083.0,primary,,36.1324,-5.3781
+57812.0,minor,Anatolikí Makedonía kai Thráki,40.85,25.8667
+664046.0,primary,Attikí,37.9842,23.7281
+78728.0,minor,Kríti,35.5173,24.0195
+24838.0,admin,Ionía Nísia,39.6239,19.9214
+140730.0,admin,Kríti,35.3403,25.1344
+59240.0,minor,Anatolikí Makedonía kai Thráki,40.935,24.415
+315196.0,admin,Kentrikí Makedonía,40.6403,22.9356
+86046.0,minor,Thessalía,39.3611,22.9425
+4315.0,primary,Saint George,12.0444,-61.7417
+145511.0,,,16.2415,-61.533
+1051.0,primary,,13.4745,144.7504
+2450212.0,primary,Guatemala,14.6099,-90.5252
+225000.0,admin,Quetzaltenango,14.8333,-91.5167
+,,,,
+1667864.0,primary,Conakry,9.5092,-13.7122
+395954.0,primary,Bissau,11.8592,-15.5956
+200500.0,primary,Demerara-Mahaica,6.7833,-58.1667
+144785.0,admin,Comayagua,14.46,-87.65
+1073824.0,admin,Cortés,15.5,-88.0333
+1126534.0,primary,Francisco Morazán,14.0942,-87.2067
+7347000.0,primary,,22.305,114.185
+1752286.0,primary,Budapest,47.4983,19.0408
+201432.0,admin,Hajdú-Bihar,47.53,21.6392
+142873.0,admin,Baranya,46.0708,18.2331
+62454.0,admin,Sopron,47.6833,16.5833
+78407.0,admin,Vas,47.2333,16.6333
+128793.0,primary,,64.1475,-21.935
+1585705.0,,Uttar Pradesh,27.18,78.02
+7410000.0,minor,Gujarāt,23.03,72.58
+1201000.0,,Uttar Pradesh,25.455,81.84
+1132383.0,,Punjab,31.6167,74.85
+13707000.0,admin,Karnātaka,12.9699,77.598
+488157.0,,Karnātaka,15.8667,74.5
+1097000.0,,Chhattīsgarh,21.2167,81.4333
+1883381.0,admin,Madhya Pradesh,23.25,77.4167
+837737.0,admin,Odisha,20.2644,85.8281
+529007.0,,Rājasthān,28.0181,73.3169
+1026459.0,admin,Chandīgarh,30.7353,76.7911
+959823.0,,Tamil Nādu,11.0,76.9667
+29617000.0,admin,Delhi,28.66,77.23
+,,,,
+673446.0,,Uttar Pradesh,26.7611,83.3667
+197340.0,,Haryāna,28.45,77.02
+957352.0,,Assam,26.1667,91.7667
+9746000.0,admin,Telangana,17.3667,78.4667
+2201927.0,,Madhya Pradesh,22.7206,75.8472
+1267564.0,,Madhya Pradesh,23.1667,79.9333
+3073350.0,admin,Rājasthān,26.9167,75.8667
+873725.0,,Punjab,31.3256,75.5792
+502197.0,,Jammu and Kashmīr,32.7333,74.85
+1558000.0,,Jharkhand,22.8,86.1833
+995000.0,,Rājasthān,26.2918,73.0168
+2701324.0,,Uttar Pradesh,26.4725,80.3311
+677381.0,,Kerala,9.9667,76.2833
+17560000.0,admin,West Bengal,22.5411,88.3378
+1001694.0,,Rājasthān,25.18,75.83
+431560.0,minor,Kerala,11.25,75.7667
+374394.0,,Mahārāshtra,18.4004,76.57
+3382000.0,admin,Uttar Pradesh,26.847,80.947
+1649000.0,,Punjab,30.9083,75.8486
+11324000.0,admin,Tamil Nādu,13.0825,80.275
+1561129.0,minor,Tamil Nādu,9.9197,78.1194
+23355000.0,admin,Mahārāshtra,18.9667,72.8333
+1014227.0,,Karnātaka,12.3086,76.6531
+2405665.0,,Mahārāshtra,21.1539,79.0831
+388505.0,,Telangana,18.6704,78.1
+1684222.0,admin,Bihār,25.61,85.1414
+227411.0,admin,Puducherry,11.93,79.83
+7764000.0,,Mahārāshtra,18.5196,73.8553
+1010087.0,admin,Chhattīsgarh,21.2379,81.6337
+1335397.0,,Gujarāt,22.2969,70.7984
+1073440.0,admin,Jharkhand,23.3556,85.3347
+374292.0,,Haryāna,28.9,76.5667
+654055.0,,Karnātaka,13.9304,75.56
+294546.0,,West Bengal,26.72,88.42
+951558.0,,Mahārāshtra,17.6833,75.9167
+1180570.0,admin,Jammu and Kashmīr,34.0911,74.8061
+5807000.0,,Gujarāt,21.17,72.83
+1261517.0,,Mahārāshtra,19.18,72.9633
+743691.0,admin,Kerala,8.5,76.8997
+287482.0,,Andhra Pradesh,13.65,79.42
+2065771.0,,Gujarāt,22.3,73.2
+1198491.0,,Uttar Pradesh,25.3189,83.0128
+1048240.0,,Andhra Pradesh,16.5167,80.6167
+2035922.0,,Andhra Pradesh,17.7333,83.3167
+834881.0,admin,Bali,-8.6667,115.2167
+34540000.0,primary,Jakarta,-6.2146,106.8451
+1651146.0,admin,Sulawesi Selatan,-5.1331,119.4136
+408900.0,admin,Nusa Tenggara Barat,-8.5833,116.1167
+2210625.0,admin,Sumatera Utara,3.6667,98.6667
+4975000.0,admin,Jawa Timur,-7.2458,112.7378
+552118.0,,Jawa Tengah,-7.5667,110.8167
+422732.0,admin,Yogyakarta,-7.8014,110.3644
+1592492.0,admin,Alborz,35.8327,50.9915
+3001184.0,admin,Khorāsān-e Raẕavī,36.3069,59.6042
+1460665.0,admin,Fārs,29.61,52.5425
+1558693.0,admin,Āz̄arbāyjān-e Sharqī,38.0833,46.2833
+13633000.0,primary,Tehrān,35.7,51.4167
+846000.0,admin,Arbīl,36.1911,44.0094
+5796000.0,primary,Baghdād,33.35,44.4167
+1225793.0,admin,Al Başrah,30.4889,47.81
+724700.0,admin,An Najaf,32.029,44.3396
+,,,,
+208669.0,admin,Cork,51.9,-8.4731
+1173179.0,primary,Dublin,53.3497,-6.2603
+79504.0,admin,Galway,53.2729,-9.0418
+58319.0,admin,Limerick,52.6653,-8.6238
+,,,,
+91707.0,,Haifa,32.45,34.9167
+281087.0,admin,Haifa,32.8,34.9833
+93989.0,,Tel Aviv,32.1556,34.8422
+919438.0,primary,Southern,31.7833,35.2167
+451523.0,admin,Tel Aviv,32.08,34.78
+120923.0,minor,Lombardy,45.695,9.67
+389261.0,admin,Emilia-Romagna,44.4939,11.3428
+154106.0,admin,Sardegna,39.2167,9.1167
+311584.0,minor,Sicilia,37.5027,15.0873
+380948.0,admin,Tuscany,43.7714,11.2542
+580097.0,admin,Liguria,44.4072,8.934
+89243.0,minor,Tuscany,43.85,10.5167
+1366180.0,admin,Lombardy,45.4669,9.19
+966144.0,admin,Campania,40.8333,14.25
+210440.0,minor,Veneto,45.4064,11.8778
+165683.0,admin,Umbria,43.1121,12.3888
+90118.0,minor,Tuscany,43.7167,10.4
+181447.0,minor,Calabria,38.1144,15.65
+171944.0,minor,Emilia-Romagna,44.7,10.6333
+149403.0,minor,Emilia-Romagna,44.0594,12.5683
+2872800.0,primary,Lazio,41.8931,12.4828
+51149.0,minor,Veneto,45.0809,11.794
+133970.0,minor,Campania,40.6806,14.7597
+116641.0,minor,Sardegna,40.7267,8.5592
+204338.0,admin,Friuli-Venezia Giulia,45.6503,13.7703
+870952.0,admin,Piedmont,45.0667,7.7
+99518.0,minor,Friuli-Venezia Giulia,46.0667,13.2333
+80544.0,minor,Lombardy,45.8167,8.8333
+257275.0,minor,Veneto,45.4386,10.9928
+111620.0,minor,Veneto,45.55,11.55
+,,,,
+580000.0,primary,Kingston,17.9714,-76.7931
+580000.0,primary,Kingston,17.9714,-76.7931
+2128000.0,admin,Fukuoka,33.6,130.4167
+201802.0,admin,Shimane,35.4681,133.0486
+9113000.0,admin,Aichi,35.1167,136.9333
+316048.0,admin,Okinawa,26.2122,127.6789
+14977000.0,admin,Ōsaka,34.75,135.4601
+722973.0,,Kanagawa,35.5667,139.3667
+685589.0,admin,Shizuoka,34.9756,138.3825
+37977000.0,primary,Tōkyō,35.6897,139.6922
+3757630.0,admin,Kanagawa,35.4333,139.6333
+3757630.0,admin,Kanagawa,35.4333,139.6333
+33522.0,primary,,49.1833,-2.1167
+4007526.0,primary,Al ‘Āşimah,31.95,35.9333
+140000.0,admin,Al ‘Aqabah,29.5167,35.0
+1088100.0,admin,Irbid,32.5556,35.85
+481300.0,admin,Az Zarqā’,32.0833,36.1
+1916822.0,,Almaty,43.25,76.9
+1078362.0,primary,Astana,51.1333,71.4333
+163221.0,admin,Atyraū,47.1167,51.8833
+216406.0,admin,Soltüstik Qazaqstan,54.8622,69.1408
+340000.0,,Shyghys Qazaqstan,50.4111,80.2275
+1018974.0,admin,Ongtüstik Qazaqstan,42.3,69.6
+319067.0,admin,Shyghys Qazaqstan,49.99,82.6149
+5545000.0,primary,Nairobi City,-1.2864,36.8172
+204725.0,primary,Prishtinë,42.6667,21.1667
+2989000.0,primary,Al ‘Āşimah,29.375,47.98
+1027200.0,primary,Bishkek,42.8667,74.5667
+614618.0,primary,Rīga,56.9475,24.1069
+361366.0,primary,Beyrouth,33.8869,35.5131
+1021762.0,primary,Montserrado,6.3106,-10.8047
+631555.0,admin,Banghāzī,32.1167,20.0667
+288466.0,admin,Kauno Miestas,54.9,23.9333
+164310.0,admin,Klaipėdos Miestas,55.7075,21.1428
+574147.0,primary,Vilniaus Miestas,54.6833,25.2833
+124509.0,primary,Luxembourg,49.6106,6.1328
+,,,,
+66246.0,admin,Prilep,41.3464,21.5542
+640000.0,primary,Skopje,41.9833,21.4333
+2610000.0,primary,Antananarivo,-18.9386,47.5214
+154657.0,admin,Mahajanga,-15.67,46.345
+1895973.0,admin,Blantyre,-15.7861,35.0058
+708127.0,admin,Pulau Pinang,5.4145,100.3292
+797882.0,admin,Johor,1.4556,103.7611

@@ -1,0 +1,201 @@
+population,capital,admin_name,lat,lng
+90504.0,,British Columbia,49.1642,-123.9364
+166000.0,,Ontario,43.9,-78.85
+989567.0,,Ontario,45.4247,-75.695
+705103.0,,Quebec,46.8139,-71.2081
+215106.0,,Saskatchewan,50.4547,-104.6067
+71594.0,,Ontario,42.9994,-82.3089
+246376.0,,Saskatchewan,52.1333,-106.6833
+161323.0,,Quebec,45.4,-71.9
+108860.0,,Newfoundland and Labrador,47.4817,-52.7971
+107909.0,,Ontario,48.3822,-89.2461
+5429524.0,,Ontario,43.7417,-79.3733
+134413.0,,Quebec,46.35,-72.55
+2264823.0,,British Columbia,49.25,-123.1
+335696.0,,British Columbia,48.4283,-123.3647
+25085.0,,Yukon,60.7029,-135.0691
+276165.0,,Ontario,42.2833,-83.0
+705244.0,,Manitoba,49.8844,-97.1464
+,,,,
+,,,,
+27704.0,primary,,19.2866,-81.3744
+889231.0,primary,Bangui,4.3732,18.5628
+76492.0,admin,Ouaddaï,13.8331,20.8347
+348517.0,admin,Antofagasta,-23.6464,-70.398
+202131.0,admin,Arica y Parinacota,-18.4784,-70.3211
+157575.0,minor,Antofagasta,-22.4624,-68.9272
+150804.0,admin,Atacama,-27.3665,-70.3323
+113711.0,minor,Maule,-34.98,-71.24
+188003.0,admin,Tarapacá,-20.2141,-70.1524
+195382.0,admin,Coquimbo,-29.9027,-71.252
+73602.0,minor,Maule,-35.8454,-71.5979
+154131.0,minor,Los Lagos,-40.5739,-73.1336
+75864.0,minor,Coquimbo,-30.6031,-71.203
+169736.0,admin,Los Lagos,-41.4718,-72.9396
+123403.0,admin,Magallanes y de la Antártica Chilena,-53.1627,-70.9081
+231370.0,admin,Libertador General Bernardo O’Higgins,-34.1654,-70.7398
+64120.0,minor,Valparaíso,-32.7507,-70.7251
+7007000.0,primary,Región Metropolitana,-33.45,-70.6667
+206069.0,admin,Maule,-35.4266,-71.6661
+147831.0,,Biobío,-36.7145,-73.1141
+282415.0,admin,Araucanía,-38.7399,-72.5901
+150048.0,admin,Los Ríos,-39.8142,-73.2459
+296655.0,admin,Valparaíso,-33.0458,-71.6197
+,,,,
+19433000.0,primary,Beijing,39.905,116.3914
+8394500.0,admin,Hunan,28.1987,112.9709
+11309000.0,admin,Sichuan,30.66,104.0633
+7739000.0,admin,Chongqing,29.5628,106.5528
+7981000.0,minor,Guangdong,23.0475,113.7493
+20902000.0,admin,Guangdong,23.1288,113.259
+4365000.0,admin,Guizhou,26.5794,106.7078
+4458000.0,admin,Heilongjiang,45.75,126.6333
+7457027.0,admin,Anhui,31.8639,117.2808
+8750000.0,minor,Shandong,35.2333,115.4333
+6250000.0,admin,Yunnan,25.0433,102.7061
+6549941.0,,Henan,34.6587,112.4245
+4945000.0,minor,Sichuan,31.4669,104.7385
+5042565.0,admin,Jiangxi,28.6842,115.8872
+7496000.0,admin,Jiangsu,32.05,118.7667
+7153300.0,admin,Guangxi,22.8192,108.315
+5775000.0,minor,Shandong,36.1167,120.4
+22120000.0,admin,Shanghai,31.1667,121.4667
+7105000.0,admin,Liaoning,41.8039,123.4258
+15929000.0,minor,Guangdong,22.535,114.054
+380130.0,minor,Xinjiang,44.3,86.0333
+5690000.0,,Anhui,33.6333,116.9683
+5690000.0,,Anhui,33.6333,116.9683
+3398000.0,admin,Shanxi,37.8733,112.5425
+5968838.0,minor,Zhejiang,28.6583,121.4221
+10800000.0,admin,Tianjin,39.1467,117.2056
+8962000.0,admin,Hubei,30.5872,114.2881
+4580000.0,minor,Jiangsu,31.5667,120.2833
+4456000.0,minor,Sichuan,28.7596,104.64
+1891100.0,minor,Guangdong,22.2769,113.5678
+4530597.0,,Shandong,36.7831,118.0497
+301226.0,admin,Quindío,4.5389,-75.6725
+210729.0,minor,Santander,7.0675,-73.8472
+1274250.0,admin,Atlántico,10.9639,-74.7964
+9464000.0,primary,Bogotá,4.6126,-74.0705
+581130.0,admin,Santander,7.1186,-73.1161
+423927.0,minor,Valle del Cauca,3.8772,-77.0267
+1036412.0,admin,Bolívar,10.4236,-75.5253
+750000.0,admin,Norte de Santander,7.9075,-72.5047
+143871.0,admin,Caquetá,1.6142,-75.6117
+541101.0,admin,Tolima,4.4378,-75.2006
+434403.0,admin,Caldas,5.0661,-75.4847
+2529403.0,admin,Antioquia,6.2447,-75.5748
+505334.0,admin,Córdoba,8.76,-75.8856
+353033.0,admin,Huila,2.9275,-75.2875
+382236.0,admin,Nariño,1.2136,-77.2811
+590554.0,admin,Risaralda,4.8143,-75.6946
+515556.0,admin,Magdalena,11.2361,-74.2017
+2471474.0,admin,Valle del Cauca,3.44,-76.5197
+286716.0,admin,Sucre,9.2994,-75.3958
+131105.0,minor,Boyacá,5.7158,-72.9333
+219138.0,minor,Valle del Cauca,4.0847,-76.1986
+209263.0,admin,Boyacá,5.5403,-73.3614
+544134.0,admin,Cesar,10.4603,-73.2597
+527668.0,admin,Meta,4.1425,-73.6294
+5445.0,primary,,-21.207,-159.771
+61072.0,admin,Limón,10.0022,-83.084
+288054.0,primary,San José,9.9333,-84.0833
+128624.0,admin,Primorsko-Goranska Županija,45.3272,14.4411
+178102.0,admin,Splitsko-Dalmatinska Županija,43.51,16.45
+790017.0,primary,"Zagreb, Grad",45.8,15.95
+34452.0,minor,Holguín,20.9697,-75.7117
+2141652.0,primary,La Habana,23.1367,-82.3589
+350191.0,admin,Holguín,20.8872,-76.2631
+202105.0,admin,Las Tunas,20.9667,-76.95
+145246.0,admin,Matanzas,23.0494,-81.5736
+59371.0,minor,Ciego de Ávila,22.1108,-78.6278
+38995.0,,Camagüey,21.5403,-77.2644
+207963.0,admin,Villa Clara,22.4067,-79.9531
+444851.0,admin,Santiago de Cuba,20.0283,-75.8206
+138504.0,admin,Sancti Spíritus,21.9339,-79.4439
+40920.0,admin,Ammóchostos,35.1167,33.95
+48947.0,admin,Lárnaka,34.9233,33.6305
+235056.0,admin,Lemesós,34.675,33.0443
+330000.0,primary,Lefkosía,35.1725,33.365
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+237551.0,minor,Midtjylland,56.1572,10.2107
+602481.0,primary,Hovedstaden,55.6761,12.5689
+158222.0,minor,Syddanmark,55.4004,10.3833
+51177.0,admin,Syddanmark,55.709,9.535
+145595.0,minor,Valdesia,18.29,-70.33
+168501.0,minor,Yuma,18.6181,-68.7111
+169032.0,admin,El Valle,18.81,-71.23
+1142947.0,admin,Cibao Norte,19.45,-70.7
+2581827.0,primary,Ozama,18.4764,-69.8933
+90191.0,admin,Los Ríos,-1.8167,-79.5167
+329928.0,admin,Azuay,-2.8974,-79.0045
+2723665.0,admin,Guayas,-2.1833,-79.8833
+131856.0,admin,Imbabura,0.3628,-78.13
+63842.0,admin,Cotopaxi,-0.9333,-78.6167
+170280.0,admin,Loja,-3.9906,-79.205
+231260.0,admin,El Oro,-3.2667,-79.9667
+206682.0,admin,Manabí,-1.0544,-80.4544
+2011388.0,primary,Pichincha,-0.2186,-78.5097
+146324.0,admin,Chimborazo,-1.6743,-78.6483
+34719.0,,Guayas,-2.2083,-80.9681
+4870000.0,admin,Al Iskandarīyah,31.2,29.9167
+19372000.0,primary,Al Qāhirah,30.0561,31.2394
+,,,,
+567698.0,primary,San Salvador,13.6989,-89.1914
+250770.0,admin,Litoral,1.865,9.77
+438341.0,primary,Harjumaa,59.4372,24.745
+91407.0,admin,Tartumaa,58.38,26.7225
+16875.0,admin,Viljandimaa,58.3633,25.5956
+3041002.0,primary,Ādīs Ābeba,9.0272,38.7369
+243300.0,admin,Āmara,11.585,37.39
+88271.0,primary,Rewa,-18.1333,178.4333
+642045.0,primary,Uusimaa,60.1756,24.9342
+137368.0,admin,Keski-Suomi,62.2333,25.7333
+120246.0,admin,Pohjois-Savo,62.8925,27.6783
+225118.0,admin,Pirkanmaa,61.4981,23.7608
+187604.0,admin,Varsinais-Suomi,60.4517,22.27
+67619.0,admin,Pohjanmaa,63.1,21.6167
+257804.0,admin,Nouvelle-Aquitaine,44.84,-0.58
+300300.0,minor,Bretagne,48.39,-4.49
+143886.0,minor,Auvergne-Rhône-Alpes,45.7831,3.0824
+156920.0,admin,Bourgogne-Franche-Comté,47.3167,5.0167
+687985.0,minor,Auvergne-Rhône-Alpes,45.1715,5.7224
+235218.0,minor,Normandie,49.49,0.1
+232787.0,admin,Hauts-de-France,50.6278,3.0583
+283823.0,minor,Nouvelle-Aquitaine,45.8353,1.2625
+516092.0,admin,Auvergne-Rhône-Alpes,45.76,4.84
+870018.0,admin,Provence-Alpes-Côte d’Azur,43.2964,5.37
+391187.0,minor,Grand Est,49.1203,6.1778
+607896.0,minor,Occitanie,43.6119,3.8772
+633690.0,admin,Pays de la Loire,47.2181,-1.5528
+1006402.0,minor,Provence-Alpes-Côte d’Azur,43.7034,7.2663
+151001.0,minor,Occitanie,43.838,4.361
+282828.0,admin,Centre-Val de Loire,47.9025,1.909
+11020000.0,primary,Île-de-France,48.8566,2.3522
+120158.0,minor,Occitanie,42.6986,2.8956
+727357.0,admin,Bretagne,48.1147,-1.6794
+494382.0,admin,Normandie,49.4428,1.0886
+172565.0,minor,Auvergne-Rhône-Alpes,45.4347,4.3903
+465069.0,admin,Grand Est,48.5833,7.7458
+968638.0,admin,Occitanie,43.6045,1.444
+131695.0,primary,Îles du Vent,-17.5334,-149.5667
+797003.0,primary,Estuaire,0.3901,9.4544
+1118035.0,primary,Tbilisi,41.7225,44.7925
+3644826.0,primary,Berlin,52.5167,13.3833
+333786.0,minor,North Rhine-Westphalia,52.0167,8.5333
+327258.0,minor,North Rhine-Westphalia,50.7339,7.0997
+724909.0,admin,Bremen,53.1153,8.7975
+245403.0,minor,Saxony,50.8333,12.9167
+1085664.0,,North Rhine-Westphalia,50.9422,6.9578
+159207.0,minor,Hesse,49.8667,8.65
+587010.0,minor,North Rhine-Westphalia,51.5139,7.4653
+556549.0,admin,Saxony,51.05,13.74
+498590.0,minor,North Rhine-Westphalia,51.4322,6.7611
+645923.0,admin,North Rhine-Westphalia,51.2311,6.7724
+753056.0,minor,Hesse,50.1136,8.6797
+230241.0,minor,Baden-Württemberg,47.9947,7.8497

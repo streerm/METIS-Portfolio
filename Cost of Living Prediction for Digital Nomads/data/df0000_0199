@@ -1,0 +1,201 @@
+population,capital,admin_name,lat,lng
+3678034.0,primary,Kābul,34.5328,69.1658
+78703.0,admin,Elbasan,41.1125,20.0822
+418495.0,primary,Tiranë,41.33,19.82
+3415811.0,primary,Alger,36.7764,3.0586
+852000.0,admin,Oran,35.6969,-0.6331
+22151.0,primary,Andorra la Vella,42.5,1.5
+8417000.0,primary,Luanda,-8.8383,13.2344
+299101.0,minor,Buenos Aires,-38.7167,-62.2667
+16157000.0,primary,"Buenos Aires, Ciudad Autónoma de",-34.5997,-58.3819
+730266.0,minor,Chubut,-45.8667,-67.5
+149450.0,minor,Entre Ríos,-31.3922,-58.0169
+352646.0,admin,Corrientes,-27.4833,-58.8167
+1329604.0,admin,Córdoba,-31.4167,-64.1833
+222226.0,admin,Formosa,-26.1847,-58.1758
+193144.0,admin,Buenos Aires,-34.9333,-57.95
+180995.0,admin,La Rioja,-29.4131,-66.8558
+593337.0,minor,Buenos Aires,-38.0,-57.55
+114822.0,admin,Mendoza,-32.8833,-68.8333
+231198.0,admin,Neuquén,-38.9573,-68.0455
+275988.0,admin,Misiones,-27.3667,-55.8969
+230810.0,minor,Buenos Aires,-34.7167,-58.2667
+291720.0,admin,Chaco,-27.4514,-58.9867
+31095.0,minor,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",-53.7914,-67.699
+1193605.0,minor,Santa Fe,-32.9575,-60.6394
+158298.0,minor,Córdoba,-33.123,-64.3478
+535303.0,admin,Salta,-24.7883,-65.4106
+112887.0,minor,Río Negro,-41.15,-71.3
+159139.0,admin,Catamarca,-28.4686,-65.7792
+471389.0,admin,San Juan,-31.5375,-68.5364
+169947.0,admin,San Luis,-33.2994,-66.3392
+27956.0,minor,Neuquén,-40.1667,-71.35
+160000.0,minor,Buenos Aires,-33.3333,-60.2167
+107997.0,minor,Mendoza,-34.6175,-68.3356
+405683.0,admin,Santa Fe,-31.6333,-60.7
+103860.0,admin,La Pampa,-36.6203,-64.2906
+252192.0,admin,Santiago del Estero,-27.7844,-64.2669
+116917.0,minor,Buenos Aires,-37.3167,-59.1333
+605767.0,admin,Tucumán,-26.8167,-65.2167
+56956.0,admin,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",-54.8072,-68.3044
+1075800.0,primary,Yerevan,40.1814,44.5144
+1345777.0,admin,South Australia,-34.9289,138.6011
+2514184.0,admin,Queensland,-27.4678,153.0281
+426704.0,primary,Australian Capital Territory,-35.2931,149.1269
+136828.0,admin,Northern Territory,-12.4381,130.8411
+263280.0,,Victoria,-38.15,144.35
+679127.0,,Queensland,-28.0167,153.4
+240342.0,admin,Tasmania,-42.8806,147.325
+80148.0,,Queensland,-21.1411,149.1861
+5078193.0,admin,Victoria,-37.8136,144.9631
+322278.0,,New South Wales,-32.9167,151.75
+2059484.0,admin,Western Australia,-31.9522,115.8589
+5312163.0,admin,New South Wales,-33.865,151.2094
+180820.0,,Queensland,-19.2564,146.8183
+263234.0,admin,Steiermark,47.0749,15.4409
+132493.0,admin,Tirol,47.2683,11.3933
+1911191.0,primary,Wien,48.2083,16.3731
+2181800.0,primary,Bakı,40.3667,49.8352
+59036.0,admin,Yevlax,40.6172,47.15
+,,,,
+157474.0,primary,Al ‘Āşimah,26.225,50.5775
+2581643.0,admin,Chittagong,22.335,91.8325
+,,,,
+15443000.0,primary,Dhaka,23.7289,90.3944
+212200.0,minor,Mahilyowskaya Voblasts’,53.15,29.2333
+340318.0,admin,Brestskaya Voblasts’,52.0847,23.6569
+356900.0,admin,Hrodzyenskaya Voblasts’,53.6667,23.8167
+103391.0,,Hrodzyenskaya Voblasts’,53.8872,25.3028
+357100.0,admin,Mahilyowskaya Voblasts’,53.9089,30.343
+2009786.0,primary,Minsk,53.9022,27.5618
+920000.0,minor,Flanders,51.2206,4.4003
+1743000.0,primary,Brussels-Capital Region,50.8333,4.3333
+262219.0,minor,Flanders,51.0536,3.7253
+69222.0,minor,Flanders,50.9304,5.3383
+,,,,
+197885.0,minor,Wallonia,50.6397,5.5706
+95299.0,minor,Wallonia,50.455,3.952
+57169.0,admin,Belize,17.4986,-88.1886
+762000.0,primary,Littoral,6.4,2.52
+52320.0,primary,Hamilton,32.2942,-64.7839
+632013.0,admin,Cochabamba,-17.3935,-66.157
+2867504.0,primary,La Paz,-16.4942,-68.1475
+264683.0,,Oruro,-17.9667,-67.1167
+3151676.0,admin,Santa Cruz,-17.7892,-63.1975
+179528.0,admin,Tarija,-21.5317,-64.7311
+,,,,
+,,,,
+,,,,
+231626.0,primary,Gaborone,-24.6569,25.9086
+535547.0,,Pará,-1.3658,-48.3719
+366491.0,,Goiás,-16.3269,-48.9528
+685356.0,admin,Sergipe,-10.9111,-37.0717
+226508.0,,São Paulo,-21.7939,-48.1758
+124557.0,,Santa Catarina,-26.9908,-48.635
+366992.0,,São Paulo,-22.3147,-49.0606
+,,,,
+5159000.0,admin,Minas Gerais,-19.9281,-43.9419
+1499641.0,admin,Pará,-1.4558,-48.5039
+309011.0,,Santa Catarina,-26.9189,-49.0658
+326419.0,admin,Roraima,2.82,-60.6719
+3015268.0,primary,Distrito Federal,-15.7939,-47.8828
+405072.0,,Paraíba,-7.2306,-35.8811
+1164098.0,,São Paulo,-22.9009,-47.0573
+906092.0,admin,Mato Grosso do Sul,-20.4686,-54.6222
+387417.0,,Rio de Janeiro,-21.7523,-41.3304
+257172.0,,Paraná,-24.9558,-53.4553
+517451.0,,Rio Grande do Sul,-29.1678,-51.1789
+224013.0,,Santa Catarina,-27.0958,-52.6178
+648766.0,,Minas Gerais,-19.9319,-44.0539
+618124.0,admin,Mato Grosso,-15.5958,-56.0969
+1879355.0,admin,Paraná,-25.4297,-49.2719
+240408.0,,Minas Gerais,-20.1389,-44.8839
+165525.0,,Maranhão,-4.8589,-43.3558
+617528.0,,Bahia,-12.2669,-38.9669
+477798.0,admin,Santa Catarina,-27.5933,-48.553
+2452185.0,admin,Ceará,-3.7275,-38.5275
+258248.0,,Paraná,-25.54,-54.5875
+342112.0,,São Paulo,-20.5389,-47.4008
+1393575.0,admin,Goiás,-16.6806,-49.2564
+278363.0,,Minas Gerais,-18.8508,-41.9489
+36555.0,,Rio Grande do Sul,-29.3789,-50.8739
+1324781.0,,São Paulo,-23.4667,-46.5333
+259337.0,,Maranhão,-5.5258,-47.4758
+265409.0,,Minas Gerais,-19.4678,-42.5369
+702621.0,,Pernambuco,-8.1803,-35.0014
+,,,,
+817511.0,admin,Paraíba,-7.12,-34.88
+470193.0,,Minas Gerais,-21.7642,-43.3503
+401896.0,,São Paulo,-23.1864,-46.8842
+548249.0,,Paraná,-23.31,-51.1628
+474706.0,admin,Amapá,0.033,-51.0653
+1029129.0,admin,Alagoas,-9.6658,-35.735
+1802014.0,admin,Amazonas,-3.1,-60.0167
+430157.0,,Paraná,-23.425,-51.9389
+232006.0,,São Paulo,-22.2139,-49.9458
+413487.0,,Minas Gerais,-16.7322,-43.8636
+980588.0,,Amazonas,-6.9838,-60.2699
+496696.0,,Rio de Janeiro,-22.8833,-43.1036
+,,,,
+247032.0,,Rio Grande do Sul,-29.6778,-51.1308
+694844.0,,São Paulo,-23.5328,-46.7919
+97702.0,,São Paulo,-22.7611,-47.1542
+343132.0,,Rio Grande do Sul,-31.7719,-52.3428
+298142.0,,Rio de Janeiro,-22.505,-43.1789
+342209.0,,São Paulo,-22.725,-47.6489
+355336.0,,Paraná,-25.095,-50.1619
+1484941.0,admin,Rio Grande do Sul,-30.0328,-51.23
+428527.0,admin,Rondônia,-8.7619,-63.9039
+222192.0,,São Paulo,-22.1258,-51.3889
+1555039.0,admin,Pernambuco,-8.0539,-34.8808
+666323.0,,São Paulo,-21.1783,-47.8067
+413418.0,admin,Acre,-9.9781,-67.8117
+12272000.0,admin,Rio de Janeiro,-22.9083,-43.1964
+2886698.0,admin,Bahia,-12.9708,-38.5108
+190139.0,,São Paulo,-22.7539,-47.4139
+283677.0,,Rio Grande do Sul,-29.6839,-53.8069
+710210.0,,São Paulo,-23.6572,-46.5333
+433966.0,,São Paulo,-23.9608,-46.3339
+90497.0,,Minas Gerais,-21.1358,-44.2619
+20251.0,,Rio de Janeiro,-22.1508,-42.9239
+241835.0,,Minas Gerais,-19.4658,-44.2469
+644919.0,,São Paulo,-23.5019,-47.4578
+844483.0,,São Paulo,-23.6939,-46.565
+241389.0,,São Paulo,-22.0178,-47.8908
+688597.0,,São Paulo,-23.1789,-45.8869
+1073893.0,admin,Maranhão,-2.53,-44.3028
+22046000.0,admin,São Paulo,-23.5504,-46.6339
+868075.0,admin,Piauí,-5.0949,-42.8042
+86392.0,,São Paulo,-23.4339,-45.0708
+337092.0,,Minas Gerais,-19.7478,-47.9319
+699097.0,,Minas Gerais,-18.9189,-48.2769
+355875.0,admin,Espírito Santo,-20.3189,-40.3378
+308204.0,,Bahia,-14.8661,-40.8394
+262970.0,,Rio de Janeiro,-22.5231,-44.1042
+,,,,
+62938.0,admin,Gabrovo,42.8711,25.315
+340494.0,admin,Plovdiv,42.1433,24.7489
+1355142.0,primary,Sofia-Grad,42.6979,23.3217
+369162.0,admin,Varna,43.2114,27.9111
+72207.0,admin,Veliko Tarnovo,43.0822,25.6317
+58018.0,admin,Vidin,43.9887,22.8741
+84232.0,admin,Yambol,42.4824,26.5038
+658859.0,primary,Bujumbura Mairie,-3.3825,29.3611
+118242.0,admin,Kampong Cham,12.0,105.45
+2129371.0,primary,Phnom Penh,11.5696,104.921
+2446945.0,admin,Littoral,4.05,9.7
+172657.0,,Ontario,44.3711,-79.6769
+48859.0,,Manitoba,49.8483,-99.95
+1239220.0,,Alberta,51.05,-114.0667
+42602.0,,Prince Edward Island,46.2403,-63.1347
+1062643.0,,Alberta,53.5344,-113.4903
+88054.0,,Ontario,46.49,-81.01
+131794.0,,Ontario,43.55,-80.25
+403131.0,,Nova Scotia,44.6475,-63.5906
+693645.0,,Ontario,43.2567,-79.8692
+142146.0,,British Columbia,49.8881,-119.4956
+470015.0,,Ontario,43.4186,-80.4728
+383822.0,,Ontario,42.9836,-81.2497
+721599.0,,Ontario,43.6,-79.65
+108620.0,,New Brunswick,46.1328,-64.7714
+3519595.0,,Quebec,45.5089,-73.5617
