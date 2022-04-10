@@ -1,0 +1,1073 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article" dtd-version="3.0" xml:lang="en">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">PLoS ONE</journal-id>
+      <journal-id journal-id-type="publisher-id">plos</journal-id>
+      <journal-id journal-id-type="pmc">plosone</journal-id>
+      <journal-title-group>
+        <journal-title>PLoS ONE</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">1932-6203</issn>
+      <publisher>
+        <publisher-name>Public Library of Science</publisher-name>
+        <publisher-loc>San Francisco, USA</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="publisher-id">PONE-D-12-19362</article-id>
+      <article-id pub-id-type="doi">10.1371/journal.pone.0051637</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Research Article</subject>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v2">
+          <subject>Biology</subject>
+          <subj-group>
+            <subject>Neuroscience</subject>
+            <subj-group>
+              <subject>Cognitive neuroscience</subject>
+              <subj-group>
+                <subject>Cognition</subject>
+                <subject>Decision making</subject>
+              </subj-group>
+            </subj-group>
+            <subj-group>
+              <subject>Neuroimaging</subject>
+              <subj-group>
+                <subject>fMRI</subject>
+              </subj-group>
+            </subj-group>
+          </subj-group>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v2">
+          <subject>Medicine</subject>
+          <subj-group>
+            <subject>Mental health</subject>
+          </subj-group>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v2">
+          <subject>Social and behavioral sciences</subject>
+          <subj-group>
+            <subject>Psychology</subject>
+            <subj-group>
+              <subject>Cognitive psychology</subject>
+              <subject>Experimental psychology</subject>
+            </subj-group>
+          </subj-group>
+        </subj-group>
+        <subj-group subj-group-type="Discipline">
+          <subject>Mental Health</subject>
+          <subject>Neuroscience</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>The Decision to Engage Cognitive Control Is Driven by Expected Reward-Value: Neural and Behavioral Evidence</article-title>
+        <alt-title alt-title-type="running-head">Cognitive Control and Decision Making</alt-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>Dixon</surname>
+            <given-names>Matthew L.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="corresp" rid="cor1">
+            <sup>*</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>Christoff</surname>
+            <given-names>Kalina</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1">
+        <label>1</label>
+        <addr-line>Department of Psychology, University of British Columbia, Vancouver, British Columbia, Canada</addr-line>
+      </aff>
+      <aff id="aff2">
+        <label>2</label>
+        <addr-line>Department of Psychiatry, University of British Columbia, Vancouver, British Columbia, Canada</addr-line>
+      </aff>
+      <contrib-group>
+        <contrib contrib-type="editor" xlink:type="simple">
+          <name name-style="western">
+            <surname>de Lange</surname>
+            <given-names>Floris P.</given-names>
+          </name>
+          <role>Editor</role>
+          <xref ref-type="aff" rid="edit1"/>
+        </contrib>
+      </contrib-group>
+      <aff id="edit1">
+        <addr-line>Radboud University Nijmegen, The Netherlands</addr-line>
+      </aff>
+      <author-notes>
+        <corresp id="cor1">* E-mail: <email xlink:type="simple">mattdixon@psych.ubc.ca</email></corresp>
+        <fn fn-type="conflict">
+          <p>The authors have declared that no competing interests exist.</p>
+        </fn>
+        <fn fn-type="con">
+          <p>Conceived and designed the experiments: MLD KC. Performed the experiments: MLD. Analyzed the data: MLD. Wrote the paper: MLD KC.</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2012</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>19</day>
+        <month>12</month>
+        <year>2012</year>
+      </pub-date>
+      <volume>7</volume>
+      <issue>12</issue>
+      <elocation-id>e51637</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>4</day>
+          <month>7</month>
+          <year>2012</year>
+        </date>
+        <date date-type="accepted">
+          <day>2</day>
+          <month>11</month>
+          <year>2012</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-year>2012</copyright-year>
+        <copyright-holder>Dixon, Christoff</copyright-holder>
+        <license xlink:type="simple">
+          <license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Cognitive control is a fundamental skill reflecting the active use of task-rules to guide behavior and suppress inappropriate automatic responses. Prior work has traditionally used paradigms in which subjects are told when to engage cognitive control. Thus, surprisingly little is known about the factors that influence individuals' initial decision of whether or not to act in a reflective, rule-based manner. To examine this, we took three classic cognitive control tasks (Stroop, Wisconsin Card Sorting Task, Go/No-Go task) and created novel ‘free-choice’ versions in which human subjects were free to select an automatic, pre-potent action, or an action requiring rule-based cognitive control, and earned varying amounts of money based on their choices. Our findings demonstrated that subjects' decision to engage cognitive control was driven by an explicit representation of monetary rewards expected to be obtained from rule-use. Subjects rarely engaged cognitive control when the expected outcome was of equal or lesser value as compared to the value of the automatic response, but frequently engaged cognitive control when it was expected to yield a larger monetary outcome. Additionally, we exploited fMRI-adaptation to show that the lateral prefrontal cortex (LPFC) represents associations between rules and expected reward outcomes. Together, these findings suggest that individuals are more likely to act in a reflective, rule-based manner when they expect that it will result in a desired outcome. Thus, choosing to exert cognitive control is not simply a matter of reason and willpower, but rather, conforms to standard mechanisms of value-based decision making. Finally, in contrast to current models of LPFC function, our results suggest that the LPFC plays a direct role in representing motivational incentives.</p>
+      </abstract>
+      <funding-group>
+        <funding-statement>This work was supported by the Natural Sciences and Engineering Council of Canada, grant #05-5918 (to KC). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</funding-statement>
+      </funding-group>
+      <counts>
+        <page-count count="12"/>
+      </counts>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="s1">
+      <title>Introduction</title>
+      <p>Everyday life involves constant decision making―what to eat, what to wear, who to talk to, what to say, etc. Abundant work has examined the neurocognitive mechanisms of decision making, and a common value-based framework has emerged, and suggests quite simply, that decisions are made by estimating the value of each option and then selecting the option with the higher expected value <xref ref-type="bibr" rid="pone.0051637-Rangel1">[1]</xref>. The orbitofrontal cortex (OFC) plays an important role in this process by representing the relationship between different options and expected motivational outcomes <xref ref-type="bibr" rid="pone.0051637-Walton1">[2]</xref>, <xref ref-type="bibr" rid="pone.0051637-Wallis1">[3]</xref>, <xref ref-type="bibr" rid="pone.0051637-Gottfried1">[4]</xref>. To date, most studies have utilized simple decision making paradigms, for example offering a choice between two different food options. As such, little is known about more complex decision making involving explicit rules for behavior. Consider a scenario in which a boss asks an employee to prepare a presentation summarizing the company's recent financial progress. This task requires cognitive control―actively holding in mind task rules in order to make an appropriate response (and suppressing automatic, pre-potent responses when necessary). What determines whether the employee will follow through and decide to actively hold in mind a set of rules for completing this task instead of going for a coffee break or doing something else that does not require cognitive control?</p>
+      <p>The traditional perspective is that the capacity for reflective, rule-based behavior is largely based on cold cognitive processes such as reason, knowledge of social standards, self-monitoring, and willpower, all of which serve to suppress the influence of desires that provoke unwanted behaviors <xref ref-type="bibr" rid="pone.0051637-Diekhof1">[5]</xref>, <xref ref-type="bibr" rid="pone.0051637-Heatherton1">[6]</xref>, <xref ref-type="bibr" rid="pone.0051637-Hofmann1">[7]</xref>. However, this idea, predicated on an antithesis between reason and desire (or motivational processing more broadly), does not satisfactorily address the question of <italic>why</italic> individuals engage cognitive control in the first place. We follow Baumeister and Vohs <xref ref-type="bibr" rid="pone.0051637-Baumeister1">[8]</xref> and Fujita <xref ref-type="bibr" rid="pone.0051637-Fujita1">[9]</xref> in suggesting that motivation is a crucial element of any decision, including those involving self-regulation and rule-based behavior. The proposal here, is that the decision to engage cognitive control is based on value-based mechanisms just like the decision of which fruit to eat with lunch. Thus, in our example, we suggest that the decision to act in a deliberate, rule-based manner and complete the proposal is dependent on the expectation that this will lead to a desired outcome (e.g., praise from the boss; a monthly paycheck).</p>
+      <p>It is now firmly established that cognitive control processes are influenced by motivational incentives <xref ref-type="bibr" rid="pone.0051637-Jimura1">[10]</xref>, <xref ref-type="bibr" rid="pone.0051637-Savine1">[11]</xref>, <xref ref-type="bibr" rid="pone.0051637-Pessoa1">[12]</xref>, <xref ref-type="bibr" rid="pone.0051637-Watanabe1">[13]</xref>, <xref ref-type="bibr" rid="pone.0051637-Watanabe2">[14]</xref>, <xref ref-type="bibr" rid="pone.0051637-Leon1">[15]</xref>, <xref ref-type="bibr" rid="pone.0051637-Kouneiher1">[16]</xref>, <xref ref-type="bibr" rid="pone.0051637-Pochon1">[17]</xref>, and recent work has additionally shown that individuals engage cognitive control during decision making, e.g., choosing a healthy over a tasty food option <xref ref-type="bibr" rid="pone.0051637-Hare1">[18]</xref>, a larger, delayed reward over a smaller, immediate reward <xref ref-type="bibr" rid="pone.0051637-Figner1">[19]</xref>, and choosing to promote fairness at the cost of immediate financial benefit <xref ref-type="bibr" rid="pone.0051637-Baumgartner1">[20]</xref>, <xref ref-type="bibr" rid="pone.0051637-Knoch1">[21]</xref>. However, prior work has not directly examined the factors underlying the <italic>initial decision</italic> to guide behavior based on explicit rules for action.</p>
+      <p>Our hypothesis suggests that a critical computation underlying the decision to engage cognitive control is forming associations between task-rules and expected motivational outcomes. While the OFC is critical for representing associations between expected outcomes and simple options (e.g., a visual object) <xref ref-type="bibr" rid="pone.0051637-Walton1">[2]</xref>, <xref ref-type="bibr" rid="pone.0051637-Wallis1">[3]</xref>, <xref ref-type="bibr" rid="pone.0051637-Gottfried1">[4]</xref>, we hypothesized that the lateral prefrontal cortex (LPFC) may be crucial in the case of rule-outcome associations. The LPFC has been traditionally considered a purely “cognitive” region that supports rules for behaviour, and is not involved in motivational processes. However, accumulating evidence is more consistent with the idea that the LPFC does in fact play a direct role in motivational processes. First, the LPFC shares anatomical connections with both rule-related areas (posterior parietal, lateral temporal, and pre-motor cortices) and motivation-related areas (orbitofrontal cortex, rostral anterior cingulate, and insula) (for an overview see <xref ref-type="bibr" rid="pone.0051637-Yeterian1">[22]</xref>). Second, electrophysiological and neuroimaging studies have demonstrated that the LPFC is often active during reward anticipation and receipt <xref ref-type="bibr" rid="pone.0051637-Wallis2">[23]</xref>, <xref ref-type="bibr" rid="pone.0051637-Watanabe3">[24]</xref>, <xref ref-type="bibr" rid="pone.0051637-Histed1">[25]</xref>, <xref ref-type="bibr" rid="pone.0051637-Kim1">[26]</xref>, <xref ref-type="bibr" rid="pone.0051637-Kahnt1">[27]</xref>, <xref ref-type="bibr" rid="pone.0051637-Li1">[28]</xref>. Finally, recent neuroeconomic studies have revealed a direct correspondence between LPFC activity and the subjective value assigned to choice options <xref ref-type="bibr" rid="pone.0051637-Plassmann1">[29]</xref>, preference for temporally delayed rewards <xref ref-type="bibr" rid="pone.0051637-Figner1">[19]</xref>, <xref ref-type="bibr" rid="pone.0051637-Kim1">[26]</xref>, <xref ref-type="bibr" rid="pone.0051637-McClure1">[30]</xref>, decision making involving risk <xref ref-type="bibr" rid="pone.0051637-Tobler1">[31]</xref>, <xref ref-type="bibr" rid="pone.0051637-Weber1">[32]</xref>, tracking action-outcome history <xref ref-type="bibr" rid="pone.0051637-Seo1">[33]</xref>, and a decision making strategy that focuses on maximizing the overall probability of winning money <xref ref-type="bibr" rid="pone.0051637-Venkatraman1">[34]</xref>.</p>
+      <p>In Experiment 1, we modified three classic measures of cognitive control [Stroop, Wisconsin Card Sorting Task (WCST), and the Go/No-Go task] to provide a simple laboratory measure of decision making about rule-based behavior. We examined whether the decision to select a deliberate, rule-based action rather than an automatic pre-potent action is influenced by expected motivational outcomes. In Experiment 2, we used functional magnetic resonance imaging (fMRI) to look for neural evidence of rule-outcome associations. In particular, we took advantage of fMRI-adaptation, which has been widely used to directly examine the specific information represented by different brain regions <xref ref-type="bibr" rid="pone.0051637-GrillSpector1">[35]</xref>, <xref ref-type="bibr" rid="pone.0051637-Henson1">[36]</xref>. fMRI-adaptation is based on the fact that if a brain region represents a given piece of information, it will show a change in the magnitude of activation when that information is repeated as compared to when it is presented for the first time. Repeated relative to novel information often elicits a smaller neural response (repetition suppression), although in some cases a greater response is observed (repetition enhancement). fMRI-adaptation is most commonly used in studies of visual processing, but has also been used to examine the neural basis of stimulus-response learning <xref ref-type="bibr" rid="pone.0051637-Salimpoor1">[37]</xref>, mirror neurons <xref ref-type="bibr" rid="pone.0051637-Kilner1">[38]</xref>, semantic decision making <xref ref-type="bibr" rid="pone.0051637-Race1">[39]</xref>, theory of mind <xref ref-type="bibr" rid="pone.0051637-Jenkins1">[40]</xref> and rule representation <xref ref-type="bibr" rid="pone.0051637-DeBaene1">[41]</xref>. Using a 2×2 factorial design in which the factors were rules (novel versus repeated) and reward outcome (novel versus repeated), we examined whether the LPFC shows fMRI-adaptation when there is repetition of a specific rule-outcome pairing, relative to when the pairing is novel.</p>
+    </sec>
+    <sec id="s2">
+      <title>Results</title>
+      <sec id="s2a">
+        <title>Behavioral Results</title>
+        <p>Subjects performed three different tasks (Stroop task, WCST, and Go/No-Go task) with the same structure. First, during a training period, an automatic pre-potent response was established by having subjects respond to the stimuli in one way over the course of many trials (e.g., Stroop: respond based on the word meaning). Second, there was a free-choice decision making period during which subjects had the option of selecting the automatic, pre-potent response, or an alternative response requiring cognitive control (e.g., Stroop: responding based on the ink colour now requires active maintenance of the task rules to overcome the pre-potent tendency to respond based on the word meaning). Prior to each mini-block of four decision making trials, subjects saw a screen indicating the amount of money that could be earned for selecting each response type (e.g., Stroop: word meaning = 25¢, ink color = 50¢). There was no feedback after choices; thus, decisions were most likely driven by an explicit representation of the expected monetary outcomes.</p>
+        <p>The results demonstrated that reaction times were faster when subjects selected the automatic response relative to the cognitive control-based response during the free-choice period, suggesting that the training period indeed led to a pre-potent response (paired t-test: Stroop: <italic>p</italic> = .059; WCST: <italic>p</italic>&lt;.001; RTs could not be compared for the Go/No-Go task given that the cognitive control response was in fact withholding a response). <xref ref-type="fig" rid="pone-0051637-g001">Figure 1</xref> illustrates the percentage of cognitive control responses during the free-choice period as a function of expected monetary rewards. Separate one-way repeated measures ANOVAs with expected reward amount as the independent variable indicated that for each task, subjects' decisions during the free-choice period were robustly influenced by the size of the expected monetary rewards for each response type [Stroop: <italic>F</italic>(4, 60) = 15.28, <italic>p</italic>&lt;.001; WCST: <italic>F</italic>(4, 60) = 24.93, <italic>p</italic>&lt;.001; Go/No-Go: <italic>F</italic>(4, 60) = 17.39, <italic>p</italic>&lt;.001]. Subjects rarely engaged cognitive control when the expected monetary reward was equal to, or less than the expected monetary reward for the automatic, pre-potent response. In contrast, subjects frequently engaged cognitive control when it was expected to yield the larger payoff (i.e., 25¢/50 ¢ and 25¢/$1.00 conditions) (<xref ref-type="fig" rid="pone-0051637-g001">Figure 1</xref>). These findings provide direct evidence that the decision to engage cognitive control is driven by explicit expectations of motivational outcomes that will result from rule-use.</p>
+        <fig id="pone-0051637-g001" position="float">
+          <object-id pub-id-type="doi">10.1371/journal.pone.0051637.g001</object-id>
+          <label>Figure 1</label>
+          <caption>
+            <title>Behavioral Results.</title>
+            <p>Percentage (%) of choices in which cognitive control was selected during the free-choice period as a function of expected monetary rewards. Error bars represent one (within-subject) standard error of the mean based on Loftus and Masson <xref ref-type="bibr" rid="pone.0051637-Loftus1">[69]</xref>.</p>
+          </caption>
+          <graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0051637.g001" position="float" xlink:type="simple"/>
+        </fig>
+        <p>Many subjects remarked that the WCST was the easiest task, whereas the Stroop task was the most difficult, and interestingly, decisions were influenced by this apparent difference in task difficulty. A 2 (task: Stroop vs WCST) ×5 (expected reward amount) repeated measures ANOVA revealed that subjects were more likely to engage cognitive control in the WCST compared to the Stroop task [main effect of task: <italic>F</italic>(1, 15) = 5.68, <italic>p</italic> = .031], especially when engaging cognitive control was the more rewarding option [task x condition interaction: <italic>F</italic>(4, 60) = 2.58, <italic>p</italic> = .046] (<xref ref-type="fig" rid="pone-0051637-g001">Figure 1</xref>). This result could reflect a greater number of unsuccessful attempts at engaging cognitive control in the Stroop, or greater intentional selection of the automatic response. To differentiate, we performed an analysis at the level of mini-blocks. Subjects were aware that earning money was contingent on correct performance across each trial of a given mini-block. Therefore, selection of the cognitive control response on 3/4 trials would suggest one incorrect response during that mini-block, rather than intentional selection of the automatic response. Conversely, greater selection of the automatic response in the Stroop task would be reflected in a greater number of mini-blocks in which subjects selected the automatic response on 3/4 or 4/4 trials. This latter scenario is what we found [main effect of task: <italic>F</italic>(1, 15) = 7.34, <italic>p</italic> = .016], suggesting that the difference between the Stroop and WCST was driven by greater selection of the automatic response in the Stroop task.</p>
+      </sec>
+      <sec id="s2b">
+        <title>Neuroimaging Results</title>
+        <p>Having established that the decision to engage cognitive control is based on expected motivational outcomes, we next looked for evidence that the LPFC represents associations between rules and expected outcomes. Such associations should be a critical neural computation underlying the decision process. Although recent work has shown that motivational incentives modulate cognitive control related activation in the LPFC (e.g., <xref ref-type="bibr" rid="pone.0051637-Jimura1">[10]</xref>, <xref ref-type="bibr" rid="pone.0051637-Savine1">[11]</xref>, it is assumed that this reflects an amplified representation of just the task rules <xref ref-type="bibr" rid="pone.0051637-Kouneiher1">[16]</xref>. However, it is just as possible that this pattern actually reflects a representation of the motivational outcome in relation to the rules. Thus, prior work has been unable to determine the specific nature of the information represented by the LPFC. To circumvent this interpretational limitation inherent to standard paradigms, we took advantage of fMRI-adaptation, a widely used as a tool for directly examining the specific information represented by different brain regions <xref ref-type="bibr" rid="pone.0051637-GrillSpector1">[35]</xref>, <xref ref-type="bibr" rid="pone.0051637-Henson1">[36]</xref>.</p>
+        <p>In our paradigm (see Material and Methods and <xref ref-type="fig" rid="pone-0051637-g002">Figure 2</xref>), each trial started with an instruction cue that indicated one of two rules to use (male/female face discrimination, versus abstract/concrete word discrimination), and also indicated one of two expected motivational outcomes (25¢ monetary reward, versus no monetary reward). Following presentation of the instruction cue, subjects made a button response to a face or word stimulus. The key feature of the task is that on certain trials, a second instruction cue appeared prior to the stimulus, and relative to the first instruction cue, we manipulated whether there was repetition of the rules, repetition of the outcome, repetition of the rule-outcome pairing, or presentation of a novel rule-outcome pairing. (Although this task differs in surface features from the behavioral tasks, it shares the core cognitive control requirement of active maintenance of task rules due to the constant switching of rules from trial to trial. Moreover, this task was designed to minimize response and perceptual conflict, thus allowing us to examine the neural representation of rule-outcome associations in the absence of potential confounding variables.)</p>
+        <fig id="pone-0051637-g002" position="float">
+          <object-id pub-id-type="doi">10.1371/journal.pone.0051637.g002</object-id>
+          <label>Figure 2</label>
+          <caption>
+            <title>Trial Structure for the fMRI Experiment.</title>
+            <p>After a variable duration fixation cross, an instruction cue signaled the currently relevant rules (profile of faces = male/female rule; book = abstract/concrete rule) and whether or not to expect a monetary reward (blue vase = no money; bills = 25¢). This was followed by a variable duration delay period and then a word or face stimulus, during which subjects made a button response. Finally, a screen revealed whether money had been earned on that trial and cumulative winnings. On key trials, a second instruction cue appeared before the stimulus. Across the two instruction cues, we varied whether there was repetition of the rules, expected reward, both, or neither.</p>
+          </caption>
+          <graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0051637.g002" position="float" xlink:type="simple"/>
+        </fig>
+        <p>To examine fMRI-adaptation, we analyzed activation during the second instruction cue according to a 2 (rules: novel versus repeated) ×2 (outcome: novel versus repeated) factorial design. If the LPFC shows an interaction effect, demonstrating fMRI-adaptation when there is repetition of a specific rule-outcome pairing, but not when there is repetition of just the rules alone or just the outcome alone, then this would provide compelling evidence that the LPFC represents associations between rules and outcomes. fMRI-adaptation could manifest in two ways: 1) smaller activation for a repeated rule-outcome pairing relative to a novel pairing (repetition suppression), which could result from lower processing demands when re-activating a recently experienced rule-outcome pairing; or 2) greater activation for a repeated rule-outcome pairing (repetition enhancement), which could result from a reinforced expectation that a particular rule-outcome pairing would be used on that trial. For our purposes, the direction of the fMRI-adaptation effect was not important. Rather, the important question was whether we would observe fMRI-adaptation selectively during the repeated rule-outcome pairing condition.</p>
+        <sec id="s2b1">
+          <title>Behavioral Results</title>
+          <p>Consistent with the idea that subjects were representing the relationship between rules and expected motivational outcomes, subjects were faster to respond during single cue trials when money was available to be won (<italic>M</italic><sub>money</sub> = 857.70, <italic>SD</italic> = 58.77) as compared to when no money was available (<italic>M</italic><sub>no</sub><sub>money</sub> = 898.83, <italic>SD</italic> = 92.54) [<italic>t</italic>(14) = 2.82, <italic>p</italic> = .014; two-tailed]. There was no difference in accuracy (<italic>M</italic><sub>money</sub> = 98.13%, <italic>SD</italic> = 3.66% vs <italic>M</italic><sub>no</sub><sub>money</sub> = 96.87%, <italic>SD</italic> = 2.95%) (<italic>p</italic>&gt;.3). This incentive effect suggests that subjects were paying attention to the instruction cues and using them to prepare for each trial.</p>
+        </sec>
+        <sec id="s2b2">
+          <title>Validation of the fMRI-Adaptation Paradigm</title>
+          <p>We first examined the main effects of our 2×2 factorial design to validate our paradigm. Canonical regions associated with reward processing were expected to show fMRI-adaptation when reward information alone was repeated, and canonical regions associated with rule processing were expected to show fMRI-adaptation when rule information alone was repeated. Indeed, consistent with prior work <xref ref-type="bibr" rid="pone.0051637-Plassmann1">[29]</xref>, <xref ref-type="bibr" rid="pone.0051637-McClure1">[30]</xref>, <xref ref-type="bibr" rid="pone.0051637-Kable1">[42]</xref>, repetition of the expected monetary reward outcome was associated with repetition suppression (i.e., a smaller BOLD response) in the rostral (pregenual) anterior cingulate cortex (rACC) extending into the anterior mid-cingulate cortex (aMCC), bilateral nucleus accumbens (NAcc), globus pallidus, bilateral anterior insula, caudal OFC, posterior cingulate cortex (PCC), near the mid-brain dopaminergic nuclei, and left inferior frontal gyrus (<xref ref-type="supplementary-material" rid="pone.0051637.s001">Table S1</xref>; <italic>Z</italic>&gt;2.57, <italic>p</italic>&lt;.05 FWE cluster-corrected).</p>
+          <p>Consistent with prior work examining rule processing <xref ref-type="bibr" rid="pone.0051637-DeBaene1">[41]</xref>, <xref ref-type="bibr" rid="pone.0051637-Bunge1">[43]</xref>, <xref ref-type="bibr" rid="pone.0051637-Koechlin1">[44]</xref>, repetition of the rules was associated with repetition suppression in the left inferior frontal gyrus (IFG; pars triangularis), left ventral premotor cortex extending into the posterior IFG (pars opercularis), supplementary motor area, aMCC, cerebellum, and left lateral temporal cortex including the posterior middle temporal gyrus (<xref ref-type="supplementary-material" rid="pone.0051637.s002">Table S2</xref>; <italic>Z</italic>&gt;2.57, <italic>p</italic>&lt;.05 FWE cluster-corrected). Repetition enhancement for repeated rules was observed in the left rostrolateral prefrontal cortex, left posterior middle frontal gyrus, and bilateral inferior parietal lobule. Together these findings demonstrate that key reward related areas exhibited fMRI-adaptation when just the motivational outcome was repeated, and key rule related areas exhibited fMRI-adaptation when just the rules were repeated.</p>
+        </sec>
+        <sec id="s2b3">
+          <title>The LPFC Represents Rule-Outcome Associations</title>
+          <p>To examine our main question of whether the LPFC supports rule-outcome associations, we looked for an interaction between the rule and reward outcome factors, i.e., fMRI-adaptation when there is repetition of a specific rule-outcome pairing. Three areas within the right LPFC demonstrated an interaction in the form of repetition enhancement: 1) the inferior frontal sulcus (IFS; ∼ BA 45/46) extending onto the adjacent inferior and middle frontal gyri; 2) the pre-motor cortex (PMC) extending into the inferior frontal junction (IFJ; ∼BA 44/6); 3) the posterior dorsolateral prefrontal cortex (pDLPFC; ∼BA 8) (<xref ref-type="fig" rid="pone-0051637-g003">Figure 3a</xref> and <xref ref-type="table" rid="pone-0051637-t001">Table 1</xref>; <italic>Z</italic>&gt;2.57, <italic>p</italic>&lt;.05 FWE cluster-corrected). The time-courses extracted from these regions (<xref ref-type="fig" rid="pone-0051637-g003">Figure 3b</xref>) demonstrated that activation increased for a repeated rule-outcome pairing relative to the novel rule-outcome pairing condition. Importantly, our exclusive masking analysis (see <xref ref-type="sec" rid="s4">Materials and Methods</xref>) ensured, and visual inspection of the timecourse confirms, that these regions were not sensitive to repetition of the rules alone, or repetition of the reward outcome alone. Thus, these right LPFC areas are not showing an additive effect, but rather, are uniquely sensitive to specific rule-outcome associations. There were no behavioral differences across conditions [reaction time: <italic>F</italic>(3, 42) = 1.232, <italic>p</italic> = .31; accuracy: <italic>F</italic>(3, 42) = 1.196, <italic>p</italic> = .32], ruling this out as a confounding influence.</p>
+          <fig id="pone-0051637-g003" position="float">
+            <object-id pub-id-type="doi">10.1371/journal.pone.0051637.g003</object-id>
+            <label>Figure 3</label>
+            <caption>
+              <title>Regions Showing Repetition Enhancement for Repetition of a Specific Rule-Outcome Pairing (<italic>Z</italic>&gt;2.57, <italic>p</italic>&lt;.05 FWE cluster corrected for the whole-brain).</title>
+              <p><bold>A.</bold> Right lateral view showing regions of the LPFC exhibiting this effect. <bold>B</bold>. Activation time-course for the IFS, IFJ, and posterior DLPFC time-locked to the onset of the second instruction. The color scale denotes t-values. Nov = novel, rep = repeated. Error bars represent one (within-subject) standard error of the mean based on Loftus and Masson <xref ref-type="bibr" rid="pone.0051637-Loftus1">[69]</xref>.</p>
+            </caption>
+            <graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0051637.g003" position="float" xlink:type="simple"/>
+          </fig>
+          <table-wrap id="pone-0051637-t001" position="float">
+            <object-id pub-id-type="doi">10.1371/journal.pone.0051637.t001</object-id>
+            <label>Table 1</label>
+            <caption>
+              <title>Regions exhibiting fMRI-adaptation for repetition of rules and reward.</title>
+            </caption>
+            <alternatives>
+              <graphic id="pone-0051637-t001-1" position="float" mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0051637.t001" xlink:type="simple"/>
+              <table>
+                <colgroup span="1">
+                  <col align="left" span="1"/>
+                  <col align="center" span="1"/>
+                  <col align="center" span="1"/>
+                  <col align="center" span="1"/>
+                  <col align="center" span="1"/>
+                  <col align="center" span="1"/>
+                  <col align="center" span="1"/>
+                </colgroup>
+                <thead>
+                  <tr>
+                    <td align="left" rowspan="1" colspan="1"/>
+                    <td align="left" rowspan="1" colspan="1"/>
+                    <td align="left" rowspan="1" colspan="1"/>
+                    <td colspan="3" align="left" rowspan="1">
+                      <italic>MNI coordinates</italic>
+                    </td>
+                    <td align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td align="left" rowspan="1" colspan="1">
+                      <italic>Region</italic>
+                    </td>
+                    <td align="left" rowspan="1" colspan="1">
+                      <italic>Hemisphere</italic>
+                    </td>
+                    <td align="left" rowspan="1" colspan="1">
+                      <italic>BA</italic>
+                    </td>
+                    <td align="left" rowspan="1" colspan="1">
+                      <italic>X</italic>
+                    </td>
+                    <td align="left" rowspan="1" colspan="1">
+                      <italic>Y</italic>
+                    </td>
+                    <td align="left" rowspan="1" colspan="1">
+                      <italic>Z</italic>
+                    </td>
+                    <td align="left" rowspan="1" colspan="1">
+                      <italic>Z-score</italic>
+                    </td>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td colspan="7" align="left" rowspan="1">
+                      <italic>Repeated rules and reward &gt; novel rules and reward (repetition enhancement for rules and reward)</italic>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left" rowspan="1" colspan="1">IFS</td>
+                    <td align="left" rowspan="1" colspan="1">Right</td>
+                    <td align="left" rowspan="1" colspan="1">45/46</td>
+                    <td align="left" rowspan="1" colspan="1">48</td>
+                    <td align="left" rowspan="1" colspan="1">36</td>
+                    <td align="left" rowspan="1" colspan="1">12</td>
+                    <td align="left" rowspan="1" colspan="1">4.72</td>
+                  </tr>
+                  <tr>
+                    <td align="left" rowspan="1" colspan="1">PMC</td>
+                    <td align="left" rowspan="1" colspan="1">Right</td>
+                    <td align="left" rowspan="1" colspan="1">6/44</td>
+                    <td align="left" rowspan="1" colspan="1">51</td>
+                    <td align="left" rowspan="1" colspan="1">12</td>
+                    <td align="left" rowspan="1" colspan="1">27</td>
+                    <td align="left" rowspan="1" colspan="1">4.82</td>
+                  </tr>
+                  <tr>
+                    <td align="left" rowspan="1" colspan="1">IFJ</td>
+                    <td align="left" rowspan="1" colspan="1">Right</td>
+                    <td align="left" rowspan="1" colspan="1">6/8/44</td>
+                    <td align="left" rowspan="1" colspan="1">42</td>
+                    <td align="left" rowspan="1" colspan="1">6</td>
+                    <td align="left" rowspan="1" colspan="1">33</td>
+                    <td align="left" rowspan="1" colspan="1">4.49</td>
+                  </tr>
+                  <tr>
+                    <td align="left" rowspan="1" colspan="1">pDLPFC</td>
+                    <td align="left" rowspan="1" colspan="1">Right</td>
+                    <td align="left" rowspan="1" colspan="1">8</td>
+                    <td align="left" rowspan="1" colspan="1">33</td>
+                    <td align="left" rowspan="1" colspan="1">15</td>
+                    <td align="left" rowspan="1" colspan="1">45</td>
+                    <td align="left" rowspan="1" colspan="1">3.89</td>
+                  </tr>
+                  <tr>
+                    <td align="left" rowspan="1" colspan="1">aIPS</td>
+                    <td align="left" rowspan="1" colspan="1">Right</td>
+                    <td align="left" rowspan="1" colspan="1">40</td>
+                    <td align="left" rowspan="1" colspan="1">54</td>
+                    <td align="left" rowspan="1" colspan="1">−42</td>
+                    <td align="left" rowspan="1" colspan="1">54</td>
+                    <td align="left" rowspan="1" colspan="1">4.78</td>
+                  </tr>
+                  <tr>
+                    <td align="left" rowspan="1" colspan="1">vIPS</td>
+                    <td align="left" rowspan="1" colspan="1">Right</td>
+                    <td align="left" rowspan="1" colspan="1">7/19</td>
+                    <td align="left" rowspan="1" colspan="1">33</td>
+                    <td align="left" rowspan="1" colspan="1">−78</td>
+                    <td align="left" rowspan="1" colspan="1">36</td>
+                    <td align="left" rowspan="1" colspan="1">4.73</td>
+                  </tr>
+                  <tr>
+                    <td align="left" rowspan="1" colspan="1">FFG</td>
+                    <td align="left" rowspan="1" colspan="1">Right</td>
+                    <td align="left" rowspan="1" colspan="1">19</td>
+                    <td align="left" rowspan="1" colspan="1">39</td>
+                    <td align="left" rowspan="1" colspan="1">−60</td>
+                    <td align="left" rowspan="1" colspan="1">−12</td>
+                    <td align="left" rowspan="1" colspan="1">5.09</td>
+                  </tr>
+                  <tr>
+                    <td align="left" rowspan="1" colspan="1">MOG</td>
+                    <td align="left" rowspan="1" colspan="1">Left</td>
+                    <td align="left" rowspan="1" colspan="1">18</td>
+                    <td align="left" rowspan="1" colspan="1">−33</td>
+                    <td align="left" rowspan="1" colspan="1">−87</td>
+                    <td align="left" rowspan="1" colspan="1">18</td>
+                    <td align="left" rowspan="1" colspan="1">3.86</td>
+                  </tr>
+                  <tr>
+                    <td colspan="7" align="left" rowspan="1">
+                      <italic>Repeated rules and reward &lt; novel rules and reward (repetition suppression for rules and reward)</italic>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left" rowspan="1" colspan="1">Cerebellum</td>
+                    <td align="left" rowspan="1" colspan="1">Right</td>
+                    <td align="left" rowspan="1" colspan="1"/>
+                    <td align="left" rowspan="1" colspan="1">36</td>
+                    <td align="left" rowspan="1" colspan="1">−60</td>
+                    <td align="left" rowspan="1" colspan="1">−51</td>
+                    <td align="left" rowspan="1" colspan="1">6.26</td>
+                  </tr>
+                </tbody>
+              </table>
+            </alternatives>
+            <table-wrap-foot>
+              <fn id="nt101">
+                <label/>
+                <p>Reported regions are significant at <italic>Z</italic>&gt;2.57, <italic>p</italic>&lt;.05 FWE cluster corrected for the whole-brain volume (k&gt;112). BA = Brodmann area. IFS = inferior frontal sulcus; PMC = pre-motor cortex; IFJ = inferior frontal junction; pDLPFC = posterior dorsolateral prefrontal cortex; aIPS = anterior intraparietal sulcus; vIPS = ventral intraparietal sulcus; FFG = fusiform gyrus; MOG = middle occipital gyrus.</p>
+              </fn>
+            </table-wrap-foot>
+          </table-wrap>
+        </sec>
+        <sec id="s2b4">
+          <title>The IFS is Functionally Connected to Rule and Reward Regions</title>
+          <p>Based on the anatomical connections of the LPFC and the hypothesized associative function, we predicted that the LPFC would exhibit tonically coupled activity with rule related and outcome related regions. Consistent with this idea, and reinforcing the fMRI-adaptation findings, we found that the LPFC peak in the IFS exhibited significant functional connectivity with both rule and reward outcome processing regions across the entire experimental time-course (<xref ref-type="fig" rid="pone-0051637-g004">Figure 4</xref> and <xref ref-type="table" rid="pone-0051637-t002">Table 2</xref>; <italic>Z</italic>&gt;2.57, <italic>p</italic>&lt;.05 FWE cluster-corrected). IFS activation was significantly correlated with activation in rule processing areas including bilateral frontoparietal and lateral temporal cortices, as well as the aMCC, and cerebellum. Additionally, IFS activation was significantly correlated with activation in reward outcome processing areas including the rACC, bilateral caudate/NAcc, PCC, right OFC, and bilateral anterior insula. This pattern of connectivity is consistent with the idea that the IFS supports associations between rules and reward outcomes. Notably, these correlations probably reflect both spontaneous fluctuations and task-based influences (i.e., the functional requirement of processing rules and motivational outcomes).</p>
+          <fig id="pone-0051637-g004" position="float">
+            <object-id pub-id-type="doi">10.1371/journal.pone.0051637.g004</object-id>
+            <label>Figure 4</label>
+            <caption>
+              <title>Regions Exhibiting Functional Connectivity with the IFS Across the Entire Time-Course (<italic>Z</italic>&gt;2.57, <italic>p</italic>&lt;.05 FWE cluster corrected for the whole-brain).</title>
+              <p>Rule areas (blue arrows) include bilateral lateral prefrontal cortex (LPFC), anterior mid-cingulate cortex/dorsomedial prefrontal cortex (aMCC/DMPFC), posterior middle temporal gyrus (pMTG), and intraparietal sulcus (IPS). Reward areas (red arrows) include rostral anterior and posterior cingulate cortices (rACC, PCC), orbitofrontal cortex (OFC), caudate/nucleus accumbens (NAcc), and insula. The color scale denotes t-values, and the numerical values above the images correspond to MNI coordinates. For axial and coronal slices, the right hemisphere is on the right side of the image. LH = left hemisphere, RH = right hemisphere.</p>
+            </caption>
+            <graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0051637.g004" position="float" xlink:type="simple"/>
+          </fig>
+          <table-wrap id="pone-0051637-t002" position="float">
+            <object-id pub-id-type="doi">10.1371/journal.pone.0051637.t002</object-id>
+            <label>Table 2</label>
+            <caption>
+              <title>Regions exhibiting significant functional connectivity with the IFS.</title>
+            </caption>
+            <alternatives>
+              <graphic id="pone-0051637-t002-2" position="float" mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0051637.t002" xlink:type="simple"/>
+              <table>
+                <colgroup span="1">
+                  <col align="left" span="1"/>
+                  <col align="center" span="1"/>
+                  <col align="center" span="1"/>
+                  <col align="center" span="1"/>
+                  <col align="center" span="1"/>
+                  <col align="center" span="1"/>
+                  <col align="center" span="1"/>
+                </colgroup>
+                <thead>
+                  <tr>
+                    <td align="left" rowspan="1" colspan="1"/>
+                    <td align="left" rowspan="1" colspan="1"/>
+                    <td align="left" rowspan="1" colspan="1"/>
+                    <td colspan="3" align="left" rowspan="1">
+                      <italic>MNI coordinates</italic>
+                    </td>
+                    <td align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td align="left" rowspan="1" colspan="1">
+                      <italic>Region</italic>
+                    </td>
+                    <td align="left" rowspan="1" colspan="1">
+                      <italic>Hemisphere</italic>
+                    </td>
+                    <td align="left" rowspan="1" colspan="1">
+                      <italic>BA</italic>
+                    </td>
+                    <td align="left" rowspan="1" colspan="1">
+                      <italic>X</italic>
+                    </td>
+                    <td align="left" rowspan="1" colspan="1">
+                      <italic>Y</italic>
+                    </td>
+                    <td align="left" rowspan="1" colspan="1">
+                      <italic>Z</italic>
+                    </td>
+                    <td align="left" rowspan="1" colspan="1">
+                      <italic>Z-score</italic>
+                    </td>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td align="left" rowspan="1" colspan="1">pIFG/IFJ/ventral PMC</td>
+                    <td align="left" rowspan="1" colspan="1">Right</td>
+                    <td align="left" rowspan="1" colspan="1">44/6</td>
+                    <td align="left" rowspan="1" colspan="1">57</td>
+                    <td align="left" rowspan="1" colspan="1">18</td>
+                    <td align="left" rowspan="1" colspan="1">27</td>
+                    <td align="left" rowspan="1" colspan="1">5.03</td>
+                  </tr>
+                  <tr>
+                    <td align="left" rowspan="1" colspan="1">RLPFC</td>
+                    <td align="left" rowspan="1" colspan="1">Left</td>
+                    <td align="left" rowspan="1" colspan="1">10/45</td>
+                    <td align="left" rowspan="1" colspan="1">−54</td>
+                    <td align="left" rowspan="1" colspan="1">51</td>
+                    <td align="left" rowspan="1" colspan="1">0</td>
+                    <td align="left" rowspan="1" colspan="1">4.57</td>
+                  </tr>
+                  <tr>
+                    <td align="left" rowspan="1" colspan="1">IFS/IFG</td>
+                    <td align="left" rowspan="1" colspan="1">Left</td>
+                    <td align="left" rowspan="1" colspan="1">45/46</td>
+                    <td align="left" rowspan="1" colspan="1">−48</td>
+                    <td align="left" rowspan="1" colspan="1">38</td>
+                    <td align="left" rowspan="1" colspan="1">15</td>
+                    <td align="left" rowspan="1" colspan="1">4.03</td>
+                  </tr>
+                  <tr>
+                    <td align="left" rowspan="1" colspan="1">Mid-cingulate/DMPFC</td>
+                    <td align="left" rowspan="1" colspan="1">Medial</td>
+                    <td align="left" rowspan="1" colspan="1">6/8/32</td>
+                    <td align="left" rowspan="1" colspan="1">9</td>
+                    <td align="left" rowspan="1" colspan="1">24</td>
+                    <td align="left" rowspan="1" colspan="1">39</td>
+                    <td align="left" rowspan="1" colspan="1">4.85</td>
+                  </tr>
+                  <tr>
+                    <td align="left" rowspan="1" colspan="1">vIPS</td>
+                    <td align="left" rowspan="1" colspan="1">Right</td>
+                    <td align="left" rowspan="1" colspan="1">7/19</td>
+                    <td align="left" rowspan="1" colspan="1">36</td>
+                    <td align="left" rowspan="1" colspan="1">−75</td>
+                    <td align="left" rowspan="1" colspan="1">39</td>
+                    <td align="left" rowspan="1" colspan="1">5.52</td>
+                  </tr>
+                  <tr>
+                    <td align="left" rowspan="1" colspan="1">aIPS</td>
+                    <td align="left" rowspan="1" colspan="1">Right</td>
+                    <td align="left" rowspan="1" colspan="1">40</td>
+                    <td align="left" rowspan="1" colspan="1">57</td>
+                    <td align="left" rowspan="1" colspan="1">−36</td>
+                    <td align="left" rowspan="1" colspan="1">51</td>
+                    <td align="left" rowspan="1" colspan="1">3.98</td>
+                  </tr>
+                  <tr>
+                    <td align="left" rowspan="1" colspan="1">IPS</td>
+                    <td align="left" rowspan="1" colspan="1">Left</td>
+                    <td align="left" rowspan="1" colspan="1">7/39</td>
+                    <td align="left" rowspan="1" colspan="1">−27</td>
+                    <td align="left" rowspan="1" colspan="1">−66</td>
+                    <td align="left" rowspan="1" colspan="1">45</td>
+                    <td align="left" rowspan="1" colspan="1">3.60</td>
+                  </tr>
+                  <tr>
+                    <td align="left" rowspan="1" colspan="1">aIPS/IPL</td>
+                    <td align="left" rowspan="1" colspan="1">Left</td>
+                    <td align="left" rowspan="1" colspan="1">7/40</td>
+                    <td align="left" rowspan="1" colspan="1">−48</td>
+                    <td align="left" rowspan="1" colspan="1">−39</td>
+                    <td align="left" rowspan="1" colspan="1">42</td>
+                    <td align="left" rowspan="1" colspan="1">3.31</td>
+                  </tr>
+                  <tr>
+                    <td align="left" rowspan="1" colspan="1">pMTG</td>
+                    <td align="left" rowspan="1" colspan="1">Right</td>
+                    <td align="left" rowspan="1" colspan="1">21/37</td>
+                    <td align="left" rowspan="1" colspan="1">57</td>
+                    <td align="left" rowspan="1" colspan="1">−45</td>
+                    <td align="left" rowspan="1" colspan="1">−12</td>
+                    <td align="left" rowspan="1" colspan="1">4.36</td>
+                  </tr>
+                  <tr>
+                    <td align="left" rowspan="1" colspan="1">pMTG</td>
+                    <td align="left" rowspan="1" colspan="1">Left</td>
+                    <td align="left" rowspan="1" colspan="1">21/37</td>
+                    <td align="left" rowspan="1" colspan="1">−63</td>
+                    <td align="left" rowspan="1" colspan="1">−54</td>
+                    <td align="left" rowspan="1" colspan="1">−9</td>
+                    <td align="left" rowspan="1" colspan="1">4.21</td>
+                  </tr>
+                  <tr>
+                    <td align="left" rowspan="1" colspan="1">FFG/PHG</td>
+                    <td align="left" rowspan="1" colspan="1">Left</td>
+                    <td align="left" rowspan="1" colspan="1">20</td>
+                    <td align="left" rowspan="1" colspan="1">−36</td>
+                    <td align="left" rowspan="1" colspan="1">−36</td>
+                    <td align="left" rowspan="1" colspan="1">−24</td>
+                    <td align="left" rowspan="1" colspan="1">4.12</td>
+                  </tr>
+                  <tr>
+                    <td align="left" rowspan="1" colspan="1">FFG/PHG</td>
+                    <td align="left" rowspan="1" colspan="1">Right</td>
+                    <td align="left" rowspan="1" colspan="1"/>
+                    <td align="left" rowspan="1" colspan="1">36</td>
+                    <td align="left" rowspan="1" colspan="1">−18</td>
+                    <td align="left" rowspan="1" colspan="1">−27</td>
+                    <td align="left" rowspan="1" colspan="1">3.46</td>
+                  </tr>
+                  <tr>
+                    <td align="left" rowspan="1" colspan="1">Cerebellum</td>
+                    <td align="left" rowspan="1" colspan="1">Right</td>
+                    <td align="left" rowspan="1" colspan="1"/>
+                    <td align="left" rowspan="1" colspan="1">12</td>
+                    <td align="left" rowspan="1" colspan="1">−39</td>
+                    <td align="left" rowspan="1" colspan="1">−33</td>
+                    <td align="left" rowspan="1" colspan="1">3.80</td>
+                  </tr>
+                  <tr>
+                    <td align="left" rowspan="1" colspan="1">rACC</td>
+                    <td align="left" rowspan="1" colspan="1">Medial</td>
+                    <td align="left" rowspan="1" colspan="1">24/32</td>
+                    <td align="left" rowspan="1" colspan="1">−9</td>
+                    <td align="left" rowspan="1" colspan="1">39</td>
+                    <td align="left" rowspan="1" colspan="1">6</td>
+                    <td align="left" rowspan="1" colspan="1">4.46</td>
+                  </tr>
+                  <tr>
+                    <td align="left" rowspan="1" colspan="1">rACC</td>
+                    <td align="left" rowspan="1" colspan="1">Medial</td>
+                    <td align="left" rowspan="1" colspan="1">24/32</td>
+                    <td align="left" rowspan="1" colspan="1">12</td>
+                    <td align="left" rowspan="1" colspan="1">45</td>
+                    <td align="left" rowspan="1" colspan="1">0</td>
+                    <td align="left" rowspan="1" colspan="1">4.45</td>
+                  </tr>
+                  <tr>
+                    <td align="left" rowspan="1" colspan="1">OFC</td>
+                    <td align="left" rowspan="1" colspan="1">Right</td>
+                    <td align="left" rowspan="1" colspan="1">11/13</td>
+                    <td align="left" rowspan="1" colspan="1">36</td>
+                    <td align="left" rowspan="1" colspan="1">39</td>
+                    <td align="left" rowspan="1" colspan="1">−12</td>
+                    <td align="left" rowspan="1" colspan="1">4.78</td>
+                  </tr>
+                  <tr>
+                    <td align="left" rowspan="1" colspan="1">PCC</td>
+                    <td align="left" rowspan="1" colspan="1">Medial</td>
+                    <td align="left" rowspan="1" colspan="1">23/31</td>
+                    <td align="left" rowspan="1" colspan="1">6</td>
+                    <td align="left" rowspan="1" colspan="1">−33</td>
+                    <td align="left" rowspan="1" colspan="1">33</td>
+                    <td align="left" rowspan="1" colspan="1">4.40</td>
+                  </tr>
+                  <tr>
+                    <td align="left" rowspan="1" colspan="1">Nacc/Caudate</td>
+                    <td align="left" rowspan="1" colspan="1">Left</td>
+                    <td align="left" rowspan="1" colspan="1"/>
+                    <td align="left" rowspan="1" colspan="1">−12</td>
+                    <td align="left" rowspan="1" colspan="1">3</td>
+                    <td align="left" rowspan="1" colspan="1">9</td>
+                    <td align="left" rowspan="1" colspan="1">5.63</td>
+                  </tr>
+                  <tr>
+                    <td align="left" rowspan="1" colspan="1">NAcc/Caudate</td>
+                    <td align="left" rowspan="1" colspan="1">Right</td>
+                    <td align="left" rowspan="1" colspan="1"/>
+                    <td align="left" rowspan="1" colspan="1">15</td>
+                    <td align="left" rowspan="1" colspan="1">15</td>
+                    <td align="left" rowspan="1" colspan="1">3</td>
+                    <td align="left" rowspan="1" colspan="1">4.54</td>
+                  </tr>
+                  <tr>
+                    <td align="left" rowspan="1" colspan="1">GP/Putamen</td>
+                    <td align="left" rowspan="1" colspan="1">Right</td>
+                    <td align="left" rowspan="1" colspan="1"/>
+                    <td align="left" rowspan="1" colspan="1">21</td>
+                    <td align="left" rowspan="1" colspan="1">6</td>
+                    <td align="left" rowspan="1" colspan="1">−3</td>
+                    <td align="left" rowspan="1" colspan="1">4.14</td>
+                  </tr>
+                  <tr>
+                    <td align="left" rowspan="1" colspan="1">Mid-Brain</td>
+                    <td align="left" rowspan="1" colspan="1">Right</td>
+                    <td align="left" rowspan="1" colspan="1"/>
+                    <td align="left" rowspan="1" colspan="1">−6</td>
+                    <td align="left" rowspan="1" colspan="1">−18</td>
+                    <td align="left" rowspan="1" colspan="1">−6</td>
+                    <td align="left" rowspan="1" colspan="1">4.66</td>
+                  </tr>
+                  <tr>
+                    <td align="left" rowspan="1" colspan="1">Anterior Insula</td>
+                    <td align="left" rowspan="1" colspan="1">Right</td>
+                    <td align="left" rowspan="1" colspan="1"/>
+                    <td align="left" rowspan="1" colspan="1">39</td>
+                    <td align="left" rowspan="1" colspan="1">21</td>
+                    <td align="left" rowspan="1" colspan="1">−6</td>
+                    <td align="left" rowspan="1" colspan="1">4.10</td>
+                  </tr>
+                  <tr>
+                    <td align="left" rowspan="1" colspan="1">PAG</td>
+                    <td align="left" rowspan="1" colspan="1">Right</td>
+                    <td align="left" rowspan="1" colspan="1"/>
+                    <td align="left" rowspan="1" colspan="1">6</td>
+                    <td align="left" rowspan="1" colspan="1">−24</td>
+                    <td align="left" rowspan="1" colspan="1">−6</td>
+                    <td align="left" rowspan="1" colspan="1">5.00</td>
+                  </tr>
+                  <tr>
+                    <td align="left" rowspan="1" colspan="1">PAG</td>
+                    <td align="left" rowspan="1" colspan="1">Left</td>
+                    <td align="left" rowspan="1" colspan="1"/>
+                    <td align="left" rowspan="1" colspan="1">−6</td>
+                    <td align="left" rowspan="1" colspan="1">−24</td>
+                    <td align="left" rowspan="1" colspan="1">−6</td>
+                    <td align="left" rowspan="1" colspan="1">4.73</td>
+                  </tr>
+                  <tr>
+                    <td align="left" rowspan="1" colspan="1">Thalamus (MD)</td>
+                    <td align="left" rowspan="1" colspan="1">Right</td>
+                    <td align="left" rowspan="1" colspan="1"/>
+                    <td align="left" rowspan="1" colspan="1">9</td>
+                    <td align="left" rowspan="1" colspan="1">−12</td>
+                    <td align="left" rowspan="1" colspan="1">0</td>
+                    <td align="left" rowspan="1" colspan="1">4.13</td>
+                  </tr>
+                </tbody>
+              </table>
+            </alternatives>
+            <table-wrap-foot>
+              <fn id="nt102">
+                <label/>
+                <p>Reported regions are significant at <italic>Z</italic>&gt;2.57, <italic>p</italic>&lt;.05 FWE cluster corrected for the whole-brain volume (k&gt;106). BA = Brodmann area. vIPS = ventral intraparietal sulcus; aIPS = anterior intraparietal sulcus; pIFG = posterior inferior frontal gyrus; IFJ = inferior frontal junction; PMC = premotor cortex; DMPFC = dorsomedial prefrontal cortex; IFS = inferior frontal sulcus; pMTG = posterior middle temporal gyrus; FFG = fusiform gyrus; PHG = parahippocampal gyrus; IPL = inferior parietal lobule; NAcc = nucleus accumbens; PAG = periacqueductal gray; OFC = orbitofrontal cortex; rACC = rostral anterior cingulate cortex; VMPFC = ventromedial prefrontal cortex; PCC = posterior cingulate cortex; GP = globus pallidus; MD = mediodorsal nucleus.</p>
+              </fn>
+            </table-wrap-foot>
+          </table-wrap>
+        </sec>
+      </sec>
+    </sec>
+    <sec id="s3">
+      <title>Discussion</title>
+      <p>Modern human life frequently requires cognitive control―selecting behaviors deliberately based on task rules held in work memory and suppressing automatic, inappropriate responses. What determines whether an individual will engage cognitive control at any given time? Across three different tasks―Stroop, WCST, and Go/No-Go―we found evidence that this decision is driven by expected motivational outcomes. That is, subjects' decision to select a response requiring active maintenance of the task rules depended on whether it was expected to yield a larger monetary reward than a pre-potent response. Importantly, there was no opportunity for trial-and-error learning of response value, suggesting that decisions were based on an <italic>explicit</italic> representation of expected outcomes. Self-reports collected after the experiment confirmed that subjects were aware of their choices and associated outcomes. Moreover, our results cannot be explained by a strategy in which subjects tended to exploit the automatic response and occasionally explore the cognitive control response; computational modeling has demonstrated that the decision to explore is largely driven by uncertainty and acquisition of new information <xref ref-type="bibr" rid="pone.0051637-Badre1">[45]</xref>, whereas in our task subjects were fully aware of the reward outcomes for each option, and therefore, had no reason to explore.</p>
+      <p>Despite the intuitive nature of the idea that the decision to engage cognitive control is driven by desired motivational outcomes, a dominant paradigm has been understanding reflective, rule-based behavior in terms of strictly cognitive mechanisms: reasoning, social standards, self-monitoring, and willpower <xref ref-type="bibr" rid="pone.0051637-Diekhof1">[5]</xref>, <xref ref-type="bibr" rid="pone.0051637-Heatherton1">[6]</xref>, <xref ref-type="bibr" rid="pone.0051637-Hofmann1">[7]</xref>. Desire and motivation have been seen as obstacles for self-regulation. However, this idea overlooks the fact that individuals will only deliberately regulate their behavior if they are motivated to do so <xref ref-type="bibr" rid="pone.0051637-Baumeister1">[8]</xref>, <xref ref-type="bibr" rid="pone.0051637-Fujita1">[9]</xref>. Thus, in contrast to the perspective that successful self control is based on cold cognitive mechanisms overriding desires, we suggest that it is based on selecting the “proper” motivational incentive to guide action (often an incentive with long-term as opposed to immediate value). In other words, we suggest that decision making about rule-based behavior conforms to standard mechanisms of value-based decision making. The decision to follows rules at school or in the workplace and the decision to eat a chocolate bar may not be so different—both are driven by expected motivational outcomes, although the particular outcomes guiding those actions may be quite different. One implication of our findings is that promoting cognitive control may be more successful if time is taken to explicitly acknowledge the relationship between rules and outcomes. It would be useful for future work to directly compare the efficacy of different types of reward outcomes in motivating cognitive control and to investigate whether this pattern changes across the lifespan.</p>
+      <p>Decisions are not driven by expected reward magnitude alone, but factor in additional variables including probability of reward occurrence, required effort expenditure, and delay until the reward <xref ref-type="bibr" rid="pone.0051637-Rangel2">[46]</xref>, <xref ref-type="bibr" rid="pone.0051637-Wallis3">[47]</xref>, <xref ref-type="bibr" rid="pone.0051637-Rushworth1">[48]</xref>, <xref ref-type="bibr" rid="pone.0051637-Peters1">[49]</xref>. It is suggested that these variables are integrated together resulting in an overall subjective “decision value”. Interestingly, we found that the tendency to engage cognitive control differed across our three behavioral tasks, being lowest for the Stroop task—the hardest task based on anecdotal reports. If the Stroop task required greater effort, this would have resulted in a lower decision value for engaging cognitive control relative to the easier tasks, and consequently, greater selection of the automatic response. Moreover, within each task, subjects almost invariably selected the automatic response when it was expected to yield a reward of equal magnitude to the cognitive control based response. This is again consistent with the idea of decision value, in that active maintenance of rules is generally assumed to require greater effort than a pre-potent response. Thus, our findings are consistent with the idea that subjects were integrating expected rewards with effort costs, however, future studies are necessary to directly examine this proposal.</p>
+      <p>Complementing the behavioral data, our fMRI-adaptation findings provide the first direct evidence that the lateral prefrontal cortex (LPFC) supports associations between rules and expected motivational outcomes. Several areas within the right LPFC including the inferior frontal sulcus (IFS) exhibited repetition enhancement uniquely when there was repetition of a specific rule-outcome pairing, but not when there was repetition of the rules alone or the expected outcome alone. Although repetition suppression is the more commonly observed form of fMRI-adaptation, repetition enhancement has also been demonstrated in numerous studies <xref ref-type="bibr" rid="pone.0051637-Salimpoor1">[37]</xref>, <xref ref-type="bibr" rid="pone.0051637-Henson2">[50]</xref>, <xref ref-type="bibr" rid="pone.0051637-Muller1">[51]</xref>, <xref ref-type="bibr" rid="pone.0051637-deGardelle1">[52]</xref>, <xref ref-type="bibr" rid="pone.0051637-Vuilleumier1">[53]</xref>, , and may reflect a process of reinforcing top-down expectations for particular information <xref ref-type="bibr" rid="pone.0051637-deGardelle1">[52]</xref>, <xref ref-type="bibr" rid="pone.0051637-Summerfield1">[55]</xref>. Irrespective of the precise interpretation of repetition enhancement effects, the important point is that it is believed to reflect the representation of specific information, and in our case, the effect in the LPFC was selective to repetition of a specific rule-outcome pairing. Moreover, strong corroborating evidence was provided by a functional connectivity analysis showing that the LPFC (specifically the IFS) exhibited correlated activity with both rule and reward related regions, consistent with this region serving as an integrative hub, linking rule and reward information. Our findings are additionally consistent with the anatomical connections of the LPFC <xref ref-type="bibr" rid="pone.0051637-Yeterian1">[22]</xref> and recent work demonstrating activation near the right IFS during reward-based decision making <xref ref-type="bibr" rid="pone.0051637-Plassmann1">[29]</xref>, <xref ref-type="bibr" rid="pone.0051637-McClure1">[30]</xref>, <xref ref-type="bibr" rid="pone.0051637-Tobler1">[31]</xref> and during cognitive control engagement when monetary rewards are available <xref ref-type="bibr" rid="pone.0051637-Jimura1">[10]</xref>.</p>
+      <p>Our findings are consistent with the idea that the LPFC actively maintains in working memory a representation of rules and the likely outcomes that will result from of implementing those rules. Creating such ‘online’ associations would allow the reward-value of <italic>specific</italic> rules to be rapidly updated when the state of the environment changes. This explicit rule-outcome associative mechanism for promoting cognitive control is consistent with the idea of a model-based learning system <xref ref-type="bibr" rid="pone.0051637-Daw1">[56]</xref> and may operate in parallel with other (model-free) mechanisms. For example, O'Reilly and Frank <xref ref-type="bibr" rid="pone.0051637-OReilly1">[57]</xref> suggest that the mid-brain/basal ganglia system uses trial-and-error reinforcement learning to gradually “teach” the LPFC about information that should be held in working memory. This process would be akin to forming a habit to engage cognitive control. This mechanism may be efficient for engaging cognitive control in stable, familiar environments after learning has taken place. In contrast, explicit associations between rules and expected rewards may dominate in novel or rapidly changing environments, and situations in which overt reward feedback is not provided and there is no possibility for dopamine mediated reinforcement learning.</p>
+      <p>It is also useful to consider our findings in relation to performance monitoring theories <xref ref-type="bibr" rid="pone.0051637-Kouneiher1">[16]</xref>, <xref ref-type="bibr" rid="pone.0051637-Ridderinkhof1">[58]</xref>, <xref ref-type="bibr" rid="pone.0051637-Botvinick1">[59]</xref>. These theories suggest that detection of motivationally salient events by the MPFC including response conflict, rewards, and errors, will result in a modulatory gain signal that is sent to the LPFC to influence the strength of cognitive control. This account provides a parsimonious mechanism by which motivational events could dynamically alter the strength of an <italic>already activated</italic> rule. It does not however, directly address how a rule is initially selected to guide action. By definition, a modulatory gain signal sent by the MPFC will simply amplify whatever is already being represented by the LPFC. Our findings together with this model suggests the following: a specific rule is initially selected to guide action based on the explicit expectation that using the rule will lead to a desirable outcome (mediated by the LPFC), and then the strength of the selected rule is optimized according to ongoing performance and events in the environment (mediated by MPFC-LPFC interactions).</p>
+      <p>A widespread heuristic for understanding the organization of the prefrontal cortex is that the LPFC supports complex cognitive processes (including rule-use) whereas orbital and medial prefrontal areas support motivational processes. One problem with this perspective is that it is largely predicated on studies that have conflated task difficulty with presence of motivational incentives. In general, studies examining motivational processing have used simple tasks, while studies of complex cognition have rarely incorporated rewards (or other motivational incentives). Recent work has started to depart from this methodological trend, and has revealed LPFC involvement in numerous aspects of complex motivational processing: decision making involving risk <xref ref-type="bibr" rid="pone.0051637-Tobler1">[31]</xref>, <xref ref-type="bibr" rid="pone.0051637-Weber1">[32]</xref>, integrating multiple variables (e.g., reward magnitude and delay) to discern the best course of action <xref ref-type="bibr" rid="pone.0051637-Kim1">[26]</xref>, <xref ref-type="bibr" rid="pone.0051637-McClure1">[30]</xref>, monitoring action-outcome history during strategic decision making <xref ref-type="bibr" rid="pone.0051637-Seo1">[33]</xref>, representing the long-term motivational context (i.e., what reward is likely to occur over many trials) <xref ref-type="bibr" rid="pone.0051637-Watanabe3">[24]</xref>, and specific decision making strategies <xref ref-type="bibr" rid="pone.0051637-Venkatraman1">[34]</xref>. Moreover, recent work has demonstrated that cognitive control related activity in the LPFC is modulated by the availability of reward incentives <xref ref-type="bibr" rid="pone.0051637-Jimura1">[10]</xref>, <xref ref-type="bibr" rid="pone.0051637-Savine1">[11]</xref>, <xref ref-type="bibr" rid="pone.0051637-Watanabe2">[14]</xref>, <xref ref-type="bibr" rid="pone.0051637-Leon1">[15]</xref>, <xref ref-type="bibr" rid="pone.0051637-Pochon1">[17]</xref>. Finally, our findings directly suggest that the LPFC has a role in complex motivational processing by representing the relationship between specific rules for action and expected motivational outcomes. This idea is a natural extension of work highlighting the role of the orbitofrontal cortex in representing object-outcome associations <xref ref-type="bibr" rid="pone.0051637-Walton1">[2]</xref>, <xref ref-type="bibr" rid="pone.0051637-Wallis1">[3]</xref>, <xref ref-type="bibr" rid="pone.0051637-Gottfried1">[4]</xref>, and the role of the cingulate cortex in representing action-outcome associations <xref ref-type="bibr" rid="pone.0051637-Matsumoto1">[60]</xref>, <xref ref-type="bibr" rid="pone.0051637-Rushworth2">[61]</xref>. In sum, it is clear that the LPFC has a more direct role in motivational processes than traditionally recognized.</p>
+      <p>Some methodological considerations are worth noting. We designed our fMRI task to minimize the impact of extraneous factors that might account for any fMRI-adaptation effect we might observe. Importantly, we held constant the content of the second instruction cue allowing us to examine neural activation in response to the identical event, simply as a function of how it was primed by the first instruction cue. This ensures that the fMRI-adaptation effects we observed cannot be explained by differences across conditions in visual processing or interpretation of the second instruction cue, or differences relating to expectation of the ensuing stimulus. Furthermore, given that there was never repetition of visual information across the first and second instruction cue, we can be sure that fMRI-adaptation was related to repetition of the conceptual representation of the rules and expected reward and not to repetition of the visual symbols used to signal this information. Additionally, it is unlikely that our findings are due to differences across conditions in difficulty, attention, or effort. It could be argued that when the second instruction cue signals repeated rules and reward, the task is easier, and subjects don't really need to process or attend to the second instruction cue, and therefore, may engage in mind-wandering—and that this led to the increased activations (i.e., the repetition enhancement effect) that was selective to this condition. This is very unlikely for two reasons: 1) increased activation was not observed in medial prefrontal and parietal regions that are consistently associated with mind-wandering and 2) mind-wandering is often associated with poorer performance, however, we found that performance was equivalent across conditions. Additionally, in the unlikely case that the repeated rule-reward pairing condition was more difficult and required greater effort or attention, it would be expected to result in a <italic>quantitative</italic> difference in activation levels across conditions (akin to a gain enhancement effect). However, we found a <italic>qualitatively</italic> different pattern of activations; the repetition enhancement effect was observed after masking out all voxels that were sensitive to repetition of the rules alone or repetition of the reward alone.</p>
+      <p>In summary, our findings suggest that individuals will engage cognitive control when they see the <italic>value</italic> in doing so―that is, when rule-use is expected to yield a desired outcome. The LPFC contributes to this process by representing associations between rules and expected outcomes, and performs this associative function within the context of interactions with widely distributed rule and reward related regions. An implication of our findings is that individual differences in cognitive control may result not only from the capacity to represent rules, but also the capacity to discern (or focus on) motivationally significant outcomes that will result from rule-use. Finally, our findings and several previous studies <xref ref-type="bibr" rid="pone.0051637-Race1">[39]</xref>, <xref ref-type="bibr" rid="pone.0051637-Jenkins1">[40]</xref>, <xref ref-type="bibr" rid="pone.0051637-DeBaene1">[41]</xref> highlight the feasibility of using fMRI-adaptation to examine complex cognitive and motivational processes.</p>
+    </sec>
+    <sec id="s4" sec-type="materials|methods">
+      <title>Materials and Methods</title>
+      <p>The study was approved by the UBC behavioral and clinical research ethics boards.</p>
+      <sec id="s4a">
+        <title>Participants</title>
+        <p>Participants were 16 healthy adults (<italic>M</italic> = 26.6, <italic>SD</italic> = 3.4; 8 female) in experiment 1 and 15 (right-handed) healthy adults (<italic>M</italic> = 27.4, <italic>SD</italic> = 5.51; 8 female) in experiment 2, with no history of psychiatric or neurological illness, and all provided written informed consent and received payment for their participation.</p>
+      </sec>
+      <sec id="s4b">
+        <title>Behavioral Task Paradigm</title>
+        <p>All three tasks involved the same structure. First, there was a short practice block in which subjects had several trials to become familiarized with responding to the stimuli in the two different ways (e.g., responding based on the word meaning and based on the ink colour in the Stroop task). Second, in the training phase, a habit (i.e., an automatic, pre-potent response) was established by having subjects repeatedly respond to the stimuli in one way (Stroop: identify the word meaning; WCST: match based on color; Go/No-Go: respond to every letter including ‘X’). Subjects performed a minimum of 100 trials and moved on to the next phase once they reached an average of 80% accuracy across the last 20 trials. Finally, in the free-choice phase, subjects were given the option of responding based on the habit, or based on the alternative way to respond to the stimulus, which required cognitive control, i.e., an active representation of the rules to overcome the habit (Stroop: identify the ink color; WCST: match based on shape; Go/No-Go: respond to every letter <italic>except</italic> ‘X’). Prior to each mini-block of four trials during the free-choice phase, a screen appeared and indicated the amount of money that could be earned if the subject chose the habit or engaged cognitive control (e.g., ink color = 25¢, word meaning = 50¢). Subjects were told that they would have to respond correctly on four consecutive trials to earn the money. (in reality all subjects were paid $12 at the end of the experiment.) Following completion of a four trial mini-block, the next monetary value screen appeared, and subjects were free again to choose how to respond. There were 5 conditions, defined by the following monetary amounts: 25¢/25¢ (equal value); 50¢/25¢ (habit value greater by a small amount); $1.00/25¢ (habit value greater by a large amount); 25¢/50¢ (cognitive control value greater by a small amount); 25¢/$1.00 (cognitive control value greater by a large amount). Subjects saw each condition twice in random order. Thus, in total, subjects performed 40 free choice trials. No feedback was provided after choices, precluding trial-and-error learning of response value. Rather, subjects could only use an <italic>explicit representation</italic> of the expected monetary amounts to guide their decisions. The order of the Stroop, WCST, and Go/No-Go task was random, and for each of task, stimulus order was random with the constraint that within each mini-block, no particular stimulus appeared more than once.</p>
+        <sec id="s4b1">
+          <title>Stroop Task</title>
+          <p>During the training phase, on every trial subjects saw the word red or the word blue, written in red or blue ink, and pressed one of two buttons to indicate the <italic>word meaning</italic>. The ink colour could be congruent or incongruent with the word meaning. During the free-choice phase, the stimuli were always incongruent and subjects were free to respond based on the word meaning (habit response) or the ink color (cognitive control response). The incongruent stimuli allowed us to discern which response type the subject was choosing during each mini-block. For example, if it was the word red written in blue ink, and if the subject indicated red, that would mean that they identified the word meaning, whereas if they indicated blue, that would mean that they identified the ink colour. Stimulus duration was 750 ms and 1200 ms for the training and free-choice phases, respectively. A fixation cross appeared after each stimulus for 1000 ms.</p>
+        </sec>
+        <sec id="s4b2">
+          <title>Wisconsin Card Sorting Task (WCST)</title>
+          <p>Our simplified version of the WCST involved just two dimensions, color and shape. On each trial, subjects saw three coloured-shapes: one presented in the upper visual field served as the target and the other two presented in the lower visual field served as the choice stimuli. Each choice stimulus matched the target on one dimension (color or shape). During the training phase, subjects indicated the location (right or left side of the screen) of the choice stimulus matching the target on the <italic>color</italic> dimension. During the free-choice phase, subjects were free to choose: they could indicate the side of the screen containing the stimulus matching in color (habit response) or the side of the screen containing the stimulus matching in shape (cognitive control response). Thus, the cognitive control response required an extra-dimensional shift. Given that each choice stimulus matched the target on one dimension, we could discern which response type they were selecting. The stimuli were triangles or hexagons and were orange or green. Stimulus duration was 1000 ms and 1400 ms for the training and free-choice phases, respectively. A fixation cross appeared after each stimulus for 1000 ms.</p>
+        </sec>
+        <sec id="s4b3">
+          <title>Go/No-Go task</title>
+          <p>On each trial one of four letters (A, G, T, X) was presented and subjects made a button press as soon as possible after appearance of the letter. During the training phase, subjects responded to all letters <italic>including</italic> ‘X’. During the free-choice phase, subjects could continue responding to all letters (habit response), or they could respond to all letters <italic>except</italic> for ‘X’, i.e., inhibit responding when the ‘X’ was presented (cognitive control response). Stimulus duration was 350 ms for both the training and free-choice phases. A fixation cross appeared after each stimulus for 500, 1000, or 1500 ms (duration selected randomly among these values). The jittered ISI made the task more difficult and more firmly established a habit to make a response any time a letter appeared on the screen.</p>
+        </sec>
+        <sec id="s4b4">
+          <title>Data Analysis</title>
+          <p>For each of the five monetary value conditions, we calculated the percentage of choices during which the cognitive control response was selected. To confirm that subjects were making decisions based on explicit knowledge of the reward outcomes, we also collected self-report data following the experiment; subjects explicitly noted their <italic>intended</italic> response as a function of the expected reward amount presented during the task. We found 93% correspondence between observed behaviors and self-reported intended responses.</p>
+          <p>To compare reaction times (RTs) for the habit-based responses and cognitive control-based responses, we analyzed median RTs with paired-samples t-tests (we collapsed across reward amount conditions, due to the fact that in many cases, a given condition only elicited one response type; e.g., the automatic response was almost always chosen for the $1.00/25¢ condition). Given our strong hypothesis that the cognitive control response would be slower, directional (one-tailed) p-values are reported.</p>
+        </sec>
+      </sec>
+      <sec id="s4c">
+        <title>fMRI-Adaptation Paradigm</title>
+        <p>The software package E-prime (Psychology Software Tools, Pittsburg, PA, USA) was used to implement the task. Stimuli were presented using a back-projection system. The trial structure of the fMRI-adaptation paradigm is illustrated in <xref ref-type="fig" rid="pone-0051637-g002">Figure 2</xref>. On each trial, subjects performed one of two tasks: decide if a face is male/female or decide if a word's meaning is concrete/abstract. These tasks required simple if-then rules (e.g., if faces task and if male then press button “1”, if female then press button “2”). Prior to stimulus presentation, an instruction cue informed subjects of the relevant rules to use and whether or not to expect a monetary reward (25¢ contingent on correct performance). Subjects received $30 for participating in the fMRI scanning session and were told that they could earn an additional $30 if they earned all of the available money. The instruction cues were familiar visual images that subjects learned prior to the experiment and were selected to be easy to represent in mind (see <xref ref-type="fig" rid="pone-0051637-g002">Figure 2</xref>). The instruction cues did not specify a particular response, but rather, a set of stimulus-response contingencies (i.e., rules). Subjects were told to explicitly think about the rules and expected outcome signaled by each instruction cue. Following presentation of the instruction cue, there was a delay period followed by presentation of a word or face stimulus. During this time, subjects made a button-press response. Subsequently, a screen indicated cumulative monetary winnings and whether or not money had been earned on that trial.</p>
+        <p>On 40% of trials, a single instruction cue appeared prior to the stimulus. Crucially, on the remaining 60% of trials, the first instruction cue was followed by a delay period and then presentation of a second instruction cue. On these double-instruction cue trials, subjects were told to forget the first instruction cue and to respond to the stimulus based on the content of the second instruction cue. These double-instruction cue trials allowed us to examine fMRI-adaptation.</p>
+        <p>Given that nearly half of the trials were single cue trials and subjects were explicitly instructed to avoid expecting a second cue, this ensured that subjects paid attention to the first cue. Each rule and expected outcome (money versus no money) was represented with two different visual images. During repetition of the rules, expected reward, or both, two distinct visual images were used so that there was never repetition of the visual features of the cue, but only its symbolic meaning.</p>
+        <p>Subjects performed 162 trials in total. There were 96 were double-instruction cue trials in which each of the four key conditions noted above appeared 24 times. There were 66 single-instruction cue trials. There were 12 repetitions of each of the rule-outcome combinations: male/female rules + no reward; male/female rules + reward; abstract/concrete rules + no reward; abstract/concrete rules + reward. The other 18 single-cue trials were additional male/female rules + no monetary reward trials, which ensured that 40% of the trials were single-cue trials, 25% were neutral (no monetary reward), and 25% presented the male/female rule. Trials were presented pseudorandomly such that double-cue trials never occurred more than twice in a row and no condition appeared more than twice in a row.</p>
+        <p>Trials began with a jittered interstimulus interval (mean = 4.9 s, range = 2–7.5 s, increments of 500 ms), followed by presentation of the first instruction cue (2 s). This was followed by a variable length delay (mean = 5 s; range = 4–6 s; increments of 1000 ms). Next the word or face stimulus appeared (2 s) during which time subjects made their response. Finally a reward screen (1.5 s) revealed to subjects their total current winnings and also if they earned money on that trial. On some trials, a second instruction cue (2 s) appeared followed by a delay (4 s) prior to stimulus presentation. Given the delay length of 4, 5, or 6 s before the key event of interest (i.e., instruction cue 2), this allowed us to effectively estimate the BOLD response separately for the first and second instruction cues and also provided a temporal resolution of 1000 ms with respect to sampling the hemodynamic response function.</p>
+        <p>Given the demanding nature of the task, we included a rest period of 15 s (filled with a blank screen) in middle of each session to provide subjects with a brief break. A blank screen also appeared for 10 s at end of each session to allow the BOLD response to return to baseline. Additionally, one day prior to scanning, subjects came in for a one-hour training session. Subjects learned the correspondence between the instruction cue visual images and their meaning and then received 80 practice trials. Although our task was difficult, this training ensured that during the scanning session, subjects were able to effectively process the information signaled by each instruction cue.</p>
+        <sec id="s4c1">
+          <title>Stimuli</title>
+          <p>The words were chosen from the Medical Research Council Psycholinguistic Database (<ext-link ext-link-type="uri" xlink:href="http://www.psy.uwa.edu.au/mrcdatabase/uwa_mrc.htm" xlink:type="simple">http://www.psy.uwa.edu.au/mrcdatabase/uwa_mrc.htm</ext-link>). The words had a minimum of three letters and a maximum of eight letters, and a minimum written frequency of 30. Words selected for the “concrete” category (e.g., bag), had a concrete rating above 600 and words selected for the “abstract” category (e.g., advice) had a concrete rating below 300. The face stimuli were high resolution front-view photographs of neutral expression faces obtained from several image databases <xref ref-type="bibr" rid="pone.0051637-Lundqvist1">[62]</xref>, <xref ref-type="bibr" rid="pone.0051637-Martinez1">[63]</xref>, <xref ref-type="bibr" rid="pone.0051637-Phillips1">[64]</xref>. In total, 42 photographs (21 male, 21 female) were selected. The faces were cropped to remove hair and other non-facial features, gray-scaled, equated in size, and then we added 10% Gaussian noise to increase the difficulty of the face discrimination (making it more comparable to the abstract/concrete discrimination). Stimuli subtended 4.5 (width) ×4.7 (height) degrees visual angle.</p>
+        </sec>
+        <sec id="s4c2">
+          <title>fMRI Data Acquisition</title>
+          <p>fMRI data were collected using a 3.0-Tesla Philips Intera MRI scanner (Best, Netherlands) with a standard 8-element 6-channel phased array head coil with parallel imaging capability (SENSE). Head movement was restricted using foam padding around the head. T2*-weighted functional images were acquired parallel to the anterior commissure/posterior commissure (AC/PC) line using a single shot gradient echo-planar sequence (repetition time, TR = 2 s; echo time, TE = 30 ms; flip angle, FA = 90°; field of view, FOV = 24×24×14.3 cm; matrix size = 80×80; SENSE factor = 1.0). Thirty-six interleaved axial slices covering the whole brain were acquired (3-mm thick with 1-mm skip). Data collected during the first 4 TRs were discarded to allow for equilibration effects. There were six sessions approximately 9-minutes long each during which 1608 volumes were acquired in total.</p>
+          <p>After functional imaging, in-plane inversion recovery prepared T1-weighted anatomical images were acquired in the same slice locations as the functional images using a fast spin-echo sequence (TR = 2 s; TE = 10 ms; 36 interleaved axial slices covering the whole brain, 3-mm thick with 1-mm skip; FA = 90°; FOV = 22.4×22.4×14.3 cm; matrix size = 240×235; reconstructed matrix size = 480×470; inversion delay = 800 ms; spin echo turbo factor = 5).</p>
+        </sec>
+        <sec id="s4c3">
+          <title>fMRI Data Preprocessing</title>
+          <p>Image preprocessing and analysis were conducted with Statistical Parametric Mapping (SPM5, University College London, London, UK; <ext-link ext-link-type="uri" xlink:href="http://www.fil.ion.ucl.ac.uk/spm/software/spm5" xlink:type="simple">http://www.fil.ion.ucl.ac.uk/spm/software/spm5</ext-link>). The time series data were slice-time corrected (to the middle slice), realigned to the first volume to correct for between-scan motion (using a 6 parameter rigid body transformation), and coregistered with the T1-weighted structural image. The in-plane T1 image was bias-corrected and segmented using template (ICBM) tissue probability maps for gray/white matter and CSF. Parameters obtained from this step were subsequently applied to the functional (re-sampled to 3 mm<sup>3</sup> voxels) and structural (re-sampled to 1 mm<sup>3</sup> voxels) data during normalization to MNI space. The data were spatially-smoothed using an 8-mm<sup>3</sup> full-width at half-maximum Gaussian kernel to reduce the impact of inter-subject variability in brain anatomy. Finally, a linear detrending procedure <xref ref-type="bibr" rid="pone.0051637-Macey1">[65]</xref> was applied to remove time-series components that were correlated with global changes in the BOLD signal.</p>
+        </sec>
+        <sec id="s4c4">
+          <title>fMRI Data Analysis: First-Level Model</title>
+          <p>Data were analyzed at the first level with a general linear model. There were 19 key regressors that were convolved with a synthetic hemodynamic response function. Four regressors modeled as delta (stick) functions coded the information contained in the first instruction cue: (1) male/female rules and no monetary reward, (2) male/female rules and monetary reward (3) abstract/concrete rules and no monetary reward, (4) abstract/concrete rules and monetary reward. Four regressors modeled as variable-duration (4–6 s) epochs coded the subsequent delay period following each of these events. Four regressors modeled as delta (stick) functions coded the second instruction cue―which was always the identical event (abstract/concrete rules and monetary reward)―as a function of how it was primed by the preceding instruction cue: (1) novel rules and novel reward, (2) repeated rules and novel reward, (3) novel rules and repeated reward, and (4) repeated rules and repeated reward. Four regressors modeled as 4 s fixed-duration epochs coded the subsequent delay period after these events. Additional regressors modeled as delta functions coded presentation of the stimulus and reward screen, and a regressor modeled as a variable-duration (10 or 15 s) epoch coded the rest period at the middle and end of each session. The model also included the six movement parameters estimated during realignment, and regressors coding session effects. Serial autocorrelations were modeled using AR(1) and the data were high-pass filtered (1/128 Hz) to remove low frequency drift in the BOLD signal. Given that performance was at near ceiling levels, modeling correct and incorrect responses had a negligible effect, so they were left out in order to simplify the model.</p>
+          <p>To examine neural activation during the second instruction cue, we created four contrast images to capture each of the conditions: (1) novel rules and novel reward &gt; fixation, (2) novel rules and repeated reward &gt; fixation, (3) repeated rules and novel reward &gt; fixation, (4) repeated rules and repeated reward &gt; fixation.</p>
+        </sec>
+        <sec id="s4c5">
+          <title>Second-Level Random Effects Analysis</title>
+          <p>The contrasts created for each subject were subsequently submitted to a group level analysis, a 2 (rules: novel versus repeated) ×2 (reward: novel versus repeated) factorial ANOVA. To isolate regions sensitive to rules alone or the expected reward alone, we examined the main effects. To probe whether the LPFC is especially sensitive to specific rule-reward pairings we looked for a specific interaction between the rule and reward factors in the form of: repeated rules and repeated reward &lt; novel rules and repeated reward = repeated rules and novel reward = novel rules and novel reward. This would correspond to repetition suppression for repeated rule and reward information, and the inverse of this contrast would correspond to repetition enhancement for repeated rule and reward information. This interaction was captured with the contrast weights of: −3 1 1 1 and 3 −1 −1 −1 (for repetition suppression and enhancement, respectively) <xref ref-type="bibr" rid="pone.0051637-Buckless1">[66]</xref>, <xref ref-type="bibr" rid="pone.0051637-Rosnow1">[67]</xref>. Note that these contrast weights assess the interaction in a valid form that is meaningful for our theoretical question, and does not assess the traditional “cross-over” interaction.</p>
+          <p>To provide a stringent test of the hypothesis that regions showing an interaction effect were <italic>selective</italic> to repetition of a specific rule-reward pairing and not sensitive (even weakly) to repetition of the rules alone or the reward alone, we used an exclusive masking analysis. We excluded voxels demonstrating fMRI-adaptation (repetition enhancement or suppression) for repetition of rules alone, or reward alone at a very lenient threshold (<italic>p</italic>&lt;.05 uncorrected), and then we looked for regions demonstrating fMRI-adaptation for repetition of the rule-reward pairing condition (at <italic>Z</italic>&gt;2.57, <italic>p</italic>&lt;.05 FWE corrected). The lenient threshold for the voxels being masked out made this a very conservative analysis with respect to finding regions that exhibit adaptation selectively for repeated rule-reward pairings. Moreover, the masking analysis ensured that we were not simply identifying regions showing an additive effect of rule and reward processing. To identify rule-selective and reward-selective voxels to be masked out, we used simple effect contrasts rather than main effect contrasts because the main effect contrasts include the repeated rules-repeated reward condition within their computation¯the specific condition we were interested in identifying.</p>
+        </sec>
+        <sec id="s4c6">
+          <title>Correction for Multiple Comparisons</title>
+          <p>To create maps of significant effects, we used a cluster-forming threshold of <italic>Z</italic>&gt;2.57 (<italic>p</italic>&lt;.005 uncorrected), and corrected for multiple comparisons using family-wise error (FWE) correction for cluster extent (<italic>p</italic>&lt;.05) based on random field theory. Correction for multiple comparisons was calculated based on the whole brain volume and corresponded to a cluster size of between 106–112 voxels, depending on the specific analysis (adaptation effects or functional connectivity).</p>
+        </sec>
+        <sec id="s4c7">
+          <title>Time-Course Visualization</title>
+          <p>To visualize the time-course of the LPFC regions showing an interaction effect, we used the Marsbar toolbox in SPM5 <xref ref-type="bibr" rid="pone.0051637-Brett1">[68]</xref> (<ext-link ext-link-type="uri" xlink:href="http://marsbar.sourceforge.net/" xlink:type="simple">http://marsbar.sourceforge.net/</ext-link>) to extract average signal change values from 3-mm radius spheres for each subject centered on peak voxels from the group analysis. We used 12 finite impulse response (FIR) functions, one for each peristimulus time point within a trial window of 24 s following onset of the second instruction cue.</p>
+        </sec>
+        <sec id="s4c8">
+          <title>Functional Connectivity</title>
+          <p>We took the IFS time-course extracted for each subject scaled it by the mean global brain signal at each time point to minimize the effect of global drift, and then converted to percent signal change values by subtracting and diving by the mean value of the ROI for the appropriate session. The data were also high-pass filtered (1/128 Hz). The normalized time-course for each subject was then used as a regressor in a first-level GLM analysis that also included the six motion parameters obtained from realignment as covariates of no interest. We created contrast images for each subject assessing positive connectivity across the 6 functional sessions. These contrast images were then brought to a second-level random effects analysis and entered into a one-sample <italic>t-test</italic> to identify voxels across the brain showing a correlation with IFS that differed significantly from zero. Our functional connectivity analysis is very similar to standard approaches to analyzing resting state networks. However, in this case, our results will likely reflect both spontaneous fluctuations and task-related influences.</p>
+        </sec>
+      </sec>
+    </sec>
+    <sec id="s5">
+      <title>Supporting Information</title>
+      <supplementary-material id="pone.0051637.s001" mimetype="application/vnd.openxmlformats-officedocument.wordprocessingml.document" xlink:href="info:doi/10.1371/journal.pone.0051637.s001" position="float" xlink:type="simple">
+        <label>Table S1</label>
+        <caption>
+          <p><bold>Regions exhibiting fMRI-adaptation for repetition of the reward.</bold> Reported regions are significant at <italic>Z</italic>&gt;2.57, <italic>p</italic>&lt;.05 FWE cluster corrected for the whole-brain volume (k&gt;112). BA = Brodmann area. PCC = posterior cingulate cortex; MD = mediodorsal nucleus; AN = anterior nucleus; IFG = inferior frontal gyrus; NAcc = nucleus accumbens; rACC = rostral anterior cingulate cortex; OFC = orbitofrontal cortex; pMTG = posterior middle temporal gyrus; IPS = intraparietal sulcus; aIPS = anterior intraparietal parietal sulcus; IPL = inferior parietal lobule; IFS = inferior frontal sulcus; OTC = occipitotemporal cortex; MOG = middle occipital gyrus.</p>
+          <p>(DOCX)</p>
+        </caption>
+      </supplementary-material>
+      <supplementary-material id="pone.0051637.s002" mimetype="application/vnd.openxmlformats-officedocument.wordprocessingml.document" xlink:href="info:doi/10.1371/journal.pone.0051637.s002" position="float" xlink:type="simple">
+        <label>Table S2</label>
+        <caption>
+          <p><bold>Regions exhibiting fMRI-adaptation for repetition of the rules.</bold> Reported regions are significant at <italic>Z</italic>&gt;2.57, <italic>p</italic>&lt;.05 FWE cluster corrected for the whole-brain volume (k&gt;112). BA = Brodmann area. pSTS = posterior superior temporal sulcus; aMCC = anterior mid-cingulate cortex; SMA/pre-SMA = supplementary motor cortex/presupplementary motor cortex; pMTG = posterior middle temporal gyrus; IPS = intraparietal sulcus; IPL = inferior parietal lobule; IFG = inferior frontal gyrus; IFJ = inferior frontal junction; PMC = premotor cortex; MOG = middle occipital gyrus; RLPFC = rostrolateral prefrontal cortex; pMFG = posterior middle frontal gyrus; lOFC = lateral orbitofrontal cortex; DMPFC = dorsomedial prefrontal cortex.</p>
+          <p>(DOCX)</p>
+        </caption>
+      </supplementary-material>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>We are grateful to Mike Cole, Anne-Katherin Eiselt, Steve Fleming, Kieran Fox, and Ravi Thiruchselvam for helpful comments on an earlier draft.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="pone.0051637-Rangel1">
+        <label>1</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Rangel</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Camerer</surname><given-names>C</given-names></name>, <name name-style="western"><surname>Montague</surname><given-names>PR</given-names></name> (<year>2008</year>) <article-title>A framework for studying the neurobiology of value-based decision making</article-title>. <source>Nat Rev Neurosci</source> <volume>9</volume>: <fpage>545</fpage>–<lpage>556</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0051637-Walton1">
+        <label>2</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Walton</surname><given-names>ME</given-names></name>, <name name-style="western"><surname>Behrens</surname><given-names>TE</given-names></name>, <name name-style="western"><surname>Buckley</surname><given-names>MJ</given-names></name>, <name name-style="western"><surname>Rudebeck</surname><given-names>PH</given-names></name>, <name name-style="western"><surname>Rushworth</surname><given-names>MF</given-names></name> (<year>2010</year>) <article-title>Separable learning systems in the macaque brain and the role of orbitofrontal cortex in contingent learning</article-title>. <source>Neuron</source> <volume>65</volume>: <fpage>927</fpage>–<lpage>939</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0051637-Wallis1">
+        <label>3</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Wallis</surname><given-names>JD</given-names></name> (<year>2007</year>) <article-title>Orbitofrontal cortex and its contribution to decision-making</article-title>. <source>Annu Rev Neurosci</source> <volume>30</volume>: <fpage>31</fpage>–<lpage>56</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0051637-Gottfried1">
+        <label>4</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Gottfried</surname><given-names>JA</given-names></name>, <name name-style="western"><surname>O'Doherty</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Dolan</surname><given-names>RJ</given-names></name> (<year>2003</year>) <article-title>Encoding predictive reward value in human amygdala and orbitofrontal cortex</article-title>. <source>Science</source> <volume>301</volume>: <fpage>1104</fpage>–<lpage>1107</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0051637-Diekhof1">
+        <label>5</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Diekhof</surname><given-names>EK</given-names></name>, <name name-style="western"><surname>Gruber</surname><given-names>O</given-names></name> (<year>2010</year>) <article-title>When desire collides with reason: functional interactions between anteroventral prefrontal cortex and nucleus accumbens underlie the human ability to resist impulsive desires</article-title>. <source>J Neurosci</source> <volume>30</volume>: <fpage>1488</fpage>–<lpage>1493</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0051637-Heatherton1">
+        <label>6</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Heatherton</surname><given-names>TF</given-names></name>, <name name-style="western"><surname>Wagner</surname><given-names>DD</given-names></name> (<year>2011</year>) <article-title>Cognitive neuroscience of self-regulation failure</article-title>. <source>Trends Cogn Sci</source> <volume>15</volume>: <fpage>132</fpage>–<lpage>139</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0051637-Hofmann1">
+        <label>7</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Hofmann</surname><given-names>W</given-names></name>, <name name-style="western"><surname>Friese</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Strack</surname><given-names>F</given-names></name> (<year>2009</year>) <article-title>Impulse and Self-Control From a Dual-Systems Perspective</article-title>. <source>Perspectives on Psychological Science</source> <volume>4</volume>: <fpage>162</fpage>–<lpage>176</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0051637-Baumeister1">
+        <label>8</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Baumeister</surname><given-names>RF</given-names></name>, <name name-style="western"><surname>Vohs</surname><given-names>KD</given-names></name> (<year>2007</year>) <article-title>Self-Regulation, Ego Depletion, and Motivation</article-title>. <source>Social and Personality Psychology Compass</source> <volume>1</volume>: <fpage>115</fpage>–<lpage>128</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0051637-Fujita1">
+        <label>9</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Fujita</surname><given-names>K</given-names></name> (<year>2011</year>) <article-title>On Conceptualizing Self-Control as More Than the Effortful Inhibition of Impulses</article-title>. <source>Pers Soc Psychol Rev</source></mixed-citation>
+      </ref>
+      <ref id="pone.0051637-Jimura1">
+        <label>10</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Jimura</surname><given-names>K</given-names></name>, <name name-style="western"><surname>Locke</surname><given-names>HS</given-names></name>, <name name-style="western"><surname>Braver</surname><given-names>TS</given-names></name> (<year>2010</year>) <article-title>Prefrontal cortex mediation of cognitive enhancement in rewarding motivational contexts</article-title>. <source>Proc Natl Acad Sci U S A</source> <volume>107</volume>: <fpage>8871</fpage>–<lpage>8876</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0051637-Savine1">
+        <label>11</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Savine</surname><given-names>AC</given-names></name>, <name name-style="western"><surname>Braver</surname><given-names>TS</given-names></name> (<year>2010</year>) <article-title>Motivated cognitive control: reward incentives modulate preparatory neural activity during task-switching</article-title>. <source>J Neurosci</source> <volume>30</volume>: <fpage>10294</fpage>–<lpage>10305</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0051637-Pessoa1">
+        <label>12</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Pessoa</surname><given-names>L</given-names></name> (<year>2009</year>) <article-title>How do emotion and motivation direct executive control?</article-title> <source>Trends Cogn Sci</source> <volume>13</volume>: <fpage>160</fpage>–<lpage>166</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0051637-Watanabe1">
+        <label>13</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Watanabe</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Sakagami</surname><given-names>M</given-names></name> (<year>2007</year>) <article-title>Integration of cognitive and motivational context information in the primate prefrontal cortex</article-title>. <source>Cereb Cortex</source> <volume>17 Suppl 1</volume>: <fpage>i101</fpage>–<lpage>109</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0051637-Watanabe2">
+        <label>14</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Watanabe</surname><given-names>M</given-names></name> (<year>1996</year>) <article-title>Reward expectancy in primate prefrontal neurons</article-title>. <source>Nature</source> <volume>382</volume>: <fpage>629</fpage>–<lpage>632</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0051637-Leon1">
+        <label>15</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Leon</surname><given-names>MI</given-names></name>, <name name-style="western"><surname>Shadlen</surname><given-names>MN</given-names></name> (<year>1999</year>) <article-title>Effect of expected reward magnitude on the response of neurons in the dorsolateral prefrontal cortex of the macaque</article-title>. <source>Neuron</source> <volume>24</volume>: <fpage>415</fpage>–<lpage>425</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0051637-Kouneiher1">
+        <label>16</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Kouneiher</surname><given-names>F</given-names></name>, <name name-style="western"><surname>Charron</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Koechlin</surname><given-names>E</given-names></name> (<year>2009</year>) <article-title>Motivation and cognitive control in the human prefrontal cortex</article-title>. <source>Nat Neurosci</source> <volume>12</volume>: <fpage>939</fpage>–<lpage>945</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0051637-Pochon1">
+        <label>17</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Pochon</surname><given-names>JB</given-names></name>, <name name-style="western"><surname>Levy</surname><given-names>R</given-names></name>, <name name-style="western"><surname>Fossati</surname><given-names>P</given-names></name>, <name name-style="western"><surname>Lehericy</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Poline</surname><given-names>JB</given-names></name>, <etal>et al</etal>. (<year>2002</year>) <article-title>The neural system that bridges reward and cognition in humans: an fMRI study</article-title>. <source>Proc Natl Acad Sci U S A</source> <volume>99</volume>: <fpage>5669</fpage>–<lpage>5674</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0051637-Hare1">
+        <label>18</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Hare</surname><given-names>TA</given-names></name>, <name name-style="western"><surname>Camerer</surname><given-names>CF</given-names></name>, <name name-style="western"><surname>Rangel</surname><given-names>A</given-names></name> (<year>2009</year>) <article-title>Self-control in decision-making involves modulation of the vmPFC valuation system</article-title>. <source>Science</source> <volume>324</volume>: <fpage>646</fpage>–<lpage>648</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0051637-Figner1">
+        <label>19</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Figner</surname><given-names>B</given-names></name>, <name name-style="western"><surname>Knoch</surname><given-names>D</given-names></name>, <name name-style="western"><surname>Johnson</surname><given-names>EJ</given-names></name>, <name name-style="western"><surname>Krosch</surname><given-names>AR</given-names></name>, <name name-style="western"><surname>Lisanby</surname><given-names>SH</given-names></name>, <etal>et al</etal>. (<year>2010</year>) <article-title>Lateral prefrontal cortex and self-control in intertemporal choice</article-title>. <source>Nat Neurosci</source> <volume>13</volume>: <fpage>538</fpage>–<lpage>539</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0051637-Baumgartner1">
+        <label>20</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Baumgartner</surname><given-names>T</given-names></name>, <name name-style="western"><surname>Knoch</surname><given-names>D</given-names></name>, <name name-style="western"><surname>Hotz</surname><given-names>P</given-names></name>, <name name-style="western"><surname>Eisenegger</surname><given-names>C</given-names></name>, <name name-style="western"><surname>Fehr</surname><given-names>E</given-names></name> (<year>2011</year>) <article-title>Dorsolateral and ventromedial prefrontal cortex orchestrate normative choice</article-title>. <source>Nat Neurosci</source> <volume>14</volume>: <fpage>1468</fpage>–<lpage>1474</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0051637-Knoch1">
+        <label>21</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Knoch</surname><given-names>D</given-names></name>, <name name-style="western"><surname>Pascual-Leone</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Meyer</surname><given-names>K</given-names></name>, <name name-style="western"><surname>Treyer</surname><given-names>V</given-names></name>, <name name-style="western"><surname>Fehr</surname><given-names>E</given-names></name> (<year>2006</year>) <article-title>Diminishing reciprocal fairness by disrupting the right prefrontal cortex</article-title>. <source>Science</source> <volume>314</volume>: <fpage>829</fpage>–<lpage>832</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0051637-Yeterian1">
+        <label>22</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Yeterian</surname><given-names>EH</given-names></name>, <name name-style="western"><surname>Pandya</surname><given-names>DN</given-names></name>, <name name-style="western"><surname>Tomaiuolo</surname><given-names>F</given-names></name>, <name name-style="western"><surname>Petrides</surname><given-names>M</given-names></name> (<year>2012</year>) <article-title>The cortical connectivity of the prefrontal cortex in the monkey brain</article-title>. <source>Cortex</source> <volume>48</volume>: <fpage>58</fpage>–<lpage>81</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0051637-Wallis2">
+        <label>23</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Wallis</surname><given-names>JD</given-names></name>, <name name-style="western"><surname>Miller</surname><given-names>EK</given-names></name> (<year>2003</year>) <article-title>Neuronal activity in primate dorsolateral and orbital prefrontal cortex during performance of a reward preference task</article-title>. <source>Eur J Neurosci</source> <volume>18</volume>: <fpage>2069</fpage>–<lpage>2081</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0051637-Watanabe3">
+        <label>24</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Watanabe</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Hikosaka</surname><given-names>K</given-names></name>, <name name-style="western"><surname>Sakagami</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Shirakawa</surname><given-names>S</given-names></name> (<year>2002</year>) <article-title>Coding and monitoring of motivational context in the primate prefrontal cortex</article-title>. <source>J Neurosci</source> <volume>22</volume>: <fpage>2391</fpage>–<lpage>2400</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0051637-Histed1">
+        <label>25</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Histed</surname><given-names>MH</given-names></name>, <name name-style="western"><surname>Pasupathy</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Miller</surname><given-names>EK</given-names></name> (<year>2009</year>) <article-title>Learning substrates in the primate prefrontal cortex and striatum: sustained activity related to successful actions</article-title>. <source>Neuron</source> <volume>63</volume>: <fpage>244</fpage>–<lpage>253</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0051637-Kim1">
+        <label>26</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Kim</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Hwang</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Lee</surname><given-names>D</given-names></name> (<year>2008</year>) <article-title>Prefrontal coding of temporally discounted values during intertemporal choice</article-title>. <source>Neuron</source> <volume>59</volume>: <fpage>161</fpage>–<lpage>172</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0051637-Kahnt1">
+        <label>27</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Kahnt</surname><given-names>T</given-names></name>, <name name-style="western"><surname>Heinzle</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Park</surname><given-names>SQ</given-names></name>, <name name-style="western"><surname>Haynes</surname><given-names>JD</given-names></name> (<year>2011</year>) <article-title>Decoding the formation of reward predictions across learning</article-title>. <source>J Neurosci</source> <volume>31</volume>: <fpage>14624</fpage>–<lpage>14630</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0051637-Li1">
+        <label>28</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Li</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Delgado</surname><given-names>MR</given-names></name>, <name name-style="western"><surname>Phelps</surname><given-names>EA</given-names></name> (<year>2011</year>) <article-title>How instructed knowledge modulates the neural systems of reward learning</article-title>. <source>Proc Natl Acad Sci U S A</source> <volume>108</volume>: <fpage>55</fpage>–<lpage>60</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0051637-Plassmann1">
+        <label>29</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Plassmann</surname><given-names>H</given-names></name>, <name name-style="western"><surname>O'Doherty</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Rangel</surname><given-names>A</given-names></name> (<year>2007</year>) <article-title>Orbitofrontal cortex encodes willingness to pay in everyday economic transactions</article-title>. <source>J Neurosci</source> <volume>27</volume>: <fpage>9984</fpage>–<lpage>9988</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0051637-McClure1">
+        <label>30</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>McClure</surname><given-names>SM</given-names></name>, <name name-style="western"><surname>Laibson</surname><given-names>DI</given-names></name>, <name name-style="western"><surname>Loewenstein</surname><given-names>G</given-names></name>, <name name-style="western"><surname>Cohen</surname><given-names>JD</given-names></name> (<year>2004</year>) <article-title>Separate neural systems value immediate and delayed monetary rewards</article-title>. <source>Science</source> <volume>306</volume>: <fpage>503</fpage>–<lpage>507</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0051637-Tobler1">
+        <label>31</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Tobler</surname><given-names>PN</given-names></name>, <name name-style="western"><surname>Christopoulos</surname><given-names>GI</given-names></name>, <name name-style="western"><surname>O'Doherty</surname><given-names>JP</given-names></name>, <name name-style="western"><surname>Dolan</surname><given-names>RJ</given-names></name>, <name name-style="western"><surname>Schultz</surname><given-names>W</given-names></name> (<year>2009</year>) <article-title>Risk-dependent reward value signal in human prefrontal cortex</article-title>. <source>Proc Natl Acad Sci U S A</source> <volume>106</volume>: <fpage>7185</fpage>–<lpage>7190</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0051637-Weber1">
+        <label>32</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Weber</surname><given-names>BJ</given-names></name>, <name name-style="western"><surname>Huettel</surname><given-names>SA</given-names></name> (<year>2008</year>) <article-title>The neural substrates of probabilistic and intertemporal decision making</article-title>. <source>Brain Res</source> <volume>1234</volume>: <fpage>104</fpage>–<lpage>115</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0051637-Seo1">
+        <label>33</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Seo</surname><given-names>H</given-names></name>, <name name-style="western"><surname>Barraclough</surname><given-names>DJ</given-names></name>, <name name-style="western"><surname>Lee</surname><given-names>D</given-names></name> (<year>2007</year>) <article-title>Dynamic signals related to choices and outcomes in the dorsolateral prefrontal cortex</article-title>. <source>Cereb Cortex</source> <volume>17 Suppl 1</volume>: <fpage>i110</fpage>–<lpage>117</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0051637-Venkatraman1">
+        <label>34</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Venkatraman</surname><given-names>V</given-names></name>, <name name-style="western"><surname>Payne</surname><given-names>JW</given-names></name>, <name name-style="western"><surname>Bettman</surname><given-names>JR</given-names></name>, <name name-style="western"><surname>Luce</surname><given-names>MF</given-names></name>, <name name-style="western"><surname>Huettel</surname><given-names>SA</given-names></name> (<year>2009</year>) <article-title>Separate neural mechanisms underlie choices and strategic preferences in risky decision making</article-title>. <source>Neuron</source> <volume>62</volume>: <fpage>593</fpage>–<lpage>602</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0051637-GrillSpector1">
+        <label>35</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Grill-Spector</surname><given-names>K</given-names></name>, <name name-style="western"><surname>Henson</surname><given-names>R</given-names></name>, <name name-style="western"><surname>Martin</surname><given-names>A</given-names></name> (<year>2006</year>) <article-title>Repetition and the brain: neural models of stimulus-specific effects</article-title>. <source>Trends Cogn Sci</source> <volume>10</volume>: <fpage>14</fpage>–<lpage>23</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0051637-Henson1">
+        <label>36</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Henson</surname><given-names>R</given-names></name> (<year>2003</year>) <article-title>Neuroimaging studies of priming</article-title>. <source>Prog Neurobiol</source> <volume>70</volume>: <fpage>53</fpage>–<lpage>81</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0051637-Salimpoor1">
+        <label>37</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Salimpoor</surname><given-names>VN</given-names></name>, <name name-style="western"><surname>Chang</surname><given-names>C</given-names></name>, <name name-style="western"><surname>Menon</surname><given-names>V</given-names></name> (<year>2010</year>) <article-title>Neural basis of repetition priming during mathematical cognition: repetition suppression or repetition enhancement?</article-title> <source>J Cogn Neurosci</source> <volume>22</volume>: <fpage>790</fpage>–<lpage>805</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0051637-Kilner1">
+        <label>38</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Kilner</surname><given-names>JM</given-names></name>, <name name-style="western"><surname>Neal</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Weiskopf</surname><given-names>N</given-names></name>, <name name-style="western"><surname>Friston</surname><given-names>KJ</given-names></name>, <name name-style="western"><surname>Frith</surname><given-names>CD</given-names></name> (<year>2009</year>) <article-title>Evidence of mirror neurons in human inferior frontal gyrus</article-title>. <source>J Neurosci</source> <volume>29</volume>: <fpage>10153</fpage>–<lpage>10159</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0051637-Race1">
+        <label>39</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Race</surname><given-names>EA</given-names></name>, <name name-style="western"><surname>Shanker</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Wagner</surname><given-names>AD</given-names></name> (<year>2009</year>) <article-title>Neural priming in human frontal cortex: multiple forms of learning reduce demands on the prefrontal executive system</article-title>. <source>J Cogn Neurosci</source> <volume>21</volume>: <fpage>1766</fpage>–<lpage>1781</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0051637-Jenkins1">
+        <label>40</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Jenkins</surname><given-names>AC</given-names></name>, <name name-style="western"><surname>Macrae</surname><given-names>CN</given-names></name>, <name name-style="western"><surname>Mitchell</surname><given-names>JP</given-names></name> (<year>2008</year>) <article-title>Repetition suppression of ventromedial prefrontal activity during judgments of self and others</article-title>. <source>Proc Natl Acad Sci U S A</source> <volume>105</volume>: <fpage>4507</fpage>–<lpage>4512</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0051637-DeBaene1">
+        <label>41</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>De Baene</surname><given-names>W</given-names></name>, <name name-style="western"><surname>Kuhn</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Brass</surname><given-names>M</given-names></name> (<year>2011</year>) <article-title>Challenging a decade of brain research on task switching: Brain activation in the task-switching paradigm reflects adaptation rather than reconfiguration of task sets</article-title>. <source>Hum Brain Mapp</source></mixed-citation>
+      </ref>
+      <ref id="pone.0051637-Kable1">
+        <label>42</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Kable</surname><given-names>JW</given-names></name>, <name name-style="western"><surname>Glimcher</surname><given-names>PW</given-names></name> (<year>2007</year>) <article-title>The neural correlates of subjective value during intertemporal choice</article-title>. <source>Nat Neurosci</source> <volume>10</volume>: <fpage>1625</fpage>–<lpage>1633</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0051637-Bunge1">
+        <label>43</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Bunge</surname><given-names>SA</given-names></name>, <name name-style="western"><surname>Kahn</surname><given-names>I</given-names></name>, <name name-style="western"><surname>Wallis</surname><given-names>JD</given-names></name>, <name name-style="western"><surname>Miller</surname><given-names>EK</given-names></name>, <name name-style="western"><surname>Wagner</surname><given-names>AD</given-names></name> (<year>2003</year>) <article-title>Neural circuits subserving the retrieval and maintenance of abstract rules</article-title>. <source>J Neurophysiol</source> <volume>90</volume>: <fpage>3419</fpage>–<lpage>3428</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0051637-Koechlin1">
+        <label>44</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Koechlin</surname><given-names>E</given-names></name>, <name name-style="western"><surname>Ody</surname><given-names>C</given-names></name>, <name name-style="western"><surname>Kouneiher</surname><given-names>F</given-names></name> (<year>2003</year>) <article-title>The architecture of cognitive control in the human prefrontal cortex</article-title>. <source>Science</source> <volume>302</volume>: <fpage>1181</fpage>–<lpage>1185</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0051637-Badre1">
+        <label>45</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Badre</surname><given-names>D</given-names></name>, <name name-style="western"><surname>Doll</surname><given-names>BB</given-names></name>, <name name-style="western"><surname>Long</surname><given-names>NM</given-names></name>, <name name-style="western"><surname>Frank</surname><given-names>MJ</given-names></name> (<year>2012</year>) <article-title>Rostrolateral prefrontal cortex and individual differences in uncertainty-driven exploration</article-title>. <source>Neuron</source> <volume>73</volume>: <fpage>595</fpage>–<lpage>607</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0051637-Rangel2">
+        <label>46</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Rangel</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Hare</surname><given-names>T</given-names></name> (<year>2010</year>) <article-title>Neural computations associated with goal-directed choice</article-title>. <source>Curr Opin Neurobiol</source> <volume>20</volume>: <fpage>262</fpage>–<lpage>270</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0051637-Wallis3">
+        <label>47</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Wallis</surname><given-names>JD</given-names></name>, <name name-style="western"><surname>Kennerley</surname><given-names>SW</given-names></name> (<year>2010</year>) <article-title>Heterogeneous reward signals in prefrontal cortex</article-title>. <source>Curr Opin Neurobiol</source> <volume>20</volume>: <fpage>191</fpage>–<lpage>198</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0051637-Rushworth1">
+        <label>48</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Rushworth</surname><given-names>MF</given-names></name>, <name name-style="western"><surname>Behrens</surname><given-names>TE</given-names></name> (<year>2008</year>) <article-title>Choice, uncertainty and value in prefrontal and cingulate cortex</article-title>. <source>Nat Neurosci</source> <volume>11</volume>: <fpage>389</fpage>–<lpage>397</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0051637-Peters1">
+        <label>49</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Peters</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Buchel</surname><given-names>C</given-names></name> (<year>2010</year>) <article-title>Neural representations of subjective reward value</article-title>. <source>Behav Brain Res</source> <volume>213</volume>: <fpage>135</fpage>–<lpage>141</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0051637-Henson2">
+        <label>50</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Henson</surname><given-names>R</given-names></name>, <name name-style="western"><surname>Shallice</surname><given-names>T</given-names></name>, <name name-style="western"><surname>Dolan</surname><given-names>R</given-names></name> (<year>2000</year>) <article-title>Neuroimaging evidence for dissociable forms of repetition priming</article-title>. <source>Science</source> <volume>287</volume>: <fpage>1269</fpage>–<lpage>1272</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0051637-Muller1">
+        <label>51</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Muller</surname><given-names>NG</given-names></name>, <name name-style="western"><surname>Strumpf</surname><given-names>H</given-names></name>, <name name-style="western"><surname>Scholz</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Baier</surname><given-names>B</given-names></name>, <name name-style="western"><surname>Melloni</surname><given-names>L</given-names></name> (<year>2012</year>) <article-title>Repetition Suppression versus Enhancement–It's Quantity That Matter</article-title>. <source>Cereb Cortex</source></mixed-citation>
+      </ref>
+      <ref id="pone.0051637-deGardelle1">
+        <label>52</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>de Gardelle</surname><given-names>V</given-names></name>, <name name-style="western"><surname>Waszczuk</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Egner</surname><given-names>T</given-names></name>, <name name-style="western"><surname>Summerfield</surname><given-names>C</given-names></name> (<year>2012</year>) <article-title>Concurrent Repetition Enhancement and Suppression Responses in Extrastriate Visual Cortex</article-title>. <source>Cereb Cortex</source></mixed-citation>
+      </ref>
+      <ref id="pone.0051637-Vuilleumier1">
+        <label>53</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Vuilleumier</surname><given-names>P</given-names></name>, <name name-style="western"><surname>Schwartz</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Duhoux</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Dolan</surname><given-names>RJ</given-names></name>, <name name-style="western"><surname>Driver</surname><given-names>J</given-names></name> (<year>2005</year>) <article-title>Selective attention modulates neural substrates of repetition priming and “implicit” visual memory: suppressions and enhancements revealed by FMRI</article-title>. <source>J Cogn Neurosci</source> <volume>17</volume>: <fpage>1245</fpage>–<lpage>1260</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0051637-TurkBrowne1">
+        <label>54</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Turk-Browne</surname><given-names>NB</given-names></name>, <name name-style="western"><surname>Yi</surname><given-names>DJ</given-names></name>, <name name-style="western"><surname>Leber</surname><given-names>AB</given-names></name>, <name name-style="western"><surname>Chun</surname><given-names>MM</given-names></name> (<year>2007</year>) <article-title>Visual quality determines the direction of neural repetition effects</article-title>. <source>Cereb Cortex</source> <volume>17</volume>: <fpage>425</fpage>–<lpage>433</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0051637-Summerfield1">
+        <label>55</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Summerfield</surname><given-names>C</given-names></name>, <name name-style="western"><surname>Egner</surname><given-names>T</given-names></name> (<year>2009</year>) <article-title>Expectation (and attention) in visual cognition</article-title>. <source>Trends Cogn Sci</source> <volume>13</volume>: <fpage>403</fpage>–<lpage>409</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0051637-Daw1">
+        <label>56</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Daw</surname><given-names>ND</given-names></name>, <name name-style="western"><surname>Niv</surname><given-names>Y</given-names></name>, <name name-style="western"><surname>Dayan</surname><given-names>P</given-names></name> (<year>2005</year>) <article-title>Uncertainty-based competition between prefrontal and dorsolateral striatal systems for behavioral control</article-title>. <source>Nat Neurosci</source> <volume>8</volume>: <fpage>1704</fpage>–<lpage>1711</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0051637-OReilly1">
+        <label>57</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>O'Reilly</surname><given-names>RC</given-names></name>, <name name-style="western"><surname>Frank</surname><given-names>MJ</given-names></name> (<year>2006</year>) <article-title>Making working memory work: a computational model of learning in the prefrontal cortex and basal ganglia</article-title>. <source>Neural Comput</source> <volume>18</volume>: <fpage>283</fpage>–<lpage>328</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0051637-Ridderinkhof1">
+        <label>58</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Ridderinkhof</surname><given-names>KR</given-names></name>, <name name-style="western"><surname>Ullsperger</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Crone</surname><given-names>EA</given-names></name>, <name name-style="western"><surname>Nieuwenhuis</surname><given-names>S</given-names></name> (<year>2004</year>) <article-title>The role of the medial frontal cortex in cognitive control</article-title>. <source>Science</source> <volume>306</volume>: <fpage>443</fpage>–<lpage>447</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0051637-Botvinick1">
+        <label>59</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Botvinick</surname><given-names>MM</given-names></name>, <name name-style="western"><surname>Braver</surname><given-names>TS</given-names></name>, <name name-style="western"><surname>Barch</surname><given-names>DM</given-names></name>, <name name-style="western"><surname>Carter</surname><given-names>CS</given-names></name>, <name name-style="western"><surname>Cohen</surname><given-names>JD</given-names></name> (<year>2001</year>) <article-title>Conflict monitoring and cognitive control</article-title>. <source>Psychological review</source> <volume>108</volume>: <fpage>624</fpage>–<lpage>652</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0051637-Matsumoto1">
+        <label>60</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Matsumoto</surname><given-names>K</given-names></name>, <name name-style="western"><surname>Suzuki</surname><given-names>W</given-names></name>, <name name-style="western"><surname>Tanaka</surname><given-names>K</given-names></name> (<year>2003</year>) <article-title>Neuronal correlates of goal-based motor selection in the prefrontal cortex</article-title>. <source>Science</source> <volume>301</volume>: <fpage>229</fpage>–<lpage>232</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0051637-Rushworth2">
+        <label>61</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Rushworth</surname><given-names>MF</given-names></name>, <name name-style="western"><surname>Behrens</surname><given-names>TE</given-names></name>, <name name-style="western"><surname>Rudebeck</surname><given-names>PH</given-names></name>, <name name-style="western"><surname>Walton</surname><given-names>ME</given-names></name> (<year>2007</year>) <article-title>Contrasting roles for cingulate and orbitofrontal cortex in decisions and social behaviour</article-title>. <source>Trends Cogn Sci</source> <volume>11</volume>: <fpage>168</fpage>–<lpage>176</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0051637-Lundqvist1">
+        <label>62</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Lundqvist D, Flykt A, Ohman A (1998) Karolinska Directed Emotional Faces [Database of standardized facial images]. Psychology Section, Department of Clinical Neuroscience, Karolinska Hospital Stockholm, Sweden.</mixed-citation>
+      </ref>
+      <ref id="pone.0051637-Martinez1">
+        <label>63</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Martinez</surname><given-names>AM</given-names></name>, <name name-style="western"><surname>Benavente</surname><given-names>R</given-names></name> (<year>1998</year>) <article-title>The AR Face Database</article-title>. <source>CVC Technical Report #24</source></mixed-citation>
+      </ref>
+      <ref id="pone.0051637-Phillips1">
+        <label>64</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Phillips</surname><given-names>PJ</given-names></name>, <name name-style="western"><surname>Wechsler</surname><given-names>H</given-names></name>, <name name-style="western"><surname>Huang</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Rauss</surname><given-names>PJ</given-names></name> (<year>1998</year>) <article-title>The FERET database and evaluation procedure for face-recognition algorithms</article-title>. <source>Image Vision Comput</source> <volume>16</volume>: <fpage>295</fpage>–<lpage>306</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0051637-Macey1">
+        <label>65</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Macey</surname><given-names>PM</given-names></name>, <name name-style="western"><surname>Macey</surname><given-names>KE</given-names></name>, <name name-style="western"><surname>Kumar</surname><given-names>R</given-names></name>, <name name-style="western"><surname>Harper</surname><given-names>RM</given-names></name> (<year>2004</year>) <article-title>A method for removal of global effects from fMRI time series</article-title>. <source>Neuroimage</source> <volume>22</volume>: <fpage>360</fpage>–<lpage>366</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0051637-Buckless1">
+        <label>66</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Buckless</surname><given-names>FA</given-names></name>, <name name-style="western"><surname>Ravenscroft</surname><given-names>SP</given-names></name> (<year>1990</year>) <article-title>Contrast Coding - a Refinement of Anova in Behavioral-Analysis</article-title>. <source>Accounting Review</source> <volume>65</volume>: <fpage>933</fpage>–<lpage>945</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0051637-Rosnow1">
+        <label>67</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Rosnow</surname><given-names>RL</given-names></name>, <name name-style="western"><surname>Rosenthal</surname><given-names>R</given-names></name> (<year>1996</year>) <article-title>Contrasts and interactions redux: Five easy pieces</article-title>. <source>Psychological Science</source> <volume>7</volume>: <fpage>253</fpage>–<lpage>257</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0051637-Brett1">
+        <label>68</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Brett</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Anton</surname><given-names>J-L</given-names></name>, <name name-style="western"><surname>Valabregue</surname><given-names>R</given-names></name>, <name name-style="western"><surname>Poline</surname><given-names>J-B</given-names></name> (<year>2002</year>) <article-title>Region of interest analysis using an SPM toolbox [abstract] Presented at the 8th International Conference on Functional Mapping of the Human Brain, June 2–6 2002</article-title>. <source>Sendai, Japan</source></mixed-citation>
+      </ref>
+      <ref id="pone.0051637-Loftus1">
+        <label>69</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Loftus</surname><given-names>GR</given-names></name>, <name name-style="western"><surname>Masson</surname><given-names>EJM</given-names></name> (<year>1994</year>) <article-title>Using confidence intervals in within–subject designs</article-title>. <source>Psychon Bull Rev</source> <volume>1</volume>: <fpage>476</fpage>–<lpage>490</lpage>.</mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

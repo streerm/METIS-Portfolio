@@ -1,0 +1,862 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1d3 20150301//EN" "http://jats.nlm.nih.gov/publishing/1.1d3/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.1d3" xml:lang="en" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+<front>
+<journal-meta>
+<journal-id journal-id-type="nlm-ta">PLoS ONE</journal-id>
+<journal-id journal-id-type="publisher-id">plos</journal-id>
+<journal-id journal-id-type="pmc">plosone</journal-id>
+<journal-title-group>
+<journal-title>PLOS ONE</journal-title>
+</journal-title-group>
+<issn pub-type="epub">1932-6203</issn>
+<publisher>
+<publisher-name>Public Library of Science</publisher-name>
+<publisher-loc>San Francisco, CA USA</publisher-loc>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.1371/journal.pone.0161589</article-id>
+<article-id pub-id-type="publisher-id">PONE-D-16-03044</article-id>
+<article-categories>
+<subj-group subj-group-type="heading">
+<subject>Research Article</subject>
+</subj-group>
+<subj-group subj-group-type="Discipline-v3"><subject>Biology and life sciences</subject><subj-group><subject>Neuroscience</subject><subj-group><subject>Brain mapping</subject><subj-group><subject>Functional magnetic resonance imaging</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and health sciences</subject><subj-group><subject>Diagnostic medicine</subject><subj-group><subject>Diagnostic radiology</subject><subj-group><subject>Magnetic resonance imaging</subject><subj-group><subject>Functional magnetic resonance imaging</subject></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Research and analysis methods</subject><subj-group><subject>Imaging techniques</subject><subj-group><subject>Diagnostic radiology</subject><subj-group><subject>Magnetic resonance imaging</subject><subj-group><subject>Functional magnetic resonance imaging</subject></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and health sciences</subject><subj-group><subject>Radiology and imaging</subject><subj-group><subject>Diagnostic radiology</subject><subj-group><subject>Magnetic resonance imaging</subject><subj-group><subject>Functional magnetic resonance imaging</subject></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Research and analysis methods</subject><subj-group><subject>Imaging techniques</subject><subj-group><subject>Neuroimaging</subject><subj-group><subject>Functional magnetic resonance imaging</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and life sciences</subject><subj-group><subject>Neuroscience</subject><subj-group><subject>Neuroimaging</subject><subj-group><subject>Functional magnetic resonance imaging</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and life sciences</subject><subj-group><subject>Psychology</subject><subj-group><subject>Emotions</subject></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Social sciences</subject><subj-group><subject>Psychology</subject><subj-group><subject>Emotions</subject></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Research and analysis methods</subject><subj-group><subject>Imaging techniques</subject><subj-group><subject>Neuroimaging</subject></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and life sciences</subject><subj-group><subject>Neuroscience</subject><subj-group><subject>Neuroimaging</subject></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and life sciences</subject><subj-group><subject>Neuroscience</subject><subj-group><subject>Sensory perception</subject></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and life sciences</subject><subj-group><subject>Psychology</subject><subj-group><subject>Sensory perception</subject></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Social sciences</subject><subj-group><subject>Psychology</subject><subj-group><subject>Sensory perception</subject></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and life sciences</subject><subj-group><subject>Anatomy</subject><subj-group><subject>Nervous system</subject><subj-group><subject>Central nervous system</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and health sciences</subject><subj-group><subject>Anatomy</subject><subj-group><subject>Nervous system</subject><subj-group><subject>Central nervous system</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and life sciences</subject><subj-group><subject>Neuroscience</subject><subj-group><subject>Sensory perception</subject><subj-group><subject>Vision</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and life sciences</subject><subj-group><subject>Psychology</subject><subj-group><subject>Sensory perception</subject><subj-group><subject>Vision</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Social sciences</subject><subj-group><subject>Psychology</subject><subj-group><subject>Sensory perception</subject><subj-group><subject>Vision</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Computer and information sciences</subject><subj-group><subject>Information technology</subject><subj-group><subject>Data processing</subject></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Physical sciences</subject><subj-group><subject>Mathematics</subject><subj-group><subject>Discrete mathematics</subject><subj-group><subject>Combinatorics</subject><subj-group><subject>Permutation</subject></subj-group></subj-group></subj-group></subj-group></subj-group></article-categories>
+<title-group>
+<article-title>Identifying Core Affect in Individuals from fMRI Responses to Dynamic Naturalistic Audiovisual Stimuli</article-title>
+<alt-title alt-title-type="running-head">Identifying Core Affect from fMRI Responses to Dynamic Naturalistic Audiovisual Stimuli</alt-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western">
+<surname>Kim</surname>
+<given-names>Jongwan</given-names>
+</name>
+<xref ref-type="aff" rid="aff001"><sup>1</sup></xref>
+</contrib>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western">
+<surname>Wang</surname>
+<given-names>Jing</given-names>
+</name>
+<xref ref-type="aff" rid="aff002"><sup>2</sup></xref>
+</contrib>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western">
+<surname>Wedell</surname>
+<given-names>Douglas H.</given-names>
+</name>
+<xref ref-type="aff" rid="aff001"><sup>1</sup></xref>
+</contrib>
+<contrib contrib-type="author" corresp="yes" xlink:type="simple">
+<contrib-id authenticated="true" contrib-id-type="orcid">http://orcid.org/0000-0001-5112-4829</contrib-id>
+<name name-style="western">
+<surname>Shinkareva</surname>
+<given-names>Svetlana V.</given-names>
+</name>
+<xref ref-type="aff" rid="aff001"><sup>1</sup></xref>
+<xref ref-type="corresp" rid="cor001">*</xref>
+</contrib>
+</contrib-group>
+<aff id="aff001"><label>1</label> <addr-line>Department of Psychology, University of South Carolina, Columbia, South Carolina, United States of America</addr-line></aff>
+<aff id="aff002"><label>2</label> <addr-line>Department of Psychology, Carnegie Mellon University, Pittsburgh, Pennsylvania, United States of America</addr-line></aff>
+<contrib-group>
+<contrib contrib-type="editor" xlink:type="simple">
+<name name-style="western">
+<surname>Eder</surname>
+<given-names>Andreas B</given-names>
+</name>
+<role>Editor</role>
+<xref ref-type="aff" rid="edit1"/>
+</contrib>
+</contrib-group>
+<aff id="edit1"><addr-line>University of Würzburg, GERMANY</addr-line></aff>
+<author-notes>
+<fn fn-type="conflict" id="coi001">
+<p>The authors have declared that no competing interests exist.</p>
+</fn>
+<fn fn-type="con">
+<p><list list-type="simple">
+<list-item><p><bold>Conceptualization:</bold> SS DW.</p></list-item>
+<list-item><p><bold>Data curation:</bold> JK.</p></list-item>
+<list-item><p><bold>Formal analysis:</bold> JK JW DW SS.</p></list-item>
+<list-item><p><bold>Methodology:</bold> JK JW DW SS.</p></list-item>
+<list-item><p><bold>Software:</bold> JK JW DW SS.</p></list-item>
+<list-item><p><bold>Writing – original draft:</bold> JK DW SS.</p></list-item></list></p>
+</fn>
+<corresp id="cor001">* E-mail: <email xlink:type="simple">shinkareva@sc.edu</email></corresp>
+</author-notes>
+<pub-date pub-type="epub">
+<day>6</day>
+<month>9</month>
+<year>2016</year>
+</pub-date>
+<pub-date pub-type="collection">
+<year>2016</year>
+</pub-date>
+<volume>11</volume>
+<issue>9</issue>
+<elocation-id>e0161589</elocation-id>
+<history>
+<date date-type="received">
+<day>22</day>
+<month>1</month>
+<year>2016</year>
+</date>
+<date date-type="accepted">
+<day>8</day>
+<month>8</month>
+<year>2016</year>
+</date>
+</history>
+<permissions>
+<copyright-year>2016</copyright-year>
+<copyright-holder>Kim et al</copyright-holder>
+<license xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+<license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+</license>
+</permissions>
+<self-uri content-type="pdf" xlink:href="info:doi/10.1371/journal.pone.0161589"/>
+<abstract>
+<p>Recent research has demonstrated that affective states elicited by viewing pictures varying in valence and arousal are identifiable from whole brain activation patterns observed with functional magnetic resonance imaging (fMRI). Identification of affective states from more naturalistic stimuli has clinical relevance, but the feasibility of identifying these states on an individual trial basis from fMRI data elicited by dynamic multimodal stimuli is unclear. The goal of this study was to determine whether affective states can be similarly identified when participants view dynamic naturalistic audiovisual stimuli. Eleven participants viewed 5s audiovisual clips in a passive viewing task in the scanner. Valence and arousal for individual trials were identified both within and across participants based on distributed patterns of activity in areas selectively responsive to audiovisual naturalistic stimuli while controlling for lower level features of the stimuli. In addition, the brain regions identified by searchlight analyses to represent valence and arousal were consistent with previously identified regions associated with emotion processing. These findings extend previous results on the distributed representation of affect to multimodal dynamic stimuli.</p>
+</abstract>
+<funding-group>
+<award-group id="award001">
+<funding-source>
+<institution-wrap>
+<institution-id institution-id-type="funder-id">http://dx.doi.org/10.13039/100008899</institution-id>
+<institution>University of South Carolina</institution>
+</institution-wrap>
+</funding-source>
+<award-id>Social Sciences Grant Program, Office of the Provost</award-id>
+<principal-award-recipient>
+<contrib-id authenticated="true" contrib-id-type="orcid">http://orcid.org/0000-0001-5112-4829</contrib-id>
+<name name-style="western">
+<surname>Shinkareva</surname>
+<given-names>Svetlana V.</given-names>
+</name>
+</principal-award-recipient>
+</award-group>
+<award-group id="award002">
+<funding-source>
+<institution-wrap>
+<institution-id institution-id-type="funder-id">http://dx.doi.org/10.13039/100008899</institution-id>
+<institution>University of South Carolina</institution>
+</institution-wrap>
+</funding-source>
+<award-id>Social Sciences Grant Program, Office of the Provost</award-id>
+<principal-award-recipient>
+<name name-style="western">
+<surname>Wedell</surname>
+<given-names>Douglas H.</given-names>
+</name>
+</principal-award-recipient>
+</award-group>
+<funding-statement>This work was funded in part by the Social Sciences Grant Program, Office of the Provost, University of South Carolina, awarded to SVS and DHW. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</funding-statement>
+</funding-group>
+<counts>
+<fig-count count="4"/>
+<table-count count="3"/>
+<page-count count="21"/>
+</counts>
+<custom-meta-group>
+<custom-meta id="data-availability">
+<meta-name>Data Availability</meta-name>
+<meta-value>fMRI data are available via OpenfMRI database (ds000205). Behavioral data are summarized in <xref ref-type="supplementary-material" rid="pone.0161589.s004">S1 Table</xref>.</meta-value>
+</custom-meta>
+</custom-meta-group>
+</article-meta>
+</front>
+<body>
+<sec id="sec001" sec-type="intro">
+<title>1.0 Introduction</title>
+<p>The two major components of core affect posited to underlie more complex emotions are valence, varying from negative to positive, and arousal, varying from low to high [<xref ref-type="bibr" rid="pone.0161589.ref001">1</xref>, <xref ref-type="bibr" rid="pone.0161589.ref002">2</xref>]. Researchers have identified physiological correlates of valence and arousal across several different types of affect eliciting stimuli [<xref ref-type="bibr" rid="pone.0161589.ref003">3</xref>–<xref ref-type="bibr" rid="pone.0161589.ref005">5</xref>]. Similarly, neuroimaging studies have also demonstrated a number of correspondences between different neural activation patterns and levels of valence and arousal for typical [<xref ref-type="bibr" rid="pone.0161589.ref006">6</xref>–<xref ref-type="bibr" rid="pone.0161589.ref008">8</xref>] and clinical [<xref ref-type="bibr" rid="pone.0161589.ref009">9</xref>] populations. These results support the idea that the neural representations of valence and arousal should be identifiable on a trial-by-trial basis for a variety of different types of stimuli.</p>
+<p>There has been growing interest in investigating the utility of multivariate pattern analysis (MVPA) approaches applied to fMRI data in clinical populations. MVPA is ideal in this regard because it is designed to analyze the data at the level of individual, which is critical in clinical applications. Much of the clinical work to date has examined functional responses to static affective stimuli, such as pictures of faces [<xref ref-type="bibr" rid="pone.0161589.ref010">10</xref>–<xref ref-type="bibr" rid="pone.0161589.ref012">12</xref>] or the images found in the International Affective Picture System (IAPS) [<xref ref-type="bibr" rid="pone.0161589.ref013">13</xref>]. There is a recent growing interest in affective processing of dynamic multimodal stimuli (see recent special issue, [<xref ref-type="bibr" rid="pone.0161589.ref014">14</xref>]) At the same time, it has been argued that naturalistic viewing conditions that are dynamic and multimodal, as well as low in task demands, may be critical in examining emotion perception in clinical populations [<xref ref-type="bibr" rid="pone.0161589.ref015">15</xref>]. For instance, a selective deficit to dynamic social stimuli, but not static stimuli, has been identified in individuals with autism spectrum disorders [<xref ref-type="bibr" rid="pone.0161589.ref016">16</xref>]. Impaired multisensory integration of emotions has been shown in schizophrenia [<xref ref-type="bibr" rid="pone.0161589.ref017">17</xref>] [<xref ref-type="bibr" rid="pone.0161589.ref018">18</xref>]. Moreover, context, that is more readily available in dynamic multimodal stimuli, has been shown to play an important role in emotion perception [<xref ref-type="bibr" rid="pone.0161589.ref019">19</xref>]. Therefore, it may be most relevant to examine affective responses to naturalistic multimodal stimuli that are closer to what is encountered in more realistic and natural settings, increasing the ecological validity of unimodal experimental designs [<xref ref-type="bibr" rid="pone.0161589.ref020">20</xref>, <xref ref-type="bibr" rid="pone.0161589.ref021">21</xref>]. A first step in this direction is to establish that valence and arousal elicited by dynamic naturalistic stimuli can be reliably identified from fMRI data in a typical sample.</p>
+<p>Previous fMRI studies have used MVPA to investigate the representation of affect, successfully decoding affective states from patterns of brain activity located in specific regions of interest as well as from patterns of whole brain activity [<xref ref-type="bibr" rid="pone.0161589.ref022">22</xref>]. However, most of those studies used static, visual stimuli and only a few studies investigated other modalities or dynamic stimuli [<xref ref-type="bibr" rid="pone.0161589.ref023">23</xref>], such as sounds [<xref ref-type="bibr" rid="pone.0161589.ref024">24</xref>, <xref ref-type="bibr" rid="pone.0161589.ref025">25</xref>], smells [<xref ref-type="bibr" rid="pone.0161589.ref026">26</xref>], or autobiographic recall [<xref ref-type="bibr" rid="pone.0161589.ref027">27</xref>]. Thus it is unclear whether the affective dimensions of valence and arousal are identifiable from fMRI data using dynamic multimodal stimuli.</p>
+<p>Behavioral studies have shown that multimodal presentation of congruent face and voice expressions facilitated emotion perception [<xref ref-type="bibr" rid="pone.0161589.ref028">28</xref>] compared to unimodal presentation. Context-rich multimodal stimuli may enhance affect recognition for patients with traumatic brain injury [<xref ref-type="bibr" rid="pone.0161589.ref029">29</xref>] and autism [<xref ref-type="bibr" rid="pone.0161589.ref030">30</xref>], but the reverse pattern was also reported for schizophrenic patients [<xref ref-type="bibr" rid="pone.0161589.ref031">31</xref>], possibly due to the failure of information integration across the two modalities. Brain activation evoked by natural dynamic stimuli has been shown to be highly reliable [<xref ref-type="bibr" rid="pone.0161589.ref032">32</xref>]. Behavioral studies of facial expressions have shown that dynamic stimuli are more easily recognized than static stimuli in both healthy populations [<xref ref-type="bibr" rid="pone.0161589.ref033">33</xref>, <xref ref-type="bibr" rid="pone.0161589.ref034">34</xref>] and in clinical populations [<xref ref-type="bibr" rid="pone.0161589.ref035">35</xref>]. Neuroimaging studies have also found more extended activation patterns for dynamic facial expressions [<xref ref-type="bibr" rid="pone.0161589.ref036">36</xref>]. Many of the emotion studies comparing static versus dynamic conditions have utilized facial expressions, with few employing other types of stimuli [<xref ref-type="bibr" rid="pone.0161589.ref037">37</xref>]. Thus the representation of affective states in the brain induced by naturalistic dynamic stimuli requires further investigation.</p>
+<p>Audiovisual clips may be a particularly relevant stimulus format to explore in linking experiences to more real world situations. In a constantly changing, dynamic environment, perceptual and affective components from multiple modalities tend to co-occur so that, for instance, one both sees and hears a laughing child on a playground. Audiovisual clips of affectively charged everyday occurrences present a dynamic and continuous audio-visual unfolding of events over time, more typical of naturalistic experience. These types of stimuli have a long history in emotion research [<xref ref-type="bibr" rid="pone.0161589.ref038">38</xref>, <xref ref-type="bibr" rid="pone.0161589.ref039">39</xref>]. For example, film stimuli have been shown to produce differential psychophysiological response patterns to valence [<xref ref-type="bibr" rid="pone.0161589.ref040">40</xref>, <xref ref-type="bibr" rid="pone.0161589.ref041">41</xref>]. Visual and auditory modalities that are stimulated together are more naturalistic in everyday life and may result in response enhancement and an advantage of redundancy [<xref ref-type="bibr" rid="pone.0161589.ref042">42</xref>]. Unlike static stimuli, audiovisual stimuli preserve natural timing relations and resolve ambiguities present in each separate modality [<xref ref-type="bibr" rid="pone.0161589.ref043">43</xref>].</p>
+<p>One of the challenges of using naturalistic stimuli in research is the possible confounding of lower level features. For example, valence has been shown to be positively correlated with brightness [<xref ref-type="bibr" rid="pone.0161589.ref044">44</xref>] and level of arousal has been shown to be related to loudness and motion [<xref ref-type="bibr" rid="pone.0161589.ref045">45</xref>, <xref ref-type="bibr" rid="pone.0161589.ref046">46</xref>]. Moreover, it has been demonstrated that affective states can be identified solely from lower level features. For example, using musical pieces, Coutinho and Cangelosi [<xref ref-type="bibr" rid="pone.0161589.ref047">47</xref>] identified arousal from lower level features such as loudness, tempo, pitch level, and sharpness, and they identified valence from features such as tempo and pitch level. In our experiment, we manipulate the affective states elicited by short videos along the dimensions of valence and arousal, producing four groupings of stimuli. We exercise some control of the semantic content of these audiovisual clips by distributing topics (human, animal, and inanimate) across the affective categories. To keep the stimuli naturalistic, we did not directly control the perceptual features, with an exception of sound intensity. Instead, we attempted to have a broad range of values of lower level features within each affective category and then control for these effects statistically and through the use of functional localizers. Thus, we sought to identify affective states under more naturalistic viewing conditions from neural patterns of activity measured with fMRI, after controlling for semantic and lower level features. By controlling for lower level features, we enhance the interpretation of our classification results as reflecting valence and arousal.</p>
+<p>In summary, the goal of this study was to identify affective content of naturalistic audiovisual stimuli in individuals from fMRI data on a single trial basis, thus extending previous work that identified valence and/or arousal derived from static visual stimuli using MVPA methods based on fMRI data [<xref ref-type="bibr" rid="pone.0161589.ref007">7</xref>, <xref ref-type="bibr" rid="pone.0161589.ref048">48</xref>]. In addition, we examine the neural representation of arousal and valence components of core affect in terms of areas that lead to identification of these core dimensions of affect. In this auxiliary analyses, we employ a decoding based searchlight analysis and compare the regions identified with those implicated in previous research as being important in emotion processing.</p>
+</sec>
+<sec id="sec002" sec-type="materials|methods">
+<title>2.0 Method</title>
+<sec id="sec003">
+<title>2.1 Participants</title>
+<p>This research was approved by the Institutional Review Board at the University of South Carolina. All volunteers gave written informed consent in accordance with the Institutional Review Board at the University of South Carolina. Eleven (five female, two left handed) volunteer adults (mean age 23.91 years, <italic>SD</italic> = 4.02) from the University of South Carolina community participated in the fMRI experiment. A separate group of volunteer adults (<italic>n</italic> = 49) from the same community participated in a preliminary behavioral experiment for stimulus validation. All participants in the fMRI experiment reported normal hearing, normal or corrected to normal vision, and no history of neurological diseases.</p>
+</sec>
+<sec id="sec004" sec-type="materials|methods">
+<title><italic>2.2</italic> Materials</title>
+<p>Participants viewed affect-eliciting audiovisual clips that varied on levels of valence and arousal. Naturalistic audiovisual stimuli were selected ad hoc from a larger in-house behaviorally-validated stimulus set, with the goal to maximize differences in valence for positive versus negative sets and maximize differences in arousal for low versus high arousal sets, while attempting to match levels on the shared dimensions across sets so that valence and arousal values are orthogonal. Eight stimuli were selected for each affective category corresponding to each of the four quadrants of the affective space: high arousal-negative valence (HN), low arousal-negative valence (LN), low arousal-positive valence (LP), and high arousal-positive valence (HP). The stimuli were balanced on semantic content across the affective categories. Each affective category included four clips with humans, two clips with animals, and two clips with inanimate content. The stimuli did not contain speech or written language. Some audio components contained prosodic information. All stimuli were selected to reflect a single topic with homogeneous affective content for the duration of the clip (e.g., children laughing and running around a playground).</p>
+<p>The 32 selected audiovisual stimuli were validated in a behavioral experiment on a separate group of participants (<italic>n</italic> = 49). Affective categories of stimuli were shown to differ in a non-overlapping way on the dimensions of valence and arousal (<xref ref-type="table" rid="pone.0161589.t001">Table 1</xref> and <xref ref-type="supplementary-material" rid="pone.0161589.s004">S1 Table</xref>). Participants were asked to rate their emotional states along one of six dimensions after each video. The dimensions reflected the degree to which the participant reported feeling excited, positive, calm, anxious, negative, or sad. A correlation matrix of the 32 stimuli across the six ratings was constructed for each individual and the combined data was analyzed with INDSCAL [<xref ref-type="bibr" rid="pone.0161589.ref049">49</xref>]. The dimensions of valence and arousal naturally emerged from the ratings of the 6 dimensions, even though the two dimensions were not rated directly (<xref ref-type="fig" rid="pone.0161589.g001">Fig 1</xref>). This method was used to minimize bias in demand characteristics in responding that could arise from direct ratings of valence and arousal [<xref ref-type="bibr" rid="pone.0161589.ref050">50</xref>]. In an Analysis of Variance (ANOVA) conducted on the dimensional values from the MDS solution, the positive videos were significantly higher than the negative videos in mean valence configuration values, <italic>F</italic>(1,28) = 439.21, <italic>p</italic> &lt; .001, <italic>η</italic><sub><italic>p</italic></sub><sup><italic>2</italic></sup> = .969 (M<sub>Positive</sub> = .87 and M<sub>Negative</sub> = -.87) and the high arousal videos were significantly higher than the low arousal videos in mean arousal values, <italic>F</italic>(1,28) = 79.48, <italic>p</italic> &lt; .001, <italic>η</italic><sub><italic>p</italic></sub><sup><italic>2</italic></sup> = .739 (M<sub>High</sub> = .37 and M<sub>Low</sub> = -.37).</p>
+<fig id="pone.0161589.g001" position="float">
+<object-id pub-id-type="doi">10.1371/journal.pone.0161589.g001</object-id>
+<label>Fig 1</label>
+<caption>
+<title>Lower dimensional representation of affective videos based on behavioral data.</title>
+<p>A two-dimensional solution from a separate group of participants described the data well (stress = .282, R<sup>2</sup> = .543, <italic>n</italic> = 49).</p>
+</caption>
+<graphic mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0161589.g001" xlink:type="simple"/>
+</fig>
+<table-wrap id="pone.0161589.t001" position="float">
+<object-id pub-id-type="doi">10.1371/journal.pone.0161589.t001</object-id>
+<label>Table 1</label> <caption><title>Description of audiovisual stimuli.</title> <p>Means and standard deviations are shown.</p></caption>
+<alternatives>
+<graphic id="pone.0161589.t001g" mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0161589.t001" xlink:type="simple"/>
+<table>
+<colgroup>
+<col align="left" valign="middle"/>
+<col align="left" valign="middle"/>
+<col align="left" valign="middle"/>
+<col align="left" valign="middle"/>
+<col align="left" valign="middle"/>
+<col align="left" valign="middle"/>
+<col align="left" valign="middle"/>
+</colgroup>
+<thead>
+<tr>
+<th align="center">Description</th>
+<th align="center" colspan="4">Affective Category</th>
+<th align="center" colspan="2">F-test</th>
+</tr>
+<tr>
+<th align="center"/>
+<th align="center">Negative Valence, High Arousal</th>
+<th align="center">Negative Valence, Low Arousal</th>
+<th align="center">Positive Valence, High Arousal</th>
+<th align="center">Positive Valence, Low Arousal</th>
+<th align="center">Valence</th>
+<th align="center">Arousal</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">Valence</td>
+<td align="center">-0.92 (0.24)</td>
+<td align="center">-0.83 (0.25)</td>
+<td align="center">0.78 (0.16)</td>
+<td align="center">0.96 (0.16)</td>
+<td align="center"><italic>F</italic>(1,28) = 583.87<xref ref-type="table-fn" rid="t001fn003">***</xref></td>
+<td align="center"><italic>ns</italic>.</td>
+</tr>
+<tr>
+<td align="center">Arousal</td>
+<td align="center">0.37 (0.11)</td>
+<td align="center">-0.24 (0.27)</td>
+<td align="center">0.25 (0.18)</td>
+<td align="center">-0.38 (0.29)</td>
+<td align="center"><italic>ns</italic>.</td>
+<td align="center"><italic>F</italic>(1,28) = 62.17<xref ref-type="table-fn" rid="t001fn003">***</xref></td>
+</tr>
+<tr>
+<td align="center">Hue</td>
+<td align="center">0.35 (0.12)</td>
+<td align="center">0.26 (0.11)</td>
+<td align="center">0.41 (0.18)</td>
+<td align="center">0.34 (0.24)</td>
+<td align="center"><italic>ns</italic>.</td>
+<td align="center"><italic>ns</italic>.</td>
+</tr>
+<tr>
+<td align="center">Saturation</td>
+<td align="center">0.25 (0.08)</td>
+<td align="center">0.27 (0.16)</td>
+<td align="center">0.33 (0.16)</td>
+<td align="center">0.35 (0.18)</td>
+<td align="center"><italic>ns</italic>.</td>
+<td align="center"><italic>ns</italic>.</td>
+</tr>
+<tr>
+<td align="center">Value (Brightness)</td>
+<td align="center">0.47 (0.09)</td>
+<td align="center">0.52 (0.07)</td>
+<td align="center">0.60 (0.12)</td>
+<td align="center">0.54 (0.14)</td>
+<td align="center"><italic>ns</italic>.</td>
+<td align="center"><italic>ns</italic>.</td>
+</tr>
+<tr>
+<td align="center">Amplitude (dB) (left)</td>
+<td align="center">10.00 (3.38)</td>
+<td align="center">14.75 (3.26)</td>
+<td align="center">13.78 (2.79)</td>
+<td align="center">11.85 (2.86)</td>
+<td align="center"><italic>ns</italic>.</td>
+<td align="center"><italic>ns</italic>.</td>
+</tr>
+<tr>
+<td align="center">Amplitude (dB) (right)</td>
+<td align="center">10.44 (3.55)</td>
+<td align="center">14.76 (3.26)</td>
+<td align="center">13.73 (2.80)</td>
+<td align="center">11.31 (2.60)</td>
+<td align="center"><italic>ns</italic>.</td>
+<td align="center"><italic>ns</italic>.</td>
+</tr>
+<tr>
+<td align="center">Frequency (Hz) (left)</td>
+<td align="center">379.22 (361.05)</td>
+<td align="center">241.26 (137.93)</td>
+<td align="center">465.58 (697.45)</td>
+<td align="center">1161.76 (1441.87)</td>
+<td align="center"><italic>ns</italic>.</td>
+<td align="center"><italic>ns</italic>.</td>
+</tr>
+<tr>
+<td align="center">Frequency (Hz) (right)</td>
+<td align="center">454.71 (372.69)</td>
+<td align="center">241.66 (137.70)</td>
+<td align="center">491.21 (687.18)</td>
+<td align="center">1170.00 (1435.29)</td>
+<td align="center"><italic>ns</italic>.</td>
+<td align="center"><italic>ns</italic>.</td>
+</tr>
+<tr>
+<td align="center">Motion 1 (slow and drifting)</td>
+<td align="center">122108.01 (54831.82)</td>
+<td align="center">36616.89 (34589.29)</td>
+<td align="center">91659.27 (44101.18)</td>
+<td align="center">32263.66 (31748.91)</td>
+<td align="center"><italic>ns</italic>.</td>
+<td align="center"><italic>F</italic>(1,28) = 23.469<xref ref-type="table-fn" rid="t001fn003">***</xref></td>
+</tr>
+<tr>
+<td align="center">Motion 2</td>
+<td align="center">53812.82 (22459.94)</td>
+<td align="center">17790.62 (14413.37)</td>
+<td align="center">43402.15 (20830.68)</td>
+<td align="center">15407.53 (14798.81)</td>
+<td align="center"><italic>ns</italic>.</td>
+<td align="center"><italic>F</italic>(1,28) = 24.016<xref ref-type="table-fn" rid="t001fn003">***</xref></td>
+</tr>
+<tr>
+<td align="center">Motion 3</td>
+<td align="center">38860.56 (15262.57)</td>
+<td align="center">14337.7 (10537.67)</td>
+<td align="center">30810.13 (14032)</td>
+<td align="center">12256.57 (11724.12)</td>
+<td align="center"><italic>ns</italic>.</td>
+<td align="center"><italic>F</italic>(1,28) = 21.884<xref ref-type="table-fn" rid="t001fn003">***</xref></td>
+</tr>
+<tr>
+<td align="center">Motion 4</td>
+<td align="center">24938.01 (9014.75)</td>
+<td align="center">10388.2 (6386.2)</td>
+<td align="center">18924.16 (8638.21)</td>
+<td align="center">8335.32 (7803.32)</td>
+<td align="center"><italic>ns</italic>.</td>
+<td align="center"><italic>F</italic>(1,28) = 19.629<xref ref-type="table-fn" rid="t001fn003">***</xref></td>
+</tr>
+<tr>
+<td align="center">Motion 5</td>
+<td align="center">15024.27 (4520.56)</td>
+<td align="center">6986.16 (3533.85)</td>
+<td align="center">12377.26 (5407.69)</td>
+<td align="center">5579.42 (4900.99)</td>
+<td align="center"><italic>ns</italic>.</td>
+<td align="center"><italic>F</italic>(1,28) = 20.431<xref ref-type="table-fn" rid="t001fn003">***</xref></td>
+</tr>
+<tr>
+<td align="center">Motion 6</td>
+<td align="center">7305.06 (2337.75)</td>
+<td align="center">3863.75 (1697.84)</td>
+<td align="center">6830.85 (3381.41)</td>
+<td align="center">2720.06 (2723.28)</td>
+<td align="center"><italic>ns</italic>.</td>
+<td align="center"><italic>F</italic>(1,28) = 16.776<xref ref-type="table-fn" rid="t001fn003">***</xref></td>
+</tr>
+<tr>
+<td align="center">Motion 7 (fast and transient)</td>
+<td align="center">2597.47 (846.05)</td>
+<td align="center">1308.79 (695.17)</td>
+<td align="center">2668.86 (2197.91)</td>
+<td align="center">989.22 (911.23)</td>
+<td align="center"><italic>ns</italic>.</td>
+<td align="center"><italic>F</italic>(1,28) = 10.275<xref ref-type="table-fn" rid="t001fn002">**</xref></td>
+</tr>
+</tbody>
+</table>
+</alternatives>
+<table-wrap-foot>
+<fn id="t001fn001"><p>Note:</p></fn>
+<fn id="t001fn002"><p><italic>** p &lt; .01</italic></p></fn>
+<fn id="t001fn003"><p><italic>*** p &lt; .001.</italic></p></fn>
+<fn id="t001fn004"><p>Hue, saturation, and value (brightness) were measured on 0 to 1 HSV scale; motion features were measured by the number of pixels of differences between frames.</p></fn>
+</table-wrap-foot>
+</table-wrap>
+<p>Auditory components of the stimuli were normalized to the same mean amplitude by setting the values for each sound file extracted from the original video stimuli to the overall mean computed across all sound files using MATLAB (R2010b, MathWorks, Inc.). To keep the audiovisual stimuli naturalistic, no attempt was made to equate the stimuli on any other lower level features. The differences in lower level visual (hue, saturation, brightness, and motion) and four acoustical (bilateral frequency and amplitude) features across the affective categories were examined. Hue, saturation, and brightness of visual features were computed for each video by averaging the means of each frame of the video using the MATLAB <italic>rgb2hsv</italic> function. No significant differences in mean hue, saturation, or brightness values were found across valence or arousal conditions, <italic>p</italic>s &gt;.05 (<xref ref-type="table" rid="pone.0161589.t001">Table 1</xref>). Estimation of total motion for each video stimulus was based on absolute differences of pixels between frames at several time rates from slower or drifting motions to fast transient motions, without respect to the direction of motion that causes differences. Seven motion parameters were estimated at several time differences from slow drifting motions (e.g., walking) to fast transient motions (e.g., running). ANOVAs conducted on the total motion parameter for the 32 stimuli indicated that positive and negative videos differed in the total motion, <italic>F</italic>(7, 22) = 2.95, <italic>p</italic> =. 024, <italic>η</italic><sub><italic>p</italic></sub><sup><italic>2</italic></sup> = .484, and high and low arousal videos differed in the total motion, <italic>F</italic>(7, 22) = 4.474, <italic>p</italic> = .003, <italic>η</italic><sub><italic>p</italic></sub><sup><italic>2</italic></sup> = .587. Negative videos had greater total motion than positive videos and high arousal videos had greater total motion than low arousal videos. Separate ANOVAs conducted on each constituent motion parameter failed to find any significant effects of valence (<italic>p</italic> &gt; .05), although all seven indicated significant effects of arousal (<italic>p</italic>s &lt; .001). Finally, frequency and amplitude for left and right channels were measured with Frequency Analysis and Amplitude Statistics functions of Adobe Audition CS6. The four experimental sets did not differ from each other in mean frequency or amplitude, <italic>p</italic>s &gt; .05.</p>
+</sec>
+<sec id="sec005">
+<title><italic>2.3</italic> fMRI acquisition</title>
+<p>MRI data were acquired on a Siemens Magnetom Trio 3.0T whole-body scanner (Siemens, Erlangen, Germany) at the McCausland Center for Brain Imaging at the University of South Carolina. The functional images were acquired using a single-shot echo-planar imaging pulse sequence (TR = 2200ms, TE = 35ms, 90° flip angle) with a 12-channel head coil. Thirty-six 3 mm thick oblique-axial slices were imaged in interleaved scanning order with no gap. The acquisition matrix was 64×64 with 3×3×3 mm voxels. Functional data was acquired using a slow event-related design in two scanning sessions (two runs for each session). High-resolution whole-brain anatomical images were acquired using a standard T1-weighted 3D MP-RAGE protocol (TR = 2250 ms, TE = 4.18 ms, FOV = 256 mm, flip angle = 9°, voxel size = 1×1×1 mm) to facilitate normalization of the functional data.</p>
+</sec>
+<sec id="sec006">
+<title><italic>2.4</italic> Functional Localizer</title>
+<p>Areas responsive to naturalistic audiovisual presentation were identified in a separate localizer session for each participant. There were four experimental conditions: baseline, auditory (beep), dynamic visual (checkerboard), and a combined naturalistic audiovisual condition (audiovisual). Additionally, the functional localizer contained two other conditions that were not part of the present experiment. The conditions were presented in a block design with each block lasting 12s (<xref ref-type="fig" rid="pone.0161589.g002">Fig 2A</xref>). Baseline condition consisted of a black screen with a white fixation cross shown in the center of the screen and background noise. During an auditory condition, designed to localize primary auditory cortex, a binaural sine tone of 1,000 Hz pulsating at 6 Hz was presented [<xref ref-type="bibr" rid="pone.0161589.ref051">51</xref>]. During a dynamic visual condition, designed to localize primary visual areas, there were 12s of high-contrast flickering checkerboard reversals, 200ms per cycle [<xref ref-type="bibr" rid="pone.0161589.ref052">52</xref>]. During a naturalistic audiovisual condition, four 3s audiovisual clips sampled from the four affective quadrants were played back to back. By including a wide range of affective conditions the localizer is not sensitive to facets of the stimuli that discriminate between affective conditions. There were eight runs in the localizer scan and each run consisted of six conditions presented in a pseudo randomized order such that the same condition was not presented twice in a row for the two subsequent runs. There were a total of 48 blocks resulting in 273 acquired volumes. All stimuli were different from those presented in the main experiment. Audio-visual clips used for the localizer scan were not repeated within the localizer scan.</p>
+<fig id="pone.0161589.g002" position="float">
+<object-id pub-id-type="doi">10.1371/journal.pone.0161589.g002</object-id>
+<label>Fig 2</label>
+<caption>
+<title>A schematic representation of the presentation timing.</title>
+<p>(A) Functional localizer. Participants were presented with baseline, auditory (beep), dynamic visual (checkerboard), and naturalistic audiovisual stimuli in a block design. Each block lasted for 12s. (B) Main experiment. Participants were presented with naturalistic audiovisual stimuli selected from the four quadrants of the affective space: high arousal negative valence (HN), low arousal negative valence (LN), low arousal positive valence (LP), and high arousal positive valence (HP). Each audiovisual clip was presented for 5s, followed by 7s fixation.</p>
+</caption>
+<graphic mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0161589.g002" xlink:type="simple"/>
+</fig>
+</sec>
+<sec id="sec007">
+<title>2.5 Experimental paradigm</title>
+<p>Functional magnetic resonance imaging was used to measure brain activity while participants were presented with affect-eliciting audiovisual clips. All stimuli were presented using E-prime software (Psychology Software Tools, Sharpsburg, PA). Audiovisual stimuli were presented in 320 × 240 pixels resolution in 32-bit color at a rate of 25 frames per second onto a 640 × 480 resolution screen. Sound was delivered via Serene Sound Audio System (Resonance Technology Inc, Northridge, CA). Each clip was presented for 5s, followed by a white fixation cross shown on black background for 7s (<xref ref-type="fig" rid="pone.0161589.g002">Fig 2B</xref>). Participants were instructed to focus on the fixation cross in the center of the screen throughout the experiment. For each participant, 128 trials were presented in 4 blocks of the 32 unique exemplars. Within each block, the 32 exemplars were randomly presented with the restriction that no stimuli from the same affective condition were presented twice in a row and that each affective state was presented within each successive block of four trials.</p>
+</sec>
+<sec id="sec008">
+<title>2.6 fMRI data processing and analysis</title>
+<p>Data processing and statistical analyses were performed in MATLAB environment using standard procedures in Statistical Parametric Mapping software (SPM 8, Wellcome Department of Cognitive Neurology, London, UK). The data were corrected for motion and linear trend. Structural data were segmented into white and gray matter to facilitate the normalization. Functional and anatomical images were co-registered and spatially normalized into the standard Montreal Neurological Institute (MNI) space based on T1-derived normalization parameters.</p>
+<p><italic>Functional localizer</italic>: For each participant we have identified voxels that were more responsive to audiovisual condition compared to baseline (VA) (<italic>p</italic> &lt; .05, FWE-corrected, cluster size &gt; 5), but excluding those voxels that were more responsive to checkerboard condition compared to baseline (VP) (<italic>p</italic> &lt; .05, FWE-corrected, cluster size &gt; 5) and those voxels that were more responsive to beep condition compared to baseline (AP) (<italic>p</italic> &lt; .05, FWE-corrected, cluster size &gt; 5).</p>
+<p><italic>Main experiment</italic>: To improve signal-to-noise ratio, the time-series data for each voxel were fit using <italic>GLMdenoise</italic> [<xref ref-type="bibr" rid="pone.0161589.ref053">53</xref>], a technique successfully used in MVPA and other applications [<xref ref-type="bibr" rid="pone.0161589.ref054">54</xref>, <xref ref-type="bibr" rid="pone.0161589.ref055">55</xref>]. <italic>GLMdenoise</italic> used the four affective categories to estimate regressors of no interest. Notably the procedure was blind to valence and arousal categories, and thus did not bias the results when comparing across combined categories (i.e., positive versus negative valence or high versus low arousal). Furthermore, to control for possible confounds arising from lower level features of the stimuli, five lower level feature components were regressed out as covariates of no interest together with six head motion parameter estimates. We used principal components to reduce the number of regressors, while keeping most of the variability in the data. The five lower level feature components were generated from three separate principal components analyses: two scores from three visual features which captured 81.91% of the variance for the visual features, one score from seven motion features (88.37%), and two scores from four auditory features (99.03%). The residuals from this analysis were used for all further analyses. The percent signal change (PSC) relative to the average activity in a voxel was computed for each voxel in every volume from the residuals. The mean PSC of two volumes, offset 4.4s from the stimulus onset (to account for the delay in hemodynamic response), was used as the input for further analyses [<xref ref-type="bibr" rid="pone.0161589.ref007">7</xref>]. Data for each condition were standardized across voxels to have zero mean and unit variance [<xref ref-type="bibr" rid="pone.0161589.ref056">56</xref>].</p>
+</sec>
+<sec id="sec009">
+<title>2.7 Multivariate Pattern Analyses</title>
+<p>The MVPA methods employed in this work are similar to those that have been successfully used in our other exploration of affective space [<xref ref-type="bibr" rid="pone.0161589.ref007">7</xref>, <xref ref-type="bibr" rid="pone.0161589.ref057">57</xref>]. Logistic regression classifiers [<xref ref-type="bibr" rid="pone.0161589.ref058">58</xref>] were trained to identify valence and arousal patterns of brain activity associated with affect-eliciting audiovisual stimuli. Two-way classifications were performed to identify valence (positive vs. negative) trials, as well as arousal (high vs. low) trials.</p>
+<p>Within-participant classification was performed within functionally localized gray matter voxels that selectively responded to naturalistic audiovisual stimuli. In each of the four cross-validation folds, one presentation of the 32 exemplars was left out as test data when the classifiers were trained on the other three presentations. Prior to classification, trials were divided into training and test sets. The classifier was constructed from the training set and applied subsequently to the unused test set. Classification accuracies were computed based on the average classification accuracy across the four cross-validation folds. Furthermore, to test the generalizability of the affect representation across stimuli, we trained a valence classifier and an arousal classifier on 31 exemplars, and tested on the left out exemplar by decoding its valence or arousal. Each of the 32 exemplars was left out once for testing in a cross-validation fold. The average classification accuracy for the four presentations of the test exemplars was reported.</p>
+<p>Cross-participant classification performance was evaluated with eleven-fold cross-validation, where data from one of the participants was left out for testing in each fold. The classifier was trained on data from all but one participant and used to make predictions for individual trial data from the left-out participant. Average classification accuracy across trials was computed as a measure of how well individual affective states can be identified based on data from other individuals. This procedure was repeated for all participants. Classifications were performed using all voxels as well as the union of functional localizer masks.</p>
+<p>Statistical significance for the classification accuracies was evaluated by comparison to an empirically derived null distribution constructed by 1,000 non-informative permutations of labels in the training set. Classification accuracies with p-values smaller than .05 were considered significant.</p>
+</sec>
+<sec id="sec010">
+<title>2.8 Searchlight analyses</title>
+<p>Searchlight analyses [<xref ref-type="bibr" rid="pone.0161589.ref059">59</xref>] were performed to localize regions that were sensitive to valence and arousal information. Searchlight analyses employ a sliding neighborhood with a predefined search radius to scan an entire volume. A union of areas sensitive to checkerboard and beep sounds (compared to baseline) were excluded from the subsequent searchlight analyses for each participant.</p>
+<p>For each participant and each voxel, data from a 5×5×5 voxels neighborhood, centered at a given voxel, was extracted and used for the same MVPA procedure described above. The average classification accuracy was assigned to the center voxel. Two-way classifications for valence (positive vs. negative) and arousal (high vs. low) were performed across the gray matter voxels in the mask described above. Thus two classification accuracy maps were generated for each individual. Chance-level accuracy (.5) was subtracted from obtained classification accuracy maps [<xref ref-type="bibr" rid="pone.0161589.ref060">60</xref>] before they were submitted to a random-effects whole-brain group analyses.</p>
+<p>Permutation tests were performed to find the empirically significant cluster sizes [<xref ref-type="bibr" rid="pone.0161589.ref061">61</xref>]. For each run, the same searchlight procedure was conducted as described above, but with a random permutation of condition labels for each individual. The individual accuracy maps generated using a random permutation of condition labels were submitted to a group analysis and the largest cluster size was recorded. This entire procedure was repeated 1,000 times each for valence and arousal classification (which are equivalent), yielding null distributions of cluster sizes.</p>
+<p>Finally, additional confirmatory analyses were performed to verify that the identified clusters were sensitive to valence and arousal information [<xref ref-type="bibr" rid="pone.0161589.ref062">62</xref>]. The significant clusters found by searchlight analyses were based on group analysis, so that not all of the voxels within each searchlight cluster may be informative and represent affective states at the individual level. Thus an additional feature selection procedure was performed for each individual to exclude voxels that were not related to affective states. In the first confirmatory analysis, a within-individual classification analysis was performed for each cluster identified by the searchlight analysis. Prior to classification, a measure of stability was computed for all voxels within each searchlight by computing correlations across three folds in the training set. The top 80% of the most stable voxels from the training set were used for subsequent classification for each fold. Classification accuracies across the four cross-validation folds were averaged for each participant. Significance testing was conducted with a one-sample t-test to evaluate if the group mean accuracy was significantly above chance (.5). In the second confirmatory analysis, lower dimensional representation analyses were performed for each cluster identified by the searchlight analyses. These analyses used the top 80% of stable voxels. STATIS [<xref ref-type="bibr" rid="pone.0161589.ref063">63</xref>], a generalization of principal components analysis for multiple similarity matrices, was conducted to visualize the underlying structure of the exemplars within each searchlight cluster. This technique is based on the cross-product matrix, thus allowing the number of voxels in the analysis to vary across individuals [<xref ref-type="bibr" rid="pone.0161589.ref064">64</xref>]. Point-biserial correlations (r<sub>pb</sub>) between design values (1 for positive or high arousal, and -1 for negative or low arousal) and corresponding coordinates from the STATIS solutions were computed to evaluate if the solutions were indeed sensitive to valence information from valence clusters and arousal information from arousal clusters.</p>
+</sec>
+</sec>
+<sec id="sec011" sec-type="results">
+<title>3.0 Results</title>
+<sec id="sec012">
+<title>3.1 Functional localizer</title>
+<p>For each participant we have identified functional masks for voxels that were more responsive to audiovisual condition compared to baseline but excluding those voxels that were more responsive to checkerboard condition compared to baseline and those voxels that were more responsive to beep (VA∩(VP⋃AP)<sup>c</sup>). The number of voxels in each mask identified for each participant is shown in <xref ref-type="table" rid="pone.0161589.t002">Table 2</xref>. For a concise summary, the functional localizer results are presented at a group level in <xref ref-type="supplementary-material" rid="pone.0161589.s005">S2 Table</xref>. Please note, individual masks (<xref ref-type="supplementary-material" rid="pone.0161589.s001">S1 Fig</xref>) were used for subsequent MVPA analyses; group localizer results are presented to facilitate comparison to other studies.</p>
+<table-wrap id="pone.0161589.t002" position="float">
+<object-id pub-id-type="doi">10.1371/journal.pone.0161589.t002</object-id>
+<label>Table 2</label> <caption><title>Number of voxels for each of the masks reported by participant.</title></caption>
+<alternatives>
+<graphic id="pone.0161589.t002g" mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0161589.t002" xlink:type="simple"/>
+<table>
+<colgroup>
+<col align="left" valign="middle"/>
+<col align="left" valign="middle"/>
+<col align="left" valign="middle"/>
+<col align="left" valign="middle"/>
+<col align="left" valign="middle"/>
+<col align="left" valign="middle"/>
+<col align="left" valign="middle"/>
+</colgroup>
+<thead>
+<tr>
+<th align="center">Participant</th>
+<th align="center">Gray matter</th>
+<th align="center">VA</th>
+<th align="center">VP</th>
+<th align="center">AP</th>
+<th align="center">VA∩(VP⋃AP)<sup>c</sup></th>
+<th align="center">GM∩(VA∩(VP⋃AP)<sup>c</sup>)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">1</td>
+<td align="center">12243</td>
+<td align="center">15554</td>
+<td align="center">7475</td>
+<td align="center">577</td>
+<td align="center">8864</td>
+<td align="center">2551</td>
+</tr>
+<tr>
+<td align="center">2</td>
+<td align="center">20279</td>
+<td align="center">11723</td>
+<td align="center">4006</td>
+<td align="center">682</td>
+<td align="center">8066</td>
+<td align="center">3086</td>
+</tr>
+<tr>
+<td align="center">3</td>
+<td align="center">24024</td>
+<td align="center">12255</td>
+<td align="center">15253</td>
+<td align="center">1286</td>
+<td align="center">4031</td>
+<td align="center">2040</td>
+</tr>
+<tr>
+<td align="center">4</td>
+<td align="center">12544</td>
+<td align="center">13294</td>
+<td align="center">6664</td>
+<td align="center">5193</td>
+<td align="center">6590</td>
+<td align="center">1261</td>
+</tr>
+<tr>
+<td align="center">5</td>
+<td align="center">16064</td>
+<td align="center">8926</td>
+<td align="center">3028</td>
+<td align="center">1008</td>
+<td align="center">5855</td>
+<td align="center">1977</td>
+</tr>
+<tr>
+<td align="center">6</td>
+<td align="center">15931</td>
+<td align="center">11947</td>
+<td align="center">10337</td>
+<td align="center">3298</td>
+<td align="center">3195</td>
+<td align="center">1031</td>
+</tr>
+<tr>
+<td align="center">7</td>
+<td align="center">17528</td>
+<td align="center">5221</td>
+<td align="center">1784</td>
+<td align="center">185</td>
+<td align="center">3449</td>
+<td align="center">1207</td>
+</tr>
+<tr>
+<td align="center">8</td>
+<td align="center">15766</td>
+<td align="center">8078</td>
+<td align="center">3372</td>
+<td align="center">538</td>
+<td align="center">5039</td>
+<td align="center">1351</td>
+</tr>
+<tr>
+<td align="center">9</td>
+<td align="center">21940</td>
+<td align="center">7558</td>
+<td align="center">1949</td>
+<td align="center">2048</td>
+<td align="center">5032</td>
+<td align="center">2142</td>
+</tr>
+<tr>
+<td align="center">10</td>
+<td align="center">8689</td>
+<td align="center">9935</td>
+<td align="center">3504</td>
+<td align="center">433</td>
+<td align="center">6810</td>
+<td align="center">1101</td>
+</tr>
+<tr>
+<td align="center">11</td>
+<td align="center">20825</td>
+<td align="center">13872</td>
+<td align="center">9461</td>
+<td align="center">1202</td>
+<td align="center">6674</td>
+<td align="center">2951</td>
+</tr>
+</tbody>
+</table>
+</alternatives>
+<table-wrap-foot>
+<fn id="t002fn001"><p>VA, voxels that were more responsive to audiovisual condition compared to baseline (<italic>p</italic> &lt; .05, FWE-corrected, cluster size &gt; 5); VP, voxels that were more responsive to checkerboard condition compared to baseline (<italic>p</italic> &lt; .05, FWE-corrected, cluster size &gt; 5); AP, voxels that were more responsive to beep condition compared to baseline (<italic>p</italic> &lt; .05, FWE -corrected, cluster size &gt; 5); VA∩(VP⋃AP)<sup>c</sup>: voxels that were more responsive to audiovisual condition compared to baseline (<italic>p</italic> &lt; .05, FWE-corrected, cluster size &gt; 5), but excluding those voxels that were more responsive to checkerboard condition compared to baseline (<italic>p</italic> &lt; .05, FWE-corrected, cluster size &gt; 5) and those voxels that were more responsive to beep condition compared to baseline (<italic>p</italic> &lt; .05, FWE -corrected, cluster size &gt; 5); GM∩(VA∩(VP⋃AP)<sup>c</sup>), the intersection between individual gray matter mask and VA∩(VP⋃AP)<sup>c</sup>. Participants are ordered by within-participant classification performance (see below).</p></fn>
+</table-wrap-foot>
+</table-wrap>
+</sec>
+<sec id="sec013">
+<title>3.2 Identification of valence</title>
+<p>We examined whether the valence of the stimuli (positive or negative) could be identified for individual trials based on activity patterns elicited by viewing audiovisual clips, defined by the quadrants of the valence-arousal space. First, classifiers were trained for each participant to identify the valence category of the stimuli they were watching: positive or negative. Significant classification accuracies (<italic>p</italic> &lt; .05) were found for ten of 11 participants (<xref ref-type="fig" rid="pone.0161589.g003">Fig 3A</xref>). Classification accuracies for eleven participants ranged from .59 to .80, with the mean of the accuracies (<italic>M</italic> = 0.66, <italic>SD</italic> = 0.06) significantly greater than chance, <italic>t</italic>(10) = 8.17, <italic>p</italic> &lt; .001. Moreover, the valence states of audiovisual clips that were previously unseen by the classifier were identified with accuracy reliably above chance for nine out of 11 participants (cross-exemplar decoding, <italic>M</italic> = .74, <italic>SD</italic> = .13, range = (0.56, 0.94)), suggesting that it was the neural representation of valence, rather than individual stimuli-specific properties that drove the decoding accuracy.</p>
+<fig id="pone.0161589.g003" position="float">
+<object-id pub-id-type="doi">10.1371/journal.pone.0161589.g003</object-id>
+<label>Fig 3</label>
+<caption>
+<title>MVPA results for valence.</title>
+<p>(A) Classification accuracies for within-participant (filled bars) and cross-participants (unfilled bars) valence identification. Participants are ordered by within-participant classification performance. (B) Four clusters; the left medial prefrontal cortex (mPFC), the right posterior part of the cingulate cortex (PCC), the left superior/middle temporal gyrus (STG/MTG), and middle frontal gyrus (MFG) are shown on axial slices.</p>
+</caption>
+<graphic mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0161589.g003" xlink:type="simple"/>
+</fig>
+<p>To examine the similarity of valence representation across participants and to show the typicality of the decoding results we have used data from all but one participant to train a classification model and predict valence in the left out participant at the whole brain level of analysis. From all voxels, we were able to identify valence in nine of 11 participants with accuracies above chance, <italic>p</italic> &lt; .05 (<xref ref-type="fig" rid="pone.0161589.g003">Fig 3A</xref>). Classification accuracies ranged from 0.48 to 0.69, with the mean of the accuracies (<italic>M</italic> = .61, <italic>SD</italic> = .06) significantly greater than chance, <italic>t</italic>(10) = 6.34, <italic>p</italic> &lt; .001. To link these results more directly to the results for decoding within individuals, we restricted the analyses to the union of functional localizer masks. Under this restriction, we were able to identify valence in six out of 11 participants with accuracies above chance, <italic>p</italic> &lt; .05. Classification accuracies ranged from .51 to .65, with the mean of the accuracies (<italic>M</italic> = .60, <italic>SD</italic> = .05) significantly greater than chance, <italic>t</italic>(10) = 7.05, <italic>p</italic> &lt; .001.</p>
+<p>Having established the typicality of the decoding results with cross-participant identification of valence, searchlight analyses were performed to spatially localize brain regions that were sensitive to valence. These revealed five clusters: the left medial prefrontal cortex (mPFC), the right posterior part of the cingulate cortex (PCC), the left superior/middle temporal gyrus (STG/MTG), the thalamus, and the middle frontal gyrus (MFG) (<italic>p</italic> &lt; .05, cluster size &gt; 43).</p>
+<p>Confirmatory MVPA and STATIS analyses were performed within each cluster to verify the information content of identified clusters. The results of MVPA showed four out of five valence clusters (with mean accuracies of .60, .57, .56, and .54) significantly discriminated valence information, <italic>p</italic>s &lt; .05 (<xref ref-type="fig" rid="pone.0161589.g003">Fig 3B</xref>; <xref ref-type="table" rid="pone.0161589.t003">Table 3</xref>; <xref ref-type="supplementary-material" rid="pone.0161589.s002">S2 Fig</xref>). The classification accuracy from the thalamus cluster did not reach significance (<italic>M</italic> = .53, <italic>p</italic> = .14). The lower dimensional representation of 32 exemplars from the four valence clusters confirmed that each of the clusters identified by searchlight was informative of valence. The point-biserial correlations between design values and component values corresponding to valence for the four regions were .41, .46, .47, and .55, <italic>p</italic>s &lt; .05 (also see <xref ref-type="supplementary-material" rid="pone.0161589.s003">S3 Fig</xref>). In sum, four clusters sensitive to valence (PCC, MFG, STG/MTG, and mPFC) were identified by searchlight analyses (<xref ref-type="fig" rid="pone.0161589.g003">Fig 3B</xref>, <xref ref-type="table" rid="pone.0161589.t003">Table 3</xref>).</p>
+<table-wrap id="pone.0161589.t003" position="float">
+<object-id pub-id-type="doi">10.1371/journal.pone.0161589.t003</object-id>
+<label>Table 3</label> <caption><title>Searchlight results for valence and arousal.</title></caption>
+<alternatives>
+<graphic id="pone.0161589.t003g" mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0161589.t003" xlink:type="simple"/>
+<table>
+<colgroup>
+<col align="left" valign="middle"/>
+<col align="left" valign="middle"/>
+<col align="left" valign="middle"/>
+<col align="left" valign="middle"/>
+<col align="left" valign="middle"/>
+<col align="left" valign="middle"/>
+<col align="left" valign="middle"/>
+<col align="left" valign="middle"/>
+</colgroup>
+<thead>
+<tr>
+<th align="center"/>
+<th align="center"/>
+<th align="center"/>
+<th align="center" colspan="3">MNI coordinates</th>
+<th align="center"/>
+<th align="center"/>
+</tr>
+<tr>
+<th align="center">Anatomical region</th>
+<th align="center">Hemisphere</th>
+<th align="center">Cluster size</th>
+<th align="center">x</th>
+<th align="center">y</th>
+<th align="center">z</th>
+<th align="center">T</th>
+<th align="center">Z</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center" colspan="8">Valence</td>
+</tr>
+<tr>
+<td align="center">PCC</td>
+<td align="center">R</td>
+<td align="center">109</td>
+<td align="center">6</td>
+<td align="center">-46</td>
+<td align="center">31</td>
+<td align="center">8.89</td>
+<td align="center">4.58</td>
+</tr>
+<tr>
+<td align="center">MFG</td>
+<td align="center">R</td>
+<td align="center">87</td>
+<td align="center">30</td>
+<td align="center">11</td>
+<td align="center">52</td>
+<td align="center">7.57</td>
+<td align="center">4.28</td>
+</tr>
+<tr>
+<td align="center">STG/MTG</td>
+<td align="center">L</td>
+<td align="center">46</td>
+<td align="center">-63</td>
+<td align="center">-58</td>
+<td align="center">10</td>
+<td align="center">8.23</td>
+<td align="center">4.44</td>
+</tr>
+<tr>
+<td align="center">mPFC</td>
+<td align="center">L</td>
+<td align="center">44</td>
+<td align="center">-15</td>
+<td align="center">56</td>
+<td align="center">1</td>
+<td align="center">9.25</td>
+<td align="center">4.66</td>
+</tr>
+<tr>
+<td align="center" colspan="8">Arousal</td>
+</tr>
+<tr>
+<td align="center">PC</td>
+<td align="center">R</td>
+<td align="center">56</td>
+<td align="center">9</td>
+<td align="center">-49</td>
+<td align="center">52</td>
+<td align="center">6.67</td>
+<td align="center">4.03</td>
+</tr>
+<tr>
+<td align="center">OFC</td>
+<td align="center">R</td>
+<td align="center">54</td>
+<td align="center">27</td>
+<td align="center">62</td>
+<td align="center">-17</td>
+<td align="center">7.47</td>
+<td align="center">4.25</td>
+</tr>
+</tbody>
+</table>
+</alternatives>
+<table-wrap-foot>
+<fn id="t003fn001"><p>Note: <italic>p</italic> &lt; .001, uncorrected, cluster size &gt; 40 for valence and 50 for arousal. R, right; L, left; cluster size reported in voxels; T indicates peak t values; Z indicates peak z values; OFC: anterior part of orbitofrontal cortex; PC: precuneus; mPFC: medial prefrontal cortex; PCC: posterior part of the cingulate cortex; STG/MTG: superior/middle temporal gyrus; MFG: middle frontal gyrus.</p></fn>
+</table-wrap-foot>
+</table-wrap>
+</sec>
+<sec id="sec014">
+<title>3.3 Identification of arousal</title>
+<p>We examined whether the arousal of the stimuli (low or high) could be identified for individual trials based on activity patterns elicited by viewing audiovisual clips, defined by the quadrants of the valence-arousal space. Classifiers were trained for each participant to identify the arousal category of the audiovisual stimuli: high or low. Significant classification accuracies (<italic>p</italic> &lt; .05) were found for eight of 11 participants (<xref ref-type="fig" rid="pone.0161589.g004">Fig 4A</xref>). Classification accuracies based on functionally defined ROI for eleven participants ranged from 0.52 to 0.70, with the mean of the accuracies (<italic>M</italic> = .60, <italic>SD</italic> = .06) significantly greater than chance, <italic>t</italic>(10) = 6.00, <italic>p</italic> &lt; .001. The arousal states elicited by audiovisual clips that were previously unseen by the classifier were identified with reliably above-chance accuracy for nine out of 11 participants (M = .66, SD = .09, range = (0.50, 0.81)), suggesting that it was the neural representation of arousal, rather than individual stimuli-specific properties that drove the decoding accuracy.</p>
+<fig id="pone.0161589.g004" position="float">
+<object-id pub-id-type="doi">10.1371/journal.pone.0161589.g004</object-id>
+<label>Fig 4</label>
+<caption>
+<title>MVPA results for arousal.</title>
+<p>(A) Classification accuracies for within-participant (filled bars) and across-participants (unfilled bars) arousal identification. (B) Two clusters, the right anterior part of orbitofrontal cortex (OFC) and the right precuneus (PC) are shown on sagittal slices.</p>
+</caption>
+<graphic mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0161589.g004" xlink:type="simple"/>
+</fig>
+<p>To examine the similarity of arousal representation across participants and show the typicality of the decoding results we used data from all but one participant to train a classification model and predict arousal, high or low, in the left out participant. From all voxels, we were able to identify arousal in eight of 11 participants with accuracies above chance. Classification accuracies ranged from .48 to .69, with the mean of the accuracies (<italic>M</italic> = .61, <italic>SD</italic> = .05) significantly greater than chance, <italic>t</italic>(10) = 6.37, <italic>p</italic> &lt; .001. To link these results more directly to the results for decoding within individuals, we restricted the analyses to the union of functional localizer masks. Under this restriction, we were able to identify arousal in six out of 11 participants with accuracies above chance, <italic>p</italic> &lt; .05. Classification accuracies ranged from .43 to .64, with the mean of the accuracies (<italic>M</italic> = .58, <italic>SD</italic> = .06) significantly greater than chance, <italic>t</italic>(10) = 4.29, <italic>p</italic> &lt; .01.</p>
+<p>Having established the typicality of the decoding results with cross-participant identification of arousal, searchlight analyses were performed to spatially localize brain regions that were sensitive to arousal. Searchlight analyses revealed two significant clusters: the right precuneus (PC) and the right orbitofrontal cortex (OFC) (<italic>p</italic> &lt; .05, cluster size &gt; 50). Confirmatory MVPA and STATIS analyses were performed within each cluster to verify the information content of identified clusters. MVPA within each of the identified arousal clusters confirmed that mean classification accuracies (<italic>M</italic> = .56 and <italic>M</italic> = .57) from each cluster were significantly higher than chance, <italic>p</italic>s &lt; .01 (<xref ref-type="fig" rid="pone.0161589.g004">Fig 4B</xref>; <xref ref-type="table" rid="pone.0161589.t003">Table 3</xref>; <xref ref-type="supplementary-material" rid="pone.0161589.s002">S2 Fig</xref>). The lower dimensional representation confirmed that each of the clusters identified by searchlight was sensitive to arousal (<xref ref-type="supplementary-material" rid="pone.0161589.s003">S3 Fig</xref>). The point-biserial correlations between design values and component values corresponding to arousal for the two regions were indicative of the predicted relationship (OFC: <italic>r</italic><sub><italic>pb</italic></sub> = .33, <italic>p</italic> = .07, PC: <italic>r</italic><sub><italic>pb</italic></sub> = .59, <italic>p</italic> &lt; .001). In sum, two regions sensitive to arousal (OFC and PC) were identified by the searchlight analyses (<xref ref-type="fig" rid="pone.0161589.g004">Fig 4B</xref>, <xref ref-type="table" rid="pone.0161589.t003">Table 3</xref>).</p>
+</sec>
+</sec>
+<sec id="sec015" sec-type="conclusions">
+<title>4.0 Discussion</title>
+<p>This study investigated how valence and arousal elicited by naturalistic multimodal stimuli are represented in the brain. We were able to identify valence and arousal for individual trials based on activity patterns elicited by the audiovisual stimuli for most of the individuals. This result was achieved when controlling for lower level features of the stimuli by excluding brain regions associated with lower level perceptual processing and removing the effects of lower level stimulus parameters statistically. By doing so we bolster the inference that identification of affective states was indeed attributable to valence and arousal. The fact that the neural representation of affect was conveyed by brain areas selectively responsive to naturalistic dynamic multisensory information is consistent with the idea that valence and arousal are two fundamental properties that are readily accessed when processing dynamic multimodal stimuli.</p>
+<p>In addition to classifying valence and arousal within individuals, we also found that the affective states of an individual could be reliably modeled by training the classifiers on data from other individuals. This cross-participant classification implies common areas of representation of affective states across individuals. As in the case of within-participant classification, the cross-participant classification was based on voxel activity that controlled for similarity of lower level perceptual features across stimuli, supporting the conclusion that these activation patterns reflect the core dimensions of affect and not just perceptual regularities within affective categories. We used searchlight techniques to visualize spatially localized regions containing valence or arousal information. The areas identified by searchlight as sensitive to valence (PCC, MFG, STG, MTG, mPFC) and arousal (PC and OFC) information were consistent with the areas previously implicated in emotion processing.</p>
+<p>The regions found to be involved in valence in the current study were PCC, MFG, STG/MTG, and mPFC. It has been reported that the PCC is activated in emotional word processing [<xref ref-type="bibr" rid="pone.0161589.ref065">65</xref>–<xref ref-type="bibr" rid="pone.0161589.ref067">67</xref>], representation of associated emotions [<xref ref-type="bibr" rid="pone.0161589.ref060">60</xref>], and modality-general representation of complex emotional information [<xref ref-type="bibr" rid="pone.0161589.ref068">68</xref>]. The STG and MTG have been implicated in integration of multimodal affective information [<xref ref-type="bibr" rid="pone.0161589.ref028">28</xref>, <xref ref-type="bibr" rid="pone.0161589.ref069">69</xref>–<xref ref-type="bibr" rid="pone.0161589.ref072">72</xref>], and more generally, in integration of multimodal (mostly visual and auditory) sensory information [<xref ref-type="bibr" rid="pone.0161589.ref073">73</xref>]. However, it is not clear whether valence, arousal or both are represented in this region, because most of the aforementioned studies utilized discrete emotions (e.g., happy, disgusted, or angry). While the current study provides support for valence related processing in these regions, more work is needed to determine if arousal is represented in these regions. The mPFC is often found to be involved in processing of emotion [<xref ref-type="bibr" rid="pone.0161589.ref074">74</xref>]. It has been implicated in the perception of affect in faces and scenes [<xref ref-type="bibr" rid="pone.0161589.ref075">75</xref>]. The mPFC has been shown to be related to consistent representation of discrete emotional states from face, voice, and body movement, suggesting modality-general processing of emotion within the mPFC [<xref ref-type="bibr" rid="pone.0161589.ref070">70</xref>]. The current study found the mPFC is sensitive to valence, suggesting that valence might be driving this distinction.</p>
+<p>The regions found to be involved in arousal in the current study were PC and OFC. The OFC has been reported to be engaged in processing of affective word stimuli [<xref ref-type="bibr" rid="pone.0161589.ref076">76</xref>], odors [<xref ref-type="bibr" rid="pone.0161589.ref077">77</xref>] and tastes [<xref ref-type="bibr" rid="pone.0161589.ref078">78</xref>]. It has been identified as representing valence for both pictures and tastes, i.e., a modality-general representation of affect [<xref ref-type="bibr" rid="pone.0161589.ref078">78</xref>]. In our study, the OFC was identified to be sensitive to arousal information, which is another dimension of core affect (the cluster size within OFC for valence fell at the top 7.4% within the null distribution, which was not statistically significant). These findings, taken together, implicate the OFC in general affective processing.</p>
+<p>In sum, the regions identified as sensitive to valence and arousal information in the current study are consistent with the regions identified in literature linked to emotion. Moreover, many of six regions have been linked to modality-general representations of emotion [<xref ref-type="bibr" rid="pone.0161589.ref068">68</xref>, <xref ref-type="bibr" rid="pone.0161589.ref070">70</xref>, <xref ref-type="bibr" rid="pone.0161589.ref078">78</xref>]. Our findings are consistent with the idea that the core affect dimensions of valence and arousal may underlie the processing of emotions in these regions for multimodal affective stimuli. The clusters that we have shown to be sensitive to valence and arousal in this study are consistent with the idea that these areas may contribute to the brain’s affective workspace [<xref ref-type="bibr" rid="pone.0161589.ref079">79</xref>].</p>
+<p>Past research has demonstrated that modality-congruent sensory areas are also involved in affect processing. For example, patterns of activity in voice-sensitive cortices were found to represent categorical emotional vocal expressions [<xref ref-type="bibr" rid="pone.0161589.ref080">80</xref>], while activity patterns in fusiform face area represent facial expressions [<xref ref-type="bibr" rid="pone.0161589.ref081">81</xref>]. Similarly, Lang, Bradley [<xref ref-type="bibr" rid="pone.0161589.ref082">82</xref>] presented emotion-inducing pictures and found a greater functional activity for emotional pictures than for neutral pictures in primary visual regions, including occipital gyrus, fusiform gyrus, and lingual gyrus. Both valence and arousal have been demonstrated to be represented in the visual cortex [<xref ref-type="bibr" rid="pone.0161589.ref083">83</xref>]. Thus, successful classifications of valence and arousal are expected in the modality-congruent regions. We excluded sensory regions that were localized functionally to minimize the effect of the lower level features and thereby enhance interpretation of our classification in terms of affective features rather than sensory features.</p>
+<p>In developing a stimulus set that independently manipulated valence and arousal, we chose to exclude the neutral valence condition. This is because neutral valence conditions are difficult to match on arousal levels with corresponding positive and negative valence conditions. Though two core affect dimensions, valence and arousal, are assumed to be independent, unsigned valence dimension (positive/negative vs. neutral) may relate to arousal. For example, affective stimuli data sets such as the International Affective Picture System (IAPS) and International Affective Digitized Sounds (IADS) databases [<xref ref-type="bibr" rid="pone.0161589.ref084">84</xref>, <xref ref-type="bibr" rid="pone.0161589.ref085">85</xref>] show distributions of U-shaped pattern, indicating valenced stimuli tend to be more arousing compared to neutral stimuli. Thus, it is difficult to find stimuli that are neutral with moderate or high arousal level and it is more likely for neutral stimuli to be associated with less arousal level compared to valenced stimuli. For example, [<xref ref-type="bibr" rid="pone.0161589.ref086">86</xref>] found brain regions that activated as quadratic function of valence raising a possibility that these results might be confounded with arousal dimension. Consistent with this idea, Viinikainen, Kätsyri [<xref ref-type="bibr" rid="pone.0161589.ref087">87</xref>] reported extreme positive and negative valence stimuli were associated with high arousal. The relationship between valence and arousal is still open for the further investigation.</p>
+<p>The results of our study have important implications for affective processing in clinical populations. First, we used a passive viewing paradigm to successfully decode valence and arousal. This type of task may be more amenable to clinical populations, as it has been argued that implicit tasks may reduce task demands. Explicit tasks, such as emotion categorization or matching of emotional stimuli, can be problematic in clinical populations that may suffer from executive dysfunction [<xref ref-type="bibr" rid="pone.0161589.ref015">15</xref>]. Second, the present study extends previous work by demonstrating that the affective dimensions of valence and arousal can be identified from dynamic audio-visual stimuli. Given the distinction between processing of affect from static and dynamic stimuli for some clinical populations noted earlier [<xref ref-type="bibr" rid="pone.0161589.ref016">16</xref>], these representational analyses may be helpful in better understanding affective disorders. Third, the cross-participant classification utilized in the current study provides a basis for future classification studies of clinical populations based on a match to specific profiles for affective representation [<xref ref-type="bibr" rid="pone.0161589.ref013">13</xref>].</p>
+<p>Several design facets limit the generalizability of the findings. First, we tried to make the stimuli as homogeneous as possible for the duration of the clip with an assumption of constant affective response to a single stimulus, but the methods in the current study have not been demonstrated for more transient nature of affective states in truly naturalistic settings. Future research may examine applications to longer and more variable stimuli. Second, this study is based on categorical affective states rather than continuous ones due to the difficulty of collecting neutral stimuli with varying arousal levels. As discussed above, it is challenging to manipulate neutral condition with moderate and high arousal levels. Finally, our results are correlational in nature; although we have shown that BOLD data contain enough information to identify the affective category of the stimuli, no inference can be made on how the brain uses this information.</p>
+<p>In conclusion, we were able to identify valence and arousal states in individuals for single trials of multimodal dynamic stimuli while controlling for lower level features statistically and with functional localizers. We were able to do this both within and across individuals. The spatially localized areas found to be sensitive to valence and arousal information were consistent with the literature on affective states. These findings extend previous results on affective representation [<xref ref-type="bibr" rid="pone.0161589.ref007">7</xref>, <xref ref-type="bibr" rid="pone.0161589.ref013">13</xref>] to naturalistic dynamic stimuli and identify possible brain regions for encoding valence and arousal representations.</p>
+</sec>
+<sec id="sec016">
+<title>Supporting Information</title>
+<supplementary-material id="pone.0161589.s001" mimetype="application/eps" position="float" xlink:href="info:doi/10.1371/journal.pone.0161589.s001" xlink:type="simple">
+<label>S1 Fig</label>
+<caption>
+<title>Functional localizer masks for each of the participants.</title>
+<p>Voxels that were more responsive to audiovisual condition compared to baseline (<italic>p</italic> &lt; .05, FWE-corrected, cluster size &gt; 5), but excluding those voxels that were more responsive to checkerboard condition compared to baseline (<italic>p</italic> &lt; .05, FWE-corrected, cluster size &gt; 5) and those voxels that were more responsive to beep condition compared to baseline (<italic>p</italic> &lt; .05, FWE-corrected, cluster size &gt; 5) are shown in red.</p>
+<p>(EPS)</p>
+</caption>
+</supplementary-material>
+<supplementary-material id="pone.0161589.s002" mimetype="application/eps" position="float" xlink:href="info:doi/10.1371/journal.pone.0161589.s002" xlink:type="simple">
+<label>S2 Fig</label>
+<caption>
+<title/>
+<p><bold>Within-participant classification accuracies obtained in confirmatory analyses for valence (left panel) and arousal (right panel).</bold> Classification accuracies are summarized by box plots across the 11 participants for each cluster identified by searchlight analyses.</p>
+<p>(EPS)</p>
+</caption>
+</supplementary-material>
+<supplementary-material id="pone.0161589.s003" mimetype="application/eps" position="float" xlink:href="info:doi/10.1371/journal.pone.0161589.s003" xlink:type="simple">
+<label>S3 Fig</label>
+<caption>
+<title/>
+<p><bold>STATIS solutions performed as confirmatory analyses within each searchlight cluster for valence (left panel) and arousal (right panel).</bold> r<sub>pb</sub> denotes point-biserial correlation coefficient between design values and component 1 coordinates, † <italic>p</italic> &lt; .1, * <italic>p</italic> &lt; .05, ** <italic>p</italic> &lt; .01, *** <italic>p</italic> &lt; .001.</p>
+<p>(EPS)</p>
+</caption>
+</supplementary-material>
+<supplementary-material id="pone.0161589.s004" mimetype="application/vnd.openxmlformats-officedocument.wordprocessingml.document" position="float" xlink:href="info:doi/10.1371/journal.pone.0161589.s004" xlink:type="simple">
+<label>S1 Table</label>
+<caption>
+<title>Description of 32 stimuli from the norming study (<italic>n</italic> = 49).</title>
+<p>(DOCX)</p>
+</caption>
+</supplementary-material>
+<supplementary-material id="pone.0161589.s005" mimetype="application/vnd.openxmlformats-officedocument.wordprocessingml.document" position="float" xlink:href="info:doi/10.1371/journal.pone.0161589.s005" xlink:type="simple">
+<label>S2 Table</label>
+<caption>
+<title>Group summary of functional localizer masks.</title>
+<p>(DOCX)</p>
+</caption>
+</supplementary-material>
+</sec>
+</body>
+<back>
+<ack>
+<p>We thank Laura B. Baucom and Matthew J. Facciani for help with fMRI data collection, Mary-Catherine Newell for help with stimuli development, and all participants for their time.</p>
+</ack>
+<ref-list>
+<title>References</title>
+<ref id="pone.0161589.ref001"><label>1</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Russell</surname> <given-names>JA</given-names></name>. <article-title>Core affect and the psychological construction of emotion</article-title>. <source>Psychol Rev</source>. <year>2003</year>;<volume>110</volume>(<issue>1</issue>):<fpage>145</fpage>–<lpage>72</lpage>. <object-id pub-id-type="pmid">12529060</object-id>.</mixed-citation></ref>
+<ref id="pone.0161589.ref002"><label>2</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Russell</surname> <given-names>JA</given-names></name>, <name name-style="western"><surname>Barrett</surname> <given-names>LF</given-names></name>. <article-title>Core affect, prototypical emotional episodes, and other things called emotion: dissecting the elephant</article-title>. <source>J Pers Soc Psychol</source>. <year>1999</year>;<volume>76</volume>(<issue>5</issue>):<fpage>805</fpage>–<lpage>19</lpage>. <object-id pub-id-type="pmid">10353204</object-id>.</mixed-citation></ref>
+<ref id="pone.0161589.ref003"><label>3</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Bradley</surname> <given-names>MM</given-names></name>, <name name-style="western"><surname>Lang</surname> <given-names>PJ</given-names></name>. <article-title>Affective reactions to acoustic stimuli</article-title>. <source>Psychophysiology</source>. <year>2000</year>;<volume>37</volume>:<fpage>204</fpage>–<lpage>15</lpage>. <object-id pub-id-type="pmid">10731770</object-id></mixed-citation></ref>
+<ref id="pone.0161589.ref004"><label>4</label><mixed-citation publication-type="other" xlink:type="simple">Cacioppo JT, Berntson GG, Larsen JT, Poehlmann KM, Ito TA. The psychophysiology of emotion. In: Lewis R, Haviland-Jones JM, editors. The handbook of emotion. 2nd ed2000. p. 173–91.</mixed-citation></ref>
+<ref id="pone.0161589.ref005"><label>5</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Gomez</surname> <given-names>P</given-names></name>, <name name-style="western"><surname>Danuser</surname> <given-names>B</given-names></name>. <article-title>Affective and physiological responses to environmental noises and music</article-title>. <source>Int J Psychophysiol</source>. <year>2004</year>;<volume>53</volume>(<issue>2</issue>):<fpage>91</fpage>–<lpage>103</lpage>. Epub 2004/06/24. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.ijpsycho.2004.02.002" xlink:type="simple">10.1016/j.ijpsycho.2004.02.002</ext-link></comment> S0167876004000273 [pii]. <object-id pub-id-type="pmid">15210287</object-id>.</mixed-citation></ref>
+<ref id="pone.0161589.ref006"><label>6</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Anders</surname> <given-names>S</given-names></name>, <name name-style="western"><surname>Eippert</surname> <given-names>F</given-names></name>, <name name-style="western"><surname>Weiskopf</surname> <given-names>N</given-names></name>, <name name-style="western"><surname>Veit</surname> <given-names>R</given-names></name>. <article-title>The human amygdala is sensitive to the valence of pictures and sounds irrespective of arousal: an fMRI study</article-title>. <source>Soc Cogn Affect Neurosci</source>. <year>2008</year>;<volume>3</volume>(<issue>3</issue>):<fpage>233</fpage>–<lpage>43</lpage>. Epub 2008/11/19. nsn017 [pii] <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1093/scan/nsn017" xlink:type="simple">10.1093/scan/nsn017</ext-link></comment> <object-id pub-id-type="pmid">19015115</object-id>.</mixed-citation></ref>
+<ref id="pone.0161589.ref007"><label>7</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Baucom</surname> <given-names>LB</given-names></name>, <name name-style="western"><surname>Wedell</surname> <given-names>DH</given-names></name>, <name name-style="western"><surname>Wang</surname> <given-names>J</given-names></name>, <name name-style="western"><surname>Blitzer</surname> <given-names>DN</given-names></name>, <name name-style="western"><surname>Shinkareva</surname> <given-names>SV</given-names></name>. <article-title>Decoding the neural representation of affective states</article-title>. <source>NeuroImage</source>. <year>2012</year>;<volume>59</volume>(<issue>1</issue>):<fpage>718</fpage>–<lpage>27</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.neuroimage.2011.07.037" xlink:type="simple">10.1016/j.neuroimage.2011.07.037</ext-link></comment> <object-id pub-id-type="pmid">21801839</object-id></mixed-citation></ref>
+<ref id="pone.0161589.ref008"><label>8</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Wilson-Mendenhall</surname> <given-names>CD</given-names></name>, <name name-style="western"><surname>Barrett</surname> <given-names>LF</given-names></name>, <name name-style="western"><surname>Barsalou</surname> <given-names>LW</given-names></name>. <article-title>Neural evidence that human emotions share core affective properties</article-title>. <source>Psychol Sci</source>. <year>2013</year>;<volume>24</volume>(<issue>6</issue>):<fpage>947</fpage>–<lpage>56</lpage>. Epub 2013/04/23. 0956797612464242 [pii] <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1177/0956797612464242" xlink:type="simple">10.1177/0956797612464242</ext-link></comment> <object-id pub-id-type="pmid">23603916</object-id>.</mixed-citation></ref>
+<ref id="pone.0161589.ref009"><label>9</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Tseng</surname> <given-names>A</given-names></name>, <name name-style="western"><surname>Wang</surname> <given-names>Z</given-names></name>, <name name-style="western"><surname>Huo</surname> <given-names>Y</given-names></name>, <name name-style="western"><surname>Goh</surname> <given-names>S</given-names></name>, <name name-style="western"><surname>Russell</surname> <given-names>JA</given-names></name>, <name name-style="western"><surname>Peterson</surname> <given-names>BS</given-names></name>. <article-title>Differences in neural activity when processing emotional arousal and valence in autism spectrum disorders</article-title>. <source>Human brain mapping</source>. <year>2016</year>;<volume>37</volume>(<issue>2</issue>):<fpage>443</fpage>–<lpage>61</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1002/hbm.23041" xlink:type="simple">10.1002/hbm.23041</ext-link></comment> <object-id pub-id-type="pmid">26526072</object-id></mixed-citation></ref>
+<ref id="pone.0161589.ref010"><label>10</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Mourão-Miranda</surname> <given-names>J</given-names></name>, <name name-style="western"><surname>Almeida</surname> <given-names>JR</given-names></name>, <name name-style="western"><surname>Hassel</surname> <given-names>S</given-names></name>, <name name-style="western"><surname>de Oliveira</surname> <given-names>L</given-names></name>, <name name-style="western"><surname>Versace</surname> <given-names>A</given-names></name>, <name name-style="western"><surname>Marquand</surname> <given-names>AF</given-names></name>, <etal>et al</etal>. <article-title>Pattern recognition analyses of brain activation elicited by happy and neutral faces in unipolar and bipolar depression</article-title>. <source>Bipolar Disord</source>. <year>2012</year>;<volume>14</volume>(<issue>4</issue>):<fpage>451</fpage>–<lpage>60</lpage>. Epub 2012/05/29. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1111/j.1399-5618.2012.01019.x" xlink:type="simple">10.1111/j.1399-5618.2012.01019.x</ext-link></comment> <object-id pub-id-type="pmid">22631624</object-id>.</mixed-citation></ref>
+<ref id="pone.0161589.ref011"><label>11</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Mourão-Miranda</surname> <given-names>J</given-names></name>, <name name-style="western"><surname>Oliveira</surname> <given-names>L</given-names></name>, <name name-style="western"><surname>Ladouceur</surname> <given-names>CD</given-names></name>, <name name-style="western"><surname>Marquand</surname> <given-names>A</given-names></name>, <name name-style="western"><surname>Brammer</surname> <given-names>M</given-names></name>, <name name-style="western"><surname>Birmaher</surname> <given-names>B</given-names></name>, <etal>et al</etal>. <article-title>Pattern recognition and functional neuroimaging Help to discriminate healthy adolescents at risk for mood disorders from low risk adolescents</article-title>. <source>PLoS ONE</source>. <year>2012</year>;<volume>7</volume>(<issue>2</issue>):<fpage>e29482</fpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1371/journal.pone.0029482" xlink:type="simple">10.1371/journal.pone.0029482</ext-link></comment> <object-id pub-id-type="pmid">22355302</object-id></mixed-citation></ref>
+<ref id="pone.0161589.ref012"><label>12</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Hahn</surname> <given-names>T</given-names></name>, <name name-style="western"><surname>Marquand</surname> <given-names>A</given-names></name>, <name name-style="western"><surname>Ehlis</surname> <given-names>A-C</given-names></name>, <name name-style="western"><surname>Dresler</surname> <given-names>T</given-names></name>, <name name-style="western"><surname>Kittel-Schneider</surname> <given-names>S</given-names></name>, <name name-style="western"><surname>Jarczok</surname> <given-names>TA</given-names></name>, <etal>et al</etal>. <article-title>Integrating neurobiological markers of depression</article-title>. <source>Archives of General Psychiatry</source>. <year>2011</year>;<volume>68</volume>(<issue>4</issue>).</mixed-citation></ref>
+<ref id="pone.0161589.ref013"><label>13</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Habes</surname> <given-names>I</given-names></name>, <name name-style="western"><surname>Krall</surname> <given-names>SC</given-names></name>, <name name-style="western"><surname>Johnston</surname> <given-names>SJ</given-names></name>, <name name-style="western"><surname>Yuen</surname> <given-names>KS</given-names></name>, <name name-style="western"><surname>Healy</surname> <given-names>D</given-names></name>, <name name-style="western"><surname>Goebel</surname> <given-names>R</given-names></name>, <etal>et al</etal>. <article-title>Pattern classification of valence in depression</article-title>. <source>Neuroimage Clin</source>. <year>2013</year>;<volume>2</volume>:<fpage>675</fpage>–<lpage>83</lpage>. Epub 2013/11/02. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.nicl.2013.05.001" xlink:type="simple">10.1016/j.nicl.2013.05.001</ext-link></comment> S2213-1582(13)00057-0 [pii]. <object-id pub-id-type="pmid">24179819</object-id>.</mixed-citation></ref>
+<ref id="pone.0161589.ref014"><label>14</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Klasen</surname> <given-names>M</given-names></name>, <name name-style="western"><surname>Kreifelts</surname> <given-names>B</given-names></name>, <name name-style="western"><surname>Chen</surname> <given-names>Y-H</given-names></name>, <name name-style="western"><surname>Seubert</surname> <given-names>J</given-names></name>, <name name-style="western"><surname>Mathiak</surname> <given-names>K</given-names></name>. <article-title>Neural processing of emotion in multimodal settings</article-title>. <source>Frontiers in human neuroscience</source>. <year>2014</year>;<volume>8</volume>.</mixed-citation></ref>
+<ref id="pone.0161589.ref015"><label>15</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Garrido-Vasquez</surname> <given-names>P</given-names></name>, <name name-style="western"><surname>Jessen</surname> <given-names>S</given-names></name>, <name name-style="western"><surname>Kotz</surname> <given-names>SA</given-names></name>. <article-title>Perception of emotion in psychiatric disorders: on the possible role of task, dynamics, and multimodality</article-title>. <source>Soc Neurosci</source>. <year>2011</year>;<volume>6</volume>(<issue>5–6</issue>):<fpage>515</fpage>–<lpage>36</lpage>. Epub 2011/10/04. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1080/17470919.2011.620771" xlink:type="simple">10.1080/17470919.2011.620771</ext-link></comment> <object-id pub-id-type="pmid">21961831</object-id>.</mixed-citation></ref>
+<ref id="pone.0161589.ref016"><label>16</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Weisberg</surname> <given-names>J</given-names></name>, <name name-style="western"><surname>Milleville</surname> <given-names>SC</given-names></name>, <name name-style="western"><surname>Kenworthy</surname> <given-names>L</given-names></name>, <name name-style="western"><surname>Wallace</surname> <given-names>GL</given-names></name>, <name name-style="western"><surname>Gotts</surname> <given-names>SJ</given-names></name>, <name name-style="western"><surname>Beauchamp</surname> <given-names>MS</given-names></name>, <etal>et al</etal>. <article-title>Social Perception in Autism Spectrum Disorders: Impaired Category Selectivity for Dynamic but not Static Images in Ventral Temporal Cortex</article-title>. <source>Cereb Cortex</source>. <year>2012</year>. Epub 2012/09/29. bhs276 [pii] <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1093/cercor/bhs276" xlink:type="simple">10.1093/cercor/bhs276</ext-link></comment> <object-id pub-id-type="pmid">23019245</object-id>.</mixed-citation></ref>
+<ref id="pone.0161589.ref017"><label>17</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>De Jong</surname> <given-names>J</given-names></name>, <name name-style="western"><surname>Hodiamont</surname> <given-names>P</given-names></name>, <name name-style="western"><surname>De Gelder</surname> <given-names>B</given-names></name>. <article-title>Modality-specific attention and multisensory integration of emotions in schizophrenia: Reduced regulatory effects</article-title>. <source>Schizophrenia research</source>. <year>2010</year>;<volume>122</volume>(<issue>1</issue>):<fpage>136</fpage>–<lpage>43</lpage>.</mixed-citation></ref>
+<ref id="pone.0161589.ref018"><label>18</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>de Gelder</surname> <given-names>B</given-names></name>, <name name-style="western"><surname>Vroomen</surname> <given-names>J</given-names></name>, <name name-style="western"><surname>de Jong</surname> <given-names>SJ</given-names></name>, <name name-style="western"><surname>Masthoff</surname> <given-names>ED</given-names></name>, <name name-style="western"><surname>Trompenaars</surname> <given-names>FJ</given-names></name>, <name name-style="western"><surname>Hodiamont</surname> <given-names>P</given-names></name>. <article-title>Multisensory integration of emotional faces and voices in schizophrenics</article-title>. <source>Schizophrenia research</source>. <year>2005</year>;<volume>72</volume>(<issue>2</issue>):<fpage>195</fpage>–<lpage>203</lpage>.</mixed-citation></ref>
+<ref id="pone.0161589.ref019"><label>19</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Barrett</surname> <given-names>LF</given-names></name>, <name name-style="western"><surname>Mesquita</surname> <given-names>B</given-names></name>, <name name-style="western"><surname>Gendron</surname> <given-names>M</given-names></name>. <article-title>Context in Emotion Perception</article-title>. <source>Current Directions in Psychological Science</source>. <year>2011</year>;<volume>20</volume>(<issue>5</issue>):<fpage>286</fpage>–<lpage>90</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1177/0963721411422522" xlink:type="simple">10.1177/0963721411422522</ext-link></comment></mixed-citation></ref>
+<ref id="pone.0161589.ref020"><label>20</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Hasson</surname> <given-names>U</given-names></name>, <name name-style="western"><surname>Malach</surname> <given-names>R</given-names></name>, <name name-style="western"><surname>Heeger</surname> <given-names>DJ</given-names></name>. <article-title>Reliability of cortical activity during natural stimulation</article-title>. <source>Trends Cogn Sci</source>. <year>2010</year>;<volume>14</volume>(<issue>1</issue>):<fpage>40</fpage>–<lpage>8</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.tics.2009.10.011" xlink:type="simple">10.1016/j.tics.2009.10.011</ext-link></comment> <object-id pub-id-type="pmid">20004608</object-id></mixed-citation></ref>
+<ref id="pone.0161589.ref021"><label>21</label><mixed-citation publication-type="other" xlink:type="simple">Maurage P, Campanella S. Experimental and clinical usefulness of crossmodal paradigms in psychiatry: an illustration from emotional processing in alcohol-dependence. 2013.</mixed-citation></ref>
+<ref id="pone.0161589.ref022"><label>22</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Kragel</surname> <given-names>PA</given-names></name>, <name name-style="western"><surname>LaBar</surname> <given-names>KS</given-names></name>. <article-title>Multivariate neural biomarkers of emotional states are categorically distinct</article-title>. <source>Soc Cogn Affect Neurosci</source>. <year>2015</year>;<volume>10</volume>(<issue>11</issue>):<fpage>1437</fpage>–<lpage>48</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1093/scan/nsv032" xlink:type="simple">10.1093/scan/nsv032</ext-link></comment> <object-id pub-id-type="pmid">25813790</object-id>; PubMed Central PMCID: PMCPMC4631142.</mixed-citation></ref>
+<ref id="pone.0161589.ref023"><label>23</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Satpute</surname> <given-names>AB</given-names></name>, <name name-style="western"><surname>Wilson-Mendelhall</surname> <given-names>CD</given-names></name>, <name name-style="western"><surname>Kleckner</surname> <given-names>IR</given-names></name>, <name name-style="western"><surname>Barrett</surname> <given-names>LF</given-names></name>. <article-title>Emotional experience</article-title>. <source>Brain mapping: An encyclopedic reference</source>. <year>2015</year>;<volume>3</volume>:<fpage>65</fpage>–<lpage>72</lpage>.</mixed-citation></ref>
+<ref id="pone.0161589.ref024"><label>24</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Kotz</surname> <given-names>SA</given-names></name>, <name name-style="western"><surname>Kalberlah</surname> <given-names>C</given-names></name>, <name name-style="western"><surname>Bahlmann</surname> <given-names>J</given-names></name>, <name name-style="western"><surname>Friederici</surname> <given-names>AD</given-names></name>, <name name-style="western"><surname>Haynes</surname> <given-names>JD</given-names></name>. <article-title>Predicting vocal emotion expressions from the human brain</article-title>. <source>Human Brain Mapping</source>. <year>2013</year>;<volume>34</volume>(<issue>8</issue>):<fpage>1971</fpage>–<lpage>81</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1002/hbm.22041" xlink:type="simple">10.1002/hbm.22041</ext-link></comment> <object-id pub-id-type="pmid">22371367</object-id></mixed-citation></ref>
+<ref id="pone.0161589.ref025"><label>25</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Shinkareva</surname> <given-names>SV</given-names></name>, <name name-style="western"><surname>Wang</surname> <given-names>J</given-names></name>, <name name-style="western"><surname>Kim</surname> <given-names>J</given-names></name>, <name name-style="western"><surname>Facciani</surname> <given-names>MJ</given-names></name>, <name name-style="western"><surname>Baucom</surname> <given-names>LB</given-names></name>, <name name-style="western"><surname>Wedell</surname> <given-names>DH</given-names></name>. <article-title>Representations of modality‐specific affective processing for visual and auditory stimuli derived from functional magnetic resonance imaging data</article-title>. <source>Human brain mapping</source>. <year>2014</year>;<volume>35</volume>(<issue>7</issue>):<fpage>3558</fpage>–<lpage>68</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1002/hbm.22421" xlink:type="simple">10.1002/hbm.22421</ext-link></comment> <object-id pub-id-type="pmid">24302696</object-id></mixed-citation></ref>
+<ref id="pone.0161589.ref026"><label>26</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Royet</surname> <given-names>JP</given-names></name>, <name name-style="western"><surname>Plailly</surname> <given-names>J</given-names></name>, <name name-style="western"><surname>Delon-Martin</surname> <given-names>C</given-names></name>, <name name-style="western"><surname>Kareken</surname> <given-names>DA</given-names></name>, <name name-style="western"><surname>Segebarth</surname> <given-names>C</given-names></name>. <article-title>fMRI of emotional responses to odors: influence of hedonic valence and judgment, handedness, and gender</article-title>. <source>Neuroimage</source>. <year>2003</year>;<volume>20</volume>(<issue>2</issue>):<fpage>713</fpage>–<lpage>28</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/S1053-8119(03)00388-4" xlink:type="simple">10.1016/S1053-8119(03)00388-4</ext-link></comment> <object-id pub-id-type="pmid">14568446</object-id>.</mixed-citation></ref>
+<ref id="pone.0161589.ref027"><label>27</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Daselaar</surname> <given-names>SM</given-names></name>, <name name-style="western"><surname>Rice</surname> <given-names>HJ</given-names></name>, <name name-style="western"><surname>Greenberg</surname> <given-names>DL</given-names></name>, <name name-style="western"><surname>Cabeza</surname> <given-names>R</given-names></name>, <name name-style="western"><surname>LaBar</surname> <given-names>KS</given-names></name>, <name name-style="western"><surname>Rubin</surname> <given-names>DC</given-names></name>. <article-title>The spatiotemporal dynamics of autobiographical memory: neural correlates of recall, emotional intensity, and reliving</article-title>. <source>Cereb Cortex</source>. <year>2008</year>;<volume>18</volume>(<issue>1</issue>):<fpage>217</fpage>–<lpage>29</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1093/cercor/bhm048" xlink:type="simple">10.1093/cercor/bhm048</ext-link></comment> <object-id pub-id-type="pmid">17548799</object-id>.</mixed-citation></ref>
+<ref id="pone.0161589.ref028"><label>28</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Kreifelts</surname> <given-names>B</given-names></name>, <name name-style="western"><surname>Ethofer</surname> <given-names>T</given-names></name>, <name name-style="western"><surname>Grodd</surname> <given-names>W</given-names></name>, <name name-style="western"><surname>Erb</surname> <given-names>M</given-names></name>, <name name-style="western"><surname>Wildgruber</surname> <given-names>D</given-names></name>. <article-title>Audiovisual integration of emotional signals in voice and face: an event-related fMRI study</article-title>. <source>Neuroimage</source>. <year>2007</year>;<volume>37</volume>(<issue>4</issue>):<fpage>1445</fpage>–<lpage>56</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.neuroimage.2007.06.020" xlink:type="simple">10.1016/j.neuroimage.2007.06.020</ext-link></comment> <object-id pub-id-type="pmid">17659885</object-id>.</mixed-citation></ref>
+<ref id="pone.0161589.ref029"><label>29</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Zupan</surname> <given-names>B</given-names></name>, <name name-style="western"><surname>Neumann</surname> <given-names>D</given-names></name>. <article-title>Affect recognition in traumatic brain injury: responses to unimodal and multimodal media</article-title>. <source>J Head Trauma Rehabil</source>. <year>2014</year>;<volume>29</volume>(<issue>4</issue>):<fpage>E1</fpage>–<lpage>E12</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1097/HTR.0b013e31829dded6" xlink:type="simple">10.1097/HTR.0b013e31829dded6</ext-link></comment> <object-id pub-id-type="pmid">23982789</object-id>.</mixed-citation></ref>
+<ref id="pone.0161589.ref030"><label>30</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Brosnan</surname> <given-names>M</given-names></name>, <name name-style="western"><surname>Johnson</surname> <given-names>H</given-names></name>, <name name-style="western"><surname>Grawmeyer</surname> <given-names>B</given-names></name>, <name name-style="western"><surname>Chapman</surname> <given-names>E</given-names></name>, <name name-style="western"><surname>Benton</surname> <given-names>L</given-names></name>. <article-title>Emotion recognition in animated compared to human stimuli in adolescents with autism spectrum disorder</article-title>. <source>J Autism Dev Disord</source>. <year>2015</year>;<volume>45</volume>(<issue>6</issue>):<fpage>1785</fpage>–<lpage>96</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1007/s10803-014-2338-9" xlink:type="simple">10.1007/s10803-014-2338-9</ext-link></comment> <object-id pub-id-type="pmid">25567528</object-id>.</mixed-citation></ref>
+<ref id="pone.0161589.ref031"><label>31</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Magnee</surname> <given-names>MJ</given-names></name>, <name name-style="western"><surname>Oranje</surname> <given-names>B</given-names></name>, <name name-style="western"><surname>van Engeland</surname> <given-names>H</given-names></name>, <name name-style="western"><surname>Kahn</surname> <given-names>RS</given-names></name>, <name name-style="western"><surname>Kemner</surname> <given-names>C</given-names></name>. <article-title>Cross-sensory gating in schizophrenia and autism spectrum disorder: EEG evidence for impaired brain connectivity?</article-title> <source>Neuropsychologia</source>. <year>2009</year>;<volume>47</volume>(<issue>7</issue>):<fpage>1728</fpage>–<lpage>32</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.neuropsychologia.2009.02.012" xlink:type="simple">10.1016/j.neuropsychologia.2009.02.012</ext-link></comment> <object-id pub-id-type="pmid">19397868</object-id>.</mixed-citation></ref>
+<ref id="pone.0161589.ref032"><label>32</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Gerrards-Hesse</surname> <given-names>A</given-names></name>, <name name-style="western"><surname>Spies</surname> <given-names>K</given-names></name>, <name name-style="western"><surname>Hesse</surname> <given-names>FW</given-names></name>. <article-title>Experimental inductions of emotional states and their effectiveness: a review</article-title>. <source>British journal of psychology</source>. <year>1994</year>;<volume>85</volume>:<fpage>55</fpage>–<lpage>78</lpage>.</mixed-citation></ref>
+<ref id="pone.0161589.ref033"><label>33</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Ambadar</surname> <given-names>Z</given-names></name>, <name name-style="western"><surname>Schooler</surname> <given-names>JW</given-names></name>, <name name-style="western"><surname>Cohn</surname> <given-names>JF</given-names></name>. <article-title>Deciphering the enigmatic face: the importance of facial dynamics in interpreting subtle facial expressions</article-title>. <source>Psychol Sci</source>. <year>2005</year>;<volume>16</volume>(<issue>5</issue>):<fpage>403</fpage>–<lpage>10</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1111/j.0956-7976.2005.01548.x" xlink:type="simple">10.1111/j.0956-7976.2005.01548.x</ext-link></comment> <object-id pub-id-type="pmid">15869701</object-id>.</mixed-citation></ref>
+<ref id="pone.0161589.ref034"><label>34</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Sato</surname> <given-names>W</given-names></name>, <name name-style="western"><surname>Kochiyama</surname> <given-names>T</given-names></name>, <name name-style="western"><surname>Yoshikawa</surname> <given-names>S</given-names></name>, <name name-style="western"><surname>Naito</surname> <given-names>E</given-names></name>, <name name-style="western"><surname>Matsumura</surname> <given-names>M</given-names></name>. <article-title>Enhanced neural activity in response to dynamic facial expressions of emotion: an fMRI study</article-title>. <source>Brain Res Cogn Brain Res</source>. <year>2004</year>;<volume>20</volume>(<issue>1</issue>):<fpage>81</fpage>–<lpage>91</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.cogbrainres.2004.01.008" xlink:type="simple">10.1016/j.cogbrainres.2004.01.008</ext-link></comment> <object-id pub-id-type="pmid">15130592</object-id>.</mixed-citation></ref>
+<ref id="pone.0161589.ref035"><label>35</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>de Gelder</surname> <given-names>B</given-names></name>, <name name-style="western"><surname>Vroomen</surname> <given-names>J</given-names></name>, <name name-style="western"><surname>Pourtois</surname> <given-names>G</given-names></name>, <name name-style="western"><surname>Weiskrantz</surname> <given-names>L</given-names></name>. <article-title>Non-conscious recognition of affect in the absence of striate cortex</article-title>. <source>Neuroreport</source>. <year>1999</year>;<volume>10</volume>(<issue>18</issue>):<fpage>3759</fpage>–<lpage>63</lpage>. <object-id pub-id-type="pmid">10716205</object-id>.</mixed-citation></ref>
+<ref id="pone.0161589.ref036"><label>36</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Kilts</surname> <given-names>CD</given-names></name>, <name name-style="western"><surname>Egan</surname> <given-names>GFG</given-names></name>, <string-name>D.A.</string-name>, <name name-style="western"><surname>Ely</surname> <given-names>TD</given-names></name>, <name name-style="western"><surname>Hoffman</surname> <given-names>JM</given-names></name>. <article-title>Dissociable neural pathways are involved in the recognition of emotion in static and dynamic facial expressions</article-title>. <source>NeuroImage</source>. <year>2003</year>;<volume>18</volume>:<fpage>156</fpage>–<lpage>68</lpage>. <object-id pub-id-type="pmid">12507452</object-id></mixed-citation></ref>
+<ref id="pone.0161589.ref037"><label>37</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Atkinson</surname> <given-names>AP</given-names></name>, <name name-style="western"><surname>Dittrich</surname> <given-names>WH</given-names></name>, <name name-style="western"><surname>Gemmell</surname> <given-names>AJ</given-names></name>, <name name-style="western"><surname>Young</surname> <given-names>AW</given-names></name>. <article-title>Emotion perception from dynamic and static body expressions in point-light and full-light displays</article-title>. <source>Perception</source>. <year>2004</year>;<volume>33</volume>(<issue>6</issue>):<fpage>717</fpage>–<lpage>46</lpage>. <object-id pub-id-type="pmid">15330366</object-id>.</mixed-citation></ref>
+<ref id="pone.0161589.ref038"><label>38</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Gross</surname> <given-names>JJ</given-names></name>, <name name-style="western"><surname>Levenson</surname> <given-names>RW</given-names></name>. <article-title>Emotion elicitation using films</article-title>. <source>Cognition &amp; Emotion</source>. <year>1995</year>;<volume>9</volume>(<issue>1</issue>):<fpage>87</fpage>–<lpage>108</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1080/02699939508408966" xlink:type="simple">10.1080/02699939508408966</ext-link></comment></mixed-citation></ref>
+<ref id="pone.0161589.ref039"><label>39</label><mixed-citation publication-type="book" xlink:type="simple"><name name-style="western"><surname>Rottenberg</surname> <given-names>J</given-names></name>, <name name-style="western"><surname>Ray</surname> <given-names>RD</given-names></name>, <name name-style="western"><surname>Gross</surname> <given-names>JJ</given-names></name>. <chapter-title>Emotion elicitation using films</chapter-title>. In: <name name-style="western"><surname>Coan</surname> <given-names>JA</given-names></name>, <name name-style="western"><surname>Allen</surname> <given-names>JJB</given-names></name>, editors. <source>The handbook of emotion elicitation and assessment</source>. <publisher-loc>London</publisher-loc>: <publisher-name>Oxford University Press</publisher-name>; <year>2007</year>.</mixed-citation></ref>
+<ref id="pone.0161589.ref040"><label>40</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Hubert</surname> <given-names>W</given-names></name>, <name name-style="western"><surname>de Jong-Meyer</surname> <given-names>R</given-names></name>. <article-title>Psychophysiological response patterns to positive and negative film stimuli</article-title>. <source>Biol Psychol</source>. <year>1990</year>;<volume>31</volume>(<issue>1</issue>):<fpage>73</fpage>–<lpage>93</lpage>. Epub 1991/08/01. <object-id pub-id-type="pmid">2021681</object-id>.</mixed-citation></ref>
+<ref id="pone.0161589.ref041"><label>41</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Hubert</surname> <given-names>W</given-names></name>, <name name-style="western"><surname>de Jong-Meyer</surname> <given-names>R</given-names></name>. <article-title>Autonomic, neuroendocrine, and subjective responses to emotion-inducing film stimuli</article-title>. <source>Int J Psychophysiol</source>. <year>1991</year>;<volume>11</volume>(<issue>2</issue>):<fpage>131</fpage>–<lpage>40</lpage>. Epub 1991/08/01. <object-id pub-id-type="pmid">1748588</object-id>.</mixed-citation></ref>
+<ref id="pone.0161589.ref042"><label>42</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>de Gelder</surname> <given-names>B</given-names></name>, <name name-style="western"><surname>Bertelson</surname> <given-names>P</given-names></name>. <article-title>Multisensory integration, perception and ecological validity</article-title>. <source>TRENDS in Cognitive Sciences</source>. <year>2003</year>;<volume>7</volume>:<fpage>460</fpage>–<lpage>7</lpage>. <object-id pub-id-type="pmid">14550494</object-id></mixed-citation></ref>
+<ref id="pone.0161589.ref043"><label>43</label><mixed-citation publication-type="book" xlink:type="simple"><name name-style="western"><surname>Bertelson</surname> <given-names>P</given-names></name>, <name name-style="western"><surname>de Gelder</surname> <given-names>B</given-names></name>. <chapter-title>The psychology of multimodal perception</chapter-title>. In: <name name-style="western"><surname>Spense</surname> <given-names>C</given-names></name>, <name name-style="western"><surname>Driver</surname> <given-names>J</given-names></name>, editors. <source>Crossmodal space and crossmodal attention</source>. <publisher-loc>Oxford</publisher-loc>: <publisher-name>Oxford University Press</publisher-name>; <year>2004</year>. p. <fpage>141</fpage>–<lpage>77</lpage>.</mixed-citation></ref>
+<ref id="pone.0161589.ref044"><label>44</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Lakens</surname> <given-names>D</given-names></name>, <name name-style="western"><surname>Fockenberg</surname> <given-names>DA</given-names></name>, <name name-style="western"><surname>Lemmens</surname> <given-names>KPH</given-names></name>, <name name-style="western"><surname>Ham</surname> <given-names>J</given-names></name>, <name name-style="western"><surname>Midden</surname> <given-names>CJH</given-names></name>. <article-title>The evaluation of affective pictures depends on their brightness</article-title>. <source>Cognition and Emotion</source>. <year>2013</year>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1080/02699931.2013.781501" xlink:type="simple">10.1080/02699931.2013.781501</ext-link></comment></mixed-citation></ref>
+<ref id="pone.0161589.ref045"><label>45</label><mixed-citation publication-type="book" xlink:type="simple"><name name-style="western"><surname>Gabrielsson</surname> <given-names>A</given-names></name>, <name name-style="western"><surname>Lindström</surname> <given-names>E</given-names></name>. <chapter-title>The influence of musical structure on emotional expression</chapter-title>. In: <name name-style="western"><surname>Juslin</surname> <given-names>PN</given-names></name>, <name name-style="western"><surname>Sloboda</surname> <given-names>J</given-names></name>, editors. <source>Music and emotion: Theory and research Series in affective science</source>. <publisher-loc>New York</publisher-loc>: <publisher-name>Oxford University Press</publisher-name>; <year>2001</year>. p. <fpage>223</fpage>–<lpage>48</lpage>.</mixed-citation></ref>
+<ref id="pone.0161589.ref046"><label>46</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Juslin</surname> <given-names>PN</given-names></name>, <name name-style="western"><surname>Laukka</surname> <given-names>P</given-names></name>. <article-title>Expression, perception, and induction of musical emotions: A review and a questionnaire study of everyday listening</article-title>. <source>Journal of New Music Research</source>. <year>2004</year>;<volume>33</volume>(<issue>3</issue>):<fpage>217</fpage>–<lpage>38</lpage>.</mixed-citation></ref>
+<ref id="pone.0161589.ref047"><label>47</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Coutinho</surname> <given-names>E</given-names></name>, <name name-style="western"><surname>Cangelosi</surname> <given-names>A</given-names></name>. <article-title>Musical emotions: predicting second-by-second subjective feelings of emotion from low-level psychoacoustic features and physiological measurements</article-title>. <source>Emotion</source>. <year>2011</year>;<volume>11</volume>(<issue>4</issue>):<fpage>921</fpage>–<lpage>37</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1037/a0024700" xlink:type="simple">10.1037/a0024700</ext-link></comment> <object-id pub-id-type="pmid">21859207</object-id>.</mixed-citation></ref>
+<ref id="pone.0161589.ref048"><label>48</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Yuen</surname> <given-names>KSL</given-names></name>, <name name-style="western"><surname>Johnston</surname> <given-names>SJ</given-names></name>, <name name-style="western"><surname>De Martino</surname> <given-names>F</given-names></name>, <name name-style="western"><surname>Sorger</surname> <given-names>B</given-names></name>, <name name-style="western"><surname>Formisano</surname> <given-names>E</given-names></name>, <name name-style="western"><surname>Linden</surname> <given-names>DEJ</given-names></name>, <etal>et al</etal>. <article-title>Pattern classification predicts individuals’ responses to affective stimuli</article-title>. <source>Translational Neuroscience</source>. <year>2012</year>;<volume>3</volume>(<issue>3</issue>):<fpage>278</fpage>–<lpage>87</lpage>.</mixed-citation></ref>
+<ref id="pone.0161589.ref049"><label>49</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Carroll</surname> <given-names>JD</given-names></name>, <name name-style="western"><surname>Chang</surname> <given-names>JJ</given-names></name>. <article-title>Analysis of individual differences in multidimensional scaling via an N-way generalization of 'Eckard-Young' decomposition</article-title>. <source>Psychometrika</source>. <year>1970</year>;<volume>35</volume>:<fpage>283</fpage>–<lpage>320</lpage>.</mixed-citation></ref>
+<ref id="pone.0161589.ref050"><label>50</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Russell</surname> <given-names>JA</given-names></name>, <name name-style="western"><surname>Bullock</surname> <given-names>M</given-names></name>. <article-title>Multidimensional scaling of emotional facial expressions: similarity from preschoolers to adults</article-title>. <source>Journal of Personality and Social Psychology</source>. <year>1985</year>;<volume>48</volume>(<issue>5</issue>):<fpage>1290</fpage>.</mixed-citation></ref>
+<ref id="pone.0161589.ref051"><label>51</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Haller</surname> <given-names>S</given-names></name>, <name name-style="western"><surname>Wetzel</surname> <given-names>SG</given-names></name>, <name name-style="western"><surname>Radue</surname> <given-names>EW</given-names></name>, <name name-style="western"><surname>Bilecen</surname> <given-names>D</given-names></name>. <article-title>Mapping continuous neuronal activation without an ON–OFF paradigm: initial results of BOLD ceiling fMRI</article-title>. <source>European Journal of Neuroscience</source>. <year>2006</year>;<volume>24</volume>:<fpage>2672</fpage>–<lpage>8</lpage>. <object-id pub-id-type="pmid">17100855</object-id></mixed-citation></ref>
+<ref id="pone.0161589.ref052"><label>52</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Fox</surname> <given-names>PT</given-names></name>, <name name-style="western"><surname>Raichle</surname> <given-names>ME</given-names></name>. <article-title>Stimulus rate determines regional brain blood flow in striate cortex</article-title>. <source>Annals of neurology</source>. <year>1985</year>;<volume>17</volume>(<issue>3</issue>):<fpage>303</fpage>–<lpage>5</lpage>. <object-id pub-id-type="pmid">3873210</object-id></mixed-citation></ref>
+<ref id="pone.0161589.ref053"><label>53</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Kay</surname> <given-names>KN</given-names></name>, <name name-style="western"><surname>Rokem</surname> <given-names>A</given-names></name>, <name name-style="western"><surname>Winawer</surname> <given-names>J</given-names></name>, <name name-style="western"><surname>Dougherty</surname> <given-names>RF</given-names></name>, <name name-style="western"><surname>Wandell</surname> <given-names>BA</given-names></name>. <article-title>GLMdenoise: a fast, automated technique for denoising task-based fMRI data</article-title>. <source>Frontiers in Neuroscience</source>. <year>2013</year>;<volume>7</volume>:Article 247.</mixed-citation></ref>
+<ref id="pone.0161589.ref054"><label>54</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Erez</surname> <given-names>J</given-names></name>, <name name-style="western"><surname>Cusack</surname> <given-names>R</given-names></name>, <name name-style="western"><surname>Kendall</surname> <given-names>W</given-names></name>, <name name-style="western"><surname>Barense</surname> <given-names>MD</given-names></name>. <article-title>Conjunctive coding of complex object features</article-title>. <source>Cerebral Cortex</source>. <year>2015</year>:bhv081.</mixed-citation></ref>
+<ref id="pone.0161589.ref055"><label>55</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Henriksson</surname> <given-names>L</given-names></name>, <name name-style="western"><surname>Khaligh-Razavi</surname> <given-names>S-M</given-names></name>, <name name-style="western"><surname>Kay</surname> <given-names>K</given-names></name>, <name name-style="western"><surname>Kriegeskorte</surname> <given-names>N</given-names></name>. <article-title>Visual representations are dominated by intrinsic fluctuations correlated between areas</article-title>. <source>NeuroImage</source>. <year>2015</year>;<volume>114</volume>:<fpage>275</fpage>–<lpage>86</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.neuroimage.2015.04.026" xlink:type="simple">10.1016/j.neuroimage.2015.04.026</ext-link></comment> <object-id pub-id-type="pmid">25896934</object-id></mixed-citation></ref>
+<ref id="pone.0161589.ref056"><label>56</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Pereira</surname> <given-names>F</given-names></name>, <name name-style="western"><surname>Mitchell</surname> <given-names>T</given-names></name>, <name name-style="western"><surname>Botvinick</surname> <given-names>M</given-names></name>. <article-title>Machine learning classifiers and fMRI: a tutorial overview</article-title>. <source>Neuroimage</source>. <year>2009</year>;<volume>45</volume>:<fpage>S199</fpage>–<lpage>S209</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.neuroimage.2008.11.007" xlink:type="simple">10.1016/j.neuroimage.2008.11.007</ext-link></comment> <object-id pub-id-type="pmid">19070668</object-id></mixed-citation></ref>
+<ref id="pone.0161589.ref057"><label>57</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Shinkareva</surname> <given-names>SV</given-names></name>, <name name-style="western"><surname>Wang</surname> <given-names>J</given-names></name>, <name name-style="western"><surname>Kim</surname> <given-names>J</given-names></name>, <name name-style="western"><surname>Facciani</surname> <given-names>MJ</given-names></name>, <name name-style="western"><surname>Baucom</surname> <given-names>LB</given-names></name>, <name name-style="western"><surname>Wedell</surname> <given-names>DH</given-names></name>. <article-title>Representations of modality-specific affective processing for visual and auditory stimuli derived from fMRI data</article-title>. <source>Human Brain Mapping</source>. <year>2014</year>;<volume>35</volume>(<issue>7</issue>):<fpage>3558</fpage>–<lpage>68</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1002/hbm.22421" xlink:type="simple">10.1002/hbm.22421</ext-link></comment> <object-id pub-id-type="pmid">24302696</object-id></mixed-citation></ref>
+<ref id="pone.0161589.ref058"><label>58</label><mixed-citation publication-type="book" xlink:type="simple"><name name-style="western"><surname>Bishop</surname> <given-names>CM</given-names></name>. <source>Pattern recognition and machine learning</source>. <publisher-loc>New York</publisher-loc>: <publisher-name>Springer</publisher-name>; <year>2006</year>.</mixed-citation></ref>
+<ref id="pone.0161589.ref059"><label>59</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Kriegeskorte</surname> <given-names>N</given-names></name>, <name name-style="western"><surname>Goebel</surname> <given-names>R</given-names></name>, <name name-style="western"><surname>Bandettini</surname> <given-names>P</given-names></name>. <article-title>Information-based functional brain mapping</article-title>. <source>Proc Natl Acad Sci U S A</source>. <year>2006</year>;<volume>103</volume>(<issue>10</issue>):<fpage>3863</fpage>–<lpage>8</lpage>. <object-id pub-id-type="pmid">16537458</object-id>.</mixed-citation></ref>
+<ref id="pone.0161589.ref060"><label>60</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Kim</surname> <given-names>J</given-names></name>, <name name-style="western"><surname>Schultz</surname> <given-names>J</given-names></name>, <name name-style="western"><surname>Rohe</surname> <given-names>T</given-names></name>, <name name-style="western"><surname>Wallraven</surname> <given-names>C</given-names></name>, <name name-style="western"><surname>Lee</surname> <given-names>SW</given-names></name>, <name name-style="western"><surname>Bulthoff</surname> <given-names>HH</given-names></name>. <article-title>Abstract representations of associated emotions in the human brain</article-title>. <source>J Neurosci</source>. <year>2015</year>;<volume>35</volume>(<issue>14</issue>):<fpage>5655</fpage>–<lpage>63</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1523/JNEUROSCI.4059-14.2015" xlink:type="simple">10.1523/JNEUROSCI.4059-14.2015</ext-link></comment> <object-id pub-id-type="pmid">25855179</object-id>.</mixed-citation></ref>
+<ref id="pone.0161589.ref061"><label>61</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Stelzer</surname> <given-names>J</given-names></name>, <name name-style="western"><surname>Chen</surname> <given-names>Y</given-names></name>, <name name-style="western"><surname>Turner</surname> <given-names>R</given-names></name>. <article-title>Statistical inference and multiple testing correction in classification-based multi-voxel pattern analysis (MVPA): random permutations and cluster size control</article-title>. <source>Neuroimage</source>. <year>2013</year>;<volume>65</volume>:<fpage>69</fpage>–<lpage>82</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.neuroimage.2012.09.063" xlink:type="simple">10.1016/j.neuroimage.2012.09.063</ext-link></comment> <object-id pub-id-type="pmid">23041526</object-id>.</mixed-citation></ref>
+<ref id="pone.0161589.ref062"><label>62</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Etzel</surname> <given-names>JA</given-names></name>, <name name-style="western"><surname>Zacks</surname> <given-names>JM</given-names></name>, <name name-style="western"><surname>Braver</surname> <given-names>TS</given-names></name>. <article-title>Searchlight analysis: promise, pitfalls, and potential</article-title>. <source>NeuroImage</source>. <year>2013</year>;<volume>78</volume>:<fpage>261</fpage>–<lpage>9</lpage>. Epub 2013/04/06. S1053-8119(13)00291-7 [pii] <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.neuroimage.2013.03.041" xlink:type="simple">10.1016/j.neuroimage.2013.03.041</ext-link></comment> <object-id pub-id-type="pmid">23558106</object-id>.</mixed-citation></ref>
+<ref id="pone.0161589.ref063"><label>63</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Abdi</surname> <given-names>H</given-names></name>, <name name-style="western"><surname>Williams</surname> <given-names>LJ</given-names></name>, <name name-style="western"><surname>Valentin</surname> <given-names>D</given-names></name>, <name name-style="western"><surname>Bennani-Dosse</surname> <given-names>M</given-names></name>. <article-title>STATIS and DISTATIS: optimum multitable principal component analysis and three way metric multidimensional scaling</article-title>. <source>Wiley Interdisciplinary Reviews: Computational Statistics</source>. <year>2012</year>.</mixed-citation></ref>
+<ref id="pone.0161589.ref064"><label>64</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Shinkareva</surname> <given-names>SV</given-names></name>, <name name-style="western"><surname>Malave</surname> <given-names>VL</given-names></name>, <name name-style="western"><surname>Mason</surname> <given-names>RA</given-names></name>, <name name-style="western"><surname>Mitchell</surname> <given-names>TM</given-names></name>, <name name-style="western"><surname>Just</surname> <given-names>MA</given-names></name>. <article-title>Commonality of neural representations of words and pictures</article-title>. <source>Neuroimage</source>. <year>2011</year>;<volume>54</volume>:<fpage>2418</fpage>–<lpage>25</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.neuroimage.2010.10.042" xlink:type="simple">10.1016/j.neuroimage.2010.10.042</ext-link></comment> <object-id pub-id-type="pmid">20974270</object-id></mixed-citation></ref>
+<ref id="pone.0161589.ref065"><label>65</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Maddock</surname> <given-names>RJ</given-names></name>, <name name-style="western"><surname>Buonocore</surname> <given-names>MH</given-names></name>. <article-title>Activation of left posterior cingulate gyrus by the auditory presentation of threat-related words: an fMRI study</article-title>. <source>Psychiatry Res</source>. <year>1997</year>;<volume>75</volume>(<issue>1</issue>):<fpage>1</fpage>–<lpage>14</lpage>. <object-id pub-id-type="pmid">9287369</object-id>.</mixed-citation></ref>
+<ref id="pone.0161589.ref066"><label>66</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Maddock</surname> <given-names>RJ</given-names></name>, <name name-style="western"><surname>Garrett</surname> <given-names>AS</given-names></name>, <name name-style="western"><surname>Buonocore</surname> <given-names>MH</given-names></name>. <article-title>Posterior cingulate cortex activation by emotional words: fMRI evidence from a valence decision task</article-title>. <source>Hum Brain Mapp</source>. <year>2003</year>;<volume>18</volume>(<issue>1</issue>):<fpage>30</fpage>–<lpage>41</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1002/hbm.10075" xlink:type="simple">10.1002/hbm.10075</ext-link></comment> <object-id pub-id-type="pmid">12454910</object-id>.</mixed-citation></ref>
+<ref id="pone.0161589.ref067"><label>67</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Fossati</surname> <given-names>P</given-names></name>, <name name-style="western"><surname>Hevenor</surname> <given-names>SJ</given-names></name>, <name name-style="western"><surname>Graham</surname> <given-names>SJ</given-names></name>, <name name-style="western"><surname>Grady</surname> <given-names>C</given-names></name>, <name name-style="western"><surname>Keightley</surname> <given-names>ML</given-names></name>, <name name-style="western"><surname>Craik</surname> <given-names>F</given-names></name>, <etal>et al</etal>. <article-title>In search of the emotional self: an fMRI study using positive and negative emotional words</article-title>. <source>Am J Psychiatry</source>. <year>2003</year>;<volume>160</volume>(<issue>11</issue>):<fpage>1938</fpage>–<lpage>45</lpage>. Epub 2003/11/05. <object-id pub-id-type="pmid">14594739</object-id>.</mixed-citation></ref>
+<ref id="pone.0161589.ref068"><label>68</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Klasen</surname> <given-names>M</given-names></name>, <name name-style="western"><surname>Kenworthy</surname> <given-names>CA</given-names></name>, <name name-style="western"><surname>Mathiak</surname> <given-names>KA</given-names></name>, <name name-style="western"><surname>Kircher</surname> <given-names>T</given-names></name>, <name name-style="western"><surname>Mathiak</surname> <given-names>K</given-names></name>. <article-title>Supramodal representation of emotions</article-title>. <source>The Journal of Neuroscience</source>. <year>2011</year>;<volume>31</volume>(<issue>38</issue>):<fpage>13635</fpage>–<lpage>43</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1523/JNEUROSCI.2833-11.2011" xlink:type="simple">10.1523/JNEUROSCI.2833-11.2011</ext-link></comment> <object-id pub-id-type="pmid">21940454</object-id></mixed-citation></ref>
+<ref id="pone.0161589.ref069"><label>69</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Park</surname> <given-names>JY</given-names></name>, <name name-style="western"><surname>Gu</surname> <given-names>BM</given-names></name>, <name name-style="western"><surname>Kang</surname> <given-names>DH</given-names></name>, <name name-style="western"><surname>Shin</surname> <given-names>YW</given-names></name>, <name name-style="western"><surname>Choi</surname> <given-names>CH</given-names></name>, <name name-style="western"><surname>Lee</surname> <given-names>JM</given-names></name>, <etal>et al</etal>. <article-title>Integration of cross-modal emotional information in the human brain: an fMRI study</article-title>. <source>Cortex</source>. <year>2010</year>;<volume>46</volume>(<issue>2</issue>):<fpage>161</fpage>–<lpage>9</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.cortex.2008.06.008" xlink:type="simple">10.1016/j.cortex.2008.06.008</ext-link></comment> <object-id pub-id-type="pmid">18691703</object-id>.</mixed-citation></ref>
+<ref id="pone.0161589.ref070"><label>70</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Peelen</surname> <given-names>MV</given-names></name>, <name name-style="western"><surname>Atkinson</surname> <given-names>AP</given-names></name>, <name name-style="western"><surname>Vuilleumier</surname> <given-names>P</given-names></name>. <article-title>Supramodal Representations of Perceived Emotions in the Human Brain</article-title>. <source>The Journal of Neuroscience</source>. <year>2010</year>;<volume>30</volume>:<fpage>10127</fpage>–<lpage>34</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1523/JNEUROSCI.2161-10.2010" xlink:type="simple">10.1523/JNEUROSCI.2161-10.2010</ext-link></comment> <object-id pub-id-type="pmid">20668196</object-id></mixed-citation></ref>
+<ref id="pone.0161589.ref071"><label>71</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Pourtois</surname> <given-names>G</given-names></name>, <name name-style="western"><surname>de Gelder</surname> <given-names>B</given-names></name>, <name name-style="western"><surname>Vroomen</surname> <given-names>J</given-names></name>, <name name-style="western"><surname>Rossion</surname> <given-names>B</given-names></name>, <name name-style="western"><surname>Crommelinck</surname> <given-names>M</given-names></name>. <article-title>The time-course of intermodal binding between seeing and hearing affective information</article-title>. <source>Neuroreport</source>. <year>2000</year>;<volume>11</volume>(<issue>6</issue>):<fpage>1329</fpage>–<lpage>33</lpage>. <object-id pub-id-type="pmid">10817616</object-id>.</mixed-citation></ref>
+<ref id="pone.0161589.ref072"><label>72</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Robins</surname> <given-names>DL</given-names></name>, <name name-style="western"><surname>Hunyadi</surname> <given-names>E</given-names></name>, <name name-style="western"><surname>Schultz</surname> <given-names>RT</given-names></name>. <article-title>Superior temporal activation in response to dynamic audio-visual emotional cues</article-title>. <source>Brain Cogn</source>. <year>2009</year>;<volume>69</volume>(<issue>2</issue>):<fpage>269</fpage>–<lpage>78</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.bandc.2008.08.007" xlink:type="simple">10.1016/j.bandc.2008.08.007</ext-link></comment> <object-id pub-id-type="pmid">18809234</object-id>; PubMed Central PMCID: PMCPMC2677198.</mixed-citation></ref>
+<ref id="pone.0161589.ref073"><label>73</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Beauchamp</surname> <given-names>MS</given-names></name>, <name name-style="western"><surname>Lee</surname> <given-names>KE</given-names></name>, <name name-style="western"><surname>Argall</surname> <given-names>BD</given-names></name>, <name name-style="western"><surname>Martin</surname> <given-names>A</given-names></name>. <article-title>Integration of auditory and visual information about objects in superior temporal sulcus</article-title>. <source>Neuron</source>. <year>2004</year>;<volume>41</volume>(<issue>5</issue>):<fpage>809</fpage>–<lpage>23</lpage>. Epub 2004/03/09. S0896627304000704 [pii]. <object-id pub-id-type="pmid">15003179</object-id>.</mixed-citation></ref>
+<ref id="pone.0161589.ref074"><label>74</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Phan</surname> <given-names>KL</given-names></name>, <name name-style="western"><surname>Wager</surname> <given-names>T</given-names></name>, <name name-style="western"><surname>Taylor</surname> <given-names>SF</given-names></name>, <name name-style="western"><surname>Liberzon</surname> <given-names>I</given-names></name>. <article-title>Functional neuroanatomy of emotion: a meta-analysis of emotion activation studies in PET and fMRI</article-title>. <source>NeuroImage</source>. <year>2002</year>;<volume>16</volume>(<issue>2</issue>):<fpage>331</fpage>–<lpage>48</lpage>. <object-id pub-id-type="pmid">12030820</object-id></mixed-citation></ref>
+<ref id="pone.0161589.ref075"><label>75</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Sabatinelli</surname> <given-names>D</given-names></name>, <name name-style="western"><surname>Fortune</surname> <given-names>EE</given-names></name>, <name name-style="western"><surname>Li</surname> <given-names>Q</given-names></name>, <name name-style="western"><surname>Siddiqui</surname> <given-names>A</given-names></name>, <name name-style="western"><surname>Krafft</surname> <given-names>C</given-names></name>, <name name-style="western"><surname>Oliver</surname> <given-names>WT</given-names></name>, <etal>et al</etal>. <article-title>Emotional perception: meta-analyses of face and natural scene processing</article-title>. <source>NeuroImage</source>. <year>2011</year>;<volume>54</volume>(<issue>3</issue>):<fpage>2524</fpage>–<lpage>33</lpage>. Epub 2010/10/19. S1053-8119(10)01303-0 [pii] <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.neuroimage.2010.10.011" xlink:type="simple">10.1016/j.neuroimage.2010.10.011</ext-link></comment> <object-id pub-id-type="pmid">20951215</object-id>.</mixed-citation></ref>
+<ref id="pone.0161589.ref076"><label>76</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Lewis</surname> <given-names>PA</given-names></name>, <name name-style="western"><surname>Critchley</surname> <given-names>HD</given-names></name>, <name name-style="western"><surname>Rotshtein</surname> <given-names>P</given-names></name>, <name name-style="western"><surname>Dolan</surname> <given-names>RJ</given-names></name>. <article-title>Neural correlates of processing valence and arousal in affective words</article-title>. <source>Cerebral cortex</source>. <year>2007</year>;<volume>17</volume>:<fpage>742</fpage>–<lpage>8</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1093/cercor/bhk024" xlink:type="simple">10.1093/cercor/bhk024</ext-link></comment> <object-id pub-id-type="pmid">16699082</object-id></mixed-citation></ref>
+<ref id="pone.0161589.ref077"><label>77</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Anderson</surname> <given-names>AK</given-names></name>, <name name-style="western"><surname>Christoff</surname> <given-names>K</given-names></name>, <name name-style="western"><surname>Stappen</surname> <given-names>I</given-names></name>, <name name-style="western"><surname>Panitz</surname> <given-names>D</given-names></name>, <name name-style="western"><surname>Ghahremani</surname> <given-names>DG</given-names></name>, <name name-style="western"><surname>Glover</surname> <given-names>G</given-names></name>, <etal>et al</etal>. <article-title>Dissociated neural representations of intensity and valence in human olfaction</article-title>. <source>Nature Neuroscience</source>. <year>2003</year>;<volume>6</volume>(<issue>2</issue>):<fpage>196</fpage>–<lpage>202</lpage>. <object-id pub-id-type="pmid">12536208</object-id></mixed-citation></ref>
+<ref id="pone.0161589.ref078"><label>78</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Chikazoe</surname> <given-names>J</given-names></name>, <name name-style="western"><surname>Lee</surname> <given-names>DH</given-names></name>, <name name-style="western"><surname>Kriegeskorte</surname> <given-names>N</given-names></name>, <name name-style="western"><surname>Anderson</surname> <given-names>A</given-names></name>. <article-title>Population coding of affect across stimuli, modalities and individuals</article-title>. <source>Nature Neuroscience</source>. <year>2014</year>;<volume>17</volume>:<fpage>1114</fpage>–<lpage>22</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1038/nn.3749" xlink:type="simple">10.1038/nn.3749</ext-link></comment> <object-id pub-id-type="pmid">24952643</object-id></mixed-citation></ref>
+<ref id="pone.0161589.ref079"><label>79</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Lindquist</surname> <given-names>KA</given-names></name>, <name name-style="western"><surname>Satpute</surname> <given-names>AB</given-names></name>, <name name-style="western"><surname>Wager</surname> <given-names>TD</given-names></name>, <name name-style="western"><surname>Weber</surname> <given-names>J</given-names></name>, <name name-style="western"><surname>Barrett</surname> <given-names>LF</given-names></name>. <article-title>The Brain Basis of Positive and Negative Affect: Evidence from a Meta-Analysis of the Human Neuroimaging Literature</article-title>. <source>Cereb Cortex</source>. <year>2015</year>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1093/cercor/bhv001" xlink:type="simple">10.1093/cercor/bhv001</ext-link></comment> <object-id pub-id-type="pmid">25631056</object-id>.</mixed-citation></ref>
+<ref id="pone.0161589.ref080"><label>80</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Ethofer</surname> <given-names>T</given-names></name>, <name name-style="western"><surname>Van De Ville</surname> <given-names>D</given-names></name>, <name name-style="western"><surname>Scherer</surname> <given-names>K</given-names></name>, <name name-style="western"><surname>Vuilleumier</surname> <given-names>P</given-names></name>. <article-title>Decoding of emotional information in voice-sensitive cortices</article-title>. <source>Current Biology</source>. <year>2009</year>;<volume>19</volume>(<issue>12</issue>):<fpage>1028</fpage>–<lpage>33</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.cub.2009.04.054" xlink:type="simple">10.1016/j.cub.2009.04.054</ext-link></comment> <object-id pub-id-type="pmid">19446457</object-id></mixed-citation></ref>
+<ref id="pone.0161589.ref081"><label>81</label><mixed-citation publication-type="other" xlink:type="simple">Harry B, Williams MA, Davis C, Kim J. Emotional expressions evoke a differential response in the fusiform face area. 2013.</mixed-citation></ref>
+<ref id="pone.0161589.ref082"><label>82</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Lang</surname> <given-names>PJ</given-names></name>, <name name-style="western"><surname>Bradley</surname> <given-names>MM</given-names></name>, <name name-style="western"><surname>Fitzsimmons</surname> <given-names>JR</given-names></name>, <name name-style="western"><surname>Cuthbert</surname> <given-names>BN</given-names></name>, <name name-style="western"><surname>Scott</surname> <given-names>JD</given-names></name>, <name name-style="western"><surname>Moulder</surname> <given-names>B</given-names></name>, <etal>et al</etal>. <article-title>Emotional arousal and activation of the visual cortex: an fMRI analysis</article-title>. <source>Psychophysiology</source>. <year>1998</year>;<volume>35</volume>:<fpage>199</fpage>–<lpage>210</lpage>. <object-id pub-id-type="pmid">9529946</object-id></mixed-citation></ref>
+<ref id="pone.0161589.ref083"><label>83</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Mourao-Miranda</surname> <given-names>J</given-names></name>, <name name-style="western"><surname>Volchan</surname> <given-names>E</given-names></name>, <name name-style="western"><surname>Moll</surname> <given-names>J</given-names></name>, <name name-style="western"><surname>de Oliveira-Souza</surname> <given-names>R</given-names></name>, <name name-style="western"><surname>Oliveira</surname> <given-names>L</given-names></name>, <name name-style="western"><surname>Bramati</surname> <given-names>I</given-names></name>, <etal>et al</etal>. <article-title>Contributions of stimulus valence and arousal to visual activation during emotional perception</article-title>. <source>Neuroimage</source>. <year>2003</year>;<volume>20</volume>(<issue>4</issue>):<fpage>1955</fpage>–<lpage>63</lpage>. <object-id pub-id-type="pmid">14683701</object-id></mixed-citation></ref>
+<ref id="pone.0161589.ref084"><label>84</label><mixed-citation publication-type="other" xlink:type="simple">Lang PJ, Bradley MM, Cuthbert BN. International affective picture system (IAPS): Affective ratings of pictures and instruction manual. Gainesville, FL: University of Florida, 2008 Contract No.: A-8.</mixed-citation></ref>
+<ref id="pone.0161589.ref085"><label>85</label><mixed-citation publication-type="other" xlink:type="simple">Bradley M, Lang PJ. The International affective digitized sounds (IADS)[: stimuli, instruction manual and affective ratings: NIMH Center for the Study of Emotion and Attention; 1999.</mixed-citation></ref>
+<ref id="pone.0161589.ref086"><label>86</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Viinikainen</surname> <given-names>M</given-names></name>, <name name-style="western"><surname>Jääskeläinen</surname> <given-names>IP</given-names></name>, <name name-style="western"><surname>Alexandrov</surname> <given-names>Y</given-names></name>, <name name-style="western"><surname>Balk</surname> <given-names>MH</given-names></name>, <name name-style="western"><surname>Autti</surname> <given-names>T</given-names></name>, <name name-style="western"><surname>Sams</surname> <given-names>M</given-names></name>. <article-title>Nonlinear relationship between emotional valence and brain activity: evidence of separate negative and positive valence dimensions</article-title>. <source>Human brain mapping</source>. <year>2010</year>;<volume>31</volume>(<issue>7</issue>):<fpage>1030</fpage>–<lpage>40</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1002/hbm.20915" xlink:type="simple">10.1002/hbm.20915</ext-link></comment> <object-id pub-id-type="pmid">19957266</object-id></mixed-citation></ref>
+<ref id="pone.0161589.ref087"><label>87</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Viinikainen</surname> <given-names>M</given-names></name>, <name name-style="western"><surname>Kätsyri</surname> <given-names>J</given-names></name>, <name name-style="western"><surname>Sams</surname> <given-names>M</given-names></name>. <article-title>Representation of Perceived Sound Valence in the Human Brain</article-title>. <source>Human Brain Mapping</source>. <year>2012</year>;<volume>33</volume>:<fpage>2295</fpage>–<lpage>305</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1002/hbm.21362" xlink:type="simple">10.1002/hbm.21362</ext-link></comment> <object-id pub-id-type="pmid">21826759</object-id></mixed-citation></ref>
+</ref-list>
+</back>
+</article>

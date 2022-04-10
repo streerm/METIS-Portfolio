@@ -1,0 +1,728 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article" dtd-version="3.0" xml:lang="en">
+	<front>
+		<journal-meta>
+    <journal-id journal-id-type="nlm-ta">PLoS ONE</journal-id>
+    <journal-id journal-id-type="publisher-id">plos</journal-id>
+    <journal-id journal-id-type="pmc">plosone</journal-id>
+    <journal-title-group><journal-title>PLoS ONE</journal-title></journal-title-group>
+    <issn pub-type="epub">1932-6203</issn>
+    <publisher><publisher-name>Public Library of Science</publisher-name>
+    <publisher-loc>San Francisco, USA</publisher-loc></publisher>
+    </journal-meta><article-meta>
+			<article-id pub-id-type="publisher-id">PONE-D-13-18967</article-id><article-id pub-id-type="doi">10.1371/journal.pone.0085168</article-id><article-categories><subj-group subj-group-type="heading">
+    <subject>Research Article</subject></subj-group></article-categories><title-group>
+				<article-title>Complex Visual Search in Children and Adolescents: Effects of Age and Performance on fMRI Activation</article-title>
+			<alt-title alt-title-type="running-head">Visual Exploration: Effects of Age and Performance</alt-title>
+      </title-group>
+			<contrib-group>
+				<contrib xlink:type="simple" contrib-type="author">
+					<name name-style="western">
+						<surname>Lidzba</surname>
+						<given-names>Karen</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+					<xref ref-type="corresp" rid="cor1"><sup>*</sup></xref>
+				</contrib>
+				<contrib xlink:type="simple" contrib-type="author">
+					<name name-style="western">
+						<surname>Ebner</surname>
+						<given-names>Kathina</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				<contrib xlink:type="simple" contrib-type="author">
+					<name name-style="western">
+						<surname>Hauser</surname>
+						<given-names>Till-Karsten</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+				</contrib>
+				<contrib xlink:type="simple" contrib-type="author">
+					<name name-style="western">
+						<surname>Wilke</surname>
+						<given-names>Marko</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+			</contrib-group>
+			<aff id="aff1"><label>1</label> <addr-line>Pediatric Neurology and Developmental Medicine and Experimental Pediatric Neuroimaging, Children's Hospital University of Tübingen, Tübingen, Germany</addr-line></aff>
+			<aff id="aff2"><label>2</label> <addr-line>Diagnostic and Interventional Neuroradiology, Radiological Clinic, University of Tübingen, Tübingen, Germany</addr-line></aff>
+			<contrib-group><contrib contrib-type="editor" xlink:type="simple">
+          <name name-style="western">
+            <surname>Marinazzo</surname>
+            <given-names>Daniele</given-names>
+          </name>
+          <role>Editor</role>
+          <xref ref-type="aff" rid="edit1"/>
+        </contrib>
+        </contrib-group><aff id="edit1"><addr-line>Universiteit Gent, Belgium</addr-line></aff><author-notes>
+				<corresp id="cor1">* E-mail: <email xlink:type="simple">karen.lidzba@med.uni-tuebingen.de</email></corresp>
+			<fn fn-type="conflict"><p>co-author Marko Wilke is a PLOS ONE Editorial Board member, as is – as of May 2013 - also the author Karen Lidzba.
+These facts do not alter our adherence to any of the PLOS ONE policies on sharing data and materials.</p></fn><fn fn-type="con"><p>Conceived and designed the experiments: KL MW. Performed the experiments: KL KE MW. Analyzed the data: KL TH MW. Contributed reagents/materials/analysis tools: MW. Wrote the manuscript: KL KE TH MW. </p></fn></author-notes>
+			<pub-date pub-type="collection"><year>2013</year></pub-date><pub-date pub-type="epub">
+        <day>23</day>
+        <month>12</month>
+        <year>2013</year>
+      </pub-date>
+      <volume>8</volume><issue>12</issue><elocation-id>e85168</elocation-id><history><date date-type="received">
+          <day>8</day>
+          <month>5</month>
+          <year>2013</year>
+        </date>
+        <date date-type="accepted">
+          <day>24</day>
+          <month>11</month>
+          <year>2013</year>
+        </date>
+      </history><permissions>
+    <copyright-year>2013</copyright-year><copyright-holder>Lidzba et al</copyright-holder><license xlink:type="simple" xlink:href="http://creativecommons.org/licenses/by/4.0/"><license-p>This is an open-access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p></license>
+    </permissions><abstract>
+				<p>Complex visuospatial processing relies on distributed neural networks involving occipital, parietal and frontal brain regions. Effects of physiological maturation (during normal brain development) and proficiency on tasks requiring complex visuospatial processing have not yet been studied extensively, as they are almost invariably interrelated. We therefore aimed at dissociating the effects of age and performance on functional MRI (fMRI) activation in a complex visual search task. In our cross-sectional study, healthy children and adolescents (n = 43, 19 females, 7-17 years) performed a complex visual search task during fMRI. Resulting activation was analysed with regard to the differential effects of age and performance. Our results are compatible with an increase in the neural network's efficacy with age: within occipital and parietal cortex, the core regions of the visual exploration network, activation increased with age, and more so in the right than in the left hemisphere. Further, activation outside the visual search network decreased with age, mainly in left inferior frontal, middle temporal, and inferior parietal cortex. High-performers had stronger activation in right superior parietal cortex, suggesting a more mature visual search network. We could not see effects of age or performance in frontal cortex. Our results show that effects of physiological maturation and effects of performance, while usually intertwined, can be successfully disentangled and investigated using fMRI in children and adolescents. </p>
+			</abstract>
+		<funding-group><funding-statement>German Research Foundation: DFG WI3630/1-1 to Marko Wilke (<ext-link ext-link-type="uri" xlink:href="http://www.dfg.de" xlink:type="simple">www.dfg.de</ext-link>). European Social Fund and Ministry of Science and the Arts: Margarete-von-Wrangell Programme for Women to Karen Lidzba (<ext-link ext-link-type="uri" xlink:href="http://www.margarete-von-wrangell.de" xlink:type="simple">www.margarete-von-wrangell.de</ext-link>). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</funding-statement></funding-group></article-meta>
+	</front>
+	<body>
+		<sec id="s1" sec-type="introduction">
+			<title>Introduction</title>
+			<p>Visuospatial processing encompasses a multitude of functions with varying degrees of complexity, such as visual perception, visuospatial attention, object categorization, spatial transformation, occulomotor planning and execution, etc. [<xref ref-type="bibr" rid="B1">1</xref>]. Given the broad range of subfunctions which are involved when processing complex visuospatial information, it is not surprising that widely-distributed brain networks are employed to manage these processes. </p>
+			<sec id="s1.1">
+				<title>1.1: Visual Search and Visual Exploration</title>
+				<p>In the present experiment we studied complex visual search, i.e., the wilful exploration of a complex visual stimulus in search for changing targets. This task demands both basic and complex search processes. The successful manipulation of complex visuospatial information is primarily dependent on occipito-temporo-parietal structures, which are commonly accepted to constitute the ventral and dorsal pathways of visual processing [<xref ref-type="bibr" rid="B1">1</xref>,<xref ref-type="bibr" rid="B2">2</xref>]. </p>
+				<sec id="s1.1.1">
+					<title>1.1.1: Basic visual search</title>
+					<p>Classic visual search paradigms usually require the search for a predefined target in an array of distractors, where subjects perform overt or covert shifts of attention or gaze towards simple visual stimuli (e.g., <xref ref-type="bibr" rid="B3">3</xref>-<xref ref-type="bibr" rid="B7">7</xref>). When shifting either attention or gaze, the frontal eye fields (FEF), situated within the posterior superior frontal gyrus (SFG) [<xref ref-type="bibr" rid="B8">8</xref>] are invariably activated [<xref ref-type="bibr" rid="B9">9</xref>,<xref ref-type="bibr" rid="B10">10</xref>-<xref ref-type="bibr" rid="B12">12</xref>]. The top-down control of visuo-spatial attention [<xref ref-type="bibr" rid="B9">9</xref>,<xref ref-type="bibr" rid="B13">13</xref>-<xref ref-type="bibr" rid="B18">18</xref>] and the representation of spatial coordinates [<xref ref-type="bibr" rid="B19">19</xref>] on the other hand, have been associated with bilateral superior parietal lobule (SPL) and intraparietal sulcus (IPS) in fMRI studies using a number of basic visual search tasks. </p>
+				</sec>
+				<sec id="s1.1.2">
+					<title>1.1.2: Complex visual search</title>
+					<p>The conscious and planned shifting of attention focus is one of the functions most relevant for the more complex task of visual exploration [<xref ref-type="bibr" rid="B20">20</xref>,<xref ref-type="bibr" rid="B21">21</xref>]. Only few studies have examined visual search under natural conditions, i.e., the free exploration of a complex visual scenery. With such a paradigm, Himmelbach and colleagues [<xref ref-type="bibr" rid="B22">22</xref>] identified the posterior parietal cortex, IPS, FEF, the insula, the temporo-parietal junction, and STG/STS as areas involved in natural visual search. Complex visual search tasks may, in addition, involve prefrontal networks including superior frontal sulcus (SFS) or ventrolateral / dorsolateral prefrontal cortex. This involvement has been interpreted to reflect a visual working memory component [<xref ref-type="bibr" rid="B15">15</xref>,<xref ref-type="bibr" rid="B23">23</xref>-<xref ref-type="bibr" rid="B25">25</xref>]. </p>
+					<p>From lesion studies, it is well known that visual exploration relies on a predominantly right-hemispheric and densely interconnected perisylvian network (i.e., superior / middle temporal, inferior parietal, and ventrolateral prefrontal cortex of the right hemisphere, including the corresponding fibre-tracts). Disruptions of this network lead to the core symptoms of spatial neglect (i.e., contra-lesionally biased gaze orientation and visual exploration [<xref ref-type="bibr" rid="B26">26</xref>]). With the clear preponderance of right-hemispheric lesions leading to spatial neglect, it is somewhat puzzling that studies with healthy participants rarely find a strong lateralization of the above-mentioned functions. This may be related to task demand, since task complexity or increased processing demands were associated with a more bilateral activation pattern in complex visual search [<xref ref-type="bibr" rid="B27">27</xref>,<xref ref-type="bibr" rid="B28">28</xref>] and in mental rotation [<xref ref-type="bibr" rid="B29">29</xref>]. The Embedded Figures Task (EFT) can be considered another example of a more complex visual search task. Here, subjects are asked to search a complex figure for a simple geometric shape. The theoretical focus of the EFT lies on the assumption that local details have to be “disembedded” from the global gestalt of the stimulus [<xref ref-type="bibr" rid="B30">30</xref>]. Similarly to basic and complex visual search tasks [<xref ref-type="bibr" rid="B9">9</xref>,<xref ref-type="bibr" rid="B13">13</xref>-<xref ref-type="bibr" rid="B18">18</xref>], however, fMRI studies with the EFT highlight a bilateral parieto-occipital network comprising mainly SPL and precuneus [<xref ref-type="bibr" rid="B31">31</xref>]. </p>
+				</sec>
+			</sec>
+			<sec id="s1.2">
+				<title>1.2: Development of Visuospatial Functions</title>
+				<p>It is well known that - like most cognitive abilities - performance in visuospatial tasks improves during childhood and adolescence, i.e., as a function of normal brain maturation (e.g., visuospatial attention [<xref ref-type="bibr" rid="B32">32</xref>]; visuospatial analysis [<xref ref-type="bibr" rid="B33">33</xref>]; visuospatial memory [<xref ref-type="bibr" rid="B34">34</xref>]). However, the underlying neuronal mechanisms are not yet entirely clear. </p>
+				<sec id="s1.2.1">
+					<title>1.2.1: Developmental changes in task-related fMRI activation</title>
+					<p>In the last decade, an increasing number of fMRI studies have provided evidence for two trends: On the one hand, brain regions may become more functionally specialized with age (for reviews, see <xref ref-type="bibr" rid="B35">35</xref>,<xref ref-type="bibr" rid="B36">36</xref>). On the other hand, a “frontalization” of activation seems to reflect the ongoing maturation of the frontal cortex [<xref ref-type="bibr" rid="B37">37</xref>]. </p>
+					<p>Functional specialization can be inferred from an increase in focus and (in some cases) in lateralization in older as compared to younger children [<xref ref-type="bibr" rid="B35">35</xref>,<xref ref-type="bibr" rid="B36">36</xref>]. Such a shift from diffuse to focal activation with increasing age is thought to be caused by the combination of an activation increase in task-critical areas and a decrease of activation in areas less relevant for the task [<xref ref-type="bibr" rid="B35">35</xref>]. However, unspecific changes in vascular coupling or in data quality (e.g., movement artefacts) may have to be taken into account when interpreting age-related localization of fMRI activation [<xref ref-type="bibr" rid="B38">38</xref>]. </p>
+					<p>Apart from maturation of the relevant neural networks, the variation in activation patterns between children and adults may also be determined by the cognitive strategies employed [<xref ref-type="bibr" rid="B35">35</xref>]. For example, children often have more left-hemispheric activation than adults in fMRI tasks on mental rotation, which has been explained by more piecemeal-like vs. holistic strategies employed by the two groups [<xref ref-type="bibr" rid="B39">39</xref>]. In general, however, as children and adolescents mature, cognitive processing increasingly depends on top-down control: Inhibitory control increases and the underlying networks become more efficient and focussed. Thus, task-relevant regions increase in activation, while task-irrelevant regions demonstrate an activation decrease the older the individual gets [<xref ref-type="bibr" rid="B40">40</xref>,<xref ref-type="bibr" rid="B41">41</xref>]. In addition, the mostly prefrontally represented executive functions, responsible for efficacy and precision, become increasingly available. This can be suspected to be an important explanatory factor for age- and performance related differences in fMRI activation patterns observable during complex visuospatial tasks. </p>
+				</sec>
+				<sec id="s1.2.2">
+					<title>1.2.2: Effects of age and performance in visuospatial tasks</title>
+					<p>The fronto-striato-parieto-temporal network involved in the allocation of visuospatial attention matures progressively with age [<xref ref-type="bibr" rid="B42">42</xref>]. For complex visual search, increasing right-hemispheric lateralization with increasing age has been demonstrated by fMRI during late childhood and adolescence [<xref ref-type="bibr" rid="B28">28</xref>]. In the embedded figures test (EFT), the activation of typically developing adolescents did not differ from that of adults [<xref ref-type="bibr" rid="B43">43</xref>,<xref ref-type="bibr" rid="B44">44</xref>], but children demonstrated more left-hemispheric prefrontal activation. This was assumed to reflect verbal strategies and increased effort [<xref ref-type="bibr" rid="B45">45</xref>]. Data regarding visuospatial working memory is less clear. While in fMRI, an age-related shift from diffuse to focal activation within the core network has been observed [<xref ref-type="bibr" rid="B24">24</xref>,<xref ref-type="bibr" rid="B46">46</xref>-<xref ref-type="bibr" rid="B48">48</xref>], there were no age-related changes in a study using functional transcranial Doppler sonography [<xref ref-type="bibr" rid="B49">49</xref>]. Since performance gains are almost invariably related to normal development, it is both important and difficult to disentangle the two components in studies of age-effects on fMRI activation. The few studies making an attempt to meet this statistical challenge detected either no performance effects (e.g., <xref ref-type="bibr" rid="B50">50</xref>-<xref ref-type="bibr" rid="B53">53</xref>), or a performance-related activation-increase in task-related brain regions which was independent of age (e.g., <xref ref-type="bibr" rid="B42">42</xref>,<xref ref-type="bibr" rid="B54">54</xref>). </p>
+					<p>With this study, we planned to assess the effects of both physiological maturation and performance in healthy children and adolescents during a complex visual search task, i.e., during the wilful exploration of a complex visual stimulus in search of a changing target. Based on the literature outlined above, we expect (H1) an fMRI activation increase within and an activation decrease outside the core visual attention network (i.e., right SPL, IPS, and FEF) with increasing age, reflecting a focussing of activation; (H2) an age-independent increase of lateralization with increasing performance within the same regions; and (H3) an increase of fMRI activation with age and performance in prefrontal cortex. </p>
+				</sec>
+			</sec>
+		</sec>
+		<sec id="s2" sec-type="materials|methods">
+			<title>Materials and Methods</title>
+			<sec id="s2.1">
+				<title>2.1: Participants</title>
+				<p>Fourty-three neurologically healthy children and adolescents (24 male, 19 female; mean age 12 years; range 7 to 17 years; native German speakers) participated in this study. According to the Edinburgh Handedness Inventory [<xref ref-type="bibr" rid="B55">55</xref>], 38 subjects were right-handed, 4 were left-handed, and 1 ambidextrous. Exclusion criteria were common MR-contraindications, prematurity and pre-existing neurological or psychiatric disorders. Data of three subjects was excluded due to technical problems in the recording of performance data, and one further subject (11 year old boy) was excluded due to extremely low performance (hit rate more than 2 standard deviations below the mean). All included subjects completed the German adaptation of the Wechsler Intelligence Scale for Children (HAWIK-IV) to ensure a normal level of cognitive abilities (mean full scale IQ = 110.02, SD = 8.02). </p>
+				<sec id="s2.1.1">
+					<title>2.1.1: Ethics Statement</title>
+					<p>The study was approved by the ethics committee of the Medical Faculty of the University of Tübingen. All participants and their parents gave written informed consent. Subjects were compensated for their participation according to the time they spent on the study. </p>
+				</sec>
+			</sec>
+			<sec id="s2.2">
+				<title>2.2: Complex Visual Search Task</title>
+				<p>The task is described in detail in [<xref ref-type="bibr" rid="B56">56</xref>]. In summary, subjects were presented pairs of abstract images derived from the Rey complex Figure [<xref ref-type="bibr" rid="B57">57</xref>]. In the search condition, 50% of the pairs were identical, while in the other trials a detail was missing in one of the figures (<xref ref-type="fig" rid="pone-0085168-g001">Figure 1</xref>, left). In the control condition, both figures were identical in all cases, but in 50% one of the figures was rotated (<xref ref-type="fig" rid="pone-0085168-g001">Figure 1</xref>, right). Stimuli were presented for 6 seconds each. Six control blocks alternated with 5 search blocks (each containing 5 stimuli), leading to a total task duration of 5:30 min. The task was practiced outside the scanner, and subjects were reminded of the task instructions directly before the start of the scan by a short video. The beginning of each new block was indicated by the short presentation of a blank green screen. Participants were told to press a button whenever the two figures were not the same, i.e., when a detail was missing (search condition) <italic>or</italic> when the orientations were different (control condition). They were explicitly told that the search condition was more difficult than the control condition and that they were to keep searching until they either had found a target (i.e., a difference between the figures), or until the next stimulus was presented. We assumed that the search condition differentially engages visuospatial working memory (keeping the "correct" pattern online), top-down guided visual attention shifts (systematically searching the patterns), saccades (between the two versions and within the searched pattern), pattern recognition (comparing the details of the searched pattern), and inhibition (e.g., of already searched parts of the pattern). Hits and misses during target trials as well as mean reaction time for hits were recorded. For further analyses, we defined hit rate as measure of performance and applied a z‑transformation, leading to positive z‑scores for relatively higher hit rates and to negative z-scores for relatively lower hit rates. </p>
+				<fig id="pone-0085168-g001" position="float">
+					<object-id pub-id-type="doi">10.1371/journal.pone.0085168.g001</object-id><label>Figure 1</label>
+					<caption>
+						<title>Examples for search condition (left) and control condition (right) of the complex visual search task.</title></caption>
+					<graphic xlink:type="simple" position="float" xlink:href="info:doi/10.1371/journal.pone.0085168.g001"/>
+				</fig>
+			</sec>
+			<sec id="s2.3">
+				<title>2.3: Data acquisition and processing</title>
+				<p>Data was acquired on a 1.5-T whole body MR scanner (Avanto, Siemens Medizintechnik, Erlangen, Germany), using a 12-channel head coil. Care was taken to ensure comfortable placement of the participants, and a foam cushion was used to minimize head movement. Visual stimulus delivery was achieved by screen projection, using a custom-made MR compatible setup as used before [<xref ref-type="bibr" rid="B27">27</xref>]. A single MR-compatible pushbutton (Current Design Inc. Philadelphia, PA, USA) held in the left hand (by all subjects) was used for performance monitoring. For stimulus presentation and recording of button presses we used the <italic>Presentation</italic> software package (version 14.8, Neurobehavioral systems, Inc., Albany, CA). </p>
+				<p>A T2-weighted echo-planar imaging (EPI) sequence was used to acquire functional images with the following parameters: Repetition time (TR) = 3000 ms, Echo time (TE) = 40 ms, matrix = 64 x 64, 40 slices, no interslice gap, covering the whole brain with a voxel size = 3 x 3 x 3 mm. For each task, 110 volumes were acquired. Additionally, a gradient-echo B0 fieldmap was acquired with TR = 546 ms, TE = 5.19/9.95 ms, with the same slice prescription as the functional series. For preprocessing purposes, we also acquired a T1-weighted 3D-data set with TR = 1300ms, TE = 2.92 ms, yielding 176 contiguous slices with an in-plane matrix of 256 x 256, resulting in a voxel size of 1 x 1 x 1 mm. </p>
+				<p>Data was processed using SPM8 software (Wellcome Trust Centre for Neuroimaging, London, UK), running in Matlab (MathWorks, Natick, MA, USA). The first 10 scans of each functional series (corresponding to the first block of the control condition) were rejected to allow for the stabilization of longitudinal magnetization, leaving 100 scans per series (5 blocks each of the active and the control condition) to be analyzed. Functional images were realigned and unwarped using the individually-acquired B0 fieldmap, correcting for both EPI and motion*B0 distortions [<xref ref-type="bibr" rid="B58">58</xref>]. Functional series with translation exceeding one voxel size (3 mm) in any direction were discarded. The anatomical dataset was segmented using unified segmentation [<xref ref-type="bibr" rid="B59">59</xref>], based on custom-generated paediatric reference data [<xref ref-type="bibr" rid="B60">60</xref>]. Following coregistration of functional and anatomical data, these parameters were used to normalize the functional images. Global signal trends were removed [<xref ref-type="bibr" rid="B61">61</xref>] and functional images were smoothed with a 9 mm full width at half maximum (FWHM) Gaussian filter.</p>
+			</sec>
+			<sec id="s2.4">
+				<title>2.4: Statistical analyses</title>
+				<p>Functional MRI data was analysed on the first level in the framework of the General Linear Model (GLM) [<xref ref-type="bibr" rid="B62">62</xref>], contrasting the search condition with the control condition, including individual motion parameters as nuisance variables [<xref ref-type="bibr" rid="B63">63</xref>]. </p>
+				<p>To test our hypotheses, we took a hierarchical approach. First, we determined the global task-related network by assessing the main effect of a whole-brain one-sample t-test (second level analysis), treating hit rate and age as covariates of no interest. Gender did not demonstrate any effects on performance (see results), so this variable was left out of the analysis. Statistical significance was assumed at an FWE-corrected p &lt; .05 and an extent-threshold of k = 20. </p>
+				<p>The first two hypotheses (H1 and H2) were then addressed by exploring the effects of age and performance within and outside this global task-related network. To this effect, we created a region of interest (ROI) from the global activation cluster of the main effect (thresholded at FWE-corrected p&lt;.05; this ROI will be referred to as Global<sub>FWE</sub>). Global<sub>FWE</sub> was used once as an inclusive and once as an exclusive mask for Analyses of Covariance (ANCOVA), with age and performance as covariates of interest. Since age and hit rates were correlated (see results), we orthogonalized the covariates onto each other for these analyses. For the ROI analyses, significance was assumed at <italic>p</italic> &lt; .001 (uncorrected) and an extent cluster of k = 15. Lateralization was assessed using the LI-toolbox [<xref ref-type="bibr" rid="B64">64</xref>], based on mean individual activation levels within and outside Global<sub>FWE</sub>. In order to exclude a bias due to different search volumes in the two hemispheres, a symmetrical version of Global<sub>FWE</sub> was used, by combining the original ROI with its flipped version. To avoid the threshold dependency of simple lateralization indices, a bootstrapping approach was employed. This approach analyzes a multitude of bootstrapped resamples from the original dataset at different thresholds and determines a weighted mean LI [<xref ref-type="bibr" rid="B65">65</xref>]. Positive LIs represent predominantly left-hemispheric activation, negative LIs represent a right-hemispheric preponderance [<xref ref-type="bibr" rid="B64">64</xref>]. </p>
+				<p>In a third step, we explored the specific effects of age and performance within the frontal lobes (addressing H3). To this effect, we conducted an ANCOVA with age and performance (orthogonalized) as covariates of interest in an anatomically defined ROI (frontal cortex and insula plus prefrontal portions of cingulate and corpus callosum, according to the Hammersmith atlas [<xref ref-type="bibr" rid="B66">66</xref>]). Again, significance was assumed at <italic>p</italic> &lt; 0.001 (uncorrected) and an extent cluster of k = 15. </p>
+			</sec>
+		</sec>
+		<sec id="s3" sec-type="results">
+			<title>Results</title>
+			<sec id="s3.1">
+				<title>3.1: Behavioural Data</title>
+				<p>Hit rate (HR) of all participants was moderate during the search condition (mean 47% correct, SD = 15, range 25% - 83%), mean hit reaction time (RT) was 3133 ms (SD = 744). As expected, the control condition was much easier to solve (mean 93% correct, SD = 23, range 45% - 100%; mean hit RT: 1483 ms [SD = 753]). Age was correlated significantly with hit rate (<italic>r</italic>(36) = .434, <italic>p</italic> = .003), but not with RT (<italic>r</italic>(36) = .059, <italic>p</italic> = .361) in the search condition. Gender did not significantly influence performance in the search condition (RT: mean<sub>males</sub> = 3162 ms [SD = 821], mean<sub>females</sub> = 3095 ms [SD = 654], <italic>t</italic>(37) = -.276, <italic>p</italic> = .784; HR: mean<sub>males</sub> =  47.45% [SD = 15.70], mean<sub>females</sub> = 46.76% [SD = 13.56], <italic>t</italic>(37) = -.144, <italic>p</italic> = .886; two-sample <italic>t</italic>-tests). </p>
+			</sec>
+			<sec id="s3.2">
+				<title>3.2: Global effects</title>
+				<p>All functional time-series with complete performance data were kept for analysis as none of the subjects displayed motion exceeding 3 mm in any direction. </p>
+				<p>On the group level, the search vs. control contrast revealed significant bilateral activation which included occipital cortex as well as inferior temporal gyri and bilateral, but right lateralized superior parietal cortex. In addition, a large cluster in the right and a smaller cluster in the left premotor cortex (middle frontal gyrus and precentral gyrus) were significantly more active in the search than in the control condition (<xref ref-type="fig" rid="pone-0085168-g002">Figure 2</xref>). </p>
+				<fig id="pone-0085168-g002" position="float">
+					<object-id pub-id-type="doi">10.1371/journal.pone.0085168.g002</object-id><label>Figure 2</label>
+					<caption>
+						<title>fMRI group activation at p &lt; .05, FWE-corrected threshold for complex visual search vs. control and extent threshold k &gt; 20.</title>
+					</caption>
+					<graphic xlink:type="simple" position="float" xlink:href="info:doi/10.1371/journal.pone.0085168.g002"/>
+				</fig>
+			</sec>
+			<sec id="s3.3">
+				<title>3.3: Age effects</title><p>The ROI analysis revealed age effects within and outside Global<sub>FWE</sub> (<xref ref-type="fig" rid="pone-0085168-g003">Figure 3</xref>, <xref ref-type="table" rid="pone-0085168-t001">Table 1</xref>). Inside the ROI, age correlated positively with activation in both lateral occipital lobes and at trend-level in right superior parietal lobe. Outside the ROI, a marginal positive effect of age was detected in both occipital lobes, extending the clusters within Global<sub>FWE</sub>. Within Global<sub>FWE</sub>, no significant negative correlations with age were detected. However, outside the ROI, we detected a significant negative effect of age in left inferior parietal lobe, left middle temporal gyrus, and left inferior frontal gyrus.</p>
+				<fig id="pone-0085168-g003" position="float">
+					<object-id pub-id-type="doi">10.1371/journal.pone.0085168.g003</object-id><label>Figure 3</label>
+					<caption>
+						<title>Age-related activation increases within (red) and outside (blue) the global task-related network (Global<sub>FWE</sub>).</title><p>No age-related activation decreases were detected within Global<sub>FWE</sub>. Age-related activation decreases outside Global<sub>FWE</sub> are depicted in green. All clusters within ROIs at uncorrected p &lt; .001 and extent threshold k &gt; 15. </p>
+					</caption>
+					<graphic xlink:type="simple" position="float" xlink:href="info:doi/10.1371/journal.pone.0085168.g003"/>
+				</fig>
+				<table-wrap id="pone-0085168-t001" position="float">
+					<object-id pub-id-type="doi">10.1371/journal.pone.0085168.t001</object-id><label>Table 1</label>
+					<caption>
+						<title>Age-related fMRI activation.</title></caption>
+					<table cellpadding="1">
+						<colgroup span="1"><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/></colgroup>
+						<thead>
+							<tr>
+								<th rowspan="1" colspan="1"/>
+								<th colspan="4" rowspan="1">Inside Global<sub>FWE</sub><hr/></th>
+								<th colspan="4" rowspan="1">Outside Global<sub>FWE</sub><hr/></th>
+							</tr>
+							<tr>
+								<th rowspan="1" colspan="1"/>
+								<th colspan="2" rowspan="1">Peak level<hr/></th>
+								<th colspan="2" rowspan="1">Cluster level<hr/></th>
+								<th colspan="2" rowspan="1">Peak level<hr/></th>
+								<th colspan="2" rowspan="1">Cluster level<hr/></th>
+							</tr>
+							<tr>
+								<th rowspan="1" colspan="1"/>
+								<th rowspan="1" colspan="1">T</th>
+								<th rowspan="1" colspan="1">p<sub>uncorr</sub></th>
+								<th rowspan="1" colspan="1">k<sub>E</sub></th>
+								<th rowspan="1" colspan="1">p<sub>uncorr</sub></th>
+								<th rowspan="1" colspan="1">T</th>
+								<th rowspan="1" colspan="1">p<sub>uncorr</sub></th>
+								<th rowspan="1" colspan="1">k<sub>E</sub></th>
+								<th rowspan="1" colspan="1">p<sub>uncorr</sub></th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td rowspan="1" colspan="1"/>
+								<td colspan="8" rowspan="1"><bold>Positive</bold> effect of age</td>
+							</tr>
+							<tr>
+								<td rowspan="1" colspan="1">right lateral occipital cortex</td>
+								<td rowspan="1" colspan="1">4.93</td>
+								<td rowspan="1" colspan="1">&lt;.0001</td>
+								<td rowspan="1" colspan="1">105</td>
+								<td rowspan="1" colspan="1">.012</td>
+								<td rowspan="1" colspan="1">3.93</td>
+								<td rowspan="1" colspan="1">&lt;.0001</td>
+								<td rowspan="1" colspan="1">23</td>
+								<td rowspan="1" colspan="1">.194</td>
+							</tr>
+							<tr>
+								<td rowspan="1" colspan="1">left lateral occipital cortex</td>
+								<td rowspan="1" colspan="1">4.67</td>
+								<td rowspan="1" colspan="1">&lt;.0001</td>
+								<td rowspan="1" colspan="1">109</td>
+								<td rowspan="1" colspan="1">.004</td>
+								<td rowspan="1" colspan="1">4.50</td>
+								<td rowspan="1" colspan="1">&lt;.0001</td>
+								<td rowspan="1" colspan="1">26</td>
+								<td rowspan="1" colspan="1">.147</td>
+							</tr>
+							<tr>
+								<td rowspan="1" colspan="1">right superior parietal lobule</td>
+								<td rowspan="1" colspan="1">4.47</td>
+								<td rowspan="1" colspan="1">&lt;.0001</td>
+								<td rowspan="1" colspan="1">30</td>
+								<td rowspan="1" colspan="1">.110</td>
+								<td rowspan="1" colspan="1">-</td>
+								<td rowspan="1" colspan="1">-</td>
+								<td rowspan="1" colspan="1">-</td>
+								<td rowspan="1" colspan="1">-</td>
+							</tr>
+							<tr>
+								<td rowspan="1" colspan="1"/>
+								<td colspan="8" rowspan="1"><bold>Negative</bold> effect of age</td>
+							</tr>
+							<tr>
+								<td rowspan="1" colspan="1">left middle temporal gyrus</td>
+								<td rowspan="1" colspan="1">-</td>
+								<td rowspan="1" colspan="1">-</td>
+								<td rowspan="1" colspan="1">-</td>
+								<td rowspan="1" colspan="1">-</td>
+								<td rowspan="1" colspan="1">5.23</td>
+								<td rowspan="1" colspan="1">&lt;.0001</td>
+								<td rowspan="1" colspan="1">31</td>
+								<td rowspan="1" colspan="1">.019</td>
+							</tr>
+							<tr>
+								<td rowspan="1" colspan="1">left inferior parietal lobule</td>
+								<td rowspan="1" colspan="1">-</td>
+								<td rowspan="1" colspan="1">-</td>
+								<td rowspan="1" colspan="1">-</td>
+								<td rowspan="1" colspan="1">-</td>
+								<td rowspan="1" colspan="1">4.69</td>
+								<td rowspan="1" colspan="1">&lt;.0001</td>
+								<td rowspan="1" colspan="1">115</td>
+								<td rowspan="1" colspan="1">.012</td>
+							</tr>
+							<tr>
+								<td rowspan="1" colspan="1">left inferior frontal gyrus</td>
+								<td rowspan="1" colspan="1">-</td>
+								<td rowspan="1" colspan="1">-</td>
+								<td rowspan="1" colspan="1">-</td>
+								<td rowspan="1" colspan="1">-</td>
+								<td rowspan="1" colspan="1">4.64</td>
+								<td rowspan="1" colspan="1">&lt;.0001</td>
+								<td rowspan="1" colspan="1">29</td>
+								<td rowspan="1" colspan="1">.042</td>
+							</tr>
+						</tbody>
+					</table>
+					<table-wrap-foot>
+						<fn>
+							<p>Note: No exact MNI coordinates given due to the use of custom-made template during normalization process. k<sub>E</sub> = extent threshold. </p>
+						</fn>
+					</table-wrap-foot>
+				</table-wrap>
+				<p>Within the Global<sub>FWE</sub> ROI, individual LIs showed a tendency to correlate with age (<italic>r</italic> = -.217, <italic>p</italic> = .096). Outside the Global<sub>FWE</sub> ROI, no such correlation was detectable (<italic>r</italic> = -.140, <italic>p</italic> = .201). In the frontal ROI, no additional positive or negative effects of age were detected.  </p>
+			</sec>
+			<sec id="s3.4">
+				<title>3.4: Performance effects</title><p>Effects of hit rate were detected within and outside Global<sub>FWE</sub> (<xref ref-type="fig" rid="pone-0085168-g004">Figure 4</xref>, <xref ref-type="table" rid="pone-0085168-t002">Table 2</xref>). Inside the ROI, hit rate correlated positively with activation in right superior parietal lobe. Outside the ROI, hit rate correlated with activation in medial and inferior occipital cortex. Within Global<sub>FWE</sub>, hit rate did not correlate negatively with activation. Outside the ROI, however, a negative effect of hit rate was detected in left precentral gyrus and in the vicinity of left posterior corpus callosum/ posterior cingulate. Lateralization of activation was not correlated to hit rate, neither within (<italic>r</italic> = -.045, <italic>p</italic> = .394), nor outside the Global<sub>FWE</sub> ROI (<italic>r</italic> = -.020, <italic>p</italic> = .452). </p>
+				<fig id="pone-0085168-g004" position="float">
+					<object-id pub-id-type="doi">10.1371/journal.pone.0085168.g004</object-id><label>Figure 4</label>
+					<caption>
+						<title>Performance-related activation increases within (red) and decreases outside (green) the global task-related network (Global<sub>FWE</sub>) overlaid on sections (MNI coordinate of slice) of the custom group T1 template.</title><p>All clusters within ROIs at uncorrected p &lt; .001 and extent threshold k &gt; 15.</p>
+					</caption>
+					<graphic xlink:type="simple" position="float" xlink:href="info:doi/10.1371/journal.pone.0085168.g004"/>
+				</fig>
+				<table-wrap id="pone-0085168-t002" position="float">
+					<object-id pub-id-type="doi">10.1371/journal.pone.0085168.t002</object-id><label>Table 2</label>
+					<caption>
+						<title>Hit-rate-related fMRI activation.</title></caption>
+					<table cellpadding="1">
+						<colgroup span="1"><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/></colgroup>
+						<thead>
+							<tr>
+								<th rowspan="1" colspan="1"/>
+								<th colspan="4" rowspan="1">Inside Global<sub>FWE</sub><hr/></th>
+								<th colspan="4" rowspan="1">Outside Global<sub>FWE</sub><hr/></th>
+							</tr>
+							<tr>
+								<th rowspan="1" colspan="1"/>
+								<th colspan="2" rowspan="1">Peak level<hr/></th>
+								<th colspan="2" rowspan="1">Cluster level<hr/></th>
+								<th colspan="2" rowspan="1">Peak level<hr/></th>
+								<th colspan="2" rowspan="1">Cluster level<hr/></th>
+							</tr>
+							<tr>
+								<th rowspan="1" colspan="1"/>
+								<th rowspan="1" colspan="1">T</th>
+								<th rowspan="1" colspan="1">p<sub>uncorr</sub></th>
+								<th rowspan="1" colspan="1">k<sub>E</sub></th>
+								<th rowspan="1" colspan="1">p<sub>uncorr</sub></th>
+								<th rowspan="1" colspan="1">T</th>
+								<th rowspan="1" colspan="1">p<sub>uncorr</sub></th>
+								<th rowspan="1" colspan="1">k<sub>E</sub></th>
+								<th rowspan="1" colspan="1">p<sub>uncorr</sub></th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td rowspan="1" colspan="1"/>
+								<td colspan="8" rowspan="1"><bold>Positive</bold> effect of hit rate</td>
+							</tr>
+							<tr>
+								<td rowspan="1" colspan="1">medial occipital cortex </td>
+								<td rowspan="1" colspan="1">-</td>
+								<td rowspan="1" colspan="1">-</td>
+								<td rowspan="1" colspan="1">-</td>
+								<td rowspan="1" colspan="1">-</td>
+								<td rowspan="1" colspan="1">4.76</td>
+								<td rowspan="1" colspan="1">&lt;.0001</td>
+								<td rowspan="1" colspan="1">100</td>
+								<td rowspan="1" colspan="1">.021</td>
+							</tr>
+							<tr>
+								<td rowspan="1" colspan="1">inferior occipital cortex</td>
+								<td rowspan="1" colspan="1">-</td>
+								<td rowspan="1" colspan="1">-</td>
+								<td rowspan="1" colspan="1">-</td>
+								<td rowspan="1" colspan="1">-</td>
+								<td rowspan="1" colspan="1">4.05</td>
+								<td rowspan="1" colspan="1">&lt;.0001</td>
+								<td rowspan="1" colspan="1">47</td>
+								<td rowspan="1" colspan="1">.033</td>
+							</tr>
+							<tr>
+								<td rowspan="1" colspan="1">right superior parietal lobule</td>
+								<td rowspan="1" colspan="1">3.87</td>
+								<td rowspan="1" colspan="1">&lt;.0001</td>
+								<td rowspan="1" colspan="1">19</td>
+								<td rowspan="1" colspan="1">.252</td>
+								<td rowspan="1" colspan="1">-</td>
+								<td rowspan="1" colspan="1">-</td>
+								<td rowspan="1" colspan="1">-</td>
+								<td rowspan="1" colspan="1">-</td>
+							</tr>
+							<tr>
+								<td rowspan="1" colspan="1"/>
+								<td colspan="8" rowspan="1"><bold>Negative</bold> effect of hit rate</td>
+							</tr>
+							<tr>
+								<td rowspan="1" colspan="1">left precentral gyrus</td>
+								<td rowspan="1" colspan="1">-</td>
+								<td rowspan="1" colspan="1">-</td>
+								<td rowspan="1" colspan="1">-</td>
+								<td rowspan="1" colspan="1">-</td>
+								<td rowspan="1" colspan="1">4.44</td>
+								<td rowspan="1" colspan="1">&lt;.0001</td>
+								<td rowspan="1" colspan="1">21</td>
+								<td rowspan="1" colspan="1">.090</td>
+							</tr>
+							<tr>
+								<td rowspan="1" colspan="1">posterior corpus callosum</td>
+								<td rowspan="1" colspan="1">-</td>
+								<td rowspan="1" colspan="1">-</td>
+								<td rowspan="1" colspan="1">-</td>
+								<td rowspan="1" colspan="1">-</td>
+								<td rowspan="1" colspan="1">4.17</td>
+								<td rowspan="1" colspan="1">&lt;.0001</td>
+								<td rowspan="1" colspan="1">24</td>
+								<td rowspan="1" colspan="1">.133</td>
+							</tr>
+						</tbody>
+					</table>
+					<table-wrap-foot>
+						<fn>
+							<p>Note: No exact MNI coordinates given due to the use of custom-made template during normalization process. k<sub>E</sub> = extent threshold. </p>
+						</fn>
+					</table-wrap-foot>
+				</table-wrap>
+				<p>In the frontal ROI, no additional positive or negative effects of performance were detected.  </p>
+			</sec>
+		</sec>
+		<sec id="s4" sec-type="discussion">
+			<title>Discussion</title>
+			<p>Studying the effects of age and performance on fMRI activation during a complex visual search task, our main finding was an increase of activation with age in bilateral occipital cortex and right superior parietal lobule. Thus, the older were our study participants, the stronger was their BOLD response during the visual search task within core regions of the network for complex visual search. In addition, activation decreased with age in a left-hemispheric network of inferior frontal, middle temporal, and superior parietal cortex. Thus, the younger our participants, the more did they recruit left-hemispheric brain regions outside the core network for complex visual search. This corroborates our hypothesis (H1). Hypothesis (H2), which predicted a performance-related increase of lateralization within the same regions, received only little support: Age and performance were correlated only in the right superior parietal lobule in the ROI analyses. However, the correlations of lateralization index with age or performance within the whole network did not reach significance. Hypothesis (H3) could not be corroborated, since we did not find effects of age or performance within the prefrontal cortex. </p>
+			<sec id="s4.1">
+				<title>4.1: fMRI activation during complex visual search</title>
+				<p>The comparison of a complex visual search task with a very simple pattern-matching task highlights a broad network of predominantly posterior brain regions. Considering the various processes involved in performing complex visual search, involvement of a range of brain regions was expected. The overall group activation pattern included large portions of both the superior and the inferior parietal lobe. This is well in line with the task requirements: First of all, subjects needed to shift their visual attention (ideally systematically) from focus to focus in the images, and thus should engage their superior parietal lobe, intraparietal sulcus, frontal eye fields [<xref ref-type="bibr" rid="B67">67</xref>], and the medial superior frontal sulcus [<xref ref-type="bibr" rid="B68">68</xref>]. These processes needed for complex visual search are also necessary to solve the embedded figures task (EFT). The EFT has been associated with left-lateralized activation in inferior and superior parietal lobules and ventral premotor cortex in fMRI experiments [<xref ref-type="bibr" rid="B44">44</xref>]. In our study, the activation pattern is bilateral and slightly right-lateralized. Since the widely-reported hemispheric dissociation for local vs. global visual processing (e.g., <xref ref-type="bibr" rid="B69">69</xref>) seems to be on the one hand subtle in nature and on the other hand strongly dependent on the experimental conditions [<xref ref-type="bibr" rid="B70">70</xref>], this is not surprising. In natural life conditions, attention shifts are usually entailing saccades. To keep the task as simple as possible, we allowed eye movements and thus expect saccades in our subjects, which are mediated predominantly by the frontal eye fields [<xref ref-type="bibr" rid="B8">8</xref>]. While the activation we see in the middle frontal gyrus may seem too far lateral to reflect FEF activity, it still seems well compatible with Paus' regional range of +/- 11 mm in left-right, +/‑ 5 mm in anterior-posterior, and +/- 5 mm in inferior-superior direction [<xref ref-type="bibr" rid="B8">8</xref>]. </p>
+			</sec>
+			<sec id="s4.2">
+				<title>4.2: Age effects</title>
+				<p>The analysis of the effects of age on activation in the main visual search network reveals an age-related increase of activation in occipital and superior parietal cortices. At the same time, activation outside the main visual search network, namely in left inferior parietal cortex, left middle temporal cortex and left inferior frontal cortex decreases with age. Our assumption that frontal regions “join task execution” successively during adolescence was not corroborated, since we did not find any age effects in the prefrontal ROI. Thus, our data did not provide evidence for the frontalization-with-age hypothesis as seen in other tasks which rely more heavily on executive functions [<xref ref-type="bibr" rid="B37">37</xref>]. The reverse effects of age on activation within and outside the network for complex visual search, however, indicate that older subjects more exclusively recruit its core components while younger children involved additional brain regions to solve the task. We propose that the younger children used verbal strategies (as likely reflected by left inferior frontal cortex activation), which is in line with previous findings for the EFT [<xref ref-type="bibr" rid="B45">45</xref>]. The left inferior parietal cortex activation in younger vs. older subjects is similar to the effect observed in mental rotation tasks [<xref ref-type="bibr" rid="B39">39</xref>]. In these tasks, children are assumed to employ piecemeal-like vs. holistic processing strategies to solve the task [<xref ref-type="bibr" rid="B39">39</xref>]. Given the complexity of the search task we used, the same could apply for our paradigm. While the lateralization indices do not correlate significantly with age in the ROIs explored, an effect of age is observed only in the right superior parietal lobule. This observation would again be in line with a growing efficacy of brain networks with age [<xref ref-type="bibr" rid="B35">35</xref>], in our case the predominantly right-hemispheric posterior visual processing network.</p>
+				<p>Two alternative explanations for the result of a more wide-spread activation in the younger children could be that 1) the normalization process was more accurate for older children, and 2) younger children displayed more motion than older children. However, both explanations seem very unlikely given 1) our use of a custom-made age-adjusted template [60], and 2) the introduction of specific movement parameters into the individual single-subject statistics on the first level [<xref ref-type="bibr" rid="B63">63</xref>]." </p>
+			</sec>
+			<sec id="s4.3">
+				<title>4.3: Performance effects</title>
+				<p>As children and adolescents grow older, they get more proficient in many complex visual processing tasks. Thus, it is difficult to disentangle the effect of performance on brain activation from the effect of age. Including age as covariate into the analyses regarding performance and vice versa is an attempt to take this problem into consideration. While not a perfect solution and likely being too conservative due to removing shared variance from either analysis, it seems a defensible approach. Within the visual search network, performance impacts activation in the right superior parietal lobule – the same region that shows an increased activation with increasing age. Thus, one could assume that better performance is correlated with a more mature network in complex visual search. On the other hand, we found that subjects with low hit rates engaged more regions outside the visual exploration network, such as left precentral gyrus and in the vicinity of the posterior cingulate. It is difficult to interpret this activation pattern. The most probable explanation here is one of response inhibition which could be reflected in an increased contralateral motor-activation (since the subjects responded with their left hands) and error detection. Given the effects of normalization and smoothing, the exact localization of group activation peaks is difficult to accomplish [<xref ref-type="bibr" rid="B71">71</xref>]. Based on the literature, we tentatively propose that our posterior activation cluster could reflect posterior cingulate cortex activation which has been correlated with unsuccessful trials in cognitive control tasks [<xref ref-type="bibr" rid="B72">72</xref>].</p>
+				<p>One reason for the very small effects of performance on the activation pattern might be the way of performance operationalization. It should be mentioned that “successful target trial” was defined as a button press in response to a target trial. Since all trials were presented for a fixed duration of six seconds, misses were composed of those trials where no target was detected within this specified time (but could have been detected during a longer time interval). Of note, a low hit rate in this context is not equivalent to guessing or lack of attention, but to lack of target detection during the time provided. The very high hit rate during the control condition indicates a good overall task adherence, so that it can be assumed that subjects have principally attended to the tasks [<xref ref-type="bibr" rid="B27">27</xref>]. Hit rate is therefore a mixture of rapidity and quality of visual exploration and thus probably not the most sensitive measure. In a self-paced design, these two components could have been disentangled, which might allow for a more comprehensive description of performance effects. Also, the inclusion of subjects with a wider range of cognitive abilities might have allowed us to detect these regions with a higher level of statistical reliability.</p>
+			</sec>
+		</sec>
+		<sec id="s5" sec-type="conclusions">
+			<title>Conclusion</title>
+			<p>In a complex visual search task we found evidence for an age-related shift from diffuse to focal activation of a predominantly right-hemispheric visuospatial occipito-parietal network. This means that younger age was associated with a more widespread and more bilateral activation pattern, probably reflecting alternative, presumably verbal and/or piecemeal-like vs. holistic strategies for task performance. Better performance correlated with increased activation of right superior parietal lobule, thus presumably reflecting a more mature network in high-performers. No specific effects of age or performance were detected in prefrontal cortex. We believe our results are encouraging with respect to the feasibility to disentangle age and performance during physiological maturation, using fMRI. </p>
+		</sec>
+	</body>
+	<back>
+		<ref-list>
+			<title>References</title>
+			<ref id="B1">
+				<label>1</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Kravitz</surname><given-names>DJ</given-names></name>, <name name-style="western"><surname>Saleem</surname><given-names>KS</given-names></name>, <name name-style="western"><surname>Baker</surname><given-names>CI</given-names></name>, <name name-style="western"><surname>Mishkin</surname><given-names>M</given-names></name> (<year>2011</year>) <article-title>A new neural framework for visuospatial processing</article-title>. <source>Nat Rev Neurosci</source> <volume>12</volume>: <fpage>217</fpage>-<lpage>230</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1038/nrn3008" xlink:type="simple">10.1038/nrn3008</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/21415848" xlink:type="simple">21415848</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B2">
+				<label>2</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Mishkin</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Ungerleider</surname><given-names>LG</given-names></name> (<year>1982</year>) <article-title>Contribution of striate inputs to the visuospatial functions of parieto-preoccipital cortex in monkeys</article-title>. <source>Behav Brain Res</source> <volume>6</volume>: <fpage>57</fpage>-<lpage>77</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/0166-4328(82)90081-X" xlink:type="simple">10.1016/0166-4328(82)90081-X</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/7126325" xlink:type="simple">7126325</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B3">
+				<label>3</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Hayakawa</surname><given-names>T</given-names></name>, <name name-style="western"><surname>Fujimaki</surname><given-names>N</given-names></name>, <name name-style="western"><surname>Imaruoka</surname><given-names>T</given-names></name> (<year>2006</year>) <article-title>Temporal characteristics of neural activity related to target detection during visual search</article-title>. <source>NeuroImage</source> <volume>33</volume>: <fpage>296</fpage>-<lpage>306</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.neuroimage.2006.06.034" xlink:type="simple">10.1016/j.neuroimage.2006.06.034</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/16919970" xlink:type="simple">16919970</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B4">
+				<label>4</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Shipp</surname><given-names>S</given-names></name> (<year>2011</year>) <article-title>Interhemispheric integration in visual search</article-title>. <source>Neuropsychologia</source> <volume>49</volume>: <fpage>2630</fpage>-<lpage>2647</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.neuropsychologia.2011.05.011" xlink:type="simple">10.1016/j.neuropsychologia.2011.05.011</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/21640738" xlink:type="simple">21640738</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B5">
+				<label>5</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Nobre</surname><given-names>AC</given-names></name>, <name name-style="western"><surname>Coull</surname><given-names>JT</given-names></name>, <name name-style="western"><surname>Walsh</surname><given-names>V</given-names></name>, <name name-style="western"><surname>Frith</surname><given-names>CD</given-names></name> (<year>2003</year>) <article-title>Brain Activations during Visual Search: Contributions of Search Efficiency versus Feature Binding</article-title>. <source>NeuroImage</source> <volume>18</volume>: <fpage>91</fpage>-<lpage>103</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1006/nimg.2002.1329" xlink:type="simple">10.1006/nimg.2002.1329</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/12507447" xlink:type="simple">12507447</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B6">
+				<label>6</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Muggleton</surname><given-names>NG</given-names></name>, <name name-style="western"><surname>Juan</surname><given-names>C-H</given-names></name>, <name name-style="western"><surname>Cowey</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Walsh</surname><given-names>V</given-names></name> (<year>2003</year>) <article-title>Human Frontal Eye Fields and Visual</article-title>. <source>Search - Journal of Neurophysiology</source> <volume>89</volume>: <fpage>3340</fpage>-<lpage>3343</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1152/jn.01086.2002" xlink:type="simple">10.1152/jn.01086.2002</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B7">
+				<label>7</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Leonards</surname><given-names>U</given-names></name>, <name name-style="western"><surname>Sunaert</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Van Hecke</surname><given-names>P</given-names></name>, <name name-style="western"><surname>Orban</surname><given-names>GA</given-names></name> (<year>2000</year>) <article-title>Attention Mechanisms in Visual Search—An fMRI Study</article-title>. <source>J Cogn Neurosci</source> <volume>12</volume>: <fpage>61</fpage>-<lpage>75</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1162/089892900564073" xlink:type="simple">10.1162/089892900564073</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/11506648" xlink:type="simple">11506648</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B8">
+				<label>8</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Paus</surname><given-names>T</given-names></name> (<year>1996</year>) <article-title>Location and function of the human frontal eye-field: A selective review</article-title>. <source>Neuropsychologia</source> <volume>34</volume>: <fpage>475</fpage>-<lpage>483</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/0028-3932(95)00134-4" xlink:type="simple">10.1016/0028-3932(95)00134-4</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/8736560" xlink:type="simple">8736560</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B9">
+				<label>9</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Corbetta</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Miezin</surname><given-names>FM</given-names></name>, <name name-style="western"><surname>Shulman</surname><given-names>GL</given-names></name>, <name name-style="western"><surname>Petersen</surname><given-names>SE</given-names></name> (<year>1993</year>) <article-title>A PET study of visuospatial attention</article-title>. <source>Journal of Neuroscience</source> <volume>13</volume>: <fpage>1202</fpage>-<lpage>1226</lpage>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/8441008" xlink:type="simple">8441008</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B10">
+				<label>10</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Corbetta</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Akbudak</surname><given-names>E</given-names></name>, <name name-style="western"><surname>Conturo</surname><given-names>TE</given-names></name>, <name name-style="western"><surname>Snyder</surname><given-names>AZ</given-names></name>, <name name-style="western"><surname>Ollinger</surname><given-names>JM</given-names></name> <etal>et al.</etal> (<year>1998</year>) <article-title>A Common Network of Functional Areas for Attention and Eye Movements</article-title>. <source>Neuron</source> <volume>21</volume>: <fpage>761</fpage>-<lpage>773</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/S0896-6273(00)80593-0" xlink:type="simple">10.1016/S0896-6273(00)80593-0</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/9808463" xlink:type="simple">9808463</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B11">
+				<label>11</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Grosbras</surname><given-names>M-H</given-names></name>, <name name-style="western"><surname>Laird</surname><given-names>AR</given-names></name>, <name name-style="western"><surname>Paus</surname><given-names>T</given-names></name> (<year>2005</year>) <article-title>Cortical regions involved in eye movements, shifts of attention, and gaze perception</article-title>. <source>Hum Brain Mapp</source> <volume>25</volume>: <fpage>140</fpage>-<lpage>154</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1002/hbm.20145" xlink:type="simple">10.1002/hbm.20145</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/15846814" xlink:type="simple">15846814</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B12">
+				<label>12</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Muggleton</surname><given-names>NG</given-names></name>, <name name-style="western"><surname>Juan</surname><given-names>C-H</given-names></name>, <name name-style="western"><surname>Cowey</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Walsh</surname><given-names>V</given-names></name> (<year>2003</year>) <article-title>Human Frontal Eye Fields and Visual</article-title>. <source>Search - Journal of Neurophysiology</source> <volume>89</volume>: <fpage>3340</fpage>-<lpage>3343</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1152/jn.01086.2002" xlink:type="simple">10.1152/jn.01086.2002</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B13">
+				<label>13</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Coull</surname><given-names>JT</given-names></name>, <name name-style="western"><surname>Frith</surname><given-names>CD</given-names></name> (<year>1998</year>) <article-title>Differential Activation of Right Superior Parietal Cortex and Intraparietal Sulcus by Spatial and Nonspatial Attention</article-title>. <source>NeuroImage</source> <volume>8</volume>: <fpage>176</fpage>-<lpage>187</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1006/nimg.1998.0354" xlink:type="simple">10.1006/nimg.1998.0354</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/9740760" xlink:type="simple">9740760</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B14">
+				<label>14</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Culham</surname><given-names>JC</given-names></name>, <name name-style="western"><surname>Kanwisher</surname><given-names>NG</given-names></name> (<year>2001</year>) <article-title>Neuroimaging of cognitive functions in human parietal cortex</article-title>. <source>Curr Opin Neurobiol</source> <volume>11</volume>: <fpage>157</fpage>-<lpage>163</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/S0959-4388(00)00191-4" xlink:type="simple">10.1016/S0959-4388(00)00191-4</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/11301234" xlink:type="simple">11301234</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B15">
+				<label>15</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Leonards</surname><given-names>U</given-names></name>, <name name-style="western"><surname>Sunaert</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Van Hecke</surname><given-names>P</given-names></name>, <name name-style="western"><surname>Orban</surname><given-names>GA</given-names></name> (<year>2000</year>) <article-title>Attention Mechanisms in Visual Search—An fMRI Study</article-title>. <source>J Cogn Neurosci</source> <volume>12</volume>: <fpage>61</fpage>-<lpage>75</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1162/089892900564073" xlink:type="simple">10.1162/089892900564073</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/11506648" xlink:type="simple">11506648</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B16">
+				<label>16</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Nobre</surname><given-names>AC</given-names></name>, <name name-style="western"><surname>Coull</surname><given-names>JT</given-names></name>, <name name-style="western"><surname>Walsh</surname><given-names>V</given-names></name>, <name name-style="western"><surname>Frith</surname><given-names>CD</given-names></name> (<year>2003</year>) <article-title>Brain Activations during Visual Search: Contributions of Search Efficiency versus Feature Binding</article-title>. <source>NeuroImage</source> <volume>18</volume>: <fpage>91</fpage>-<lpage>103</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1006/nimg.2002.1329" xlink:type="simple">10.1006/nimg.2002.1329</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/12507447" xlink:type="simple">12507447</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B17">
+				<label>17</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Petersen</surname><given-names>SE</given-names></name>, <name name-style="western"><surname>Corbetta</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Miezin</surname><given-names>FM</given-names></name>, <name name-style="western"><surname>Shulman</surname><given-names>GL</given-names></name> (<year>1994</year>) <article-title>PET studies of parietal involvement in spatial attention: Comparison of different task types</article-title>. <source>Canadian Journal of Experimental Psychology</source><comment>/Revue canadienne de psychologie expérimentale 48: 319-338</comment></mixed-citation>
+			</ref>
+			<ref id="B18">
+				<label>18</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Wojciulik</surname><given-names>E</given-names></name>, <name name-style="western"><surname>Kanwisher</surname><given-names>N</given-names></name> (<year>1999</year>) <article-title>The Generality of Parietal Involvement in Visual Attention</article-title>. <source>Neuron</source> <volume>23</volume>: <fpage>747</fpage>-<lpage>764</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/S0896-6273(01)80033-7" xlink:type="simple">10.1016/S0896-6273(01)80033-7</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/10482241" xlink:type="simple">10482241</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B19">
+				<label>19</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Silk</surname><given-names>TJ</given-names></name>, <name name-style="western"><surname>Bellgrove</surname><given-names>MA</given-names></name>, <name name-style="western"><surname>Wrafter</surname><given-names>P</given-names></name>, <name name-style="western"><surname>Mattingley</surname><given-names>JB</given-names></name>, <name name-style="western"><surname>Cunnington</surname><given-names>R</given-names></name> (<year>2010</year>) <article-title>Spatial working memory and spatial attention rely on common neural processes in the intraparietal sulcus</article-title>. <source>NeuroImage</source> <volume>53</volume>: <fpage>718</fpage>-<lpage>724</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.neuroimage.2010.06.068" xlink:type="simple">10.1016/j.neuroimage.2010.06.068</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/20615473" xlink:type="simple">20615473</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B20">
+				<label>20</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Posner</surname><given-names>MI</given-names></name>, <name name-style="western"><surname>Walker</surname><given-names>JA</given-names></name>, <name name-style="western"><surname>Friedrich</surname><given-names>FJ</given-names></name>, <name name-style="western"><surname>Rafal</surname><given-names>RD</given-names></name> (<year>1984</year>) <article-title>Effects of parietal injury on covert orienting of attention</article-title>. <source>Journal of Neuroscience</source> <volume>4</volume>: <fpage>1863</fpage>-<lpage>1874</lpage>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/6737043" xlink:type="simple">6737043</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B21">
+				<label>21</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Wolfe</surname><given-names>JM</given-names></name>, <name name-style="western"><surname>Cave</surname><given-names>KR</given-names></name>, <name name-style="western"><surname>Franzel</surname><given-names>SL</given-names></name> (<year>1989</year>) <article-title>Guided search: An alternative to the feature integration model for visual search</article-title>. <source>J Exp Psychol Hum Percept Perform</source> <volume>15</volume>: <fpage>419</fpage>-<lpage>433</lpage>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/2527952" xlink:type="simple">2527952</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B22">
+				<label>22</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Himmelbach</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Erb</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Karnath</surname><given-names>H-O</given-names></name> (<year>2006</year>) <article-title>Exploring the visual world: The neural substrate of spatial orienting</article-title>. <source>NeuroImage</source> <volume>32</volume>: <fpage>1747</fpage>-<lpage>1759</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.neuroimage.2006.04.221" xlink:type="simple">10.1016/j.neuroimage.2006.04.221</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/16806986" xlink:type="simple">16806986</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B23">
+				<label>23</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Anderson</surname><given-names>EJ</given-names></name>, <name name-style="western"><surname>Mannan</surname><given-names>SK</given-names></name>, <name name-style="western"><surname>Husain</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Rees</surname><given-names>G</given-names></name>, <name name-style="western"><surname>Sumner</surname><given-names>P</given-names></name> <etal>et al.</etal> (<year>2007</year>) <article-title>Involvement of prefrontal cortex in visual search</article-title>. <source>Experimental Brain Research</source> <volume>180</volume>: <fpage>289</fpage>-<lpage>302</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1007/s00221-007-0860-0" xlink:type="simple">10.1007/s00221-007-0860-0</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/17310377" xlink:type="simple">17310377</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B24">
+				<label>24</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Bunge</surname><given-names>SA</given-names></name>, <name name-style="western"><surname>Wright</surname><given-names>SB</given-names></name> (<year>2007</year>) <article-title>Neurodevelopmental changes in working memory and cognitive control</article-title>. <source>Curr Opin Neurobiol</source> <volume>17</volume>: <fpage>243</fpage>-<lpage>250</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.conb.2007.02.005" xlink:type="simple">10.1016/j.conb.2007.02.005</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/17321127" xlink:type="simple">17321127</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B25">
+				<label>25</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Makino</surname><given-names>Y</given-names></name>, <name name-style="western"><surname>Yokosawa</surname><given-names>K</given-names></name>, <name name-style="western"><surname>Takeda</surname><given-names>Y</given-names></name>, <name name-style="western"><surname>Kumada</surname><given-names>T</given-names></name> (<year>2004</year>) <article-title>Visual search and memory search engage extensive overlapping cerebral cortices: an fMRI study</article-title>. <source>NeuroImage</source> <volume>23</volume>: <fpage>525</fpage>-<lpage>533</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.neuroimage.2004.06.026" xlink:type="simple">10.1016/j.neuroimage.2004.06.026</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/15488401" xlink:type="simple">15488401</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B26">
+				<label>26</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Karnath</surname><given-names>HO</given-names></name>, <name name-style="western"><surname>Rorden</surname><given-names>C</given-names></name> (<year>2012</year>) <article-title>The anatomy of spatial neglect</article-title>. <source>Neuropsychologia</source> <volume>50</volume>: <fpage>1010</fpage>-<lpage>1017</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.neuropsychologia.2011.06.027" xlink:type="simple">10.1016/j.neuropsychologia.2011.06.027</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/21756924" xlink:type="simple">21756924</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B27">
+				<label>27</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Ebner</surname><given-names>K</given-names></name>, <name name-style="western"><surname>Lidzba</surname><given-names>K</given-names></name>, <name name-style="western"><surname>Hauser</surname><given-names>TK</given-names></name>, <name name-style="western"><surname>Wilke</surname><given-names>M</given-names></name> (<year>2011</year>) <article-title>Assessing language and visuospatial functions with one task: a "dual use" approach to performing fMRI in children</article-title>. <source>NeuroImage</source> <volume>58</volume>: <fpage>923</fpage>-<lpage>929</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.neuroimage.2011.06.048" xlink:type="simple">10.1016/j.neuroimage.2011.06.048</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/21726649" xlink:type="simple">21726649</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B28">
+				<label>28</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Everts</surname><given-names>R</given-names></name>, <name name-style="western"><surname>Lidzba</surname><given-names>K</given-names></name>, <name name-style="western"><surname>Wilke</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Kiefer</surname><given-names>C</given-names></name>, <name name-style="western"><surname>Mordasini</surname><given-names>M</given-names></name> <etal>et al.</etal> (<year>2009</year>) <article-title>Strengthening of laterality of verbal and visuospatial functions during childhood and adolescence</article-title>. <source>Hum Brain Mapp</source> <volume>30</volume>: <fpage>473</fpage>-<lpage>483</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1002/hbm.20523" xlink:type="simple">10.1002/hbm.20523</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/18219619" xlink:type="simple">18219619</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B29">
+				<label>29</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Carpenter</surname><given-names>PA</given-names></name>, <name name-style="western"><surname>Just</surname><given-names>MA</given-names></name>, <name name-style="western"><surname>Keller</surname><given-names>TA</given-names></name>, <name name-style="western"><surname>Eddy</surname><given-names>W</given-names></name>, <name name-style="western"><surname>Thulborn</surname><given-names>K</given-names></name> (<year>1999</year>) <article-title>Graded Functional Activation in the Visuospatial System with the Amount of Task Demand</article-title>. <source>J Cogn Neurosci</source> <volume>11</volume>: <fpage>9</fpage>-<lpage>24</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1162/089892999563210" xlink:type="simple">10.1162/089892999563210</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/9950711" xlink:type="simple">9950711</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B30">
+				<label>30</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Witkin</surname><given-names>HA</given-names></name> (<year>1950</year>) <article-title>Individual differences in ease of perception of embedded figures</article-title>. <source>J Pers</source> <volume>19</volume>: <fpage>1</fpage>-<lpage>15</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1111/j.1467-6494.1950.tb01084.x" xlink:type="simple">10.1111/j.1467-6494.1950.tb01084.x</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/14795367" xlink:type="simple">14795367</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B31">
+				<label>31</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Walter</surname><given-names>E</given-names></name>, <name name-style="western"><surname>Dassonville</surname><given-names>P</given-names></name> (<year>2011</year>) <article-title>Activation in a frontoparietal cortical network underlies individual differences in the performance of an embedded figures task</article-title>. <source>PLOS ONE</source> <volume>6</volume>: <fpage>e20742</fpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1371/journal.pone.0020742" xlink:type="simple">10.1371/journal.pone.0020742</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/21799729" xlink:type="simple">21799729</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B32">
+				<label>32</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Smith</surname><given-names>SE</given-names></name>, <name name-style="western"><surname>Chatterjee</surname><given-names>A</given-names></name> (<year>2008</year>) <article-title>Visuospatial attention in children</article-title>. <source>Arch Neurol</source> <volume>65</volume>: <fpage>1284</fpage>-<lpage>1288</lpage>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/18852341" xlink:type="simple">18852341</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B33">
+				<label>33</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Akshoomoff</surname><given-names>NA</given-names></name>, <name name-style="western"><surname>Stiles</surname><given-names>J</given-names></name> (<year>1995</year>) <article-title>Developmental trends in visuospatial analysis and planning: I. Copying a complex figure</article-title>. <source>Neuropsychology</source> <volume>9</volume>: <fpage>364</fpage>-<lpage>377</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1037/0894-4105.9.3.364" xlink:type="simple">10.1037/0894-4105.9.3.364</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B34">
+				<label>34</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Pezdek</surname><given-names>K</given-names></name>, <name name-style="western"><surname>Roman</surname><given-names>Z</given-names></name>, <name name-style="western"><surname>Sobolik</surname><given-names>KG</given-names></name> (<year>1986</year>) <article-title>Spatial memory for objects and words</article-title>. <source>Journal of Experimental Psychology. Learning, Memory, and Cognition</source> <volume>12</volume>: <fpage>530</fpage>-<lpage>537</lpage>.</mixed-citation>
+			</ref>
+			<ref id="B35">
+				<label>35</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Durston</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Casey</surname><given-names>BJ</given-names></name> (<year>2006</year>) <article-title>What have we learned about cognitive development from neuroimaging?</article-title> <source>Neuropsychologia</source> <volume>44</volume>: <fpage>2149</fpage>-<lpage>2157</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.neuropsychologia.2005.10.010" xlink:type="simple">10.1016/j.neuropsychologia.2005.10.010</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/16303150" xlink:type="simple">16303150</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B36">
+				<label>36</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Casey</surname><given-names>BJ</given-names></name>, <name name-style="western"><surname>Giedd</surname><given-names>JN</given-names></name>, <name name-style="western"><surname>Thomas</surname><given-names>KM</given-names></name> (<year>2000</year>) <article-title>Structural and functional brain development and its relation to cognitive development</article-title>. <source>Biol Psychol</source> <volume>54</volume>: <fpage>241</fpage>-<lpage>257</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/S0301-0511(00)00058-2" xlink:type="simple">10.1016/S0301-0511(00)00058-2</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/11035225" xlink:type="simple">11035225</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B37">
+				<label>37</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Rubia</surname><given-names>K</given-names></name>, <name name-style="western"><surname>Overmeyer</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Taylor</surname><given-names>E</given-names></name>, <name name-style="western"><surname>Brammer</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Williams</surname><given-names>SCR</given-names></name> <etal>et al.</etal> (<year>2000</year>) <article-title>Functional frontalisation with age: mapping neurodevelopmental trajectories with fMRI</article-title>. <source>Neurosci Biobehav Rev</source> <volume>24</volume>: <fpage>13</fpage>-<lpage>19</lpage>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/10654655" xlink:type="simple">10654655</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B38">
+				<label>38</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Friston</surname><given-names>KJ</given-names></name>, <name name-style="western"><surname>Williams</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Howard</surname><given-names>R</given-names></name>, <name name-style="western"><surname>Frackowiak</surname><given-names>RS</given-names></name>, <name name-style="western"><surname>Turner</surname><given-names>R</given-names></name> (<year>1996</year>) <article-title>Movement-related effects in fMRI time-series</article-title>. <source>Magn Reson Med</source> <volume>35</volume>: <fpage>346</fpage>-<lpage>355</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1002/mrm.1910350312" xlink:type="simple">10.1002/mrm.1910350312</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/8699946" xlink:type="simple">8699946</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B39">
+				<label>39</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Jansen-Osmann</surname><given-names>P</given-names></name>, <name name-style="western"><surname>Heil</surname><given-names>M</given-names></name> <article-title>( January 182007) Developmental aspects of parietal hemispheric asymmetry during mental rotation</article-title>. <source>Neuroreport</source> <month>January 18</month>: <fpage>175</fpage>-<lpage>178</lpage>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/17301685" xlink:type="simple">17301685</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B40">
+				<label>40</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Bryce</surname><given-names>D</given-names></name>, <name name-style="western"><surname>Szũcs</surname><given-names>D</given-names></name>, <name name-style="western"><surname>Soltész</surname><given-names>F</given-names></name>, <name name-style="western"><surname>Whitebread</surname><given-names>D</given-names></name> (<year>2011</year>) <article-title>The development of inhibitory control: An averaged and single-trial Lateralized Readiness Potential study</article-title>. <source>NeuroImage</source> <volume>57</volume>: <fpage>671</fpage>-<lpage>685</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.neuroimage.2010.12.006" xlink:type="simple">10.1016/j.neuroimage.2010.12.006</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/21146618" xlink:type="simple">21146618</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B41">
+				<label>41</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Rubia</surname><given-names>K</given-names></name>, <name name-style="western"><surname>Smith</surname><given-names>AB</given-names></name>, <name name-style="western"><surname>Woolley</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Nosarti</surname><given-names>C</given-names></name>, <name name-style="western"><surname>Heyman</surname><given-names>I</given-names></name> <etal>et al.</etal> (<year>2006</year>) <article-title>Progressive increase of frontostriatal brain activation from childhood to adulthood during event-related tasks of cognitive control</article-title>. <source>Hum Brain Mapp</source> <volume>27</volume>: <fpage>973</fpage>-<lpage>993</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1002/hbm.20237" xlink:type="simple">10.1002/hbm.20237</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/16683265" xlink:type="simple">16683265</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B42">
+				<label>42</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Rubia</surname><given-names>K</given-names></name>, <name name-style="western"><surname>Hyde</surname><given-names>Z</given-names></name>, <name name-style="western"><surname>Halari</surname><given-names>R</given-names></name>, <name name-style="western"><surname>Giampietro</surname><given-names>V</given-names></name>, <name name-style="western"><surname>Smith</surname><given-names>A</given-names></name> (<year>2010</year>) <article-title>Effects of age and sex on developmental neural networks of visual-spatial attention allocation</article-title>. <source>NeuroImage</source> <volume>51</volume>: <fpage>817</fpage>-<lpage>827</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.neuroimage.2010.02.058" xlink:type="simple">10.1016/j.neuroimage.2010.02.058</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/20188841" xlink:type="simple">20188841</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B43">
+				<label>43</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Manjaly</surname><given-names>ZM</given-names></name>, <name name-style="western"><surname>Bruning</surname><given-names>N</given-names></name>, <name name-style="western"><surname>Neufang</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Stephan</surname><given-names>KE</given-names></name>, <name name-style="western"><surname>Brieber</surname><given-names>S</given-names></name> <etal>et al.</etal> (<year>2007</year>) <article-title>Neurophysiological correlates of relatively enhanced local visual search in autistic adolescents</article-title>. <source>NeuroImage</source> <volume>35</volume>: <fpage>283</fpage>-<lpage>291</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.neuroimage.2006.11.036" xlink:type="simple">10.1016/j.neuroimage.2006.11.036</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/17240169" xlink:type="simple">17240169</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B44">
+				<label>44</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Manjaly</surname><given-names>ZM</given-names></name>, <name name-style="western"><surname>Marshall</surname><given-names>JC</given-names></name>, <name name-style="western"><surname>Stephan</surname><given-names>KE</given-names></name>, <name name-style="western"><surname>Gurd</surname><given-names>JM</given-names></name>, <name name-style="western"><surname>Zilles</surname><given-names>K</given-names></name> <etal>et al.</etal> (<year>2003</year>) <article-title>In search of the hidden: an fMRI study with implications for the study of patients with autism and with acquired brain injury</article-title>. <source>NeuroImage</source> <volume>19</volume>: <fpage>674</fpage>-<lpage>683</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/S1053-8119(03)00095-8" xlink:type="simple">10.1016/S1053-8119(03)00095-8</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/12880798" xlink:type="simple">12880798</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B45">
+				<label>45</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Lee</surname><given-names>PS</given-names></name>, <name name-style="western"><surname>Foss-Feig</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Henderson</surname><given-names>JG</given-names></name>, <name name-style="western"><surname>Kenworthy</surname><given-names>LE</given-names></name>, <name name-style="western"><surname>Gilotty</surname><given-names>L</given-names></name> <etal>et al.</etal> (<year>2007</year>) <article-title>Atypical neural substrates of Embedded Figures Task performance in children with Autism Spectrum Disorder</article-title>. <source>NeuroImage</source> <volume>38</volume>: <fpage>184</fpage>-<lpage>193</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.neuroimage.2007.07.013" xlink:type="simple">10.1016/j.neuroimage.2007.07.013</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/17707658" xlink:type="simple">17707658</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B46">
+				<label>46</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Klingberg</surname><given-names>T</given-names></name>, <name name-style="western"><surname>Forssberg</surname><given-names>H</given-names></name>, <name name-style="western"><surname>Westerberg</surname><given-names>H</given-names></name> (<year>2002</year>) <article-title>Increased Brain Activity in Frontal and Parietal Cortex Underlies the Development of Visuospatial Working Memory Capacity during Childhood</article-title>. <source>J Cogn Neurosci</source> <volume>14</volume>: <fpage>1</fpage>-<lpage>10</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1162/089892902317205276" xlink:type="simple">10.1162/089892902317205276</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/11798382" xlink:type="simple">11798382</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B47">
+				<label>47</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Kwon</surname><given-names>H</given-names></name>, <name name-style="western"><surname>Reiss</surname><given-names>AL</given-names></name>, <name name-style="western"><surname>Menon</surname><given-names>V</given-names></name> (<year>2002</year>) <article-title>Neural basis of protracted developmental changes in visuo-spatial working memory</article-title>. <source>Proc Natl Acad Sci U S A</source> <volume>99</volume>: <fpage>13336</fpage>-<lpage>13341</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1073/pnas.162486399" xlink:type="simple">10.1073/pnas.162486399</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/12244209" xlink:type="simple">12244209</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B48">
+				<label>48</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Scherf</surname><given-names>KS</given-names></name>, <name name-style="western"><surname>Sweeney</surname><given-names>JA</given-names></name>, <name name-style="western"><surname>Luna</surname><given-names>B</given-names></name> (<year>2006</year>) <article-title>Brain Basis of Developmental Change in Visuospatial Working</article-title>. <source>Memory - Journal of Cognitive Neuroscience</source> <volume>18</volume>: <fpage>1045</fpage>-<lpage>1058</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1162/jocn.2006.18.7.1045" xlink:type="simple">10.1162/jocn.2006.18.7.1045</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B49">
+				<label>49</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Groen</surname><given-names>MA</given-names></name>, <name name-style="western"><surname>Whitehouse</surname><given-names>AJ</given-names></name>, <name name-style="western"><surname>Badcock</surname><given-names>NA</given-names></name>, <name name-style="western"><surname>Bishop</surname><given-names>DV</given-names></name> (<year>2011</year>) <article-title>Where were those rabbits? A new paradigm to determine cerebral lateralisation of visuospatial memory function in children</article-title>. <source>Neuropsychologia</source> <volume>49</volume>: <fpage>3265</fpage>-<lpage>3271</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.neuropsychologia.2011.07.031" xlink:type="simple">10.1016/j.neuropsychologia.2011.07.031</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/21843539" xlink:type="simple">21843539</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B50">
+				<label>50</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Marsh</surname><given-names>R</given-names></name>, <name name-style="western"><surname>Zhu</surname><given-names>H</given-names></name>, <name name-style="western"><surname>Schultz</surname><given-names>RT</given-names></name>, <name name-style="western"><surname>Quackenbush</surname><given-names>G</given-names></name>, <name name-style="western"><surname>Royal</surname><given-names>J</given-names></name> <etal>et al.</etal> (<year>2006</year>) <article-title>A developmental fMRI study of self-regulatory control</article-title>. <source>Hum Brain Mapp</source> <volume>27</volume>: <fpage>848</fpage>-<lpage>863</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1002/hbm.20225" xlink:type="simple">10.1002/hbm.20225</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/16421886" xlink:type="simple">16421886</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B51">
+				<label>51</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Szaflarski</surname><given-names>JP</given-names></name>, <name name-style="western"><surname>Altaye</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Rajagopal</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Eaton</surname><given-names>K</given-names></name>, <name name-style="western"><surname>Meng</surname><given-names>X</given-names></name> <etal>et al.</etal> (<year>2012</year>) <article-title>A 10-year longitudinal fMRI study of narrative comprehension in children and adolescents</article-title>. <source>NeuroImage</source> <volume>63</volume>: <fpage>1188</fpage>-<lpage>1195</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.neuroimage.2012.08.049" xlink:type="simple">10.1016/j.neuroimage.2012.08.049</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/22951258" xlink:type="simple">22951258</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B52">
+				<label>52</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Rubia</surname><given-names>K</given-names></name>, <name name-style="western"><surname>Smith</surname><given-names>AB</given-names></name>, <name name-style="western"><surname>Woolley</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Nosarti</surname><given-names>C</given-names></name>, <name name-style="western"><surname>Heyman</surname><given-names>I</given-names></name> <etal>et al.</etal> (<year>2006</year>) <article-title>Progressive increase of frontostriatal brain activation from childhood to adulthood during event-related tasks of cognitive control</article-title>. <source>Hum Brain Mapp</source> <volume>27</volume>: <fpage>973</fpage>-<lpage>993</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1002/hbm.20237" xlink:type="simple">10.1002/hbm.20237</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/16683265" xlink:type="simple">16683265</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B53">
+				<label>53</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Crone</surname><given-names>EA</given-names></name>, <name name-style="western"><surname>Donohue</surname><given-names>SE</given-names></name>, <name name-style="western"><surname>Honomichl</surname><given-names>R</given-names></name>, <name name-style="western"><surname>Wendelken</surname><given-names>C</given-names></name>, <name name-style="western"><surname>Bunge</surname><given-names>SA</given-names></name> (<year>2006</year>) <article-title>Brain regions mediating flexible rule use during development</article-title>. <source>J Neurosci</source> <volume>26</volume>: <fpage>11239</fpage>-<lpage>11247</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1523/JNEUROSCI.2165-06.2006" xlink:type="simple">10.1523/JNEUROSCI.2165-06.2006</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/17065463" xlink:type="simple">17065463</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B54">
+				<label>54</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Dekker</surname><given-names>T</given-names></name>, <name name-style="western"><surname>Mareschal</surname><given-names>D</given-names></name>, <name name-style="western"><surname>Sereno</surname><given-names>MI</given-names></name>, <name name-style="western"><surname>Johnson</surname><given-names>MH</given-names></name> (<year>2011</year>) <article-title>Dorsal and ventral stream activation and object recognition performance in school-age children</article-title>. <source>NeuroImage</source> <volume>57</volume>: <fpage>659</fpage>-<lpage>670</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.neuroimage.2010.11.005" xlink:type="simple">10.1016/j.neuroimage.2010.11.005</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/21056677" xlink:type="simple">21056677</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B55">
+				<label>55</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Oldfield</surname><given-names>RC</given-names></name> (<year>1971</year>) <article-title>The assessment and analysis of handedness: The Edinburgh inventory</article-title>. <source>Neuropsychologia</source> <volume>9</volume>: <fpage>97</fpage>-<lpage>113</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/0028-3932(71)90067-4" xlink:type="simple">10.1016/0028-3932(71)90067-4</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/5146491" xlink:type="simple">5146491</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B56">
+				<label>56</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Lidzba</surname><given-names>K</given-names></name>, <name name-style="western"><surname>Staudt</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Wilke</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Grodd</surname><given-names>W</given-names></name>, <name name-style="western"><surname>Krägeloh-Mann</surname><given-names>I</given-names></name> (<year>2006</year>) <article-title>Lesion-induced right-hemispheric language and organization of nonverbal functions</article-title>. <source>Neuroreport</source> <volume>17</volume>: <fpage>929</fpage>-<lpage>933</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1097/01.wnr.0000221841.12632.d6" xlink:type="simple">10.1097/01.wnr.0000221841.12632.d6</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/16738490" xlink:type="simple">16738490</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B57">
+				<label>57</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Rey</surname><given-names>A</given-names></name> (<year>1941</year>) <article-title>L'examen psychologique dans les cas d'encephalopathie traumatique</article-title>. <source>Archives of Psychology (Chicago)</source> <volume>28</volume>: <fpage>286</fpage>-<lpage>340</lpage>.</mixed-citation>
+			</ref>
+			<ref id="B58">
+				<label>58</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Andersson</surname><given-names>JL</given-names></name>, <name name-style="western"><surname>Hutton</surname><given-names>C</given-names></name>, <name name-style="western"><surname>Ashburner</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Turner</surname><given-names>R</given-names></name>, <name name-style="western"><surname>Friston</surname><given-names>K</given-names></name> (<year>2001</year>) <article-title>Modeling geometric deformations in EPI time series</article-title>. <source>NeuroImage</source> <volume>13</volume>: <fpage>903</fpage>-<lpage>919</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/S1053-8119(01)92245-1" xlink:type="simple">10.1016/S1053-8119(01)92245-1</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/11304086" xlink:type="simple">11304086</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B59">
+				<label>59</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Ashburner</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Friston</surname><given-names>KJ</given-names></name> (<year>2005</year>) <article-title>Unified segmentation</article-title>. <source>NeuroImage</source> <volume>26</volume>: <fpage>839</fpage>-<lpage>851</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.neuroimage.2005.02.018" xlink:type="simple">10.1016/j.neuroimage.2005.02.018</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/15955494" xlink:type="simple">15955494</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B60">
+				<label>60</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Wilke</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Holland</surname><given-names>SK</given-names></name>, <name name-style="western"><surname>Altaye</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Gaser</surname><given-names>C</given-names></name> (<year>2008</year>) <article-title>Template-O-Matic: a toolbox for creating customized pediatric templates</article-title>. <source>NeuroImage</source> <volume>41</volume>: <fpage>903</fpage>-<lpage>913</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.neuroimage.2008.02.056" xlink:type="simple">10.1016/j.neuroimage.2008.02.056</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/18424084" xlink:type="simple">18424084</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B61">
+				<label>61</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Macey</surname><given-names>PM</given-names></name>, <name name-style="western"><surname>Macey</surname><given-names>KE</given-names></name>, <name name-style="western"><surname>Kumar</surname><given-names>R</given-names></name>, <name name-style="western"><surname>Harper</surname><given-names>RM</given-names></name> (<year>2004</year>) <article-title>A method for removal of global effects from fMRI time series</article-title>. <source>NeuroImage</source> <volume>22</volume>: <fpage>360</fpage>-<lpage>366</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.neuroimage.2003.12.042" xlink:type="simple">10.1016/j.neuroimage.2003.12.042</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/15110027" xlink:type="simple">15110027</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B62">
+				<label>62</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Friston</surname><given-names>KJ</given-names></name>, <name name-style="western"><surname>Frith</surname><given-names>CD</given-names></name>, <name name-style="western"><surname>Frackowiak</surname><given-names>RS</given-names></name>, <name name-style="western"><surname>Turner</surname><given-names>R</given-names></name> (<year>1995</year>) <article-title>Characterizing dynamic brain responses with fMRI: a multivariate approach</article-title>. <source>NeuroImage</source> <volume>2</volume>: <fpage>166</fpage>-<lpage>172</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1006/nimg.1995.1019" xlink:type="simple">10.1006/nimg.1995.1019</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/9343599" xlink:type="simple">9343599</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B63">
+				<label>63</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Wilke</surname><given-names>M</given-names></name> (<year>2012</year>) <article-title>An alternative approach towards assessing and accounting for individual motion in fMRI timeseries</article-title>. <source>NeuroImage</source> <volume>59</volume>: <fpage>2062</fpage>-<lpage>2072</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.neuroimage.2011.10.043" xlink:type="simple">10.1016/j.neuroimage.2011.10.043</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/22036679" xlink:type="simple">22036679</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B64">
+				<label>64</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Wilke</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Lidzba</surname><given-names>K</given-names></name> (<year>2007</year>) <article-title>LI-tool: A new toolbox to assess lateralization in functional MR-data</article-title>. <source>J Neurosci Methods</source> <volume>163</volume>: <fpage>128</fpage>-<lpage>136</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.jneumeth.2007.01.026" xlink:type="simple">10.1016/j.jneumeth.2007.01.026</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/17386945" xlink:type="simple">17386945</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B65">
+				<label>65</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Wilke</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Schmithorst</surname><given-names>VJ</given-names></name> (<year>2006</year>) <article-title>A combined bootstrap/histogram analysis approach for computing a lateralization index from neuroimaging data</article-title>. <source>NeuroImage</source> <volume>33</volume>: <fpage>522</fpage>-<lpage>530</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.neuroimage.2006.07.010" xlink:type="simple">10.1016/j.neuroimage.2006.07.010</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/16938470" xlink:type="simple">16938470</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B66">
+				<label>66</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Hammers</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Allom</surname><given-names>R</given-names></name>, <name name-style="western"><surname>Koepp</surname><given-names>MJ</given-names></name>, <name name-style="western"><surname>Free</surname><given-names>SL</given-names></name>, <name name-style="western"><surname>Myers</surname><given-names>R</given-names></name> <etal>et al.</etal> (<year>2003</year>) <article-title>Three-dimensional maximum probability atlas of the human brain, with particular reference to the temporal lobe</article-title>. <source>Hum Brain Mapp</source> <volume>19</volume>: <fpage>224</fpage>-<lpage>247</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1002/hbm.10123" xlink:type="simple">10.1002/hbm.10123</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/12874777" xlink:type="simple">12874777</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B67">
+				<label>67</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Tamber-Rosenau</surname><given-names>BJ</given-names></name>, <name name-style="western"><surname>Esterman</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Chiu</surname><given-names>Y-C</given-names></name>, <name name-style="western"><surname>Yantis</surname><given-names>S</given-names></name> (<year>2011</year>) <article-title>Cortical Mechanisms of Cognitive Control for Shifting Attention in Vision and Working</article-title>. <source>Memory - Journal of Cognitive Neuroscience</source> <volume>23</volume>: <fpage>2905</fpage>-<lpage>2919</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1162/jocn.2011.21608" xlink:type="simple">10.1162/jocn.2011.21608</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B68">
+				<label>68</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Nagahama</surname><given-names>Y</given-names></name>, <name name-style="western"><surname>Okada</surname><given-names>T</given-names></name>, <name name-style="western"><surname>Katsumi</surname><given-names>Y</given-names></name>, <name name-style="western"><surname>Hayashi</surname><given-names>T</given-names></name>, <name name-style="western"><surname>Yamauchi</surname><given-names>H</given-names></name> <etal>et al.</etal> (<year>1999</year>) <article-title>Transient Neural Activity in the Medial Superior Frontal Gyrus and Precuneus Time Locked with Attention Shift between Object Features</article-title>. <source>NeuroImage</source> <volume>10</volume>: <fpage>193</fpage>-<lpage>199</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1006/nimg.1999.0451" xlink:type="simple">10.1006/nimg.1999.0451</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/10417251" xlink:type="simple">10417251</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B69">
+				<label>69</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Fink</surname><given-names>GR</given-names></name>, <name name-style="western"><surname>Halligan</surname><given-names>PW</given-names></name> (<year>1996</year>) <article-title>Where in the brain does visual attention select the forest and the trees?</article-title> <source>Nature</source> <volume>382</volume>: <fpage>626</fpage>–<lpage>628</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1038/382626a0" xlink:type="simple">10.1038/382626a0</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/8757132" xlink:type="simple">8757132</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B70">
+				<label>70</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Yovel</surname><given-names>G</given-names></name>, <name name-style="western"><surname>Yovel</surname><given-names>I</given-names></name>, <name name-style="western"><surname>Levy</surname><given-names>J</given-names></name> (<year>2001</year>) <article-title>Hemispheric asymmetries for global and local visual perception: Effects of stimulus and task factors</article-title>. <source>J Exp Psychol Hum Percept Perform</source> <volume>27</volume>: <fpage>1369</fpage>-<lpage>1385</lpage>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/11766931" xlink:type="simple">11766931</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B71">
+				<label>71</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Reimold</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Slifstein</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Heinz</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Mueller-Schauenburg</surname><given-names>W</given-names></name>, <name name-style="western"><surname>Bares</surname><given-names>R</given-names></name> (<year>2006</year>) <article-title>Effect of spatial smoothing on t-maps: arguments for going back from t-maps to masked contrast images</article-title>. <source>J Cereb Blood Flow Metab</source> <volume>26</volume>: <fpage>751</fpage>-<lpage>759</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1038/sj.jcbfm.9600231" xlink:type="simple">10.1038/sj.jcbfm.9600231</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/16208316" xlink:type="simple">16208316</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B72">
+				<label>72</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Rubia</surname><given-names>K</given-names></name>, <name name-style="western"><surname>Smith</surname><given-names>AB</given-names></name>, <name name-style="western"><surname>Taylor</surname><given-names>E</given-names></name>, <name name-style="western"><surname>Brammer</surname><given-names>M</given-names></name> (<year>2007</year>) <article-title>Linear age-correlated functional development of right inferior fronto-striato-cerebellar networks during response inhibition and anterior cingulate during error-related processes</article-title>. <source>Hum Brain Mapp</source> <volume>28</volume>: <fpage>1163</fpage>-<lpage>1177</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1002/hbm.20347" xlink:type="simple">10.1002/hbm.20347</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/17538951" xlink:type="simple">17538951</ext-link>.</mixed-citation>
+			</ref>
+		</ref-list>
+	</back>
+</article>

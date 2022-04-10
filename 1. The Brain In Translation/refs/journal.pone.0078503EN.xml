@@ -1,0 +1,932 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article" dtd-version="3.0" xml:lang="en">
+	<front>
+		<journal-meta>
+    <journal-id journal-id-type="nlm-ta">PLoS ONE</journal-id>
+    <journal-id journal-id-type="publisher-id">plos</journal-id>
+    <journal-id journal-id-type="pmc">plosone</journal-id>
+    <journal-title-group><journal-title>PLoS ONE</journal-title></journal-title-group>
+    <issn pub-type="epub">1932-6203</issn>
+    <publisher><publisher-name>Public Library of Science</publisher-name>
+    <publisher-loc>San Francisco, USA</publisher-loc></publisher>
+    </journal-meta><article-meta>
+			<article-id pub-id-type="publisher-id">PONE-D-13-06574</article-id><article-id pub-id-type="doi">10.1371/journal.pone.0078503</article-id><article-categories><subj-group subj-group-type="heading">
+    <subject>Research Article</subject></subj-group></article-categories><title-group>
+				<article-title>Anger under Control: Neural Correlates of Frustration as a Function of Trait Aggression</article-title>
+			<alt-title alt-title-type="running-head">Frustration and Trait Aggression</alt-title>
+      </title-group>
+			<contrib-group>
+				<contrib xlink:type="simple" contrib-type="author">
+					<name name-style="western">
+						<surname>Pawliczek</surname>
+						<given-names>Christina M.</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+					<xref ref-type="corresp" rid="cor1"><sup>*</sup></xref>
+				</contrib>
+				<contrib xlink:type="simple" contrib-type="author">
+					<name name-style="western">
+						<surname>Derntl</surname>
+						<given-names>Birgit</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+				</contrib>
+				<contrib xlink:type="simple" contrib-type="author">
+					<name name-style="western">
+						<surname>Kellermann</surname>
+						<given-names>Thilo</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+				</contrib>
+				<contrib xlink:type="simple" contrib-type="author">
+					<name name-style="western">
+						<surname>Gur</surname>
+						<given-names>Ruben C.</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
+				</contrib>
+				<contrib xlink:type="simple" contrib-type="author">
+					<name name-style="western">
+						<surname>Schneider</surname>
+						<given-names>Frank</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+				</contrib>
+				<contrib xlink:type="simple" contrib-type="author">
+					<name name-style="western">
+						<surname>Habel</surname>
+						<given-names>Ute</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+				</contrib>
+			</contrib-group>
+			<aff id="aff1"><label>1</label> <addr-line>Department of Psychiatry, Psychotherapy and Psychosomatics, Medical School, RWTH Aachen University, Aachen, Germany</addr-line></aff>
+			<aff id="aff2"><label>2</label> <addr-line>JARA - Translational Brain Medicine, Aachen, Germany</addr-line></aff>
+			<aff id="aff3"><label>3</label> <addr-line>Neuropsychiatry Division, Department of Psychiatry, University of Pennsylvania and the Philadelphia Veterans Administration Medical Center, Philadelphia, Pennsylvania, United States of America</addr-line></aff>
+			<contrib-group><contrib contrib-type="editor" xlink:type="simple">
+          <name name-style="western">
+            <surname>Krueger</surname>
+            <given-names>Frank</given-names>
+          </name>
+          <role>Editor</role>
+          <xref ref-type="aff" rid="edit1"/>
+        </contrib>
+        </contrib-group><aff id="edit1"><addr-line>George Mason University / Krasnow Institute for Advanced Study, United States of America</addr-line></aff><author-notes>
+				<corresp id="cor1">* E-mail: <email xlink:type="simple">cpawliczek@ukaachen.de</email></corresp>
+			<fn fn-type="conflict"><p>The authors have declared that no competing interests exist.</p></fn><fn fn-type="con"><p>Conceived and designed the experiments: CMP BD UH. Performed the experiments: CMP. Analyzed the data: CMP BD TK RCG UH. Contributed reagents/materials/analysis tools: TK FS UH. Wrote the manuscript: CMP BD FS UH. Discussions on the results of the analysis as well as the content of the paper: BD TK RCG FS UH. </p></fn></author-notes>
+			<pub-date pub-type="collection"><year>2013</year></pub-date><pub-date pub-type="epub">
+        <day>18</day>
+        <month>10</month>
+        <year>2013</year>
+      </pub-date>
+      <volume>8</volume><issue>10</issue><elocation-id>e78503</elocation-id><history><date date-type="received">
+          <day>13</day>
+          <month>2</month>
+          <year>2013</year>
+        </date>
+        <date date-type="accepted">
+          <day>13</day>
+          <month>9</month>
+          <year>2013</year>
+        </date>
+      </history><permissions>
+    <copyright-year>2013</copyright-year><copyright-holder>Pawliczek et al</copyright-holder><license xlink:type="simple"><license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p></license>
+    </permissions><abstract>
+				<p>Antisocial behavior and aggression are prominent symptoms in several psychiatric disorders including antisocial personality disorder. An established precursor to aggression is a frustrating event, which can elicit anger or exasperation, thereby prompting aggressive responses. While some studies have investigated the neural correlates of frustration and aggression, examination of their relation to trait aggression in healthy populations are rare.  Based on a screening of 550 males, we formed two extreme groups, one including individuals reporting high (n=21) and one reporting low (n=18) trait aggression. Using functional magnetic resonance imaging (fMRI) at 3T, all participants were put through a frustration task comprising unsolvable anagrams of German nouns. Despite similar behavioral performance, males with high trait aggression reported higher ratings of negative affect and anger after the frustration task. Moreover, they showed relatively decreased activation in the frontal brain regions and the dorsal anterior cingulate cortex (dACC) as well as relatively less amygdala activation in response to frustration.  Our findings indicate distinct frontal and limbic processing mechanisms following frustration modulated by trait aggression. In response to a frustrating event, HA individuals show some of the personality characteristics and neural processing patterns observed in abnormally aggressive populations.   Highlighting the impact of aggressive traits on the behavioral and neural responses to frustration in non-psychiatric extreme groups can facilitate further characterization of neural dysfunctions underlying psychiatric disorders that involve abnormal frustration processing and aggression.</p>
+			</abstract>
+		<funding-group><funding-statement>The authos thank the German Research Foundation (IRTG 1328, DFG), IZKF Aachen (Interdisciplinary Center for Clinical Research within the Faculty of Medicine at RWTH Aachen University, N4-4), the Brain Imaging Facility of the Interdisciplinary Centre for Clinical Research within the Faculty of Medicine at RWTH Aachen University, Germany and the Initiative and Networking Fund of the Helmholtz Association (Helmholtz Alliance for Mental Health in an Ageing Society). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript. </funding-statement></funding-group></article-meta>
+	</front>
+	<body>
+		<sec id="s1" sec-type="introduction">
+			<title>Introduction</title><p>According to the frustration-aggression hypothesis, a feeling of frustration (thus a sense of tension, which occurs when our efforts to reach a desired goal are thwarted) evokes negative affect and anger [<xref ref-type="bibr" rid="B1">1</xref>,<xref ref-type="bibr" rid="B2">2</xref>] and therefore can lead to aggression [<xref ref-type="bibr" rid="B3">3</xref>–<xref ref-type="bibr" rid="B5">5</xref>]. Furthermore, intentionally elicited frustration (by a research assistant, for instance) has been found to increase state hostility [<xref ref-type="bibr" rid="B6">6</xref>] as well as state anger and affective aggression [<xref ref-type="bibr" rid="B7">7</xref>,<xref ref-type="bibr" rid="B8">8</xref>]. Anger and aggression are often closely tied in questionnaire studies of traits [<xref ref-type="bibr" rid="B9">9</xref>], and their underlying physiology [<xref ref-type="bibr" rid="B10">10</xref>] and neurochemistry [<xref ref-type="bibr" rid="B11">11</xref>] are merged. Therefore, in this article we will address anger and aggression and their neural correlates mostly together.</p>
+			<p>In previous behavioral and fMRI studies, frustration has been investigated using various tasks [<xref ref-type="bibr" rid="B12">12</xref>–<xref ref-type="bibr" rid="B15">15</xref>]. On a neuronal level, frustration processing was linked to (1) the dorsal anterior cingulate cortex (dACC) and the right ventral prefrontal cortex (rvPFC) during social exclusion [<xref ref-type="bibr" rid="B15">15</xref>,<xref ref-type="bibr" rid="B16">16</xref>], (2) the amygdala, the dorsolateral prefrontal cortex (dlPFC) and rostral ACC activity during defection or loss of social cooperation in a prisoner’s dilemma game [<xref ref-type="bibr" rid="B17">17</xref>,<xref ref-type="bibr" rid="B18">18</xref>] and (<xref ref-type="bibr" rid="B3">3</xref>) the right anterior insular cortex as well as the right inferior PFC [<xref ref-type="bibr" rid="B12">12</xref>], the medial PFC and ACC [<xref ref-type="bibr" rid="B19">19</xref>] during omission of reward. All these studies only included healthy individuals and did not provide evidence of frustration-induced negative affect.</p>
+			<p>A low tolerance for frustration and aggression are also core symptoms in several psychiatric disorders including antisocial personality disorder (ASPD) and psychopathy (PP). Investigations point to a disturbance in the interplay between the PFC (more specifically the ventromedial (vm)PFC/ orbitofrontal cortex (OFC)) and the amygdala in these disorders. This interplay is important for the processing and regulation of negative emotions, including anger and aggression [<xref ref-type="bibr" rid="B20">20</xref>–<xref ref-type="bibr" rid="B22">22</xref>]. Furthermore, aggressive individuals have shown PFC deficits (i.e. in OFC, dlPFC and ACC) [<xref ref-type="bibr" rid="B20">20</xref>,<xref ref-type="bibr" rid="B23">23</xref>–<xref ref-type="bibr" rid="B26">26</xref>], which may lead to reduced inhibition and thus excessive subcortical activity, predisposing them to aggressive behavior..Regarding the limbic regions, however, the findings are mixed. While on the one hand studies involving individuals with aggressive behavior have revealed hyper-reactive responses to negative emotions [<xref ref-type="bibr" rid="B20">20</xref>,<xref ref-type="bibr" rid="B27">27</xref>,<xref ref-type="bibr" rid="B28">28</xref>], those with additional callous-unemotional traits, on the other hand, have shown hypo-reactive responses in the amygdala and the insula [<xref ref-type="bibr" rid="B21">21</xref>,<xref ref-type="bibr" rid="B28">28</xref>,<xref ref-type="bibr" rid="B29">29</xref>].</p>
+			<p>Neuroimaging studies on trait aggression/ anger in healthy subjects have revealed similar results, compared to those involving pathologically aggressive groups, including decreased activation in the frontal brain regions (middle frontal cortex, dlPFC, OFC) and elevated activation in the amygdala [<xref ref-type="bibr" rid="B20">20</xref>,<xref ref-type="bibr" rid="B26">26</xref>,<xref ref-type="bibr" rid="B27">27</xref>,<xref ref-type="bibr" rid="B30">30</xref>–<xref ref-type="bibr" rid="B32">32</xref>]. Bettencourt and colleagues [<xref ref-type="bibr" rid="B13">13</xref>] concluded that ‘persons high on trait aggressiveness direct greater levels of aggressive behavior toward others even when situations are relatively neutral [which] may suggest that they have the capacity to engage in cold-blooded style of aggressive behavior’. An important advantage of using non-clinical subjects is the absence of possible confounding factors such as substance abuse, a history of child abuse or incarceration as well as comorbid psychiatric diagnoses. </p>
+			<p>To the best of our knowledge, no study till date has examined neural processing of frustration in healthy individuals with high and low trait aggression. To this end, we used a frustration task involving solvable and unsolvable anagrams [<xref ref-type="bibr" rid="B33">33</xref>], which had previously revealed increased activity in the frontal and temporal regions during both conditions, with only the unsolvable anagrams increasing cerebral blood flow in the amygdala [<xref ref-type="bibr" rid="B33">33</xref>].</p>
+			<p>Based on previous studies, we expected (1) more frustration and thus higher reports of negative affect and anger after the task in the group with high (HA) compared to the one with low trait aggression (LA) [<xref ref-type="bibr" rid="B13">13</xref>], (2) increased activation in the frontal, temporal and limbic regions, including the amygdala and the insula, during processing of unsolvable anagrams in both groups [<xref ref-type="bibr" rid="B12">12</xref>,<xref ref-type="bibr" rid="B18">18</xref>,<xref ref-type="bibr" rid="B19">19</xref>,<xref ref-type="bibr" rid="B33">33</xref>] and (<xref ref-type="bibr" rid="B3">3</xref>) frontal regions (i.e. OFC, dlPFC, vmPFC, inferior PFC/ vlPFC and ACC) to be activated to a lesser extent in HA compared to LA [<xref ref-type="bibr" rid="B21">21</xref>,<xref ref-type="bibr" rid="B26">26</xref>,<xref ref-type="bibr" rid="B27">27</xref>,<xref ref-type="bibr" rid="B31">31</xref>,<xref ref-type="bibr" rid="B32">32</xref>]. (4) Amygdala activation was hypothesized to be higher in HA, thus reflecting the group's increased affective reaction to unsolvable anagrams, as reported in previous studies relating higher amygdala activation to negative events [<xref ref-type="bibr" rid="B34">34</xref>,<xref ref-type="bibr" rid="B35">35</xref>] and to more trait anger [<xref ref-type="bibr" rid="B27">27</xref>]. Due to the interconnection between the amygdala and the insula and their interaction during negative emotion processing [<xref ref-type="bibr" rid="B12">12</xref>,<xref ref-type="bibr" rid="B14">14</xref>,<xref ref-type="bibr" rid="B34">34</xref>], we also expected higher insula activation in HA. </p>
+			<p>Finally, based on the above-mentioned findings of hypo- and hyper-reactivity in the limbic regions depending on the presence of PP traits, we aimed to further characterize our sample regarding possible concurrent PP characteristics by incorporating the Psychopathy Personality Inventory Revised [<xref ref-type="bibr" rid="B36">36</xref>,<xref ref-type="bibr" rid="B37">37</xref>]. We assumed that the group high on trait aggression would rather resemble aggressive individuals without additional primary PP traits. As a result, we expected to find higher scores on factor 2, the antisocial impulsivity scale, which relates to impulsive behavior and reactive anger in HA. No group difference was hypothesized on factor 1, the fearless dominance scale, which is more related to primary PP and the callous-unemotional trait [<xref ref-type="bibr" rid="B17">17</xref>,<xref ref-type="bibr" rid="B38">38</xref>]. </p>
+		</sec>
+		<sec id="s2" sec-type="methods">
+			<title>Methods</title>
+			<sec id="s2.1">
+				<title>2.1: Participants</title>
+				<p>550 male students from different faculties of RWTH Aachen University completed the Aggression Questionnaire (AQ) [<xref ref-type="bibr" rid="B39">39</xref>]. In order to be classified as high (HA) or low (LA) in trait aggression, participants had to score above the 85<sup>th</sup> or below the 15<sup>th</sup> percentile respectively. Participants had no history of psychiatric or neurological disorders as assessed via a short version of the SCID I (Structured Clinical Interview for DSM-IV) [<xref ref-type="bibr" rid="B40">40</xref>]. The final sample consisted of 40 right-handed, native German speaking males (mean age: 22.4 (2.2)). There were 21 participants in the HA and 19 participants in the LA group. The ethics committee of the Medical Faculty of RWTH Aachen University approved the study (code EK 011/09). All individuals gave written informed consent according to the Declaration of Helsinki prior to the examination. Parts of these data have been previously reported in two short book chapters [<xref ref-type="bibr" rid="B41">41</xref>,<xref ref-type="bibr" rid="B42">42</xref>]. </p>
+				<p>While HA and LA males differed in their reported AQ scores, for all other variables, such as age, education and various neuropsychological measures, no significant differences emerged (<xref ref-type="table" rid="pone-0078503-t001">Table <bold>1</bold></xref>). </p>
+				<table-wrap id="pone-0078503-t001" position="float">
+					
+					<object-id pub-id-type="doi">10.1371/journal.pone.0078503.t001</object-id><label>Table 1</label>
+					<caption>
+						<title>Demographic, neuropsychology and personality data of HA and LA participants.</title></caption>
+					<table>
+						<colgroup span="1"><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/></colgroup>
+						<thead>
+							<tr>
+								<th rowspan="1" colspan="1"><bold>Variable</bold></th>
+								<th rowspan="1" colspan="1"><bold>HA (n = 21)</bold></th>
+								<th rowspan="1" colspan="1"><bold>LA (n = 18)</bold></th>
+								<th rowspan="1" colspan="1"><bold>t</bold></th>
+								<th rowspan="1" colspan="1"><bold>df</bold></th>
+								<th rowspan="1" colspan="1"><bold>p-value</bold></th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td rowspan="1" colspan="1">Age (years)</td>
+								<td rowspan="1" colspan="1">22.2 (2.2)</td>
+								<td rowspan="1" colspan="1">22.6 (2.2)</td>
+								<td rowspan="1" colspan="1">- .510</td>
+								<td rowspan="1" colspan="1">37</td>
+								<td rowspan="1" colspan="1">0.613</td>
+							</tr>
+							<tr>
+								<td rowspan="1" colspan="1">MWT-B (IQ)<sup>a</sup></td>
+								<td rowspan="1" colspan="1">106.4 (11.9)</td>
+								<td rowspan="1" colspan="1">110.8 (11.4)</td>
+								<td rowspan="1" colspan="1">- 1.187</td>
+								<td rowspan="1" colspan="1">37</td>
+								<td rowspan="1" colspan="1">0.243</td>
+							</tr>
+							<tr>
+								<td rowspan="1" colspan="1">TMT-A<sup>b</sup></td>
+								<td rowspan="1" colspan="1">22.4 (7.3)</td>
+								<td rowspan="1" colspan="1">21.4 (5.8)</td>
+								<td rowspan="1" colspan="1">.462 </td>
+								<td rowspan="1" colspan="1">37 </td>
+								<td rowspan="1" colspan="1">0.647</td>
+							</tr>
+							<tr>
+								<td rowspan="1" colspan="1">TMT-B<sup>b</sup></td>
+								<td rowspan="1" colspan="1">38.4 (11.4)</td>
+								<td rowspan="1" colspan="1">38.3 (12.5)</td>
+								<td rowspan="1" colspan="1">.028 </td>
+								<td rowspan="1" colspan="1">36 </td>
+								<td rowspan="1" colspan="1">0.978</td>
+							</tr>
+							<tr>
+								<td rowspan="1" colspan="1">Verbal Fluency<sup>c</sup></td>
+								<td rowspan="1" colspan="1">21.5 (6.5)</td>
+								<td rowspan="1" colspan="1">24.8 (6.0)</td>
+								<td rowspan="1" colspan="1">-1.649</td>
+								<td rowspan="1" colspan="1">37</td>
+								<td rowspan="1" colspan="1">0.108</td>
+							</tr>
+							<tr>
+								<td rowspan="1" colspan="1">AQ (total score) <xref ref-type="table-fn" rid="nstab1.1">***</xref></td>
+								<td rowspan="1" colspan="1">86.6 (9.8)</td>
+								<td rowspan="1" colspan="1">52.4 (4.4)</td>
+								<td rowspan="1" colspan="1">14.359</td>
+								<td rowspan="1" colspan="1">28.516</td>
+								<td rowspan="1" colspan="1">0.000</td>
+							</tr>
+							<tr>
+								<td rowspan="1" colspan="1">Physical aggression<xref ref-type="table-fn" rid="nstab1.1">***</xref></td>
+								<td rowspan="1" colspan="1">26.2 (5.8)</td>
+								<td rowspan="1" colspan="1">13.8 (2.3)</td>
+								<td rowspan="1" colspan="1">8.990</td>
+								<td rowspan="1" colspan="1">26.943</td>
+								<td rowspan="1" colspan="1">0.000</td>
+							</tr>
+							<tr>
+								<td rowspan="1" colspan="1">Verbal aggression<xref ref-type="table-fn" rid="nstab1.1">***</xref></td>
+								<td rowspan="1" colspan="1">17.2 (2.8)</td>
+								<td rowspan="1" colspan="1">13.2 (2.1)</td>
+								<td rowspan="1" colspan="1">5.148</td>
+								<td rowspan="1" colspan="1">37</td>
+								<td rowspan="1" colspan="1">0.000</td>
+							</tr>
+							<tr>
+								<td rowspan="1" colspan="1">Anger<xref ref-type="table-fn" rid="nstab1.1">***</xref></td>
+								<td rowspan="1" colspan="1">20.3 (3.8)</td>
+								<td rowspan="1" colspan="1">10.7 (2.9)</td>
+								<td rowspan="1" colspan="1">8.735</td>
+								<td rowspan="1" colspan="1">37</td>
+								<td rowspan="1" colspan="1">0.000</td>
+							</tr>
+							<tr>
+								<td rowspan="1" colspan="1">Hostility<xref ref-type="table-fn" rid="nstab1.1">***</xref></td>
+								<td rowspan="1" colspan="1">22.9 (5.0)</td>
+								<td rowspan="1" colspan="1">14.7 (2.9)</td>
+								<td rowspan="1" colspan="1">6.278</td>
+								<td rowspan="1" colspan="1">33.056</td>
+								<td rowspan="1" colspan="1">0.000</td>
+							</tr>
+						</tbody>
+					</table>
+					<table-wrap-foot>
+						<fn>
+							<p>Values are presented as means (s.d.). p-value Bonferroni corrected for 5 tests: 0.01.</p>
+						</fn>
+						<fn>
+							<p>Degrees of freedom (df) have decimals when the Levene’s test for the equality of variances is significant.</p>
+						</fn>
+						<fn id="nstab1.1">
+							<label>***</label>
+							
+							<p>p&lt;.0.001</p>
+						</fn>
+						<fn>
+							<p><sup>a</sup> MWT-B [<xref ref-type="bibr" rid="B79">79</xref>]; <sup>b</sup> Trail Making Test, form A and B [<xref ref-type="bibr" rid="B80">80</xref>]; <sup>c</sup> RWT [<xref ref-type="bibr" rid="B81">81</xref>]</p>
+						</fn>
+					</table-wrap-foot>
+				</table-wrap>
+			</sec>
+			<sec id="s2.2">
+				<title>2.2: Personality Questionnaires</title>
+				<p>To assess aggressive tendencies in more detail, participants filled in the Psychopathic Personality Inventory Revised (PPI-R) [<xref ref-type="bibr" rid="B36">36</xref>,<xref ref-type="bibr" rid="B37">37</xref>], the Life History of Aggression scale (LHA) [<xref ref-type="bibr" rid="B23">23</xref>] and the Freiburger Aggression Inventory (FAI) [<xref ref-type="bibr" rid="B43">43</xref>]. Consistent with our group division based on AQ scores and our hypotheses, HA had higher scores on the PPI-R total, PPI-R factor 2, the total scale of the FAI and three of its subscales (<xref ref-type="table" rid="pone-0078503-t002">Table <bold>2</bold></xref>). Results on the LHA revealed a marginal significant difference on total LHA score (t(37)=1.97, p=.056) with HA scoring higher compared to LA (mean LHA total score 11.43 vs. 7.94). Levels of negative affect and anger were measured with the Positive and Negative Affect Scale (PANAS) [<xref ref-type="bibr" rid="B44">44</xref>] and the Emotional Self Rating scale (ESR) [<xref ref-type="bibr" rid="B45">45</xref>] before and after the frustration task.</p>
+				<table-wrap id="pone-0078503-t002" position="float">
+					<object-id pub-id-type="doi">10.1371/journal.pone.0078503.t002</object-id><label>Table 2</label>
+					<caption>
+						<title>Personality data of participants with high (HA) and low (LA) trait aggression.</title>
+					</caption>
+					<table>
+						<colgroup span="1"><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/></colgroup>
+						<thead>
+							<tr>
+								<th rowspan="1" colspan="1"><bold>Questionnaire</bold></th>
+								<th rowspan="1" colspan="1"><bold>HA (n = 21)</bold></th>
+								<th rowspan="1" colspan="1"><bold>LA (n = 18)</bold></th>
+								<th rowspan="1" colspan="1"><bold>t</bold></th>
+								<th rowspan="1" colspan="1"><bold>df</bold></th>
+								<th rowspan="1" colspan="1"><bold>p-value</bold></th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td rowspan="1" colspan="1">PPI-R total**</td>
+								<td rowspan="1" colspan="1">341.6 (20.8)</td>
+								<td rowspan="1" colspan="1">316.6 (25.1)</td>
+								<td rowspan="1" colspan="1">3.414</td>
+								<td rowspan="1" colspan="1">37</td>
+								<td rowspan="1" colspan="1">0.002</td>
+							</tr>
+							<tr>
+								<td rowspan="1" colspan="1">PPI-R_1 <sup>a</sup></td>
+								<td rowspan="1" colspan="1">113.6 (12.9)</td>
+								<td rowspan="1" colspan="1">111.9 (13.0)</td>
+								<td rowspan="1" colspan="1">.415</td>
+								<td rowspan="1" colspan="1">37</td>
+								<td rowspan="1" colspan="1">0.680</td>
+							</tr>
+							<tr>
+								<td rowspan="1" colspan="1">PPI-R_2 <sup>b**</sup></td>
+								<td rowspan="1" colspan="1">157.8 (24.7)</td>
+								<td rowspan="1" colspan="1">131.6 (11.8)</td>
+								<td rowspan="1" colspan="1">4.326</td>
+								<td rowspan="1" colspan="1">29.605</td>
+								<td rowspan="1" colspan="1">0.001</td>
+							</tr>
+							<tr>
+								<td rowspan="1" colspan="1">FAI total **</td>
+								<td rowspan="1" colspan="1">14.5 (6.6)</td>
+								<td rowspan="1" colspan="1">7.7 (4.3)</td>
+								<td rowspan="1" colspan="1">3.700</td>
+								<td rowspan="1" colspan="1">37</td>
+								<td rowspan="1" colspan="1">0.001</td>
+							</tr>
+							<tr>
+								<td rowspan="1" colspan="1">FAI spontaneous aggression**</td>
+								<td rowspan="1" colspan="1">4.8 (2.6)</td>
+								<td rowspan="1" colspan="1">2.0 (2.1)</td>
+								<td rowspan="1" colspan="1">3.714</td>
+								<td rowspan="1" colspan="1">36.97</td>
+								<td rowspan="1" colspan="1">0.001</td>
+							</tr>
+							<tr>
+								<td rowspan="1" colspan="1">FAI reactive aggression </td>
+								<td rowspan="1" colspan="1">3.8 (2.3)</td>
+								<td rowspan="1" colspan="1">2.5 (1.7)</td>
+								<td rowspan="1" colspan="1">1.911</td>
+								<td rowspan="1" colspan="1">37</td>
+								<td rowspan="1" colspan="1">0.064</td>
+							</tr>
+							<tr>
+								<td rowspan="1" colspan="1">FAI impulsive aggression**</td>
+								<td rowspan="1" colspan="1">5.9 (3.1)</td>
+								<td rowspan="1" colspan="1">3.2 (1.9)</td>
+								<td rowspan="1" colspan="1">3.323</td>
+								<td rowspan="1" colspan="1">33.81</td>
+								<td rowspan="1" colspan="1">0.002</td>
+							</tr>
+							<tr>
+								<td rowspan="1" colspan="1">FAI self-related aggression**</td>
+								<td rowspan="1" colspan="1">3.5 (3.3)</td>
+								<td rowspan="1" colspan="1">1.1 (0.9)</td>
+								<td rowspan="1" colspan="1">3.163</td>
+								<td rowspan="1" colspan="1">23.978</td>
+								<td rowspan="1" colspan="1">0.004</td>
+							</tr>
+							<tr>
+								<td rowspan="1" colspan="1">FAI aggression inhibition**</td>
+								<td rowspan="1" colspan="1">4.1 (2.2)</td>
+								<td rowspan="1" colspan="1">5.9 (1.6)</td>
+								<td rowspan="1" colspan="1">-2.828</td>
+								<td rowspan="1" colspan="1">37</td>
+								<td rowspan="1" colspan="1">0.008</td>
+							</tr>
+						</tbody>
+					</table>
+					<table-wrap-foot>
+						<fn>
+							<p>Values are presented as means (s.d.). p-value Bonferroni corrected for 9 tests: 0.006.</p>
+						</fn>
+						<fn>
+							<p>Degrees of freedom (df) have decimals when the Levene’s test for the equality of variances is significant.</p>
+						</fn>
+						<fn>
+							<p>** p&lt;0.01,***p&lt;.0.001</p>
+						</fn>
+						<fn>
+							<p><sup>a</sup> PPI-R factor 1: fearless dominance, low behavioral inhibition; <sup>b</sup> PPI-R factor 2: antisocial impulsivity, strong behavioral activation </p>
+						</fn>
+					</table-wrap-foot>
+				</table-wrap>
+			</sec>
+			<sec id="s2.3">
+				<title>2.3: Functional frustration task</title>
+				<p>Participants were presented with 48 four-letter anagrams (24 solvable/ 24 unsolvable) of German nouns. The anagrams (white letters on black background) were shown for seven seconds. After four seconds, the participants were urged to answer by the request ‘Please respond’. Both the anagrams and the request were presented via MR compatible goggles. People responded by moving a cursor with the right hand’s index and ring fingers which were positioned on fMRI-compatible response buttons (LUMItouch™, Lightwave Technologies, Richmond, Canada). We instructed them to mark the first letter of the word they recognized by pressing a button with the right middle finger. Button press terminated the current trial. The first half of the task consisted of nineteen solvable and five unsolvable anagrams; the second half was constructed by reversing these frequencies. To further augment feelings of frustration while having to deal with the unsolvable anagrams, participants were informed that good performance would be rewarded with extra money. After each anagram, participants received feedback on their performance through the display of either a positive symbol (a smiley) and the sentence ‘You have won thirty Cents’ or a negative symbol (a frowney) and the sentence ‘You have lost thirty Cents’. The task was presented in a block design, where each block lasted 36 seconds and contained three anagrams (each anagram 7s + interstimulus interval minimum 3s + feedback 2s). After each block, a baseline (fixation cross) followed for 15s. Total duration of the task was 13.6min. The paradigm was programmed using the Presentation software package (Neurobehavioral Systems Inc., Albany, CA, USA). In order to assess possible behavioral performance differences between the groups, the number of anagrams solved and reaction times of solvable and unsolvable anagrams were measured. </p>
+			</sec>
+			<sec id="s2.4">
+				<title>2.4: Behavioral data analysis</title>
+				<p>Statistical analyses were performed using SPSS 18.0 (SPSS, Inc., IL, USA) and level of significance was set at p=0.05. Group differences on demographic, personality and behavioral data (accuracy and reaction times on solvable and unsolvable anagrams) were analyzed using independent samples t-tests. In cases of significant Levene’s test for homogeneity of variance, degrees of freedom were adapted using Satterthwaite’s correction. Results are corrected for multiple testing using Bonferroni correction. Repeated measures ANOVAs were applied with negative affect (PANAS pre and PANAS post) and anger (ESR pre and ESR post) as within-subjects factor and trait aggression (HA vs. LA) as between-subjects factor. For significant differences, estimates of effect size are given as partial η<sup>2</sup> and Cohen’s d.</p>
+			</sec>
+			<sec id="s2.5">
+				<title>2.5: Functional MRI acquisition parameters</title><p>Functional scanning was performed on a Siemens Trio 3 Tesla magnetic resonance scanner. For the blood oxygen level dependent (BOLD)-sensitive MRI measurement, we used a T2*-weighted gradient echo sequence with the following parameters: TR = 2500, TE = 30ms, FoV = 200 mm, 38 axial slices (whole brain coverage), slice thickness = 3.1 mm, in-plane-resolution = 3.125 x 3.125 x 3.1 mm, flip-angle = 77°, Matrix size 64 x 64, slice gap = 0.31 mm. A total of 350 functional images parallel to the intercommissural line (anterior-posterior commissure) with an interleaved order of slice acquisition were acquired on each participant. Four dummy scans were acquired to allow steady-state magnetization and were discarded from further analysis After functional neuroimaging, a 4 min. magnetization-prepared rapid acquisition gradient echo image (MP-RAGE) T1-weighted sequence was applied to obtain structural images (TR = 1900 ms, TE = 2.52 ms, TI = 900 ms, matrix = 256 x 256, 176 slices, FoV: 250 x 250 mm<sup>2</sup>, flip angle = 9°, voxel size = 1 x 1 x 1 mm<sup>3</sup>). </p>
+			</sec>
+			<sec id="s2.6">
+				<title>2.6: Functional MRI data analysis</title>
+				<p>Functional data were preprocessed and analyzed using SPM5 [<xref ref-type="bibr" rid="B46">46</xref>] (<ext-link ext-link-type="uri" xlink:href="http://www.fil.ion.ucl.ac.uk/spm/spm5.html" xlink:type="simple"><underline>http://www.fil.ion.ucl.ac.uk/spm/spm5.html</underline></ext-link>). Images of each subject were realigned to the mean image (after a first-pass realignment on the first image of the time-series) to correct for head motion, normalized into the standardized stereotactic space (interpolation to a resolution of 2 x 2 x 2mm<sup>3</sup>) and the functional data sets were spatially smoothed using an isotropic Gaussian kernel with a full-width-at-half-maximum of 8 mm<sup>3</sup>. </p>
+				<p>At the first level, a separate GLM was specified for each participant. The model included separate regressors for solvable (8 blocks) and unsolvable (8 blocks) anagrams, which were convolved with the canonical hemodynamic response function. Further, we entered the six realignment parameters as covariates of no interest in the first-level analysis. Data were high-pass filtered with a cut-off of 128 s to remove low-frequency drifts. Serial correlations were accounted for by a first-order autoregressive model. </p>
+				<p>In order to assess differences between the two extreme groups, contrast images of solvable and unsolvable conditions from all participants were included in a second-level random-effects analysis. Activation differences in brain regions were examined by a mixed effects two-way ANOVA with group (HA vs. LA) as between-subjects factor and condition (solvable vs. unsolvable anagrams) as within-subjects factor in order to detect significant main or interaction effects. The resulting statistical maps for the main effects of group and condition and the group x condition interaction (all F-contrasts) effect were thresholded at p&lt;0.001 uncorrected with a voxel extent of 20 contiguous voxels (for illustration purposes) as has been applied in previous studies [<xref ref-type="bibr" rid="B12">12</xref>,<xref ref-type="bibr" rid="B47">47</xref>,<xref ref-type="bibr" rid="B48">48</xref>]. Stereotaxic coordinates of local maxima of activation are expressed as x;y;z values in proper MNI space. Anatomical localizations were identified using the Anatomy Toolbox [<xref ref-type="bibr" rid="B49">49</xref>,<xref ref-type="bibr" rid="B50">50</xref>] and the WFU Pick Atlas as tools implemented in SPM. Concerning the division of the frontal lobe, we closely correspond to [<xref ref-type="bibr" rid="B26">26</xref>].</p>
+			</sec>
+			<sec id="s2.7">
+				<title>2.7: Region of Interest (ROI) analysis</title>
+				<p>We performed an ROI analysis for the left and right amygdala with to maximize sensitivity to group differences in this region. We specifically aimed at investigating the amygdala’s role during frustration because of its function in emotion processing, trait anger [<xref ref-type="bibr" rid="B27">27</xref>] and in similar task [<xref ref-type="bibr" rid="B33">33</xref>]. Values for amygdala ROIs were extracted based on probabilistic cytoarchitectonic maps [<xref ref-type="bibr" rid="B51">51</xref>], as available in the Anatomy Toolbox in SPM5 [<xref ref-type="bibr" rid="B49">49</xref>,<xref ref-type="bibr" rid="B50">50</xref>]. Mean parameter estimates were extracted for left and right amygdala in both conditions (solvable and unsolvable). Levene’s test for homogeneity of variances indicated homoscedasticity for all parameter estimates (solvable left: p=0.167; solvable right: p=0.058; unsolvable left: p=0.322; unsolvable right: p=0.389). Three-way ANOVAs were applied for the left and right amygdala with group as between-subjects factor and condition and laterality as within-subjects factors. </p>
+			</sec>
+			<sec id="s2.8">
+				<title>2.8: Corollary analyses</title>
+				<p>Correlation analyses were performed for personality measures and amygdala activation scores (mean parameter estimates taken from the ROI analysis) separately in HA and LA. Personality measures included scores on the PPI-R, FAI and the LHA. Results are regarded significant at p&lt;0.05.</p>
+			</sec>
+		</sec>
+		<sec id="s3" sec-type="results">
+			<title>Results</title>
+			<sec id="s3.1">
+				<title>3.1: Behavioral and current mood data</title>
+				<p>One subject was excluded due to excessive head movement during scanning, leaving 21 HA individuals and 18 LA individuals for final analysis.</p>
+				<p>HA and LA showed no differences on number of anagrams solved (t(37)=0.046, p=0.963, two-tailed) and reaction times on solvable (t(37)=0.653, p=0.518, two-tailed) and unsolvable anagrams (t(25.702)=0.670, p=0.509, two-tailed). </p>
+				<p>Based on the difference scores on the PANAS (post- minus pre-scores), 13 participants (62%) were classified as responders (i.e. they showed an increase in negative affect or anger levels after the frustration task) in HA, while there were only 4 such responders (22%) in LA. Analysis of PANAS data revealed marginal significant pre vs. post main effect (F(1,37)=3.638, p=0.064) as well as a marginal significant time x group interaction effect (F(1,37)=3.638, p=0.064) and a significant main effect of group (F(1,37)=8.093, p=0.007, partial η<sup>2</sup>=0.18), demonstrating higher levels of negative affect in HA compared to LA. Assuming a greater increase in negative affect (from pre to post) in the HA group, the independent samples t-test on the PANAS difference scores decomposed the interaction effect and was significant (t(29.099)=2.007, p=0.027, d=0.63, one-tailed), thereby revealing a greater increase of negative affect in the HA compared to the LA group. </p>
+				<p>For the ESR data, we observed a significant pre vs. post effect (F(1,37)=5.374, p=0.026, partial η<sup>2</sup>=0.13) with higher values after compared to before the measurement, and group (F(1,37)=8.197, p=0.007, partial η<sup>2</sup>=0.18), indicating higher levels of anger in HA compared to LA. The interaction was not significant (F(1,37)=2.077, p=0.158). </p>
+				<p>Post-hoc analyses revealed that HA individuals showed significantly increased negative affect (PANAS, t(20)=2.24, p=0.036, two-tailed) and anger ratings (ESR, t(20)=2.12, p=0.047, two-tailed) after the frustration task (vs. before the task), while the results from these paired samples t-tests were not significant in LA (PANAS, t(17)=.000, p=1.00, two-tailed; ESR, t(17)=1.46, p=.163, two-tailed). Direct comparison between the two groups via independent samples t-tests revealed that HA exhibited a significantly higher level of negative affect (t(25.50)=3.62, p=0.001, d=1.13, two-tailed) and anger ratings (t(25.07)=2.48, p=0.020, d=0.78, two-tailed) compared to LA after the task (<xref ref-type="fig" rid="pone-0078503-g001">Figure <bold><italic>1</italic></bold></xref>)<italic>.</italic></p>
+				<fig id="pone-0078503-g001" position="float">
+					<object-id pub-id-type="doi">10.1371/journal.pone.0078503.g001</object-id><label>Figure 1</label>
+					<caption>
+						<title>Reported level of Negative Affect (PANAS) and Anger (ESR) by individuals with high trait aggression (HA) and low trait aggression (LA) before (T0) and after (T1) the anagram task; * significant at p&lt;0.05.</title>
+					</caption>
+					<graphic xlink:type="simple" position="float" xlink:href="info:doi/10.1371/journal.pone.0078503.g001"/>
+				</fig>
+				<p>Concerning the other emotions on the ESR, no significant group differences were observed (all p&gt;0.186), except for sadness where HA revealed a trend effect before the task (t(20)=2.02, p =0.056) and significantly higher scores after the anagram task compared to LA (t(20)=2.34, p=0.030, d=0.73).</p>
+			</sec>
+			<sec id="s3.2">
+				<title>3.2: Functional MRI data</title>
+				<p>The <bold><italic>main</italic><italic> </italic><italic>effect</italic><italic> </italic><italic>of</italic><italic> </italic><italic>condition</italic></bold> (solvable vs. unsolvable anagrams) revealed activation in the cingulate cortex, the bilateral superior and left middle frontal cortex, the bilateral angular gyrus and the superior parietal regions (for more details see <xref ref-type="supplementary-material" rid="pone.0078503.s001">Table <bold>S1</bold></xref>). The <bold><italic>main</italic><italic> </italic><italic>effect</italic><italic> </italic><italic>of</italic><italic> </italic><italic>group</italic></bold> depicted activation in left vlPFC/ dlPFC, right dlPFC, right middle cingulate, right insula and left middle temporal regions (<xref ref-type="fig" rid="pone-0078503-g002">Figure <bold>2</bold></xref> and detailed information in the <xref ref-type="supplementary-material" rid="pone.0078503.s002">Table <bold>S2</bold></xref>). The <bold>group X condition interaction</bold> indicated activation differences in the left amygdala and left dACC, the right vlPFC cortex, the left parietal cortex and the right parahippocampal gyrus (<xref ref-type="fig" rid="pone-0078503-g003">Figure <bold>3</bold></xref> and <xref ref-type="table" rid="pone-0078503-t003">Table <bold>3</bold></xref>). </p>
+        <p>Analysis of parameter estimate values from the amygdala (x=-22, y=-6, z=-12), the dACC (x=-8, y=10, z=26) and the vlPFC (x=34, y=36, z=10) revealed relatively less activation in HA compared to LA during the unsolvable condition (amygdala: (t(37)=3.081, p=0.004, d=-6.13; dACC: t(37)=3.675, p=0.001, d=-1.18; vlPFC: t(37)=2.520, p=0.016, d=-0.80) but no difference between groups during the solvable condition (amygdala: (t(37)=1.080, p=0.287; dACC: t(37)=0.308, p=0.759; vlPFC: t(37)=0.640, p=0.526). Parameter estimate values for all other regions of the interaction effect can be found in <xref ref-type="supplementary-material" rid="pone.0078503.s003">Figure <bold>S1.</bold></xref></p>
+				<fig id="pone-0078503-g002" position="float">
+					<object-id pub-id-type="doi">10.1371/journal.pone.0078503.g002</object-id><label>Figure 2</label>
+					<caption>
+						<title>Activation for the main effect of group and parameter estimates for the activation in right dorsolateral prefrontal cortex (dlPFC, x=44, y=52, z=18) and left ventrolateral/ dorsolateral prefrontal cortex (vlPFC/ dlPFC, x=-52, y=26, z=32), p&lt;0.001, uncorr., k&gt;20 voxel.</title></caption>
+					<graphic xlink:type="simple" position="float" xlink:href="info:doi/10.1371/journal.pone.0078503.g002"/>
+				</fig>
+				<fig id="pone-0078503-g003" position="float">
+					<object-id pub-id-type="doi">10.1371/journal.pone.0078503.g003</object-id><label>Figure 3</label>
+					<caption>
+						<title>Group X condition interaction and parameter estimates for activation in the amygdala and the dACC of HA and LA.</title><p>dACC: F(1,74), x=-8, y=10, z=26; amygdala (laterobasal group): F(1,74), x=-22, y=-6, z=-12; threshold: p&lt;0.001 uncorr., k&gt;20 voxel.</p>
+					</caption>
+					<graphic xlink:type="simple" position="float" xlink:href="info:doi/10.1371/journal.pone.0078503.g003"/>
+				</fig>
+				<table-wrap id="pone-0078503-t003" position="float">
+					<object-id pub-id-type="doi">10.1371/journal.pone.0078503.t003</object-id><label>Table 3</label>
+					<caption>
+						<title>Activation cluster for the group X condition interaction, p&lt;.001 uncorr., k=20.</title>
+					</caption>
+					<table>
+						<colgroup span="1"><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/></colgroup>
+						<thead>
+							<tr>
+								<th rowspan="1" colspan="1"/>
+								<th colspan="3" rowspan="1"><bold>MNI Coordinates</bold><hr/></th>
+								<th rowspan="1" colspan="1"/>
+								<th rowspan="1" colspan="1"/>
+								<th rowspan="1" colspan="1"/>
+								<th rowspan="1" colspan="1"/>
+							</tr>
+							<tr>
+								<th rowspan="1" colspan="1"><bold>Brain region</bold></th>
+								<th rowspan="1" colspan="1"><bold>x</bold></th>
+								<th rowspan="1" colspan="1"><bold>y</bold></th>
+								<th rowspan="1" colspan="1"><bold>z</bold></th>
+								<th rowspan="1" colspan="1"><bold>side</bold></th>
+								<th rowspan="1" colspan="1"><bold>k</bold></th>
+								<th rowspan="1" colspan="1"><bold>Z-score</bold></th>
+								<th rowspan="1" colspan="1"><bold>p-value</bold></th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td rowspan="1" colspan="1">dorsal anterior cingulate cortex</td>
+								<td rowspan="1" colspan="1">-8</td>
+								<td rowspan="1" colspan="1">10</td>
+								<td rowspan="1" colspan="1">26</td>
+								<td rowspan="1" colspan="1">L</td>
+								<td rowspan="1" colspan="1">56</td>
+								<td rowspan="1" colspan="1">4.54</td>
+								<td rowspan="1" colspan="1">0.000</td>
+							</tr>
+							<tr>
+								<td rowspan="1" colspan="1">cerebellum </td>
+								<td rowspan="1" colspan="1">0</td>
+								<td rowspan="1" colspan="1">-68</td>
+								<td rowspan="1" colspan="1">-24</td>
+								<td rowspan="1" colspan="1"/>
+								<td rowspan="1" colspan="1">41</td>
+								<td rowspan="1" colspan="1">3.97</td>
+								<td rowspan="1" colspan="1">0.000</td>
+							</tr>
+							<tr>
+								<td rowspan="1" colspan="1">thalamus</td>
+								<td rowspan="1" colspan="1">4</td>
+								<td rowspan="1" colspan="1">-6</td>
+								<td rowspan="1" colspan="1">0</td>
+								<td rowspan="1" colspan="1">R</td>
+								<td rowspan="1" colspan="1">38</td>
+								<td rowspan="1" colspan="1">4.07</td>
+								<td rowspan="1" colspan="1">0.000</td>
+							</tr>
+							<tr>
+								<td rowspan="1" colspan="1">amygdala</td>
+								<td rowspan="1" colspan="1">-22</td>
+								<td rowspan="1" colspan="1">-6</td>
+								<td rowspan="1" colspan="1">-12</td>
+								<td rowspan="1" colspan="1">L</td>
+								<td rowspan="1" colspan="1">36</td>
+								<td rowspan="1" colspan="1">4.00</td>
+								<td rowspan="1" colspan="1">0.000</td>
+							</tr>
+							<tr>
+								<td rowspan="1" colspan="1">inferior parietal</td>
+								<td rowspan="1" colspan="1">-34</td>
+								<td rowspan="1" colspan="1">-44</td>
+								<td rowspan="1" colspan="1">28</td>
+								<td rowspan="1" colspan="1">L</td>
+								<td rowspan="1" colspan="1">29</td>
+								<td rowspan="1" colspan="1">4.06</td>
+								<td rowspan="1" colspan="1">0.000</td>
+							</tr>
+							<tr>
+								<td rowspan="1" colspan="1">lateral globus pallidus</td>
+								<td rowspan="1" colspan="1">-24</td>
+								<td rowspan="1" colspan="1">-18</td>
+								<td rowspan="1" colspan="1">-2</td>
+								<td rowspan="1" colspan="1">L</td>
+								<td rowspan="1" colspan="1">29</td>
+								<td rowspan="1" colspan="1">3.80</td>
+								<td rowspan="1" colspan="1">0.000</td>
+							</tr>
+							<tr>
+								<td rowspan="1" colspan="1">parahippocampal gyrus</td>
+								<td rowspan="1" colspan="1">10</td>
+								<td rowspan="1" colspan="1">-6</td>
+								<td rowspan="1" colspan="1">-18</td>
+								<td rowspan="1" colspan="1">R</td>
+								<td rowspan="1" colspan="1">27</td>
+								<td rowspan="1" colspan="1">3.55</td>
+								<td rowspan="1" colspan="1">0.000</td>
+							</tr>
+							<tr>
+								<td rowspan="1" colspan="1">vlPFC</td>
+								<td rowspan="1" colspan="1">34</td>
+								<td rowspan="1" colspan="1">36</td>
+								<td rowspan="1" colspan="1">10</td>
+								<td rowspan="1" colspan="1">R</td>
+								<td rowspan="1" colspan="1">26</td>
+								<td rowspan="1" colspan="1">3.43</td>
+								<td rowspan="1" colspan="1">0.000</td>
+							</tr>
+							<tr>
+								<td rowspan="1" colspan="1">Claustrum</td>
+								<td rowspan="1" colspan="1">-26</td>
+								<td rowspan="1" colspan="1">-12</td>
+								<td rowspan="1" colspan="1">22</td>
+								<td rowspan="1" colspan="1">L</td>
+								<td rowspan="1" colspan="1">24</td>
+								<td rowspan="1" colspan="1">3.50</td>
+								<td rowspan="1" colspan="1">0.000</td>
+							</tr>
+							<tr>
+								<td rowspan="1" colspan="1">cingulate gyrus</td>
+								<td rowspan="1" colspan="1">-12</td>
+								<td rowspan="1" colspan="1">-10</td>
+								<td rowspan="1" colspan="1">32</td>
+								<td rowspan="1" colspan="1">L</td>
+								<td rowspan="1" colspan="1">23</td>
+								<td rowspan="1" colspan="1">3.76</td>
+								<td rowspan="1" colspan="1">0.000</td>
+							</tr>
+						</tbody>
+					</table>
+					<table-wrap-foot>
+						<fn>
+							<p>Abbreviations: k = cluster size</p>
+						</fn>
+					</table-wrap-foot>
+				</table-wrap>
+			</sec>
+			<sec id="s3.3">
+				<title>3.3: ROI analysis</title>
+				<p>The repeated-measures ANOVA revealed a significant effect of condition, F(1,37)=6.513, p=0.015, η<sup>2</sup>=0.15, indicating stronger amygdala activation during the solvable condition. Further, a significant main effect of laterality emerged, F(1,37)=8.27, p=0.007, η<sup>2</sup>=0.18, pointing to higher activation levels in the left compared to the right amygdala. This is in line with earlier propositions of left-lateralization of amygdala activity during affect processing [<xref ref-type="bibr" rid="B52">52</xref>]. No significant main effect of group (F(1,37)=0.470, p=0.497) or interaction effect (all p&gt;0.199) emerged. </p>
+			</sec>
+			<sec id="s3.4">
+				<title>3.4: Corollary analyses</title>
+				<p>Exploratory correlation analyses revealed several moderate associations: in HA, during unsolvable anagrams, negative correlations emerged between the left amygdala and levels of reactive aggression (r=-0.575, p=0.006), FAI summary score (r=-0.442, p=0.045) as well as LHA scores (r=-0.397, p=0.075). Furthermore, levels of spontaneous aggression were negatively correlated to left amygdala activation during unsolvable anagrams (r=-0.490, p=0.024), while there was a trend for the right amygdala (r=-0.424, p=0.056). All other tested correlations failed to reach significance (all p&gt;0.101). Specifically in LA, no correlations between amygdala levels and questionnaire data were observed. 	</p>
+			</sec>
+		</sec>
+		<sec id="s4" sec-type="discussion">
+			<title>Discussion</title>
+			<p>Our study was the first to look into the neural correlates of frustration and associated anger in healthy males with high and low trait aggression. Consistent with our hypothesis, HA reported significantly higher levels of negative affect and anger after the frustration task. The finding of stronger activation in LA compared to HA in the left vlPFC/ dlPFC and right dlPFC is in accordance with previous results relating frontal brain functioning to the regulation of aggression [<xref ref-type="bibr" rid="B14">14</xref>] and the left dlPFC to higher cognitive and self-regulatory processes, suggesting that dysfunction in this region is related to impulsivity and poor behavioral control [<xref ref-type="bibr" rid="B26">26</xref>]. In addition, more reactive aggression has been observed in healthy participants after theta burst magnetic stimulation over the left dlPFC [<xref ref-type="bibr" rid="B53">53</xref>]. Hence, a distinct frontal brain dysfunction seems to characterize both pathologically aggressive individuals and persons with high trait aggression. We speculate that this neural abnormality might have the potential to act as an endophenotype [<xref ref-type="bibr" rid="B54">54</xref>], which certainly deserves further study.</p>
+			<sec id="s4.1">
+				<title>Group X condition interaction effect - activation in vlPFC and dACC</title>
+				<p>As hypothesized, the interaction revealed lower activation in the left dorsal anterior cingulate cortex (dACC) and the right vlPFC in HA compared to LA while working on the unsolvable anagrams. This is in line with previous results relating lower vlPFC activation to impulsivity [<xref ref-type="bibr" rid="B55">55</xref>] and aggression [<xref ref-type="bibr" rid="B56">56</xref>]. Activation in the dorsal part of the ACC has frequently been reported in cognitive control and conflict monitoring [<xref ref-type="bibr" rid="B57">57</xref>,<xref ref-type="bibr" rid="B58">58</xref>] as well as in studies involving a conflict between cognitive and emotional motivations [<xref ref-type="bibr" rid="B14">14</xref>,<xref ref-type="bibr" rid="B59">59</xref>]. Sterzer and colleagues (2005) [<xref ref-type="bibr" rid="B48">48</xref>] explained the observed dACC deactivation during negative affect as interference of emotional states with cognitive processing, resulting in a failure to cognitively control and regulate emotional behavior. In line with these findings, the relatively lower activation of dACC in HA might reflect an impaired capability to control and regulate their frustration, thereby leading to a heightened propensity for impulsive aggression. While this propensity is often manifested openly in patient groups, HA subjects may have alternative strategies for counteracting the attenuated activity and the disposition to aggressive behavior. This speculation appears plausible in light of higher, albeit marginally significant, scores on total LHA in HA subjects. Total LHA has been reported to be a reliable and valid measure of a history of overt aggression in control subjects [<xref ref-type="bibr" rid="B23">23</xref>]. </p>
+				<p>Though our findings are in line with some previous studies reporting ACC but not OFC activation in response to stress and frustration [<xref ref-type="bibr" rid="B12">12</xref>,<xref ref-type="bibr" rid="B16">16</xref>,<xref ref-type="bibr" rid="B19">19</xref>,<xref ref-type="bibr" rid="B60">60</xref>], the lack of OFC/vmPFC activation in our study warrants discussion. Notably, OFC/vmPFC activation was observed in studies directly inducing anger or by passively viewing angry faces [<xref ref-type="bibr" rid="B61">61</xref>–<xref ref-type="bibr" rid="B63">63</xref>] while studies eliciting frustration by omission of reward [<xref ref-type="bibr" rid="B12">12</xref>] or social exclusion [<xref ref-type="bibr" rid="B15">15</xref>] reported pronounced ACC activation. Possibly, our task primarily induced frustration rather than anger, thus explaining why we did not observe significant activation in the OFC. Furthermore, dysfunction or damage in the OFC/vmOFC has been related to deficits in emotional/ social conduct [<xref ref-type="bibr" rid="B64">64</xref>–<xref ref-type="bibr" rid="B66">66</xref>] and aggression [<xref ref-type="bibr" rid="B26">26</xref>,<xref ref-type="bibr" rid="B67">67</xref>,<xref ref-type="bibr" rid="B68">68</xref>] and might thus imply a clear predisposition to pathological aggressive/ antisocial behavior. In contrast, in HA subjects we found distinct activation in the regulatory areas related to impulsivity (i.e. vlPFC and dlPFC). Also, while none of the adult trait anger/ aggression studies found activation in OFC/vmPFC [<xref ref-type="bibr" rid="B27">27</xref>,<xref ref-type="bibr" rid="B31">31</xref>], studies on trait PP revealed reduced activation in the high PP group [<xref ref-type="bibr" rid="B17">17</xref>,<xref ref-type="bibr" rid="B47">47</xref>,<xref ref-type="bibr" rid="B69">69</xref>]. Therefore, abnormal activation in this region seems to be associated with PP traits rather than aggressive traits – at least in a healthy population.</p>
+				<p>Regarding activation in the frontal lobe, Potegal (2012) [<xref ref-type="bibr" rid="B9">9</xref>] refers to an important paradox. According to lesion studies characterizing the inhibition of behavior such as aggression as a general function of the frontal lobe, increased anger should lead to reduced frontal lobe activity. Nevertheless, for the most part, activation increases are reported, which might be explained by GABA interneurons inhibiting activation of the OFC, thereby leading to reduced activity in OFC output neurons, and mesolimbic dopamine feedback loops simultaneously modulating the GABA interneurons, which subsequently balance out the reduced OFC activity leading to increased activation [<xref ref-type="bibr" rid="B9">9</xref>].</p>
+			</sec>
+			<sec id="s4.2">
+				<title>Interaction effect - amygdala activation</title>
+				<p>The observation of lower amygdala activation in HA with higher levels of anger was unexpected. Together with the lower frontal (i.e. dACC and vlPFC) activation in HA, this finding might reflect distinct processing strategies of the negative mood state in HA subjects. The prefrontal cortex has interconnections with the amygdala and thereby can modulate its activity [<xref ref-type="bibr" rid="B21">21</xref>,<xref ref-type="bibr" rid="B34">34</xref>,<xref ref-type="bibr" rid="B70">70</xref>,<xref ref-type="bibr" rid="B71">71</xref>]. This mechanism has been observed in disorders marked by impulsive aggression [<xref ref-type="bibr" rid="B22">22</xref>,<xref ref-type="bibr" rid="B72">72</xref>] and violence [<xref ref-type="bibr" rid="B20">20</xref>]. Since the general working model is that of prefrontal activation inhibiting the amygdala, e.g. [<xref ref-type="bibr" rid="B71">71</xref>], the attenuated activation in both the frontal cortex and the amygdala might seem surprising. A possible explanation could be an uncoupling or dysfunctional connectivity between the amygdala and the frontal cortex, or, alternatively, the involvement of a modulator region (e.g. the rostral ACC) inhibiting both the amygdala and the frontal cortex in HA. These possibilities should be explored through connectivity studies in larger clinical groups or individuals with extreme personality traits during emotion regulation tasks. </p>
+				<p>Further, attenuated amygdala response has been reported in a range of aggressive populations, especially PP and PP traits [<xref ref-type="bibr" rid="B17">17</xref>,<xref ref-type="bibr" rid="B20">20</xref>,<xref ref-type="bibr" rid="B67">67</xref>,<xref ref-type="bibr" rid="B69">69</xref>,<xref ref-type="bibr" rid="B73">73</xref>,<xref ref-type="bibr" rid="B74">74</xref>]. Lower amygdala activation in HA has been found to be associated with higher levels of spontaneous and reactive aggression. In this regard, Osumi and colleagues have recently reported higher psychopathic tendencies in healthy males being related to attenuated amygdala activity during a task triggering reactive aggression [<xref ref-type="bibr" rid="B74">74</xref>]. Still, we need to be cautious here as our groups differed only on additional aggression measures (FAI, PPI-R total score and PPI-R factor 2). There was no difference on PPI-R factor 1, which is related to primary PP and the callous-unemotional trait [<xref ref-type="bibr" rid="B17">17</xref>,<xref ref-type="bibr" rid="B38">38</xref>]. Aggressive individuals without additional primary PP traits have shown hyper-reactive responses in negative emotion processing [<xref ref-type="bibr" rid="B15">15</xref>,<xref ref-type="bibr" rid="B22">22</xref>,<xref ref-type="bibr" rid="B25">25</xref>], which is contrary to our findings. Alternatively, it could be speculated that the lower amygdala activation does not only reflect self-reported levels of anger in response to frustration in HA subjects, but also a reduced capability of impulse inhibition and lack of affective controllability. However, the observation involving the amygdala is hard to interpret and the possibility remains that there are differential underlying mechanisms in HA and LA. While the HA subjects felt frustrated during the unsolvable anagrams, the LA group might have experienced a pleasant challenge.</p>
+				<p>In sum, our results resemble previous findings in abnormally aggressive individuals, emphasizing the role of the frontal cortex, the dACC, the amygdala and partly the insula in frustration processing and the resulting feelings of anger. The insula was found to be less activated in HA, which however could not be specifically linked to the processing of unsolvable anagrams. Based on our findings, which suggest distinct frontal and limbic processing mechanisms of frustration as a function of trait aggression, further research on aggression as a dimensional construct can lead to better understanding and consequently help reduce or prevent aggression and violence in clinical populations.</p>
+			</sec>
+			<sec id="s4.3">
+				<title>Limitations and future investigations</title><p>While this study provides new insight into the neural correlates of frustration and the impact of trait aggression, several methodological constraints have to be considered: The use of a non-frustration task that elicits another emotion (e.g. fear) would have been helpful in further disentangling the brain responses that are specific to frustration from those that are generally linked to emotion reactivity and regulation.</p>
+				<p>Further, a study stated that the groups in an extreme group approach (EGA) [<xref ref-type="bibr" rid="B75">75</xref>] should contain 1/4 to 1/3 of the data [<xref ref-type="bibr" rid="B76">76</xref>]. However, we had to consider the cost-time-efficiency in our study since fMRI studies are both costly and time consuming. Also, we used EGA to detect hypothesized effects between groups which were drawn from a healthy population and therefore the expected effects were quite small. Our results, therefore, are limited compared to an analysis of full-range, continuous data [<xref ref-type="bibr" rid="B75">75</xref>]. The range for correlation analyses was also restricted as we performed these analyses within groups, due to the EGA.</p>
+				<p>While the use of non-pathological extreme groups has its benefits (e.g. the absence of substance abuse, a history of child abuse), there might be important attributes of a pathological group regarding behavior, reaction and neural processing of anger and frustration that could not be explored or taken advantage of in our study. Overt aggression possibly constitutes the factor that particularly differentiates between healthy individuals with high trait aggression and abnormally aggressive individuals. Therefore, future studies incorporating a third group showing a pathological level of aggression can compare the groups on their underlying processing mechanisms of anger and frustration and related behavioral and personality characteristics. </p>
+				<p>Finally, earlier studies [<xref ref-type="bibr" rid="B77">77</xref>], for an overview [<xref ref-type="bibr" rid="B78">78</xref>] have also implemented autonomic measures, which afford further insight into the psychophysiological processes underlying frustration and anger. Separate and simultaneous measurement of felt anger, anger control effort, facial expressions, as well as aggressive impulses and action also warrants future investigation. All these studies aim at determining the underlying mechanisms of anger and aggression and gathering information on the pathophysiology of psychiatric disorders involving aggression and abnormal frustration processing.</p>
+			</sec>
+		</sec>
+		<sec sec-type="supplementary-material">
+			<title>Supporting Information</title>
+			<supplementary-material xlink:type="simple" position="float" id="pone.0078503.s001" xlink:href="info:doi/10.1371/journal.pone.0078503.s001" mimetype="application/vnd.openxmlformats-officedocument.wordprocessingml.document">
+				<label>Table S1</label>
+				<caption>
+					<p><bold>Activations for the main effect of condition, p</bold>
+					 <bold>&lt;</bold>.001<bold> uncorr., k=20.</bold> </p><p>(DOCX)</p></caption>
+				</supplementary-material>
+			<supplementary-material xlink:type="simple" position="float" id="pone.0078503.s002" xlink:href="info:doi/10.1371/journal.pone.0078503.s002" mimetype="application/vnd.openxmlformats-officedocument.wordprocessingml.document">
+				<label>Table S2</label>
+				<caption>
+					<p><bold>Activations for the main effect of group, p</bold>
+					 <bold>&lt;</bold>.001<bold> uncorr., k=20.</bold> </p><p>(DOCX)</p></caption>
+				</supplementary-material>
+			<supplementary-material xlink:type="simple" position="float" id="pone.0078503.s003" xlink:href="info:doi/10.1371/journal.pone.0078503.s003" mimetype="application/vnd.openxmlformats-officedocument.wordprocessingml.document">
+				<label>Figure S1</label>
+				<caption>
+					<p><bold>Parameter estimate plots for the activation cluster of the group X condition interaction.</bold></p><p>(DOCX)</p></caption>
+				</supplementary-material>
+		</sec>
+	</body>
+	<back>
+		<ack>
+			<p>We thank Andreas Finkelmeyer for helpful assistance with programming and data analysis and all participants. Prof. Michael Potegal and a second anonymous reviewer provided many insightful comments. We appreciate the time they took to give these valuable reviews. </p>
+		</ack>
+		<ref-list>
+			<title>References</title><ref id="B1">
+				<label>1</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Berkowitz</surname><given-names>RL</given-names></name>, <name name-style="western"><surname>Harmon-Jones</surname><given-names>E</given-names></name> (<year>1989</year>) <article-title>Frustration–aggression hypothesis: Examination and reformulation</article-title>. <source>Psychol Bull</source> <volume>106</volume>: <fpage>59</fpage>–<lpage>73</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1037/0033-2909.106.1.59" xlink:type="simple">10.1037/0033-2909.106.1.59</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/2667009" xlink:type="simple">2667009</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B2">
+				<label>2</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Berkowitz</surname><given-names>RL</given-names></name>, <name name-style="western"><surname>Harmon-Jones</surname><given-names>E</given-names></name> (<year>1990</year>) <article-title>On the formation and regulation of anger and aggression: A cognitive–neoassociationistic analysis</article-title>. <source>Am Psychol</source> <volume>45</volume>: <fpage>494</fpage>–<lpage>503</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1037/0003-066X.45.4.494" xlink:type="simple">10.1037/0003-066X.45.4.494</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/2186678" xlink:type="simple">2186678</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B3">
+				<label>3</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Nelson</surname><given-names>RJ</given-names></name>, <name name-style="western"><surname>Trainor</surname><given-names>BC</given-names></name> (<year>2007</year>) <article-title>Neural mechanisms of aggression</article-title>. <source>Nat Rev Neurosci</source> <volume>8</volume>: <fpage>536</fpage>-<lpage>546</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1038/nrn2174" xlink:type="simple">10.1038/nrn2174</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/17585306" xlink:type="simple">17585306</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B4">
+				<label>4</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Patrick</surname><given-names>CJ</given-names></name>, <name name-style="western"><surname>Cuthbert</surname><given-names>BN</given-names></name>, <name name-style="western"><surname>Lang</surname><given-names>PJ</given-names></name> (<year>1994</year>) <article-title>Emotion in the criminal psychopath: fear image processing</article-title>. <source>J Abn Psychol</source> <volume>103</volume>: <fpage>523</fpage>–<lpage>534</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1037/0021-843X.103.3.523" xlink:type="simple">10.1037/0021-843X.103.3.523</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/7930052" xlink:type="simple">7930052</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B5">
+				<label>5</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Siever</surname><given-names>LJ</given-names></name> (<year>2008</year>) <article-title>Neurobiology of aggression and violence</article-title>. <source>Am J Psychiatry</source> <volume>165</volume>: <fpage>429</fpage>-<lpage>442</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1176/appi.ajp.2008.07111774" xlink:type="simple">10.1176/appi.ajp.2008.07111774</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/18346997" xlink:type="simple">18346997</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B6">
+				<label>6</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Williams</surname><given-names>KD</given-names></name> (<year>2009</year>) <article-title>The Effects of frustration, violence, and trait hostility after playing a violent video game</article-title>. <source>Mass Commun Soc</source> <volume>12</volume>: <fpage>291</fpage>-<lpage>310</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1080/15205430802461087" xlink:type="simple">10.1080/15205430802461087</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B7">
+				<label>7</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Berkowitz</surname><given-names>RL</given-names></name>, <name name-style="western"><surname>Harmon-Jones</surname><given-names>E</given-names></name> (<year>2004</year>) <article-title>Toward an understanding of the determinants of anger</article-title>. <source>Emotion</source> <volume>4</volume>: <fpage>107</fpage>-<lpage>130</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1037/1528-3542.4.2.107" xlink:type="simple">10.1037/1528-3542.4.2.107</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/15222847" xlink:type="simple">15222847</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B8">
+				<label>8</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Harmon-Jones</surname><given-names>E</given-names></name>, <name name-style="western"><surname>Sigelman</surname><given-names>J</given-names></name> (<year>2001</year>) <article-title>State anger and prefrontal brain activity: Evidence that insult-related relative left-prefrontal activation is associated with experienced anger and aggression</article-title>. <source>J Pers Soc Psychol</source> <volume>80</volume>: <fpage>797</fpage>-<lpage>803</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1037/0022-3514.80.5.797" xlink:type="simple">10.1037/0022-3514.80.5.797</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/11374750" xlink:type="simple">11374750</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B9">
+				<label>9</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Potegal</surname><given-names>M</given-names></name> (<year>2012</year>) <article-title>Temporal and frontal lobe initiation and regulation of the top-down escalation of anger and aggression</article-title>. <source>Behav Brain Res</source> <volume>231</volume>: <fpage>386</fpage>-<lpage>395</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.bbr.2011.10.049" xlink:type="simple">10.1016/j.bbr.2011.10.049</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/22085875" xlink:type="simple">22085875</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B10">
+				<label>10</label>
+				<mixed-citation publication-type="book" xlink:type="simple"><name name-style="western"><surname>Williams</surname><given-names>JE</given-names></name> (<year>2010</year>) <article-title>Anger/hostility and cardiovascular disease</article-title>. In: <person-group person-group-type="editor"><name name-style="western"><surname>Potegal</surname><given-names>M</given-names></name></person-group>. <source>International handbook of anger</source>. <publisher-loc>New York</publisher-loc>: <publisher-name>Springer Verlag</publisher-name>. pp. <fpage>435</fpage>-<lpage>447</lpage>.</mixed-citation>
+			</ref>
+			<ref id="B11">
+				<label>11</label>
+				<mixed-citation publication-type="book" xlink:type="simple"><name name-style="western"><surname>Bond</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Wingrove</surname><given-names>J</given-names></name> (<year>2010</year>) <article-title>The neurochemistry and psychopharmacology of agner</article-title>. In: <person-group person-group-type="editor"><name name-style="western"><surname>Potegal</surname><given-names>M</given-names></name></person-group>. <source>International handbook of anger</source>. <publisher-loc>New York</publisher-loc>: <publisher-name>Springer Verlag</publisher-name>. pp. <fpage>79</fpage>-<lpage>102</lpage>.</mixed-citation>
+			</ref>
+			<ref id="B12">
+				<label>12</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Abler</surname><given-names>B</given-names></name>, <name name-style="western"><surname>Walter</surname><given-names>H</given-names></name>, <name name-style="western"><surname>Erk</surname><given-names>S</given-names></name> (<year>2005</year>) <article-title>Neural correlates of frustration</article-title>. <source>Neuroreport</source> <volume>16</volume>: <fpage>669</fpage>-<lpage>672</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1097/00001756-200505120-00003" xlink:type="simple">10.1097/00001756-200505120-00003</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/15858403" xlink:type="simple">15858403</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B13">
+				<label>13</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Bettencourt</surname><given-names>BA</given-names></name>, <name name-style="western"><surname>Talley</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Benjamin</surname><given-names>AJ</given-names></name>, <name name-style="western"><surname>Valentine</surname><given-names>J</given-names></name> (<year>2006</year>) <article-title>Personality and aggressive behaviour under provoking and neutral conditions: A meta-analytic review</article-title>. <source>Psychol Bull</source> <volume>132</volume>: <fpage>751</fpage>-<lpage>777</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1037/0033-2909.132.5.751" xlink:type="simple">10.1037/0033-2909.132.5.751</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/16910753" xlink:type="simple">16910753</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B14">
+				<label>14</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Denson</surname><given-names>TF</given-names></name>, <name name-style="western"><surname>Pedersen</surname><given-names>WC</given-names></name>, <name name-style="western"><surname>Ronquillo</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Nandy</surname><given-names>AS</given-names></name> (<year>2008</year>) <article-title>The angry brain: Neural correlates of anger, angry rumination, and aggressive personality</article-title>. <source>J Cogn Neurosci</source> <volume>21</volume>: <fpage>734</fpage>-<lpage>744</lpage>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/18578600" xlink:type="simple">18578600</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B15">
+				<label>15</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Eisenberger</surname><given-names>NL</given-names></name>, <name name-style="western"><surname>Lieberman</surname><given-names>MD</given-names></name>, <name name-style="western"><surname>Williams</surname><given-names>KD</given-names></name> (<year>2003</year>) <article-title>Does rejection hurt? An fMRI study of social exclusion</article-title>. <source>Science</source> <volume>302</volume>: <fpage>290</fpage>-<lpage>292</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1126/science.1089134" xlink:type="simple">10.1126/science.1089134</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/14551436" xlink:type="simple">14551436</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B16">
+				<label>16</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Eisenberger</surname><given-names>NI</given-names></name>, <name name-style="western"><surname>Taylor</surname><given-names>SE</given-names></name>, <name name-style="western"><surname>Gable</surname><given-names>SL</given-names></name>, <name name-style="western"><surname>Hilmert</surname><given-names>CJ</given-names></name>, <name name-style="western"><surname>Lieberman</surname><given-names>MD</given-names></name> (<year>2007</year>) <article-title>Neural pathways link social support to attenuated neuroendocrine stress responses</article-title>. <source>NeuroImage</source> <volume>35</volume>: <fpage>1601</fpage>-<lpage>1612</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.neuroimage.2007.01.038" xlink:type="simple">10.1016/j.neuroimage.2007.01.038</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/17395493" xlink:type="simple">17395493</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B17">
+				<label>17</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Rilling</surname><given-names>JK</given-names></name>, <name name-style="western"><surname>Glenn</surname><given-names>AL</given-names></name>, <name name-style="western"><surname>Jairam</surname><given-names>MR</given-names></name>, <name name-style="western"><surname>Pagnoni</surname><given-names>G</given-names></name>, <name name-style="western"><surname>Goldsmith</surname><given-names>DR</given-names></name> <etal>et al.</etal> (<year>2007</year>) <article-title>Neural correlates of social cooperation and non-cooperation as a function of psychopathy</article-title>. <source>Biol Psychiatry</source> <volume>61</volume>: <fpage>1260</fpage>-<lpage>1271</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.biopsych.2006.07.021" xlink:type="simple">10.1016/j.biopsych.2006.07.021</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/17046722" xlink:type="simple">17046722</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B18">
+				<label>18</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Rilling</surname><given-names>JK</given-names></name>, <name name-style="western"><surname>Gutman</surname><given-names>DA</given-names></name>, <name name-style="western"><surname>Zeh</surname><given-names>TR</given-names></name>, <name name-style="western"><surname>Pagnoni</surname><given-names>G</given-names></name>, <name name-style="western"><surname>Berns</surname><given-names>GS</given-names></name> <etal>et al.</etal> (<year>2002</year>) <article-title>A neural basis for social cooperation</article-title>. <source>Neuron</source> <volume>35</volume>: <fpage>395</fpage>-<lpage>405</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/S0896-6273(02)00755-9" xlink:type="simple">10.1016/S0896-6273(02)00755-9</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/12160756" xlink:type="simple">12160756</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B19">
+				<label>19</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Siegrist</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Menrath</surname><given-names>I</given-names></name>, <name name-style="western"><surname>Stöcker</surname><given-names>T</given-names></name>, <name name-style="western"><surname>Klein</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Kellermann</surname><given-names>T</given-names></name> <etal>et al.</etal> (<year>2005</year>) <article-title>Differential brain activation according to chronic social reward frustration</article-title>. <source>Neuroreport</source> <volume>16</volume>: <fpage>1899</fpage>-<lpage>1903</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1097/01.wnr.0000186601.50996.f7" xlink:type="simple">10.1097/01.wnr.0000186601.50996.f7</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/16272875" xlink:type="simple">16272875</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B20">
+				<label>20</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Coccaro</surname><given-names>EF</given-names></name>, <name name-style="western"><surname>McCloskey</surname><given-names>MS</given-names></name>, <name name-style="western"><surname>Fitzgerald</surname><given-names>DA</given-names></name>, <name name-style="western"><surname>Phan</surname><given-names>KL</given-names></name> (<year>2007</year>) <article-title>Amygdala and orbitofrontal reactivity to social threat in individuals with impulsive aggression</article-title>. <source>Biol Psychiatry</source> <volume>62</volume>: <fpage>168</fpage>-<lpage>178</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.biopsych.2006.08.024" xlink:type="simple">10.1016/j.biopsych.2006.08.024</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/17210136" xlink:type="simple">17210136</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B21">
+				<label>21</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Coccaro</surname><given-names>EF</given-names></name>, <name name-style="western"><surname>Sripada</surname><given-names>CS</given-names></name>, <name name-style="western"><surname>Yanowitch</surname><given-names>RN</given-names></name>, <name name-style="western"><surname>Phan</surname><given-names>KL</given-names></name> (<year>2011</year>) <article-title>Corticolimbic function in impulsive aggressive behavior</article-title>. <source>Biol Psychiatry</source> <volume>69</volume>: <fpage>1153</fpage>-<lpage>1159</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.biopsych.2011.02.032" xlink:type="simple">10.1016/j.biopsych.2011.02.032</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/21531387" xlink:type="simple">21531387</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B22">
+				<label>22</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>New</surname><given-names>AS</given-names></name>, <name name-style="western"><surname>Hazlett</surname><given-names>EA</given-names></name>, <name name-style="western"><surname>Newmark</surname><given-names>RE</given-names></name>, <name name-style="western"><surname>Zhang</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Triebwasser</surname><given-names>J</given-names></name> <etal>et al.</etal> (<year>2009</year>) <article-title>Laboratory Induced Aggression: A Positron Emission Tomography Study of Aggressive Individuals with Borderline Personality Disorder</article-title>. <source>Biol Psychiatry</source> <volume>66</volume>: <fpage>1107</fpage>-<lpage>1114</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.biopsych.2009.07.015" xlink:type="simple">10.1016/j.biopsych.2009.07.015</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/19748078" xlink:type="simple">19748078</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B23">
+				<label>23</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Coccaro</surname><given-names>EF</given-names></name>, <name name-style="western"><surname>Berman</surname><given-names>ME</given-names></name>, <name name-style="western"><surname>Kavoussi</surname><given-names>RJ</given-names></name> (<year>1997</year>) <article-title>Assessment of life history of aggression: development and psychometric characteristics</article-title>. <source>Psychiatry Res</source> <volume>73</volume>: <fpage>147</fpage>-<lpage>157</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/S0165-1781(97)00119-4" xlink:type="simple">10.1016/S0165-1781(97)00119-4</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/9481806" xlink:type="simple">9481806</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B24">
+				<label>24</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Raine</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Buchsbaum</surname><given-names>MS</given-names></name>, <name name-style="western"><surname>Stanley</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Lottenberg</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Abel</surname><given-names>L</given-names></name> <etal>et al.</etal> (<year>1994</year>) <article-title>Selective reductions in prefrontal glucose metabolism in murderers</article-title>. <source>Biol Psychiatry</source> <volume>36</volume>: <fpage>365</fpage>-<lpage>373</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/0006-3223(94)91211-4" xlink:type="simple">10.1016/0006-3223(94)91211-4</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/7803597" xlink:type="simple">7803597</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B25">
+				<label>25</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Raine</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Meloy</surname><given-names>JR</given-names></name>, <name name-style="western"><surname>Bihrle</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Stoddard</surname><given-names>J</given-names></name>, <name name-style="western"><surname>LaCasse</surname><given-names>L</given-names></name> <etal>et al.</etal> (<year>1998</year>) <article-title>Reduced prefrontal and increased subcortical brain functioning assessed using positron emission tomography in predatory and affective murderers</article-title>. <source>Behav Sci Law</source> <volume>16</volume>: <fpage>319</fpage>-<lpage>322</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1002/(SICI)1099-0798(199822)16:3" xlink:type="simple">10.1002/(SICI)1099-0798(199822)16:3</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/9768464" xlink:type="simple">9768464</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B26">
+				<label>26</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Yang</surname><given-names>Y</given-names></name>, <name name-style="western"><surname>Raine</surname><given-names>A</given-names></name> (<year>2009</year>) <article-title>Prefrontal structural and functional brain imaging findings in antisocial, violent and psychopathic indiviuals: a meta-analysis</article-title>. <source>Psychiatry Res</source> <volume>174</volume>: <fpage>81</fpage>-<lpage>88</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.pscychresns.2009.03.012" xlink:type="simple">10.1016/j.pscychresns.2009.03.012</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/19833485" xlink:type="simple">19833485</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B27">
+				<label>27</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Carre</surname><given-names>JM</given-names></name>, <name name-style="western"><surname>Fisher</surname><given-names>PM</given-names></name>, <name name-style="western"><surname>Manuck</surname><given-names>SB</given-names></name>, <name name-style="western"><surname>Hariri</surname><given-names>AR</given-names></name> (<year>2010</year>) <article-title>Interaction between trait anxiety and trait anger predict amygdala reactivity to angry facial expressions in men but not women</article-title>. <source>Soc Cogn Affec Neurosci</source> <volume>2</volume>: <fpage>213</fpage>-<lpage>221</lpage>.</mixed-citation>
+			</ref>
+			<ref id="B28">
+				<label>28</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Sebastian</surname><given-names>CL</given-names></name>, <name name-style="western"><surname>McCrory</surname><given-names>EJP</given-names></name>, <name name-style="western"><surname>Cecil</surname><given-names>CAM</given-names></name>, <name name-style="western"><surname>Lockwood</surname><given-names>PL</given-names></name>, <name name-style="western"><surname>De Brito</surname><given-names>SA</given-names></name> <etal>et al.</etal> (<year>2012</year>) <article-title>Neural responses to affective and cognitive theory of mind in children with conduct problems and varying levels of callous-unemotional traits</article-title>. <source>Arch Gen Psychiatry</source> <volume>69</volume>: <fpage>814</fpage>-<lpage>822</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1001/archgenpsychiatry.2011.2070" xlink:type="simple">10.1001/archgenpsychiatry.2011.2070</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/22868935" xlink:type="simple">22868935</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B29">
+				<label>29</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Jones</surname><given-names>AP</given-names></name>, <name name-style="western"><surname>Laurens</surname><given-names>KR</given-names></name>, <name name-style="western"><surname>Herba</surname><given-names>CM</given-names></name>, <name name-style="western"><surname>Barker</surname><given-names>GJ</given-names></name>, <name name-style="western"><surname>Viding</surname><given-names>E</given-names></name> (<year>2009</year>) <article-title>Amygdala hypoactivity to fearful faces in boys with conduct problems and callous-unemotional traits</article-title>. <source>Am J Psychiatry</source> <volume>166</volume>: <fpage>95</fpage>-<lpage>102</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1176/appi.ajp.2008.07071050" xlink:type="simple">10.1176/appi.ajp.2008.07071050</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/18923070" xlink:type="simple">18923070</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B30">
+				<label>30</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Birbaumer</surname><given-names>N</given-names></name>, <name name-style="western"><surname>Veit</surname><given-names>R</given-names></name>, <name name-style="western"><surname>Lotze</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Erb</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Hermann</surname><given-names>C</given-names></name> <etal>et al.</etal> (<year>2005</year>) <article-title>Deficient fear conditioning in psychopathy</article-title>. <source>Arch Gen Psychiatry</source> <volume>62</volume>: <fpage>799</fpage>-<lpage>805</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1001/archpsyc.62.7.799" xlink:type="simple">10.1001/archpsyc.62.7.799</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/15997022" xlink:type="simple">15997022</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B31">
+				<label>31</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Pawliczek</surname><given-names>CM</given-names></name>, <name name-style="western"><surname>Derntl</surname><given-names>B</given-names></name>, <name name-style="western"><surname>Kellermann</surname><given-names>T</given-names></name>, <name name-style="western"><surname>Kohn</surname><given-names>N</given-names></name>, <name name-style="western"><surname>Gur</surname><given-names>RC</given-names></name> <etal>et al.</etal> (<year>2013</year>) <article-title>Inhibitory control and trait aggression: neural and behavioral insights using the emotional stop signal task</article-title>. <source>NeuroImage</source> <volume>79</volume>: <fpage>264</fpage>-<lpage>274</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.neuroimage.2013.04.104" xlink:type="simple">10.1016/j.neuroimage.2013.04.104</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/23660028" xlink:type="simple">23660028</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B32">
+				<label>32</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Strenziok</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Krueger</surname><given-names>F</given-names></name>, <name name-style="western"><surname>Heinecke</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Lenroot</surname><given-names>RK</given-names></name>, <name name-style="western"><surname>Knutson</surname><given-names>KM</given-names></name> <etal>et al.</etal> (<year>2011</year>) <article-title>Developmental effects of aggressive behavior in male adolescents assessed with structural and functional brain imaging</article-title>. <source>Soc Cogn Affec Neurosci</source> <volume>6</volume>: <fpage>2</fpage>-<lpage>11</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1093/scan/nsp036" xlink:type="simple">10.1093/scan/nsp036</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/19770220" xlink:type="simple">19770220</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B33">
+				<label>33</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Schneider</surname><given-names>F</given-names></name>, <name name-style="western"><surname>Gur</surname><given-names>RE</given-names></name>, <name name-style="western"><surname>Alavi</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Seligman</surname><given-names>ME</given-names></name>, <name name-style="western"><surname>Mozley</surname><given-names>LH</given-names></name> <etal>et al.</etal> (<year>1996</year>) <article-title>Cerebral blood flow changes in limbic regions induced by unsolvable anagram tasks</article-title>. <source>Am J Psychiatry</source> <volume>153</volume>: <fpage>206</fpage>-<lpage>212</lpage>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/8561200" xlink:type="simple">8561200</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B34">
+				<label>34</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Carretié</surname><given-names>L</given-names></name>, <name name-style="western"><surname>Albert</surname><given-names>J</given-names></name>, <name name-style="western"><surname>López-Martín</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Tapia</surname><given-names>M</given-names></name> (<year>2009</year>) <article-title>Negative brain: An integrative review on the neural processes activated by unpleasant stimuli</article-title>. <source>Int J Psychophysiol</source> <volume>71</volume>: <fpage>57</fpage>-<lpage>63</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.ijpsycho.2008.07.006" xlink:type="simple">10.1016/j.ijpsycho.2008.07.006</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/18727941" xlink:type="simple">18727941</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B35">
+				<label>35</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Costafreda</surname><given-names>SG</given-names></name>, <name name-style="western"><surname>Brammer</surname><given-names>MJ</given-names></name>, <name name-style="western"><surname>David</surname><given-names>AS</given-names></name>, <name name-style="western"><surname>Fu</surname><given-names>C</given-names></name> (<year>2008</year>) <article-title>Predictors of amygdala activation during the processing of emotional stimuli: A meta-analysis of 385 PET and fMRI studies. Brain</article-title>. <source>Res Rev</source> <volume>58</volume>: <fpage>57</fpage>-<lpage>70</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.brainresrev.2007.10.012" xlink:type="simple">10.1016/j.brainresrev.2007.10.012</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B36">
+				<label>36</label>
+				<mixed-citation publication-type="other" xlink:type="simple"><name name-style="western"><surname>Alpers</surname><given-names>GW</given-names></name>, <name name-style="western"><surname>Eisenbarth</surname><given-names>H</given-names></name>, editors (<year>2008</year>) <article-title>Psychopathic Personality Inventory-Revised (PPI-R). Deutsche Version. Goettingen</article-title>.</mixed-citation>
+			</ref>
+			<ref id="B37">
+				<label>37</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Lilienfeld</surname><given-names>SO</given-names></name>, <name name-style="western"><surname>Andrews</surname><given-names>BP</given-names></name> (<year>1996</year>) <article-title>Development and preliminary validation of a self-report measure of psychopathic personality traits in noncriminal populations</article-title>. <source>J Pers Assess</source> <volume>66</volume>: <fpage>488</fpage>-<lpage>524</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1207/s15327752jpa6603_3" xlink:type="simple">10.1207/s15327752jpa6603_3</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/8667144" xlink:type="simple">8667144</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B38">
+				<label>38</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Benning</surname><given-names>SD</given-names></name>, <name name-style="western"><surname>Patrick</surname><given-names>CJ</given-names></name>, <name name-style="western"><surname>Blonigen</surname><given-names>DM</given-names></name>, <name name-style="western"><surname>Hicks</surname><given-names>BM</given-names></name>, <name name-style="western"><surname>Iacono</surname><given-names>WG</given-names></name> (<year>2005</year>) <article-title>Estimating facets of psychopathy from normal personality traits: A step toward community-epidemiological investigations</article-title>. <source>Assessment</source> <volume>12</volume>: <fpage>3</fpage>-<lpage>18</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1177/1073191104271223" xlink:type="simple">10.1177/1073191104271223</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/15695739" xlink:type="simple">15695739</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B39">
+				<label>39</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Buss</surname><given-names>AH</given-names></name>, <name name-style="western"><surname>Perry</surname><given-names>M</given-names></name> (<year>1992</year>) <article-title>The aggression questionnaire</article-title>. <source>J Pers Soc Psychol</source> <volume>63</volume>: <fpage>452</fpage>-<lpage>459</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1037/0022-3514.63.3.452" xlink:type="simple">10.1037/0022-3514.63.3.452</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/1403624" xlink:type="simple">1403624</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B40">
+				<label>40</label>
+				<mixed-citation publication-type="book" xlink:type="simple"><name name-style="western"><surname>Wittchen</surname><given-names>HU</given-names></name>, <name name-style="western"><surname>Zaudig</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Fydrich</surname><given-names>T</given-names></name>, editors (<year>1997</year>) <source>Strukturiertes Klinisches Interview für DSM-IV</source>. <publisher-loc>Goettingen</publisher-loc>: <publisher-name>Hogrefe</publisher-name>.</mixed-citation>
+			</ref>
+			<ref id="B41">
+				<label>41</label>
+				<mixed-citation publication-type="book" xlink:type="simple"><name name-style="western"><surname>Pawliczek</surname><given-names>C</given-names></name> (<year>2012</year>) <article-title>Neuronale Korrelate von Frustration und Impulsivität</article-title>. In: <person-group person-group-type="editor"><name name-style="western"><surname>Schneider</surname><given-names>F</given-names></name></person-group>. <source>Positionen der Psychiatrie</source>. <publisher-loc>Heidelberg</publisher-loc>: <publisher-name>Springer Verlag</publisher-name>.</mixed-citation>
+			</ref>
+			<ref id="B42">
+				<label>42</label>
+				<mixed-citation publication-type="book" xlink:type="simple"><name name-style="western"><surname>Pawliczek</surname><given-names>C</given-names></name>, <name name-style="western"><surname>Habel</surname><given-names>U</given-names></name> (<year>2012</year>) <article-title>Neuronale Korrelate von Frustration bei Maennern mit hoher und niedriger Trait-Aggressivität</article-title>; In: <person-group person-group-type="editor"><name name-style="western"><surname>Müller</surname><given-names>JL</given-names></name><name name-style="western"><surname>Roesler</surname><given-names>M</given-names></name><name name-style="western"><surname>Briken</surname><given-names>P</given-names></name><name name-style="western"><surname>Fromberger</surname><given-names>P</given-names></name><name name-style="western"><surname>Jordan</surname><given-names>K</given-names></name></person-group>. <comment>EFPPP Jahrbuch 2012</comment> <comment>Empirische Forschung in der forensischen Psychiatrie, Psychologie und Psychotherapie. Goettingen: Medizinisch Wissenschaftliche Verlagsgesellschaft</comment></mixed-citation>
+			</ref>
+			<ref id="B43">
+				<label>43</label>
+				<mixed-citation publication-type="book" xlink:type="simple"><name name-style="western"><surname>Hampel</surname><given-names>R</given-names></name>, <name name-style="western"><surname>Selg</surname><given-names>H</given-names></name> (<year>1975</year>) <source>Der Freiburger Aggressionsfragebogen (FAF)</source>. <publisher-loc>Göttingen</publisher-loc>: <publisher-name>Hogrefe</publisher-name>.</mixed-citation>
+			</ref>
+			<ref id="B44">
+				<label>44</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Krohne</surname><given-names>HW</given-names></name>, <name name-style="western"><surname>Egloff</surname><given-names>B</given-names></name>, <name name-style="western"><surname>Kohlmann</surname><given-names>C-W</given-names></name>, <name name-style="western"><surname>Tausch</surname><given-names>A</given-names></name> (<year>1996</year>) <article-title>Untersuchung mit einer deutschen Form der Positive and Negative Affect Schedule (PANAS)</article-title>. <source>Diagnostica</source> <volume>42</volume>: <fpage>139</fpage>-<lpage>156</lpage>.</mixed-citation>
+			</ref>
+			<ref id="B45">
+				<label>45</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Schneider</surname><given-names>F</given-names></name>, <name name-style="western"><surname>Gur</surname><given-names>RC</given-names></name>, <name name-style="western"><surname>Gur</surname><given-names>RE</given-names></name>, <name name-style="western"><surname>Muenz</surname><given-names>LR</given-names></name> (<year>1994</year>) <article-title>Standardized mood induction with happy and sad facial expressions</article-title>. <source>Psychiatry Res</source> <volume>51</volume>: <fpage>19</fpage>-<lpage>31</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/0165-1781(94)90044-2" xlink:type="simple">10.1016/0165-1781(94)90044-2</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/8197269" xlink:type="simple">8197269</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B46">
+				<label>46</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Friston</surname><given-names>KJ</given-names></name>, <name name-style="western"><surname>Holmes</surname><given-names>AP</given-names></name>, <name name-style="western"><surname>Worsley</surname><given-names>KJ</given-names></name>, <name name-style="western"><surname>Poline</surname><given-names>J-P</given-names></name>, <name name-style="western"><surname>Frith</surname><given-names>CD</given-names></name> <etal>et al.</etal> (<year>1994</year>) <article-title>Statistical parametric maps in functional imaging: A general linear approach</article-title>. <source>Hum Brain Mapp</source> <volume>2</volume>: <fpage>189</fpage>–<lpage>210</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1002/hbm.460020402" xlink:type="simple">10.1002/hbm.460020402</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B47">
+				<label>47</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Fullam</surname><given-names>RS</given-names></name>, <name name-style="western"><surname>McKie</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Dolan</surname><given-names>MC</given-names></name> (<year>2009</year>) <article-title>Psychopathic traits and deception: functional magnetic resonance imaging study</article-title>. <source>Br J Psychiatry</source> <volume>194</volume>: <fpage>229</fpage>-<lpage>235</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1192/bjp.bp.108.053199" xlink:type="simple">10.1192/bjp.bp.108.053199</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/19252152" xlink:type="simple">19252152</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B48">
+				<label>48</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Sterzer</surname><given-names>P</given-names></name>, <name name-style="western"><surname>Stadler</surname><given-names>C</given-names></name>, <name name-style="western"><surname>Krebs</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Kleinschmidt</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Poustka</surname><given-names>F</given-names></name> (<year>2005</year>) <article-title>Abnormal neural responses to emotional visual stimuli in adolescents with conduct disorder</article-title>. <source>Biol Psychiatry</source> <volume>57</volume>: <fpage>7</fpage>-<lpage>15</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.biopsych.2004.10.008" xlink:type="simple">10.1016/j.biopsych.2004.10.008</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/15607294" xlink:type="simple">15607294</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B49">
+				<label>49</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Eickhoff</surname><given-names>SB</given-names></name>, <name name-style="western"><surname>Heim</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Zilles</surname><given-names>K</given-names></name>, <name name-style="western"><surname>Amunts</surname><given-names>K</given-names></name> (<year>2006</year>) <article-title>Testing anatomically specified hypotheses in functional imaging using cytoarchitectonic maps</article-title>. <source>NeuroImage</source> <volume>32</volume>: <fpage>570</fpage>-<lpage>582</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.neuroimage.2006.04.204" xlink:type="simple">10.1016/j.neuroimage.2006.04.204</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/16781166" xlink:type="simple">16781166</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B50">
+				<label>50</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Eickhoff</surname><given-names>SB</given-names></name>, <name name-style="western"><surname>Stephan</surname><given-names>KE</given-names></name>, <name name-style="western"><surname>Mohlberg</surname><given-names>H</given-names></name>, <name name-style="western"><surname>Grefkes</surname><given-names>C</given-names></name>, <name name-style="western"><surname>Fink</surname><given-names>GR</given-names></name> <etal>et al.</etal> (<year>2005</year>) <article-title>A new SPM toolbox for combining probabilistic cytoarchitectonic maps and functional imaging data</article-title>. <source>Neuroimage</source> <volume>25</volume>: <fpage>1325</fpage>-<lpage>1335</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.neuroimage.2004.12.034" xlink:type="simple">10.1016/j.neuroimage.2004.12.034</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/15850749" xlink:type="simple">15850749</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B51">
+				<label>51</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Amunts</surname><given-names>K</given-names></name>, <name name-style="western"><surname>Kedo</surname><given-names>O</given-names></name>, <name name-style="western"><surname>Kindler</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Pieperhoff</surname><given-names>P</given-names></name>, <name name-style="western"><surname>Mohlberg</surname><given-names>H</given-names></name> <etal>et al.</etal> (<year>2005</year>) <article-title>Cytoarchitectonic mapping of the human amygdala, hippocampal region and entorhinal cortex: intersubject variability and probability maps</article-title>. <source>Anat Embryol</source> <volume>210</volume>: <fpage>343</fpage>-<lpage>352</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1007/s00429-005-0025-5" xlink:type="simple">10.1007/s00429-005-0025-5</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/16208455" xlink:type="simple">16208455</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B52">
+				<label>52</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Killgore</surname><given-names>WD</given-names></name>, <name name-style="western"><surname>Yurgelun-Todd</surname><given-names>DA</given-names></name> (<year>2001</year>) <article-title>Sex differences in amygdala activation during the perception of facial affect</article-title>. <source>Neuroreport</source> <volume>12</volume>: <fpage>2543</fpage>-<lpage>2547</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1097/00001756-200108080-00050" xlink:type="simple">10.1097/00001756-200108080-00050</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/11496145" xlink:type="simple">11496145</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B53">
+				<label>53</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Perach-Barzilay</surname><given-names>N</given-names></name>, <name name-style="western"><surname>Tauber</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Klein</surname><given-names>E</given-names></name>, <name name-style="western"><surname>Chistyakov</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Ne'eman</surname><given-names>R</given-names></name> <etal>et al.</etal> (<year>2013</year>) <article-title>Asymmetry in the dorsolateral prefrontal cortex and aggressive behavior: A continuous theta-burst magnetic stimulation study</article-title>. <source>Soc Neuroscience</source> <volume>8</volume>: <fpage>178</fpage>-<lpage>188</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1080/17470919.2012.720602" xlink:type="simple">10.1080/17470919.2012.720602</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/22963204" xlink:type="simple">22963204</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B54">
+				<label>54</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Gottesman</surname><given-names>II</given-names></name>, <name name-style="western"><surname>Gould</surname><given-names>TD</given-names></name> (<year>2003</year>) <article-title>The endophenotype concept in psychiatry: Etymology and strategic intentions</article-title>. <source>Am J Psychiatry</source> <volume>160</volume>: <fpage>636</fpage>-<lpage>645</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1176/appi.ajp.160.4.636" xlink:type="simple">10.1176/appi.ajp.160.4.636</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/12668349" xlink:type="simple">12668349</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B55">
+				<label>55</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Asahi</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Okamoto</surname><given-names>Y</given-names></name>, <name name-style="western"><surname>Okada</surname><given-names>G</given-names></name>, <name name-style="western"><surname>Yamawaki</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Yokota</surname><given-names>N</given-names></name> (<year>2004</year>) <article-title>Negative correlation between right prefrontal activity during response inhibition and impulsiveness: A fMRI study</article-title>. <source>Eur Arch Psy Clin N</source> <volume>254</volume>: <fpage>245</fpage>-<lpage>251</lpage>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/15309395" xlink:type="simple">15309395</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B56">
+				<label>56</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Gansler</surname><given-names>DA</given-names></name>, <name name-style="western"><surname>Lee</surname><given-names>AK</given-names></name>, <name name-style="western"><surname>Emerton</surname><given-names>BC</given-names></name>, <name name-style="western"><surname>D'Amato</surname><given-names>C</given-names></name>, <name name-style="western"><surname>Bhadelia</surname><given-names>R</given-names></name> <etal>et al.</etal> (<year>2011</year>) <article-title>Prefrontal regional correlates of self-control in male psychiatric patients: Impulsivity facets and aggression</article-title>. <source>Psychiatry Res Neuroimaging</source> <volume>191</volume>: <fpage>16</fpage>-<lpage>23</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.pscychresns.2010.09.003" xlink:type="simple">10.1016/j.pscychresns.2010.09.003</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/21145213" xlink:type="simple">21145213</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B57">
+				<label>57</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Carter</surname><given-names>CS</given-names></name>, <name name-style="western"><surname>Botvinick</surname><given-names>MM</given-names></name>, <name name-style="western"><surname>Cohen</surname><given-names>JD</given-names></name> (<year>1999</year>) <article-title>The contribution of the anterior cingulate cortex to executive processes in cognition</article-title>. <source>Rev Neurosci</source> <volume>10</volume>: <fpage>49</fpage>-<lpage>67</lpage>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/10356991" xlink:type="simple">10356991</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B58">
+				<label>58</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Kerns</surname><given-names>JG</given-names></name>, <name name-style="western"><surname>Cohen</surname><given-names>JD</given-names></name>, <name name-style="western"><surname>MacDonald</surname><given-names>AW</given-names></name>, <name name-style="western"><surname>Cho</surname><given-names>RY</given-names></name>, <name name-style="western"><surname>Stenger</surname><given-names>VA</given-names></name> <etal>et al.</etal> (<year>2004</year>) <article-title>Anterior cingulate conflict monitoring and adjustments in control</article-title>. <source>Science</source> <volume>303</volume>: <fpage>1023</fpage>-<lpage>1026</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1126/science.1089910" xlink:type="simple">10.1126/science.1089910</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/14963333" xlink:type="simple">14963333</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B59">
+				<label>59</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Sanfey</surname><given-names>AG</given-names></name>, <name name-style="western"><surname>Rilling</surname><given-names>JK</given-names></name>, <name name-style="western"><surname>Aronson</surname><given-names>JA</given-names></name>, <name name-style="western"><surname>Nystrom</surname><given-names>LE</given-names></name>, <name name-style="western"><surname>Cohen</surname><given-names>JD</given-names></name> (<year>2003</year>) <article-title>The neural basis of economic decision-making in the ultimatum game</article-title>. <source>Science</source> <volume>300</volume>: <fpage>1755</fpage>-<lpage>1758</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1126/science.1082976" xlink:type="simple">10.1126/science.1082976</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/12805551" xlink:type="simple">12805551</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B60">
+				<label>60</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Li</surname><given-names>C-s</given-names></name>, <name name-style="western"><surname>Kosten</surname><given-names>TR</given-names></name>, <name name-style="western"><surname>Sinha</surname><given-names>R</given-names></name> (<year>2006</year>) <article-title>Antisocial personality and stress-induced brain activation in cocaine-dependent patients</article-title>. <source>Neuroreport</source> <volume>17</volume>: <fpage>243</fpage>-<lpage>247</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1097/01.wnr.0000199471.06487.a2" xlink:type="simple">10.1097/01.wnr.0000199471.06487.a2</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/16462591" xlink:type="simple">16462591</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B61">
+				<label>61</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Blair</surname><given-names>RJR</given-names></name>, <name name-style="western"><surname>Morris</surname><given-names>JS</given-names></name>, <name name-style="western"><surname>Frith</surname><given-names>CD</given-names></name>, <name name-style="western"><surname>Perrett</surname><given-names>DI</given-names></name>, <name name-style="western"><surname>Dolan</surname><given-names>RJ</given-names></name> (<year>1999</year>) <article-title>Dissociable neural responses to facial expressions of sadness and anger</article-title>. <source>Brain</source> <volume>122</volume>: <fpage>883</fpage>-<lpage>893</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1093/brain/122.5.883" xlink:type="simple">10.1093/brain/122.5.883</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/10355673" xlink:type="simple">10355673</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B62">
+				<label>62</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Herpertz</surname><given-names>SC</given-names></name>, <name name-style="western"><surname>Werth</surname><given-names>U</given-names></name>, <name name-style="western"><surname>Lukas</surname><given-names>G</given-names></name>, <name name-style="western"><surname>Qunaibi</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Schuerkens</surname><given-names>A</given-names></name> <etal>et al.</etal> (<year>2001</year>) <article-title>Emotion in criminal offenders with psychopathy and borderline personality disorder</article-title>. <source>Arch Gen Psychiatry</source> <volume>58</volume>: <fpage>737</fpage>–<lpage>745</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1001/archpsyc.58.8.737" xlink:type="simple">10.1001/archpsyc.58.8.737</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/11483139" xlink:type="simple">11483139</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B63">
+				<label>63</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Kimbrell</surname><given-names>TA</given-names></name>, <name name-style="western"><surname>George</surname><given-names>MS</given-names></name>, <name name-style="western"><surname>Parekh</surname><given-names>PI</given-names></name>, <name name-style="western"><surname>Ketter</surname><given-names>TA</given-names></name>, <name name-style="western"><surname>Podell</surname><given-names>DM</given-names></name> <etal>et al.</etal> (<year>1999</year>) <article-title>Regional brain activity during transient self-induced anxiety and anger in healthy adults</article-title>. <source>Biol Psychiatry</source> <volume>46</volume>: <fpage>454</fpage>-<lpage>465</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/S0006-3223(99)00103-1" xlink:type="simple">10.1016/S0006-3223(99)00103-1</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/10459394" xlink:type="simple">10459394</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B64">
+				<label>64</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Hornak</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Bramham</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Rolls</surname><given-names>ET</given-names></name>, <name name-style="western"><surname>Morris</surname><given-names>RG</given-names></name>, <name name-style="western"><surname>O'Doherty</surname><given-names>J</given-names></name> <etal>et al.</etal> (<year>2003</year>) <article-title>Changes in emotion after circumscribed surgical lesions of the orbitofrontal and cingulate cortices</article-title>. <source>Brain</source> <volume>126</volume>: <fpage>1691</fpage>-<lpage>1712</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1093/brain/awg168" xlink:type="simple">10.1093/brain/awg168</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/12805109" xlink:type="simple">12805109</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B65">
+				<label>65</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Hornak</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Rolls</surname><given-names>ET</given-names></name>, <name name-style="western"><surname>Wade</surname><given-names>D</given-names></name> (<year>1996</year>) <article-title>Face and voice expression identification inpatients with emotional and behavioural changes following ventral frontal lobe damage</article-title>. <source>Neuropsychologia</source> <volume>34</volume>: <fpage>247</fpage>-<lpage>261</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/0028-3932(95)00106-9" xlink:type="simple">10.1016/0028-3932(95)00106-9</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/8657356" xlink:type="simple">8657356</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B66">
+				<label>66</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Tranel</surname><given-names>D</given-names></name>, <name name-style="western"><surname>Bechara</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Denburg</surname><given-names>NL</given-names></name> (<year>2002</year>) <article-title>Asymmetric functional roles of right and left ventromedial prefrontal cortices in social conduct, decision-making, and emotional processing</article-title>. <source>Cortex</source> <volume>38</volume>: <fpage>589</fpage>-<lpage>612</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/S0010-9452(08)70024-8" xlink:type="simple">10.1016/S0010-9452(08)70024-8</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/12465670" xlink:type="simple">12465670</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B67">
+				<label>67</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Blair</surname><given-names>RJR</given-names></name> (<year>2007</year>) <article-title>The amygdala and ventromedial prefrontal cortex in morality and psychopathy</article-title>. <source>Trends Cogn Sci</source> <volume>11</volume>: <fpage>387</fpage>-<lpage>392</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.tics.2007.07.003" xlink:type="simple">10.1016/j.tics.2007.07.003</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/17707682" xlink:type="simple">17707682</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B68">
+				<label>68</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Blair</surname><given-names>RJR</given-names></name> (<year>2008</year>) <article-title>The amygdala and ventromedial prefrontal cortex: Functional contributions and dysfunction in psychopathy</article-title>. <source>Philos T Roy Soc</source> <volume>363</volume>: <fpage>2557</fpage>-<lpage>2565</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1098/rstb.2008.0027" xlink:type="simple">10.1098/rstb.2008.0027</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/18434283" xlink:type="simple">18434283</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B69">
+				<label>69</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Gordon</surname><given-names>HL</given-names></name>, <name name-style="western"><surname>Baird</surname><given-names>AA</given-names></name>, <name name-style="western"><surname>End</surname><given-names>A</given-names></name> (<year>2004</year>) <article-title>Functional differences among those high and low on a trait measure of psychopathy</article-title>. <source>Biol Psychiatry</source> <volume>56</volume>: <fpage>516</fpage>-<lpage>521</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.biopsych.2004.06.030" xlink:type="simple">10.1016/j.biopsych.2004.06.030</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/15450788" xlink:type="simple">15450788</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B70">
+				<label>70</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Berkowitz</surname><given-names>RL</given-names></name>, <name name-style="western"><surname>Coplan</surname><given-names>JD</given-names></name>, <name name-style="western"><surname>Reddy</surname><given-names>DP</given-names></name>, <name name-style="western"><surname>Gorman</surname><given-names>JM</given-names></name> (<year>2007</year>) <article-title>The human dimension: How the prefrontal cortex modulates the subcortical fear response</article-title>. <source>Rev Neurosci</source> <volume>18</volume>: <fpage>191</fpage>-<lpage>207</lpage>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/18019606" xlink:type="simple">18019606</ext-link>. </mixed-citation>
+			</ref>
+			<ref id="B71">
+				<label>71</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Hariri</surname><given-names>AR</given-names></name>, <name name-style="western"><surname>Mattay</surname><given-names>VS</given-names></name>, <name name-style="western"><surname>Tessitore</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Fera</surname><given-names>F</given-names></name>, <name name-style="western"><surname>Weinberger</surname><given-names>DR</given-names></name> (<year>2003</year>) <article-title>Neocortical modulation of the amygdala response to fearful stimuli</article-title>. <source>Biol Psychiatry</source> <volume>53</volume>: <fpage>494</fpage>-<lpage>501</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/S0006-3223(02)01786-9" xlink:type="simple">10.1016/S0006-3223(02)01786-9</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/12644354" xlink:type="simple">12644354</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B72">
+				<label>72</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Silbersweig</surname><given-names>D</given-names></name>, <name name-style="western"><surname>Clarkin</surname><given-names>JF</given-names></name>, <name name-style="western"><surname>Goldstein</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Kernberg</surname><given-names>OF</given-names></name>, <name name-style="western"><surname>Tuescher</surname><given-names>O</given-names></name> <etal>et al.</etal> (<year>2007</year>) <article-title>Failure of Frontolimbic Inhibitory Function in the Context of Negative Emotion in Borderline Personality Disorder</article-title>. <source>Am J Psychiatry</source> <volume>164</volume>: <fpage>1832</fpage>–<lpage>1841</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1176/appi.ajp.2007.06010126" xlink:type="simple">10.1176/appi.ajp.2007.06010126</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/18056238" xlink:type="simple">18056238</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B73">
+				<label>73</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Kiehl</surname><given-names>KA</given-names></name>, <name name-style="western"><surname>Smith</surname><given-names>AM</given-names></name>, <name name-style="western"><surname>Hare</surname><given-names>RD</given-names></name>, <name name-style="western"><surname>Mendrek</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Forster</surname><given-names>BB</given-names></name> <etal>et al.</etal> (<year>2001</year>) <article-title>Limbic abnormalities in affective processing by criminal psychopaths as revealed by functional magnetic resonance imaging</article-title>. <source>Biol Psychiatry</source> <volume>50</volume>: <fpage>677</fpage>-<lpage>684</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/S0006-3223(01)01222-7" xlink:type="simple">10.1016/S0006-3223(01)01222-7</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/11704074" xlink:type="simple">11704074</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B74">
+				<label>74</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Osumi</surname><given-names>T</given-names></name>, <name name-style="western"><surname>Nakao</surname><given-names>T</given-names></name>, <name name-style="western"><surname>Kasuya</surname><given-names>Y</given-names></name>, <name name-style="western"><surname>Shinoda</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Yamada</surname><given-names>J</given-names></name> <etal>et al.</etal> (<year>2012</year>) <article-title>Amygdala dysfunction attenuates frustration-induced aggression in psychopathic individuals in a non-criminal population</article-title>. <source>J Affect Disord</source> <volume>142</volume>: <fpage>331</fpage>-<lpage>338</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.jad.2012.05.012" xlink:type="simple">10.1016/j.jad.2012.05.012</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/22840629" xlink:type="simple">22840629</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B75">
+				<label>75</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Preacher</surname><given-names>KJ</given-names></name>, <name name-style="western"><surname>Rucker</surname><given-names>DD</given-names></name>, <name name-style="western"><surname>MacCallum</surname><given-names>RC</given-names></name>, <name name-style="western"><surname>Nicewander</surname><given-names>WA</given-names></name> (<year>2005</year>) <article-title>Use of the extreme groups approach: A critical reexamination and new recommendations</article-title>. <source>Psychol Methods</source> <volume>10</volume>: <fpage>178</fpage>-<lpage>192</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1037/1082-989X.10.2.178" xlink:type="simple">10.1037/1082-989X.10.2.178</ext-link>. PubMed: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/15998176" xlink:type="simple">15998176</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B76">
+				<label>76</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Gelman</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Park</surname><given-names>DK</given-names></name> (<year>2009</year>) <article-title>Splitting a predictor at the upper quarter or third and the lower quarter or third</article-title>. <source>Am Stat</source> <volume>63</volume>: <fpage>1</fpage>-<lpage>8</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1198/tast.2009.0001" xlink:type="simple">10.1198/tast.2009.0001</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B77">
+				<label>77</label>
+				<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Lobbestael</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Arntz</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Wiers</surname><given-names>RW</given-names></name> (<year>2008</year>) <article-title>How to push someone’s buttons: A comparison of four anger-induction methods</article-title>. <source>Cogn Emotion</source> <volume>22</volume>: <fpage>353</fpage>-<lpage>373</lpage>. doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1080/02699930701438285" xlink:type="simple">10.1080/02699930701438285</ext-link>.</mixed-citation>
+			</ref>
+			<ref id="B78">
+				<label>78</label>
+				<mixed-citation publication-type="book" xlink:type="simple"><name name-style="western"><surname>Stemmler</surname><given-names>G</given-names></name> (<year>2010</year>) <article-title>Somatovisceral activation during anger</article-title>. In: <person-group person-group-type="editor"><name name-style="western"><surname>Potegal</surname><given-names>M</given-names></name></person-group>. <source>International handbook of anger</source>. <publisher-loc>New York</publisher-loc>: <publisher-name>Springer Verlag</publisher-name>. pp. <fpage>103</fpage>-<lpage>121</lpage>.</mixed-citation>
+			</ref>
+			<ref id="B79">
+				<label>79</label>
+				<mixed-citation publication-type="other" xlink:type="simple"><name name-style="western"><surname>Lehrl</surname><given-names>S</given-names></name>, editor (<year>1995</year>) <article-title>Mehrfachwahl-Wortschatz-Intelligenztest: MWT-B [Multiple Choice Vocabulary Test]. Balingen: Perimed-spitta</article-title>.</mixed-citation>
+			</ref>
+			<ref id="B80">
+				<label>80</label>
+				<mixed-citation publication-type="book" xlink:type="simple"><name name-style="western"><surname>Reitan</surname><given-names>RM</given-names></name>, <name name-style="western"><surname>Wolfson</surname><given-names>D</given-names></name>, editors (<year>1985</year>) <source>The Halstead–Reitan Neuropsychological Test Battery: Therapy and clinical interpretation</source>. <publisher-loc>AZ.</publisher-loc>: <publisher-name>Tucson</publisher-name>.</mixed-citation>
+			</ref>
+			<ref id="B81">
+				<label>81</label>
+				<mixed-citation publication-type="book" xlink:type="simple"><name name-style="western"><surname>Aschenbrenner</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Tucha</surname><given-names>O</given-names></name>, <name name-style="western"><surname>Lange</surname><given-names>K</given-names></name>, editors (<year>2000</year>) <source>RWT Regensburger Wortflüssigkeits-Test. Handanweisung</source>. <publisher-loc>Goettingen</publisher-loc>: <publisher-name>Hogrefe</publisher-name>.</mixed-citation>
+			</ref>
+		</ref-list>
+	</back>
+</article>

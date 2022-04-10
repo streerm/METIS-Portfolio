@@ -1,0 +1,1204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article" dtd-version="3.0" xml:lang="EN">
+  <front>
+    <journal-meta><journal-id journal-id-type="nlm-ta">PLoS ONE</journal-id><journal-id journal-id-type="publisher-id">plos</journal-id><journal-id journal-id-type="pmc">plosone</journal-id><!--===== Grouping journal title elements =====--><journal-title-group><journal-title>PLoS ONE</journal-title></journal-title-group><issn pub-type="epub">1932-6203</issn><publisher>
+        <publisher-name>Public Library of Science</publisher-name>
+        <publisher-loc>San Francisco, USA</publisher-loc>
+      </publisher></journal-meta>
+    <article-meta><article-id pub-id-type="publisher-id">PONE-D-12-02632</article-id><article-id pub-id-type="doi">10.1371/journal.pone.0039561</article-id><article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Research Article</subject>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v2">
+          <subject>Biology</subject>
+          <subj-group>
+            <subject>Neuroscience</subject>
+            <subj-group>
+              <subject>Cognitive neuroscience</subject>
+              <subj-group>
+                <subject>Cognition</subject>
+              </subj-group>
+            </subj-group>
+            <subj-group>
+              <subject>Neuroimaging</subject>
+              <subj-group>
+                <subject>fMRI</subject>
+              </subj-group>
+            </subj-group>
+            <subj-group>
+              <subject>Neurobiology of disease and regeneration</subject>
+            </subj-group>
+          </subj-group>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v2">
+          <subject>Medicine</subject>
+          <subj-group>
+            <subject>Clinical research design</subject>
+            <subj-group>
+              <subject>Case-control studies</subject>
+              <subject>Cross-sectional studies</subject>
+              <subject>Prospective studies</subject>
+              <subject>Statistical methods</subject>
+            </subj-group>
+          </subj-group>
+          <subj-group>
+            <subject>Mental health</subject>
+            <subj-group>
+              <subject>Psychiatry</subject>
+            </subj-group>
+          </subj-group>
+          <subj-group>
+            <subject>Neurology</subject>
+            <subj-group>
+              <subject>Developmental and pediatric neurology</subject>
+            </subj-group>
+          </subj-group>
+          <subj-group>
+            <subject>Pediatrics</subject>
+            <subj-group>
+              <subject>Developmental and pediatric neurology</subject>
+            </subj-group>
+          </subj-group>
+        </subj-group>
+        <subj-group subj-group-type="Discipline">
+          <subject>Mental Health</subject>
+          <subject>Neuroscience</subject>
+          <subject>Pediatrics and Child Health</subject>
+          <subject>Neurological Disorders</subject>
+        </subj-group>
+      </article-categories><title-group><article-title>Diminished Medial Prefrontal Activity behind Autistic Social Judgments of Incongruent Information</article-title><alt-title alt-title-type="running-head">Neural Basis of Autistic Social Decision</alt-title></title-group><contrib-group>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>Watanabe</surname>
+            <given-names>Takamitsu</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>Yahata</surname>
+            <given-names>Noriaki</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff5">
+            <sup>5</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>Abe</surname>
+            <given-names>Osamu</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff4">
+            <sup>4</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff6">
+            <sup>6</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>Kuwabara</surname>
+            <given-names>Hitoshi</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff3">
+            <sup>3</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>Inoue</surname>
+            <given-names>Hideyuki</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>Takano</surname>
+            <given-names>Yosuke</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>Iwashiro</surname>
+            <given-names>Norichika</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>Natsubori</surname>
+            <given-names>Tatsunobu</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>Aoki</surname>
+            <given-names>Yuta</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>Takao</surname>
+            <given-names>Hidemasa</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff4">
+            <sup>4</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>Sasaki</surname>
+            <given-names>Hiroki</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff4">
+            <sup>4</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>Gonoi</surname>
+            <given-names>Wataru</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff4">
+            <sup>4</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>Murakami</surname>
+            <given-names>Mizuho</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff4">
+            <sup>4</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>Katsura</surname>
+            <given-names>Masaki</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff4">
+            <sup>4</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>Kunimatsu</surname>
+            <given-names>Akira</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff4">
+            <sup>4</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>Kawakubo</surname>
+            <given-names>Yuki</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff3">
+            <sup>3</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>Matsuzaki</surname>
+            <given-names>Hideo</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff7">
+            <sup>7</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>Tsuchiya</surname>
+            <given-names>Kenji J.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff8">
+            <sup>8</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>Kato</surname>
+            <given-names>Nobumasa</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff7">
+            <sup>7</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff9">
+            <sup>9</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>Kano</surname>
+            <given-names>Yukiko</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff3">
+            <sup>3</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>Miyashita</surname>
+            <given-names>Yasushi</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>Kasai</surname>
+            <given-names>Kiyoto</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff5">
+            <sup>5</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>Yamasue</surname>
+            <given-names>Hidenori</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff7">
+            <sup>7</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff9">
+            <sup>9</sup>
+          </xref>
+          <xref ref-type="corresp" rid="cor1">
+            <sup>*</sup>
+          </xref>
+        </contrib>
+      </contrib-group><aff id="aff1"><label>1</label><addr-line>Department of Physiology, The University of Tokyo, Bunkyo-ku, Tokyo, Japan</addr-line>       </aff><aff id="aff2"><label>2</label><addr-line>Department of Neuropsychiatry, The University of Tokyo, Bunkyo-ku, Tokyo, Japan</addr-line>       </aff><aff id="aff3"><label>3</label><addr-line>Department of Child Neuropsychiatry, The University of Tokyo, Bunkyo-ku, Tokyo, Japan</addr-line>       </aff><aff id="aff4"><label>4</label><addr-line>Department of Radiology, Graduate School of Medicine, The University of Tokyo, Bunkyo-ku, Tokyo, Japan</addr-line>       </aff><aff id="aff5"><label>5</label><addr-line>Global Center of Excellence (COE) Program, The University of Tokyo, Bunkyo-ku, Tokyo, Japan</addr-line>       </aff><aff id="aff6"><label>6</label><addr-line>Department of Radiology, Nihon University School of Medicine, Itabashi-ku, Tokyo, Japan</addr-line>       </aff><aff id="aff7"><label>7</label><addr-line>Japan Science and Technology Agency, CREST, Chiyoda-ku, Tokyo, Japan</addr-line>       </aff><aff id="aff8"><label>8</label><addr-line>Osaka-Hamamatsu Joint Research Center for Child Mental Development, Hamamatsu University School of Medicine, Hamamatsu, Japan</addr-line>       </aff><aff id="aff9"><label>9</label><addr-line>Department of Neuropsychiatry, Showa University School of Medicine, Tokyo, Japan</addr-line>       </aff><contrib-group>
+        <contrib contrib-type="editor" xlink:type="simple">
+          <name name-style="western">
+            <surname>Hampson</surname>
+            <given-names>Michelle</given-names>
+          </name>
+          <role>Editor</role>
+          <xref ref-type="aff" rid="edit1"/>
+        </contrib>
+      </contrib-group><aff id="edit1">Yale University, United States of America</aff><author-notes>
+        <corresp id="cor1">* E-mail: <email xlink:type="simple">yamasue-tky@umin.ac.jp</email></corresp>
+        <fn fn-type="con">
+          <p>Conceived and designed the experiments: HY. Performed the experiments: TW HY OA NY HI YT NI TN YA HT HS WG MM MK AK Y. Kawakobo HK HM KJT Y. Kano NK. Analyzed the data: TW HY. Wrote the paper: TW HY YM KK.</p>
+        </fn>
+      <fn fn-type="conflict">
+        <p>The authors have declared that no competing interests exist.</p>
+      </fn></author-notes><pub-date pub-type="collection">
+        <year>2012</year>
+      </pub-date><pub-date pub-type="epub">
+        <day>22</day>
+        <month>6</month>
+        <year>2012</year>
+      </pub-date><volume>7</volume><issue>6</issue><elocation-id>e39561</elocation-id><history>
+        <date date-type="received">
+          <day>18</day>
+          <month>1</month>
+          <year>2012</year>
+        </date>
+        <date date-type="accepted">
+          <day>21</day>
+          <month>5</month>
+          <year>2012</year>
+        </date>
+      </history><!--===== Grouping copyright info into permissions =====--><permissions><copyright-year>2012</copyright-year><copyright-holder>Watanabe et al</copyright-holder><license><license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p></license></permissions><abstract>
+        <p>Individuals with autism spectrum disorders (ASD) tend to make inadequate social judgments, particularly when the nonverbal and verbal emotional expressions of other people are incongruent. Although previous behavioral studies have suggested that ASD individuals have difficulty in using nonverbal cues when presented with incongruent verbal-nonverbal information, the neural mechanisms underlying this symptom of ASD remain unclear. In the present functional magnetic resonance imaging study, we compared brain activity in 15 non-medicated adult males with high-functioning ASD to that of 17 age-, parental-background-, socioeconomic-, and intelligence-quotient-matched typically-developed (TD) male participants. Brain activity was measured while each participant made friend or foe judgments of realistic movies in which professional actors spoke with conflicting nonverbal facial expressions and voice prosody. We found that the ASD group made significantly less judgments primarily based on the nonverbal information than the TD group, and they exhibited significantly less brain activity in the right inferior frontal gyrus, bilateral anterior insula, anterior cingulate cortex/ventral medial prefrontal cortex (ACC/vmPFC), and dorsal medial prefrontal cortex (dmPFC) than the TD group. Among these five regions, the ACC/vmPFC and dmPFC were most involved in nonverbal-information-biased judgments in the TD group. Furthermore, the degree of decrease of the brain activity in these two brain regions predicted the severity of autistic communication deficits. The findings indicate that diminished activity in the ACC/vmPFC and dmPFC underlies the impaired abilities of individuals with ASD to use nonverbal content when making judgments regarding other people based on incongruent social information.</p>
+      </abstract><funding-group><funding-statement>Part of this study was a result of the “Development of biomarker candidates for social behavior” project carried out under the Strategic Research Program for Brain Sciences by the Ministry of Education, Culture, Sports, Science and Technology, and was also supported by Grants-in-Aid for Scientific Research (22689034 to HY; 20591378 to NY), the Global Centre of Excellence (COE) Program ="Comprehensive Centre of Education and Research for Chemical Biology of the Diseases=" (NY) and a grant from the Japan Society for the Promotion of Science Research Foundation for Young Scientists (222882) to TW. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</funding-statement></funding-group><counts>
+        <page-count count="11"/>
+      </counts></article-meta>
+  </front>
+  <body>
+    <sec id="s1">
+      <title>Introduction</title>
+      <p>Individuals with autism spectrum disorders (ASD) have difficulties in processing of both verbal and nonverbal information <xref ref-type="bibr" rid="pone.0039561-Schultz1">[1]</xref>–<xref ref-type="bibr" rid="pone.0039561-Schwartz1">[8]</xref>. Previous studies have demonstrated that they frequently underutilize verbally-supplied knowledge about other people, such as regarding their backgrounds and gender <xref ref-type="bibr" rid="pone.0039561-Tesink1">[5]</xref>, <xref ref-type="bibr" rid="pone.0039561-Happ1">[9]</xref>, <xref ref-type="bibr" rid="pone.0039561-TagerFlusberg1">[10]</xref>. Other studies have revealed that they often inappropriately process nonverbal social information including facial expressions, voice prosody, and eye gaze <xref ref-type="bibr" rid="pone.0039561-Critchley1">[2]</xref>, <xref ref-type="bibr" rid="pone.0039561-Frith1">[3]</xref>, <xref ref-type="bibr" rid="pone.0039561-Yamasue1">[6]</xref>, <xref ref-type="bibr" rid="pone.0039561-Schultz2">[11]</xref>–<xref ref-type="bibr" rid="pone.0039561-Neuhaus1">[14]</xref>. Consequently, individuals with ASD often experience difficulty in interpreting complex social information, particularly when the verbal and nonverbal contents conflict with one another, which partially causes their frequent misinterpretation of irony and humor in real-life situations <xref ref-type="bibr" rid="pone.0039561-Happ1">[9]</xref>, <xref ref-type="bibr" rid="pone.0039561-Frith2">[15]</xref>, <xref ref-type="bibr" rid="pone.0039561-Ozonoff1">[16]</xref>.</p>
+      <p>The characteristic behavioral responses to incongruent verbal-nonverbal information of ASD individuals have been reported in a previous study <xref ref-type="bibr" rid="pone.0039561-Kuzmanovic1">[17]</xref>. Compared with typically developed (TD) individuals, ASD individuals showed less sensitivity to the nonverbal content in incongruent information, even when they could effectively evaluate the verbal and nonverbal contents in isolation. This report is consistent with other behavioral studies that demonstrated that there are greater differences in the ability to process nonverbal information between ASD and TD individuals than in the ability to process verbal information <xref ref-type="bibr" rid="pone.0039561-Ruffman1">[18]</xref>, . Although these observations imply that there are specific neural deficits that underlie this characteristic behavior in ASD individuals, to the best of our knowledge, no previous study has directly examined the neural deficits in ASD individuals that mediate their reduced use of nonverbal content when processing incongruent verbal-nonverbal social information.</p>
+      <p>Autistic responses to other types of incongruity have been investigated in a series of previous studies <xref ref-type="bibr" rid="pone.0039561-Wang1">[4]</xref>, <xref ref-type="bibr" rid="pone.0039561-Tesink1">[5]</xref>, <xref ref-type="bibr" rid="pone.0039561-Groen1">[7]</xref>, <xref ref-type="bibr" rid="pone.0039561-Wang2">[20]</xref>, <xref ref-type="bibr" rid="pone.0039561-Tesink2">[21]</xref>. Previous neuroimaging studies revealed a neural mechanism underlying autistic responses to incongruity between <italic>a priori</italic> language-based knowledge and novel language-based information <xref ref-type="bibr" rid="pone.0039561-Tesink1">[5]</xref>, <xref ref-type="bibr" rid="pone.0039561-Groen1">[7]</xref>, <xref ref-type="bibr" rid="pone.0039561-Tesink2">[21]</xref>. One of the studies revealed that the ventromedial prefrontal cortex in ASD individuals, compared with that in TD, did not show significant responses to pragmatic incongruity <xref ref-type="bibr" rid="pone.0039561-Tesink1">[5]</xref>. Another study demonstrated that activity in the left inferior frontal cortex is reduced in people with ASD during the integration of semantic social information <xref ref-type="bibr" rid="pone.0039561-Groen1">[7]</xref>. Other neuroimaging studies examined neural response in individuals with ASD to incongruity between different types of nonverbal information (e.g., facial expression vs. voice prosody) <xref ref-type="bibr" rid="pone.0039561-Wang2">[20]</xref> or their responses to stories provided as several sentences <xref ref-type="bibr" rid="pone.0039561-Wang1">[4]</xref>. A study using cartoons revealed that the medial prefrontal and superior temporal regions in ASD subjects showed decreased activity during the presentation of ironic content <xref ref-type="bibr" rid="pone.0039561-Wang2">[20]</xref>. Despite these findings on the neural basis of social incongruity processing in ASD individuals, little is known about the neural mechanisms underlying the characteristic autistic behavioral response to incongruity between verbal and nonverbal information.</p>
+      <p>In the present functional magnetic resonance imaging (fMRI) study, therefore, we aimed to reveal the neural mechanism underlying the imbalance between the interpretation of incongruent verbal-nonverbal social information in ASD individuals using realistic movie stimuli. In each of the short movie stimuli, a different professional actor spoke a word that was related to a positive or negative emotion while producing a positive or negative emotion-related facial expression and voice prosody (<xref ref-type="fig" rid="pone-0039561-g001">Fig. 1A</xref>). To directly investigate the neural response to this verbal-nonverbal incongruity, we did not give the participants any background knowledge or contextual information about the actors in the movies before conducting the fMRI scanning. Furthermore, we used a naturalistic psychological task wherein the participants responded as spontaneously as they do in real-life situations, because a previous behavioral study showed that autistic behavioral patterns are likely to be expressed in such spontaneous and automatic responses to social stimuli <xref ref-type="bibr" rid="pone.0039561-Senju1">[19]</xref>. In the present study, the participants were instructed to judge an actor shown in a movie as a friend or a foe without explicit instruction about the incongruity itself, because the processing of incongruent social information occurs automatically in real-life situations, even when the subject does not explicitly attend to the incongruity (i.e., the Stroop effect has negligible influence) <xref ref-type="bibr" rid="pone.0039561-Adolphs1">[22]</xref>. We analyzed the data according to the type of information that primarily affected the friend or foe judgments, and the judgments of the incongruent stimuli were classified into nonverbal-cue-biased or verbal-cue-biased judgments.</p>
+      <fig id="pone-0039561-g001" position="float">
+        <object-id pub-id-type="doi">10.1371/journal.pone.0039561.g001</object-id>
+        <label>Figure 1</label>
+        <caption>
+          <title>Task design and behavioral results.</title>
+          <p><bold>(A) Short movie stimuli.</bold> Our stimuli were short movies in which different professional actors spoke different emotional words (verbal information; positive and negative) while displaying different emotional facial expressions and voice prosody (nonverbal information; positive and negative). The emotional valence of the facial expressions was always the same as that of the voice prosody. Overall, the stimuli consisted of two types of congruent short movies (NV+V+: positive nonverbal and positive verbal information; NV-V-: negative nonverbal and negative verbal information) and two types of incongruent ones (NV+V-: positive nonverbal and negative verbal information; NV-V+: negative nonverbal and positive verbal information). <bold>(B) Task design.</bold> One trial of fMRI scanning session consisted of a 1.5 sec movie stimulus period, 2 sec response period, and a 2.5,3.5, or 4.5 sec fixation period. Participants were instructed to judge the person in each movie as friend or foe by pressing the corresponding buttons. <bold>(C) Response times.</bold> In a repeated-measure mixed-design two-way ANOVA, there was no significant main effect of group (TD versus ASD) on response time, whereas there was a significant main effect of stimulus type (congruent versus incongruent). Response times for the incongruent stimuli were significantly longer than that for the congruent stimuli (***: P&lt;0.001). To present the data, we further divided the stimulus types into more detailed categories. <bold>(D) Number of nonverbal-cue-biased judgments.</bold> ASD individuals exhibited significantly fewer nonverbal-cue-biased judgments of incongruent stimuli than the TD individuals (*:P&lt;0.05) <bold>(E) Response times for nonverbal-cue-biased judgments.</bold> There was no significant difference in response time for nonverbal-cue-biased judgments of incongruent stimuli between the ASD and TD groups.</p>
+        </caption>
+        <graphic mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0039561.g001" xlink:type="simple"/>
+      </fig>
+      <p>Based on previous behavioral findings <xref ref-type="bibr" rid="pone.0039561-Kuzmanovic1">[17]</xref>–<xref ref-type="bibr" rid="pone.0039561-Senju1">[19]</xref>, we hypothesized that the participants with high-functioning ASD would place disproportionately less emphasis on nonverbal content and make less frequent nonverbal-cue-biased judgments than TD participants. Hence, we assumed that the most characteristic impaired neural response in ASD individuals would be a difference in brain activity between verbal- and nonverbal-cue-biased judgments. To test this hypothesis, we compared the brain activity during nonverbal-cue-biased judgments in the ASD group with that in the TD group.</p>
+      <p>To focus on neural deficits mediating impaired social judgments in ASD individuals, we searched brain areas that are considered to be related to social judgments. Specifically, we estimated brain activity in anatomically-defined brain regions consisting of the medial prefrontal cortex (mPFC), precuneus, temporoparietal junction (TPJ), amygdala, superior temporal sulcus (STS), anterior insula (AI) and inferior frontal gyrus (IFG). According to several previous studies (see reviews in <xref ref-type="bibr" rid="pone.0039561-VanOverwalle1">[23]</xref>–<xref ref-type="bibr" rid="pone.0039561-Singer1">[25]</xref>), these regions are considered to underlie empathy processing, the mentalizing system, and uncertainty judgments, which are thought to be involved in social judgments.</p>
+    </sec>
+    <sec id="s2" sec-type="materials|methods">
+      <title>Materials and Methods</title>
+      <sec id="s2a">
+        <title>Ethics Statement</title>
+        <p>The experiment protocol used in this study was approved by the ethics committee of The University of Tokyo Hospital (#1350). After a complete explanation of the study, written informed consent was obtained from all participants. Using longitudinal clinical assessments, a trained psychiatrist (H.Y.) confirmed that all of these adult participants had no intellectual disabilities, no need for psychotropic medication, and were capable of providing informed consent. Therefore, no participant needed someone else who consented on the behalf of the participants.</p>
+      </sec>
+      <sec id="s2b">
+        <title>Participants</title>
+        <p>Fifteen male participants with ASD were recruited from the outpatient service of The University of Tokyo Hospital (<xref ref-type="table" rid="pone-0039561-t001">Table 1</xref>). Fourteen were clinically diagnosed with high-functioning autism, while the remaining subject was diagnosed with pervasive developmental disorder-not otherwise specified. These diagnoses were based on the strict criteria of the Diagnostic and Statistical Manual-Revision IV <xref ref-type="bibr" rid="pone.0039561-Association1">[26]</xref>, and they were conducted in consensus by two trained child-adolescent psychiatrists with more than ten years of clinical experience (H.Y. and N.K.) following more than two months of follow-up examinations. Another child adolescent psychiatrist (H.K.) confirmed the diagnoses of some patients using the Japanese version of the Autism Diagnostic Interview-Revised (ADI-R) <xref ref-type="bibr" rid="pone.0039561-Lord1">[27]</xref>. For all participants who did not meet the threshold in the ADI-R social domain, the group was confirmed by the Childhood Autism Rating Scale (CARS) <xref ref-type="bibr" rid="pone.0039561-Schopler1">[28]</xref>. Previous studies have suggested that individuals classified as autistic according to both ADI-R and CARS had significantly lower IQ than those classified by CARS alone <xref ref-type="bibr" rid="pone.0039561-Saemundsen1">[29]</xref>. It is reasonable to suggest that the subsample of high-functioning ASD participants who did not meet ASD criteria based on ADIR, which is rated based on descriptive information by caregivers, could be classified with ASD based on CARS, which is rated by clinicians based on direct observations on behavior <xref ref-type="bibr" rid="pone.0039561-Pilowsky1">[30]</xref>. Thirteen of the 15 participants had never been prescribed psychotropic medication, whereas the other two has not taken medication for at least the previous seven months. The participants completed verbal and performance IQ tests, and they all exhibited estimated IQs ranging from average to above average. Seventeen healthy male TD participants were also recruited. All of the ASD and TD participants were interviewed by a trained psychiatrist (H.Y.) to screen for the presence of neuropsychiatric disorders using the Structured Clinical Interview for DSM-IV Axis I Disorder <xref ref-type="bibr" rid="pone.0039561-First1">[31]</xref>. There were no significant differences in mean age, parental socioeconomic status (SES), handedness, or IQ between the ASD and TD groups.</p>
+        <table-wrap id="pone-0039561-t001" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0039561.t001</object-id><label>Table 1</label><caption>
+            <title>Demographic characteristics of the participants.</title>
+          </caption><!--===== Grouping alternate versions of objects =====--><alternatives><graphic id="pone-0039561-t001-1" mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0039561.t001" xlink:type="simple"/><table>
+            <colgroup span="1">
+              <col align="left" span="1"/>
+              <col align="center" span="1"/>
+              <col align="center" span="1"/>
+              <col align="center" span="1"/>
+            </colgroup>
+            <thead>
+              <tr>
+                <td align="left" colspan="1" rowspan="1">Variables</td>
+                <td align="left" colspan="1" rowspan="1">Subjects with ASD</td>
+                <td align="left" colspan="1" rowspan="1">TD controls</td>
+                <td align="left" colspan="1" rowspan="1">t value (p)</td>
+              </tr>
+              <tr>
+                <td align="left" colspan="1" rowspan="1"/>
+                <td align="left" colspan="1" rowspan="1">(n = 15)</td>
+                <td align="left" colspan="1" rowspan="1">(n = 17)</td>
+                <td align="left" colspan="1" rowspan="1"/>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left" colspan="1" rowspan="1">Age (Range) (SD)</td>
+                <td align="left" colspan="1" rowspan="1">28.2 (20–44) (7.4)</td>
+                <td align="left" colspan="1" rowspan="1">30.3 (21–41) (5.7)</td>
+                <td align="left" colspan="1" rowspan="1">0.906 (.372)</td>
+              </tr>
+              <tr>
+                <td align="left" colspan="1" rowspan="1">Height, cm (SD)</td>
+                <td align="left" colspan="1" rowspan="1">170.8 (3.9)</td>
+                <td align="left" colspan="1" rowspan="1">174.3 (6.5)</td>
+                <td align="left" colspan="1" rowspan="1">1.8 (.080)</td>
+              </tr>
+              <tr>
+                <td align="left" colspan="1" rowspan="1">Body weight, kg (SD)</td>
+                <td align="left" colspan="1" rowspan="1">64.1 (9.4)</td>
+                <td align="left" colspan="1" rowspan="1">70.5 (9.8)</td>
+                <td align="left" colspan="1" rowspan="1">1.9 (.068)</td>
+              </tr>
+              <tr>
+                <td align="left" colspan="1" rowspan="1">SES<xref ref-type="table-fn" rid="nt101">*</xref> (SD)</td>
+                <td align="left" colspan="1" rowspan="1">3.3 (1.0)</td>
+                <td align="left" colspan="1" rowspan="1">1.8 (0.4)</td>
+                <td align="left" colspan="1" rowspan="1">5.5 (&lt;0.001)</td>
+              </tr>
+              <tr>
+                <td align="left" colspan="1" rowspan="1">Parental SES<xref ref-type="table-fn" rid="nt101">*</xref> (SD)</td>
+                <td align="left" colspan="1" rowspan="1">2.1 (0.5)</td>
+                <td align="left" colspan="1" rowspan="1">2.1 (0.6)</td>
+                <td align="left" colspan="1" rowspan="1">0.2 (.817)</td>
+              </tr>
+              <tr>
+                <td align="left" colspan="1" rowspan="1">Handedness: Right/Mixed/Left</td>
+                <td align="left" colspan="1" rowspan="1">14/1/0</td>
+                <td align="left" colspan="1" rowspan="1">17/0/0</td>
+                <td align="left" colspan="1" rowspan="1"/>
+              </tr>
+              <tr>
+                <td align="left" colspan="1" rowspan="1">IQ<xref ref-type="table-fn" rid="nt102">**</xref></td>
+                <td align="left" colspan="1" rowspan="1"/>
+                <td align="left" colspan="1" rowspan="1"/>
+                <td align="left" colspan="1" rowspan="1"/>
+              </tr>
+              <tr>
+                <td align="left" colspan="1" rowspan="1">FIQ (SD)</td>
+                <td align="left" colspan="1" rowspan="1">104.6 (11.0)</td>
+                <td align="left" colspan="1" rowspan="1">109.2 (7.2)</td>
+                <td align="left" colspan="1" rowspan="1">1.4 (.166)</td>
+              </tr>
+              <tr>
+                <td align="left" colspan="1" rowspan="1">VIQ (SD)</td>
+                <td align="left" colspan="1" rowspan="1">111.8 (15.3)</td>
+                <td align="left" colspan="1" rowspan="1"/>
+                <td align="left" colspan="1" rowspan="1"/>
+              </tr>
+              <tr>
+                <td align="left" colspan="1" rowspan="1">PIQ (SD)</td>
+                <td align="left" colspan="1" rowspan="1">90.0 (14.0)</td>
+                <td align="left" colspan="1" rowspan="1"/>
+                <td align="left" colspan="1" rowspan="1"/>
+              </tr>
+              <tr>
+                <td align="left" colspan="1" rowspan="1">Autism spectrum disorder subtype</td>
+                <td align="left" colspan="1" rowspan="1">14 HFA/1 PDD-NOS<xref ref-type="table-fn" rid="nt103">***</xref></td>
+                <td align="left" colspan="1" rowspan="1"/>
+                <td align="left" colspan="1" rowspan="1"/>
+              </tr>
+              <tr>
+                <td align="left" colspan="1" rowspan="1">Autism Diagnostic Interview-Revised</td>
+                <td align="left" colspan="1" rowspan="1"/>
+                <td align="left" colspan="1" rowspan="1"/>
+                <td align="left" colspan="1" rowspan="1"/>
+              </tr>
+              <tr>
+                <td align="left" colspan="1" rowspan="1">Social (SD)</td>
+                <td align="left" colspan="1" rowspan="1">13.4 (6.3)</td>
+                <td align="left" colspan="1" rowspan="1"/>
+                <td align="left" colspan="1" rowspan="1"/>
+              </tr>
+              <tr>
+                <td align="left" colspan="1" rowspan="1">Communication (SD)</td>
+                <td align="left" colspan="1" rowspan="1">12.1 (3.5)</td>
+                <td align="left" colspan="1" rowspan="1"/>
+                <td align="left" colspan="1" rowspan="1"/>
+              </tr>
+              <tr>
+                <td align="left" colspan="1" rowspan="1">Repetitive (SD)</td>
+                <td align="left" colspan="1" rowspan="1">4.6 (2.4)</td>
+                <td align="left" colspan="1" rowspan="1"/>
+                <td align="left" colspan="1" rowspan="1"/>
+              </tr>
+              <tr>
+                <td align="left" colspan="1" rowspan="1">Autism Spectrum Quotient (SD)</td>
+                <td align="left" colspan="1" rowspan="1">37.4 (7.1)</td>
+                <td align="left" colspan="1" rowspan="1">13.9 (4.9)</td>
+                <td align="left" colspan="1" rowspan="1">10.3 (&lt;0.001)</td>
+              </tr>
+            </tbody>
+          </table></alternatives><table-wrap-foot>
+            <fn id="nt101">
+              <label>*</label>
+              <p>Socioeconomic status assessed using the Hollingshead. Higher scores indicate lower status.</p>
+            </fn>
+            <fn id="nt102">
+              <label>**</label>
+              <p>The intelligence quotients were measured using the Wechsler Adult Intelligence Scale in ASD participants and a Japanese version of the National Adult Reading Test in the TD participants.</p>
+            </fn>
+            <fn id="nt103">
+              <label>***</label>
+              <p>HFA: High-functioning autism; PDD-NOS: Pervasive developmental disorder-not otherwise specified.</p>
+            </fn>
+          </table-wrap-foot></table-wrap>
+        <p>The exclusion criteria for the both groups consisted of any history of current or past neurological illness, traumatic brain injury with any known cognitive consequences or loss of consciousness for more than five minutes, and substance abuse or addiction. An additional exclusion criterion for the TD group was a history of psychiatric disease or a family history of an axis I disorder among their first-degree relatives.</p>
+      </sec>
+      <sec id="s2c">
+        <title>Details of the Questionnaires</title>
+        <p>Handedness was determined using the Edinburgh Handedness Inventory <xref ref-type="bibr" rid="pone.0039561-Oldfield1">[32]</xref>, and the participants with a laterality index of more than 0.5 were regarded as right-handed. The participants whose laterality index score ranged from –0.5 to 0.5 were defined as ambidextrous. The SES of the participants and their parents was assessed using the Hollingshead scale <xref ref-type="bibr" rid="pone.0039561-Hollingshead1">[33]</xref>. All participants completed a Japanese translation <xref ref-type="bibr" rid="pone.0039561-Wakabayashi1">[34]</xref> of the 50-item Autism-Spectrum Quotient <xref ref-type="bibr" rid="pone.0039561-BaronCohen1">[35]</xref> within one month before or after the fMRI scanning. The IQ of the TD group was estimated using a Japanese version <xref ref-type="bibr" rid="pone.0039561-Matsuoka1">[36]</xref> of the National Adult Reading Test (NART) <xref ref-type="bibr" rid="pone.0039561-Nelson1">[37]</xref>. Although the NART can measure IQ accurately in TD participants, the test is problematic for ASD participants because of the well-known imbalances in their intellectual abilities. Therefore, the IQs of the ASD participants were assessed using the full scale of the Wechsler Adult Intelligence Scale Revised Japanese version <xref ref-type="bibr" rid="pone.0039561-Wechsler1">[38]</xref>. Sleepiness during the MR scans was assessed using the Stanford Sleepiness Scale <xref ref-type="bibr" rid="pone.0039561-Hoddes1">[39]</xref> and no participants fell asleep during the fMRI experiment.</p>
+      </sec>
+      <sec id="s2d">
+        <title>MRI Scanning</title>
+        <p>A 3T MRI scanner (GE) was used in this experiment. The anatomical scanning sequence was a three-dimensional Fourier-transform spoiled-gradient-recalled acquisition during steady state (TR = 6.8 s, slice thickness = 1 mm, in-plane resolution = 1 × 1 mm). Gradient-echo echo-planar sequences were used for functional imaging (TR = 3 s, TE = 35 ms, flip angle = 80 degree, cubic voxel of 4 mm, 22 slices, from the ventral to dorsal slices). The first five functional images in each run were excluded from analysis to account for the equilibrium of longitudinal magnetization. Because the stimuli included human speech, we used an MRI-compatible headphone system (Hitachi, Corp. Tokyo, Japan), and confirmed before and after the experiment that the speech content and prosody in the stimuli could be heard clearly. A trained neuroradiologist (H.T. or O.A.) evaluated the MRI scans and found no gross abnormalities in any participant. Magnetic field inhomogeneities in our scanner were monitored with basic quality control conducted daily, and they were stable over the course of this study.</p>
+      </sec>
+      <sec id="s2e">
+        <title>Task and Stimuli</title>
+        <p>The stimuli were 80 original monochrome movies with a length of 1,500 ms (see Supplementary materials). In each movie, one of 20 professional actors (10 male and 10 female) spoke a different emotional word accompanied by an emotional facial expression and expressive prosody. To exclude unnatural and unrealistic stimuli, healthy Japanese adults (T.W., N.Y., Y.K., and H.Y.) examined whether the movies were natural and realistic or not. Only the movies that were rated as the most realistic and natural were used as the stimuli in the present experiment.</p>
+        <p>As verbal information, words with high emotional valence and arousal were selected from the list of Affective Norms for English Words (40 words had a positive valence, whereas the other 40 had a negative valence) <xref ref-type="bibr" rid="pone.0039561-Bradley1">[40]</xref>. Overly aggressive words were excluded for ethics considerations. As nonverbal information, the professional actors were instructed to display happy or disgusted facial expressions and prosody while speaking each word. The emotional directionality of the facial expressions was always the same as that of the accompanying voice prosody. Thus, there were four types of stimuli (<xref ref-type="fig" rid="pone-0039561-g001">Fig. 1A</xref>): a disgusted facial expression and prosody paired with a negative word (i.e., negative (-) nonverbal (NV) information and negative (-) verbal (V) information; NV-V-, e.g., Video S1), a disgusted facial expression and prosody paired with a positive word (NV-V+, e.g., Video S2), a happy facial expression and prosody paired with a negative word (NV+V-, e.g., Video S3), and a happy facial expression and prosody stimuli with a happy word (NV+V+, e.g., Video S4). There were 20 videos of each type.</p>
+        <p>The emotional directionality of the nonverbal information was validated in an independent behavioral experiment using a separate group of 12 TD male participants (24–34 years old) who did not undergo the subsequent fMRI experiments. To validate the nonverbal information conveyed by the actors’ facial expressions, the participants were instructed to evaluate silent movies by indicating a score on an 8-point happy–disgust scale, with one being the happiest and 8 being the most disgusted. In contrast, to validate the prosody, we had the participants perform the same evaluation of the voice stimuli without the visual component of the movie (i.e., only listening to voice). In these evaluations of voice prosody, the participants were instructed to ignore the verbal content of the speech as much as possible. The mean scores and standard deviations for the facial expressions were 1.9±0.3 in the NV+V-, 1.8±0.2 in the NV+V+, 7.1±0.6 in the NV-V-, and 6.9±0.5 in the NV-V+ conditions. The mean scores and standard deviations for the voice prosody 3.0±0.3 in the NV+V-, 2.7±0.4 in the NV+V+, 6.8±0.5 in the NV-V-, and 6.6±0.4 in the NV-V+ conditions. There was no main effect of verbal information in a repeated-measures analysis of variance (ANOVA) comparing the positive versus negative words. All scores were significantly different from neutral facial expressions or prosody (P = 0.002, one-sample t-tests). These results indicate that the intended nonverbal information was appropriately conveyed to the participants, for both the facial expressions and voice prosody.</p>
+        <p>The fMRI scanning consisted of two runs, each of which involved 10 NV-V-, 10 NV-V+, 10 NV+V-, and 10 NV+V+ stimuli, pseudo-randomly ordered. During scanning, the participants were presented with the movies sequentially, and were instructed to judge whether they believed the actor in the movie was a friend or a foe by pressing a button. They were asked to make an intuitive judgment of the actors without deep consideration. Each movie stimulus was presented immediately before a 2,000-ms response period, followed by a 2,500–4,500-ms waiting period (<xref ref-type="fig" rid="pone-0039561-g001">Fig. 1B</xref>). The mean length of each trial across all 80 trials was 7,000 ms. For optimization of the event-related design, we also added 10 7,000 ms dummy trials in each run. Therefore, each run took approximately six minutes. Before fMRI scanning, all participants underwent sufficient training to allow them to complete the judgment task.</p>
+        <sec id="s2e1">
+          <title>Behavioral Analysis</title>
+          <p>Before the following analysis, we needed to exclude the possibility that the friend or foe judgments were strongly biased by any exogenous feature in the stimuli. If this was the case, the stimuli may have been disproportionately judged as either friends or foes no matter who saw them. To address this issue, we applied a chi-square goodness-of-fit test to the behavioral data obtained from the TD subjects, and we found that there was no significant bias towards judging the stimuli as a friend or a foe across all of the incongruent stimuli (chi-square = 15.7, degree of freedom = 16, P&gt;0.47). This suggests that the judgments cannot be explained by the exogenous features of the stimuli rather than internal processes in the participants.</p>
+          <p>We classified the judgments of the incongruent stimuli into nonverbal-cue-biased and verbal-cue-biased judgments, according to the type of information that primarily affected the judgment <xref ref-type="bibr" rid="pone.0039561-Kuzmanovic1">[17]</xref>. For example, making a judgment that the actor was a foe in response to a NV-V+ stimulus was regarded as a nonverbal-cue-biased judgment, and making a judgment that the actor was a foe in response to a NV+V- stimulus was regarded as a verbal-cue-biased judgment. To clarify the behavioral characteristics of the ASD group, we first conducted repeated-measures mixed-design ANOVAs of response time with one within-participants factor (type of stimuli: congruent/incongruent stimuli) and one between-participants factor (group: ASD/TD). To examine the effects of conflict adaptation <xref ref-type="bibr" rid="pone.0039561-Logan1">[41]</xref>–<xref ref-type="bibr" rid="pone.0039561-Egner1">[43]</xref>, paired t-tests were conducted between the response time for a congruent stimulus or an incongruent stimulus. We then compared the number of nonverbal-cue-biased judgments of incongruent stimuli between the TD and ASD groups using two-sample t-tests. Note that it is not necessary to compare the number of verbal-cue-biased judgments between the TD and ASD groups, because the number is always the converse of the number of the nonverbal-cue-biased judgments. The influence of type of emotion conveyed by the nonverbal information on the number and mean response time of the nonverbal-cue-biased judgments was also estimated as the interaction between the group and type of emotion conveyed in the stimulus in a repeated-measure mixed-design two-way ANOVA (group: TD/ASD × emotional type: positive/negative). Statistical significance was set at P&lt;0.05.</p>
+        </sec>
+        <sec id="s2e2">
+          <title>Preprocessing of fMRI Data</title>
+          <p>The fMRI data were analyzed in SPM8 (<ext-link ext-link-type="uri" xlink:href="http://www.fil.ion.ucl.ac.uk/spm/" xlink:type="simple">http://www.fil.ion.ucl.ac.uk/spm/</ext-link>). Functional images were realigned, slice timing corrected, normalized to the default template with interpolation to a 2×2×2 mm space <xref ref-type="bibr" rid="pone.0039561-Cocosco1">[44]</xref>, and smoothed (full width half maximum = 8 mm, Gaussian filter). To remove low-frequency drift from the data, high-pass temporal filtering with a cut-off of 128 s was applied. There was no significant difference in the extent of motion during the scanning between the TD and ASD participants as a repeated-measure mixed-design ANOVA (TD/ASD × absolute values of the six motion parameters: x/y/z/pitch/yaw/row) found neither a significant main effect of the group or interaction (P&gt;0.4).</p>
+        </sec>
+      </sec>
+      <sec id="s2f">
+        <title>fMRI Analysis</title>
+        <p>For our event-related fMRI design, in single level analyses, we used a general linear model with eight regressors: four types of stimuli (NV-V-, NV+V-, NV+V-, and NV+V+) × two types of response (friend and foe). Each event-related regressor had an onset at the time of stimulus presentation and a duration that corresponded to the response time. We also added six regressors for the six motion correction parameters. We then defined the brain activity during judgments biased to nonverbal cues as Bnv: [“Foe to NV-V+” and “Friend to NV+V-”] &gt; [“Foe to NV-V-” and “Friend to NV+V+”]. This contrast was based on the assumption that, in judgments of foe to NV-V+, for example, the participants emphasized nonverbal information more explicitly than in judgments of foe to NV-V-. To make this analysis valid, we excluded types of judgments that were rarely selected (e.g., “Friend to NV-V-“ and “Foe to NV+V+”). This exclusion was intended to reduce the influence of the stimuli in which the emotional content of the facial expressions and voice prosody were not exactly congruent to the verbal content of the words, though the effect cannot be completely excluded. Using the same logic, we defined the brain activity during judgments biased to verbal cues as Bv: [“Friend to NV-V+” and “Foe to NV+V-”] &gt; [“Friend to NV+V+” and “Foe to NV-V-”].</p>
+        <p>For the group level analysis, we estimated that activity in different brain regions was specifically related to nonverbal-cues-biased judgments using differences between the Bnv and Bv conditions.</p>
+        <p>The group level analysis was based on a random-effects model, and we first conducted within-group comparison for each of the groups. Moreover, we employed paired-t-tests and compared brain activity during the nonverbal-cue-biased judgments with that during the verbal-cue-biased judgments (Bnv &gt; Bv). We then conducted between-group comparisons by employing a repeated-measure mixed-design two-way ANOVA of the brain activities (type of judgments: nonverbal- or verbal-cue-biased judgments × group: ASD/TD). Using masked images, significant brain activations were examined in anatomically-defined regions described earlier, which previous studies have suggested are related to empathy, mentalizing, or uncertainty judgments <xref ref-type="bibr" rid="pone.0039561-Ridderinkhof1">[24]</xref>, <xref ref-type="bibr" rid="pone.0039561-Singer1">[25]</xref>, <xref ref-type="bibr" rid="pone.0039561-VanOverwalle2">[45]</xref> (P&lt;0.05, FDR-corrected, <xref ref-type="bibr" rid="pone.0039561-Lombardo1">[46]</xref>, <xref ref-type="bibr" rid="pone.0039561-Kuhl1">[47]</xref>). These regions were defined by an automated anatomical labeling (AAL) <xref ref-type="bibr" rid="pone.0039561-TzourioMazoyer1">[48]</xref> atlas implemented in WFU PickAtlas (<ext-link ext-link-type="uri" xlink:href="http://www.fmri.wfubmc.edu" xlink:type="simple">http://www.fmri.wfubmc.edu</ext-link>). To account for individual anatomical differences, we applied Gaussian smoothing (full width half maximum = 8 mm) to these mask images. To investigate the involvement of other brain regions, we also conducted a whole brain analysis (P&lt;0.05, FDR-corrected). Furthermore, for the regions found to exhibit activity in these analyses, we examined the effects of the affective valence of the verbal and nonverbal information (i.e., positive/negative) by conducting a repeated measures ANOVA of the activity (positive and negative × verbal and nonverbal information) in each of the subject groups.</p>
+        <p>To investigate which of the detected regions were more relevant to the nonverbal-cue-biased judgments, we examined Pearson’s correlation coefficients between the brain activity in the TD group during the nonverbal-cue-biased judgments and the number of behavioral judgments. This analysis is based on the assumption that activity in brain regions with relevance for certain behaviors significantly correlated with the corresponding behavioral scores across subjects <xref ref-type="bibr" rid="pone.0039561-Otten1">[49]</xref>–<xref ref-type="bibr" rid="pone.0039561-Suzuki1">[53]</xref>. The brain activity was extracted as an averaged percent signal change in 4-mm spheres around the coordinates of interest <xref ref-type="bibr" rid="pone.0039561-Morishima1">[54]</xref>. The significance level was set at P&lt;0.05 after Bonferroni correction among the detected regions (i.e., because five regions were found, the threshold was defined as P&lt;0.01 = 0.05/5 regions). To test whether these correlations were less strong in the ASD group, we also calculated the correlation in the ASD group, and compared the correlation coefficients between the TD and ASD groups using Fisher’s transformation of correlation coefficients. For further validation of regions detected by the analyses, we examined correlations between brain activity in the ASD group and the ADI-R sub-scores (social and communication). ADI-R-communication scores were included because these scores include items related to social interactions using nonverbal communicative cues (e.g., “failure to compensate verbal communication through gestures (B1)” and “lack of spontaneous imitation of actions and imitative social play (B2)”). Brain activity was extracted in the same way as described above in the analysis of behavior.</p>
+        <p>Finally, to exclude the possibility that the ASD subjects may show less overall brain activity than the TD subjects, we estimated differences in the amygdala response to congruent emotional stimuli between the groups, because previous studies reported enhanced activation of the amygdala in ASD individuals <xref ref-type="bibr" rid="pone.0039561-Dalton1">[55]</xref>, <xref ref-type="bibr" rid="pone.0039561-Kleinhans1">[56]</xref>. We employed an FDR-corrected P&lt;0.05 for this analysis in the amygdala.</p>
+      </sec>
+    </sec>
+    <sec id="s3">
+      <title>Results</title>
+      <sec id="s3a">
+        <title>Behavioral Results</title>
+        <p>A repeated-measure mixed-design two-way ANOVA of the response time data (stimulus type: incongruent and congruent stimuli × group: ASD and TD) revealed neither significant main effects of group nor any significant interaction between the group and stimulus type (P&gt;0.39). However, there was a main effect of stimulus type (F(1,30) = 6.3, P = 0.01). A post-hoc paired t-test revealed that response times in both the ASD and TD individuals were longer for incongruent than congruent stimuli (P&lt;0.001, <xref ref-type="fig" rid="pone-0039561-g001">Fig. 1C</xref>). This supports the hypothesis that both the TD and ASD participants sensed the incongruity and attempted to resolve this conflicting information, though it is hard to definitively test this hypothesis.</p>
+        <p>Furthermore, a paired t-test did not detect any significant differences between response times to incongruent stimuli that were presented immediately following congruent stimuli compared to response times to incongruent stimuli that were presented immediately following incongruent stimuli. This finding allowed us to exclude conflict-adaptation effects in the following analysis <xref ref-type="bibr" rid="pone.0039561-Logan1">[41]</xref>–<xref ref-type="bibr" rid="pone.0039561-Egner1">[43]</xref>.</p>
+        <p>A two-sample t-test of the number of judgments of the incongruent stimuli indicated that the ASD subjects made significantly fewer nonverbal-cue-biased judgments than the TD subjects (ASD: 23.2±1.8, TD: 26.1±1.2, mean ± s.e.m.; P&lt;0.05, <xref ref-type="fig" rid="pone-0039561-g001">Fig. 1D</xref>). Within the nonverbal-cue-biased judgments, a repeated-measure mixed-design ANOVA of the number of the nonverbal-cue-biased judgments did not detect a significant interaction between the group (TD and ASD) and the emotional valence of the nonverbal cues (positive and negative) (P&gt;0.4). These results suggest that the decrease in nonverbal-cue-biased judgments in the ASD subjects were commonly observed for both emotional valences of nonverbal information. The response time in the nonverbal-cue-biased judgments was not different between the ASD and TD groups (<xref ref-type="fig" rid="pone-0039561-g001">Fig. 1E</xref>). A repeated-measure ANOVA of the response times during the nonverbal-cue-biased judgments did not detect a significant interaction between the group and the emotional valence of the nonverbal information (P&gt;0.5).</p>
+        <p>As a whole, these behavioral results suggest that, compared with the TD subjects, the ASD subjects showed altered and less frequent use of nonverbal content in incongruent verbal-nonverbal social information, which is consistent with previous behavioral findings <xref ref-type="bibr" rid="pone.0039561-Kuzmanovic1">[17]</xref>.</p>
+      </sec>
+      <sec id="s3b">
+        <title>fMRI Results</title>
+        <sec id="s3b1">
+          <title>Within-group analysis</title>
+          <p>Before comparing the neural mechanism for the use of the nonverbal content between the ASD and TD groups, we first conducted a within-group analysis, and searched for the brain regions that showed greater activity in the nonverbal-cue-biased judgments than in the verbal-cue-biased judgments for each of the groups. In the TD group, the bilateral AI, bilateral IFG, dorsal mPFC, bilateral superior parietal lobe (SPL), and left inferior parietal lobe (IPL) showed significantly greater activity in the nonverbal-cue-biased judgments (t(16) &gt;3.5, P&lt;0.05, FDR-corrected; <xref ref-type="fig" rid="pone-0039561-g002">Fig. 2A</xref>; <xref ref-type="table" rid="pone-0039561-t002">Table 2</xref>). In the ASD group, the left amygdala and right superior temporal pole (STP) exhibited significantly stronger activity specific to the nonverbal-cue-biased judgments (t(16) &gt;3.6, P&lt;0.05, FDR-corrected; <xref ref-type="fig" rid="pone-0039561-g002">Fig. 2A</xref>; <xref ref-type="table" rid="pone-0039561-t002">Table 2</xref>). Furthermore, in both the TD and ASD groups, the emotional valences of the nonverbal and verbal cues did not influence the activity in these brain regions during nonverbal-cue-biased judgments (main effect of the emotional valence: P&gt;0.3 in one-way ANOVA). These findings provide a qualitative suggestion that the ASD participants used a different neural mechanism to process nonverbal information than the TD participants.</p>
+          <fig id="pone-0039561-g002" position="float">
+            <object-id pub-id-type="doi">10.1371/journal.pone.0039561.g002</object-id>
+            <label>Figure 2</label>
+            <caption>
+              <title>fMRI results (A) Brain regions specific to nonverbal-cue-biased judgments in TD or ASD individuals.</title>
+              <p>The left three panels show the brain regions in which activity was significantly greater during the nonverbal-cue-biased judgments (Bnv) than during the verbal-cue-biased judgments (Bv) in the TD individuals (P&lt;0.05, FDR-corrected). AI: anterior insula, IFG: inferior frontal gyrus, dmPFC: dorsal medial prefrontal cortex, IPL: inferior parietal lobe, SPL: superior parietal lobe. The right two panels show the three brain regions that had significantly greater activity during the nonverbal-cue-biased judgments than during the verbal-cue-biased judgments in the ASD individuals (P&lt;0.05, FDR-corrected). STP: superior temporal pole. <bold>(B) Brain regions whose activity was diminished or increased in ASD individuals.</bold> The left three panels show the five brain regions that had a significant interaction between the type of judgment and the group, as defined as (Bnv &gt; Bv) × (TD &gt; ASD) (P&lt;0.05, FDR-corrected). That is, in these regions, brain activity specific to the nonverbal-cue-biased judgments was larger in the TD group than in the ASD group. ACC/vmPFC: anterior cingulate cortex/ventral medial prefrontal cortex. The right two panels show the three brain regions in which brain activity specific to the nonverbal-cue-biased judgments was larger in the ASD group than in the TD group (P&lt;0.05, FDR-corrected). <bold>(C) Brain activity in the regions showing a significant interaction between judgment and group.</bold> The bar graphs show the percent signal changes in the brain regions that were shown in panel (B). ***: P&lt;0.001. error bar: s.d.</p>
+            </caption>
+            <graphic mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0039561.g002" xlink:type="simple"/>
+          </fig>
+          <table-wrap id="pone-0039561-t002" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0039561.t002</object-id><label>Table 2</label><caption>
+              <title>Between-group and within-group fMRI results.</title>
+            </caption><!--===== Grouping alternate versions of objects =====--><alternatives><graphic id="pone-0039561-t002-2" mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0039561.t002" xlink:type="simple"/><table>
+              <colgroup span="1">
+                <col align="left" span="1"/>
+                <col align="center" span="1"/>
+                <col align="center" span="1"/>
+                <col align="center" span="1"/>
+                <col align="center" span="1"/>
+                <col align="center" span="1"/>
+                <col align="center" span="1"/>
+              </colgroup>
+              <thead>
+                <tr>
+                  <td align="left" colspan="1" rowspan="1"/>
+                  <td align="left" colspan="1" rowspan="1"/>
+                  <td align="left" colspan="3" rowspan="1">MNI coordinate</td>
+                  <td align="left" colspan="1" rowspan="1"/>
+                  <td align="left" colspan="1" rowspan="1"/>
+                </tr>
+                <tr>
+                  <td align="left" colspan="1" rowspan="1">Right/Left</td>
+                  <td align="left" colspan="1" rowspan="1">Anatomical label</td>
+                  <td align="left" colspan="1" rowspan="1">x</td>
+                  <td align="left" colspan="1" rowspan="1">y</td>
+                  <td align="left" colspan="1" rowspan="1">z</td>
+                  <td align="left" colspan="1" rowspan="1">cluster size</td>
+                  <td align="left" colspan="1" rowspan="1">t value</td>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td align="left" colspan="2" rowspan="1">
+                    <bold>
+                      <italic>Within-group analysis</italic>
+                    </bold>
+                  </td>
+                  <td align="left" colspan="1" rowspan="1"/>
+                  <td align="left" colspan="1" rowspan="1"/>
+                  <td align="left" colspan="1" rowspan="1"/>
+                  <td align="left" colspan="1" rowspan="1"/>
+                  <td align="left" colspan="1" rowspan="1"/>
+                </tr>
+                <tr>
+                  <td align="left" colspan="2" rowspan="1">
+                    <italic>(Bnv &gt; Bv) in TD</italic>
+                  </td>
+                  <td align="left" colspan="1" rowspan="1"/>
+                  <td align="left" colspan="1" rowspan="1"/>
+                  <td align="left" colspan="1" rowspan="1"/>
+                  <td align="left" colspan="1" rowspan="1"/>
+                  <td align="left" colspan="1" rowspan="1"/>
+                </tr>
+                <tr>
+                  <td align="left" colspan="1" rowspan="1">Right</td>
+                  <td align="left" colspan="1" rowspan="1">AI</td>
+                  <td align="left" colspan="1" rowspan="1">32</td>
+                  <td align="left" colspan="1" rowspan="1">24</td>
+                  <td align="left" colspan="1" rowspan="1">2</td>
+                  <td align="left" colspan="1" rowspan="1">271</td>
+                  <td align="left" colspan="1" rowspan="1">4.2</td>
+                </tr>
+                <tr>
+                  <td align="left" colspan="1" rowspan="1">Left</td>
+                  <td align="left" colspan="1" rowspan="1">AI</td>
+                  <td align="left" colspan="1" rowspan="1">−26</td>
+                  <td align="left" colspan="1" rowspan="1">22</td>
+                  <td align="left" colspan="1" rowspan="1">−2</td>
+                  <td align="left" colspan="1" rowspan="1">362</td>
+                  <td align="left" colspan="1" rowspan="1">4.5</td>
+                </tr>
+                <tr>
+                  <td align="left" colspan="1" rowspan="1">Right</td>
+                  <td align="left" colspan="1" rowspan="1">IFG</td>
+                  <td align="left" colspan="1" rowspan="1">50</td>
+                  <td align="left" colspan="1" rowspan="1">28</td>
+                  <td align="left" colspan="1" rowspan="1">22</td>
+                  <td align="left" colspan="1" rowspan="1">154</td>
+                  <td align="left" colspan="1" rowspan="1">3.5</td>
+                </tr>
+                <tr>
+                  <td align="left" colspan="1" rowspan="1">Left</td>
+                  <td align="left" colspan="1" rowspan="1">IFG</td>
+                  <td align="left" colspan="1" rowspan="1">−54</td>
+                  <td align="left" colspan="1" rowspan="1">18</td>
+                  <td align="left" colspan="1" rowspan="1">20</td>
+                  <td align="left" colspan="1" rowspan="1">377</td>
+                  <td align="left" colspan="1" rowspan="1">4.1</td>
+                </tr>
+                <tr>
+                  <td align="left" colspan="1" rowspan="1">Left</td>
+                  <td align="left" colspan="1" rowspan="1">dmPFC</td>
+                  <td align="left" colspan="1" rowspan="1">−4</td>
+                  <td align="left" colspan="1" rowspan="1">20</td>
+                  <td align="left" colspan="1" rowspan="1">50</td>
+                  <td align="left" colspan="1" rowspan="1">201</td>
+                  <td align="left" colspan="1" rowspan="1">3.8</td>
+                </tr>
+                <tr>
+                  <td align="left" colspan="1" rowspan="1">Right</td>
+                  <td align="left" colspan="1" rowspan="1">SPL</td>
+                  <td align="left" colspan="1" rowspan="1">40</td>
+                  <td align="left" colspan="1" rowspan="1">−54</td>
+                  <td align="left" colspan="1" rowspan="1">56</td>
+                  <td align="left" colspan="1" rowspan="1">144</td>
+                  <td align="left" colspan="1" rowspan="1">3.9</td>
+                </tr>
+                <tr>
+                  <td align="left" colspan="1" rowspan="1">Left</td>
+                  <td align="left" colspan="1" rowspan="1">SPL</td>
+                  <td align="left" colspan="1" rowspan="1">−30</td>
+                  <td align="left" colspan="1" rowspan="1">−64</td>
+                  <td align="left" colspan="1" rowspan="1">48</td>
+                  <td align="left" colspan="1" rowspan="1">421</td>
+                  <td align="left" colspan="1" rowspan="1">4.2</td>
+                </tr>
+                <tr>
+                  <td align="left" colspan="1" rowspan="1">Left</td>
+                  <td align="left" colspan="1" rowspan="1">IPL</td>
+                  <td align="left" colspan="1" rowspan="1">−44</td>
+                  <td align="left" colspan="1" rowspan="1">−44</td>
+                  <td align="left" colspan="1" rowspan="1">52</td>
+                  <td align="left" colspan="1" rowspan="1">387</td>
+                  <td align="left" colspan="1" rowspan="1">5.5</td>
+                </tr>
+                <tr>
+                  <td align="left" colspan="2" rowspan="1">
+                    <italic>(Bnv &gt; Bv) in ASD</italic>
+                  </td>
+                  <td align="left" colspan="1" rowspan="1"/>
+                  <td align="left" colspan="1" rowspan="1"/>
+                  <td align="left" colspan="1" rowspan="1"/>
+                  <td align="left" colspan="1" rowspan="1"/>
+                  <td align="left" colspan="1" rowspan="1"/>
+                </tr>
+                <tr>
+                  <td align="left" colspan="1" rowspan="1">Left</td>
+                  <td align="left" colspan="1" rowspan="1">Amygdala</td>
+                  <td align="left" colspan="1" rowspan="1">−26</td>
+                  <td align="left" colspan="1" rowspan="1">−4</td>
+                  <td align="left" colspan="1" rowspan="1">−18</td>
+                  <td align="left" colspan="1" rowspan="1">251</td>
+                  <td align="left" colspan="1" rowspan="1">4.1</td>
+                </tr>
+                <tr>
+                  <td align="left" colspan="1" rowspan="1">Right</td>
+                  <td align="left" colspan="1" rowspan="1">STP</td>
+                  <td align="left" colspan="1" rowspan="1">60</td>
+                  <td align="left" colspan="1" rowspan="1">4</td>
+                  <td align="left" colspan="1" rowspan="1">0</td>
+                  <td align="left" colspan="1" rowspan="1">728</td>
+                  <td align="left" colspan="1" rowspan="1">4.2</td>
+                </tr>
+                <tr>
+                  <td align="left" colspan="2" rowspan="1">
+                    <bold>
+                      <italic>Between-group analysis</italic>
+                    </bold>
+                  </td>
+                  <td align="left" colspan="1" rowspan="1"/>
+                  <td align="left" colspan="1" rowspan="1"/>
+                  <td align="left" colspan="1" rowspan="1"/>
+                  <td align="left" colspan="1" rowspan="1"/>
+                  <td align="left" colspan="1" rowspan="1"/>
+                </tr>
+                <tr>
+                  <td align="left" colspan="2" rowspan="1">
+                    <italic>(Bnv &gt; Bv) × (TD &gt; ASD)</italic>
+                  </td>
+                  <td align="left" colspan="1" rowspan="1"/>
+                  <td align="left" colspan="1" rowspan="1"/>
+                  <td align="left" colspan="1" rowspan="1"/>
+                  <td align="left" colspan="1" rowspan="1"/>
+                  <td align="left" colspan="1" rowspan="1"/>
+                </tr>
+                <tr>
+                  <td align="left" colspan="1" rowspan="1">Left</td>
+                  <td align="left" colspan="1" rowspan="1">ACC/vmPFC</td>
+                  <td align="left" colspan="1" rowspan="1">2</td>
+                  <td align="left" colspan="1" rowspan="1">34</td>
+                  <td align="left" colspan="1" rowspan="1">8</td>
+                  <td align="left" colspan="1" rowspan="1">283</td>
+                  <td align="left" colspan="1" rowspan="1">4.2</td>
+                </tr>
+                <tr>
+                  <td align="left" colspan="1" rowspan="1">Left</td>
+                  <td align="left" colspan="1" rowspan="1">dmPFC</td>
+                  <td align="left" colspan="1" rowspan="1">0</td>
+                  <td align="left" colspan="1" rowspan="1">30</td>
+                  <td align="left" colspan="1" rowspan="1">52</td>
+                  <td align="left" colspan="1" rowspan="1">325</td>
+                  <td align="left" colspan="1" rowspan="1">4.3</td>
+                </tr>
+                <tr>
+                  <td align="left" colspan="1" rowspan="1">Right</td>
+                  <td align="left" colspan="1" rowspan="1">IFG</td>
+                  <td align="left" colspan="1" rowspan="1">54</td>
+                  <td align="left" colspan="1" rowspan="1">28</td>
+                  <td align="left" colspan="1" rowspan="1">22</td>
+                  <td align="left" colspan="1" rowspan="1">201</td>
+                  <td align="left" colspan="1" rowspan="1">3.6</td>
+                </tr>
+                <tr>
+                  <td align="left" colspan="1" rowspan="1">Right</td>
+                  <td align="left" colspan="1" rowspan="1">AI</td>
+                  <td align="left" colspan="1" rowspan="1">38</td>
+                  <td align="left" colspan="1" rowspan="1">42</td>
+                  <td align="left" colspan="1" rowspan="1">−4</td>
+                  <td align="left" colspan="1" rowspan="1">148</td>
+                  <td align="left" colspan="1" rowspan="1">4.3</td>
+                </tr>
+                <tr>
+                  <td align="left" colspan="1" rowspan="1">Left</td>
+                  <td align="left" colspan="1" rowspan="1">AI</td>
+                  <td align="left" colspan="1" rowspan="1">−38</td>
+                  <td align="left" colspan="1" rowspan="1">16</td>
+                  <td align="left" colspan="1" rowspan="1">−8</td>
+                  <td align="left" colspan="1" rowspan="1">710</td>
+                  <td align="left" colspan="1" rowspan="1">3.5</td>
+                </tr>
+                <tr>
+                  <td align="left" colspan="2" rowspan="1">
+                    <italic>(Bnv &gt; Bv) × (ASD &gt; TD)</italic>
+                  </td>
+                  <td align="left" colspan="1" rowspan="1"/>
+                  <td align="left" colspan="1" rowspan="1"/>
+                  <td align="left" colspan="1" rowspan="1"/>
+                  <td align="left" colspan="1" rowspan="1"/>
+                  <td align="left" colspan="1" rowspan="1"/>
+                </tr>
+                <tr>
+                  <td align="left" colspan="1" rowspan="1">Left</td>
+                  <td align="left" colspan="1" rowspan="1">Amygdala</td>
+                  <td align="left" colspan="1" rowspan="1">−26</td>
+                  <td align="left" colspan="1" rowspan="1">−6</td>
+                  <td align="left" colspan="1" rowspan="1">−20</td>
+                  <td align="left" colspan="1" rowspan="1">114</td>
+                  <td align="left" colspan="1" rowspan="1">4.1</td>
+                </tr>
+                <tr>
+                  <td align="left" colspan="1" rowspan="1">Right</td>
+                  <td align="left" colspan="1" rowspan="1">STP</td>
+                  <td align="left" colspan="1" rowspan="1">56</td>
+                  <td align="left" colspan="1" rowspan="1">2</td>
+                  <td align="left" colspan="1" rowspan="1">0</td>
+                  <td align="left" colspan="1" rowspan="1">253</td>
+                  <td align="left" colspan="1" rowspan="1">4.3</td>
+                </tr>
+              </tbody>
+            </table></alternatives><table-wrap-foot>
+              <fn id="nt104">
+                <label/>
+                <p>ACC: Anterior cingulate cortex; vmPFC: ventral medial prefrontal cortex; dmPFC: dorsal medial prefrontal cortex; IFG: inferior frontal gyrus; AI: anterior insula; STP: superior temporal pole. P&lt;0.05 FDR-corrected.</p>
+              </fn>
+            </table-wrap-foot></table-wrap>
+        </sec>
+      </sec>
+      <sec id="s3c">
+        <title>Between-group Analysis</title>
+        <p>To quantitatively elucidate the differences in brain activity between the ASD and TD subjects, we next conducted a repeated-measure mixed-design two-way ANOVA of the per-voxel brain activity (types of judgments: nonverbal- and verbal-cue-biased judgments × group: ASD and TD). Voxel-level brain activity was extracted from the anatomical brain regions using the same procedures as the within-group analysis. Although there were no significant main effects, we found a significant interaction between the group and the judgment types in the anterior cingulate cortex/ventral mPFC (ACC/vmPFC), dorsal mPFC (dmPFC), bilateral AI, right IFG, left amygdala, and right superior temporal pole (STP) (F(1,30) &gt;12, P&lt;0.05, FDR-corrected). In contrast, the exploratory whole brain analysis did not find any significant activation (P&lt;0.05, FDR-corrected).</p>
+        <p>A post-hoc analysis of the interaction defined as (Bnv &gt; Bv) × (TD &gt; ASD) found that the ACC/vmPFC, dmPFC, bilateral AIs, and right IFG showed significantly greater activity in the TD group than in the ASD group (t(30) &gt;3.5, P&lt;0.05, FDR-corrected; <xref ref-type="fig" rid="pone-0039561-g002">Fig. 2B and 2C</xref>, <xref ref-type="table" rid="pone-0039561-t002">Table 2</xref>). Another post-hoc analysis using the interaction defined as (Bnv &gt; Bv) × (ASD &gt; TD), the left amygdala and right STP showed significantly greater activity in the ASD group than in the TD group (<xref ref-type="fig" rid="pone-0039561-g002">Fig. 2B and 2C</xref>, <xref ref-type="table" rid="pone-0039561-t002">Table 2</xref>). These results suggest that brain activity in these regions underlies the impaired use of nonverbal information in ASD individuals.</p>
+      </sec>
+      <sec id="s3d">
+        <title>Characterization of the Detected Brain Regions</title>
+        <p>We then investigated which of the 8 brain regions examined exhibited activity that was related to the nonverbal-cue-biased judgments by correlating brain activity with the number of the nonverbal-cue-biased judgments. Consequently, in the TD group, activity in only the ACC/vmPFC and dmPFC exhibited significant positive correlations with the number of nonverbal-cue-biased judgments (P&lt;0.05, Bonferroni-corrected among the eight regions in <xref ref-type="fig" rid="pone-0039561-g002">Fig. 2B and 2C</xref>; <xref ref-type="fig" rid="pone-0039561-g003">Fig. 3A</xref>). In contrast, significant correlations were not found in any of these eight brain regions in the ASD group. In particular, the correlations in the ACC/vmPFC and dmPFC were significantly steeper in the TD than in the ASD group (ACC/vmPFC: Z = 3.3, P = 0.001; dmPFC; Z = 2.9, P = 0.002; <xref ref-type="fig" rid="pone-0039561-g003">Fig. 3A</xref>). These results suggest that these two regions are primarily responsible for nonverbal-cue-biased judgments and imply that that decreased activity in these regions may underlie impaired nonverbal-cue-biased judgments in ASD individuals.</p>
+        <fig id="pone-0039561-g003" position="float">
+          <object-id pub-id-type="doi">10.1371/journal.pone.0039561.g003</object-id>
+          <label>Figure 3</label>
+          <caption>
+            <title>Comparison of fMRI signal and behavioral/clinical indices.</title>
+            <p><bold>(A) Correlation between fMRI signals and the number of nonverbal-cue-biased judgments.</bold> In the TD group, among the four regions in shown Fig. 2B, only the activity in the ACC/vmPFC and dmPFC showed a significant positive correlation with the number of nonverbal-cue-biased judgments (P&lt;0.05, Bonferroni-corrected). In the ASD group, there was no significant correlation between this behavioral metric and activity in either region. Circles and lines: data of TD participants; + and dashed lines: data of ASD participants. <bold>(B) Correlation between fMRI signal and clinical metrics.</bold> In ASD group, the fMRI signals in the ACC/vmPFC and dmPFC exhibited significant negative correlations with ADI-R communication sub-scores.</p>
+          </caption>
+          <graphic mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0039561.g003" xlink:type="simple"/>
+        </fig>
+      </sec>
+      <sec id="s3e">
+        <title>Correlation between fMRI Signals and Symptom Severity</title>
+        <p>To further examine the relationship between impaired nonverbal-cue-biased judgments and brain activity, we investigated the influence of diminished activity in the ACC/vmPFC and dmPFC on the severity of autistic symptoms related to social interaction (i.e., ADI-R social and communication scores). In both regions, the brain activity significantly and negatively correlated with ADI-R communication scores (ACC/vmPFC: r = −0.67, P = 0.008; dmPFC: r = −0.62, P = 0.01; both were equivalent to P&lt;0.05, Bonferroni-corrected among the two regions and two scores; <xref ref-type="fig" rid="pone-0039561-g003">Fig. 3B</xref>), whereas there was no significant correlation between brain activity in these regions and ADI-R social scores (ACC/vmPFC: r = −0.31, P = 0.26; d mPFC: r = −0.21, P = 0.44). These results support the hypothesis that autistic deficits in communication are partially due to diminished brain activity in the ACC/vmPFC and dmPFC.</p>
+      </sec>
+      <sec id="s3f">
+        <title>Differences in Amygdala Activity</title>
+        <p>The possibility that ASD group exhibited less overall brain activity than the TD group was excluded by the finding that the ASD group exhibited significantly greater activity in the amygdala than the TD group during responses to congruent emotional stimuli ([36, −2, −28], t = 3.9, P&lt;0.05, FDR-corrected in the amygdala) as well as during nonverbal-cue-biased judgments (<xref ref-type="fig" rid="pone-0039561-g002">Fig. 2D</xref>, <xref ref-type="table" rid="pone-0039561-t002">Table 2</xref>).</p>
+      </sec>
+    </sec>
+    <sec id="s4">
+      <title>Discussion</title>
+      <p>To the best of our knowledge, the present study is the first to elucidate the neural mechanisms underlying impaired social judgments of incongruent verbal-nonverbal information in ASD individuals. We found that ASD participants showed diminished activity in the bilateral AI, pIFG, ACC/vmPFC and dmPFC. Among these five brain regions, the ACC/vmPFC and dmPFC were the regions primarily involved in nonverbal-cue-biased judgments in the TD participants. In addition, the reduction in brain activity in these regions was predictive of the severity of the ASD participants’ communication deficits. These results indicate that impaired recruitment of the ACC/vmPFC and dmPFC in ASD individuals is associated with their impairments in the social judgment of incongruent verbal-nonverbal information.</p>
+      <p>The current study employed short movies where a trained professional actor spoke an emotional word while displaying an emotional facial expression and voice prosody. These realistic video stimuli were chosen to maximize the similarity of the psychological task to real-life social situations. In contrast, previous studies have used nonverbal stimuli in the form of a narrator <xref ref-type="bibr" rid="pone.0039561-Wang1">[4]</xref>, <xref ref-type="bibr" rid="pone.0039561-Tesink1">[5]</xref>, static pictures <xref ref-type="bibr" rid="pone.0039561-Dalton1">[55]</xref>, <xref ref-type="bibr" rid="pone.0039561-Kleinhans1">[56]</xref> or cartoons <xref ref-type="bibr" rid="pone.0039561-Wang2">[20]</xref>. The current paradigm allowed us to examine the neural basis of more spontaneous social judgments, which is considered to be distinctively impaired in ASD individuals <xref ref-type="bibr" rid="pone.0039561-Senju1">[19]</xref>. It is the case that the current short movies may still evoke some unnatural feelings in the participants due to its monochrome style and possible incongruity between disgustful facial expression and contents of some negative words that are unrelated to disgust, and future study is expected to control such incongruity.</p>
+      <p>Although the present psychological task was a reaction time task, it had no correct response and allowed the participants to express what they felt in a relatively unrestrained manner. Therefore, the present task allowed the participants to respond in a more spontaneous manner than forced-choice tasks. This spontaneity not only reduced the differences between the task and real-life situations, but also enabled us to detect autistic behavioral and neural impairments, which are often difficult to capture in adult individuals with high functioning ASD <xref ref-type="bibr" rid="pone.0039561-Klin1">[57]</xref>. ASD individuals with higher verbal abilities can often solve social tasks appropriately when they are given enough verbal information and time to respond <xref ref-type="bibr" rid="pone.0039561-Bowler1">[58]</xref>–<xref ref-type="bibr" rid="pone.0039561-Ramachandran1">[61]</xref>. This superficial, adequate behavior in the adult high functioning ASD individuals is based on ASD-specific forms of the “theory of mind” <xref ref-type="bibr" rid="pone.0039561-Bowler1">[58]</xref>. In contrast, even individuals with high functioning ASD show difficulties in psychological tasks that require spontaneous mentalizing <xref ref-type="bibr" rid="pone.0039561-Frith1">[3]</xref>, <xref ref-type="bibr" rid="pone.0039561-Ruffman1">[18]</xref>, <xref ref-type="bibr" rid="pone.0039561-Senju1">[19]</xref>,<xref ref-type="bibr" rid="pone.0039561-Castelli1">[62]</xref>,<xref ref-type="bibr" rid="pone.0039561-Kana1">[63]</xref>. In addition, ASD individuals are more likely to exhibit impaired social judgments when psychological tasks utilize nonverbal stimuli <xref ref-type="bibr" rid="pone.0039561-Senju1">[19]</xref>. Therefore, in the present study, the task paradigm of allowing the participants to respond more spontaneously than forced-choice tasks may have increased the sensitivity of the task to behavioral and neural impairments in high-functioning ASD individuals.</p>
+      <p>The number of participants in the present study is comparable to that in previous studies <xref ref-type="bibr" rid="pone.0039561-Gilbert1">[64]</xref>, <xref ref-type="bibr" rid="pone.0039561-Mizuno1">[65]</xref>, and was large enough to detect a neural basis for impaired social judgments in ASD individuals. Based on the effect size of the detected significant differences in brain activity between the ASD and TD groups (Cohen’s d &gt;1.28), the powers of the present findings were sufficient, even for the weakest activation (&gt;0.93 for the activation in the left AI, t = 3.5; <xref ref-type="table" rid="pone-0039561-t002">Table 2</xref>). Furthermore, the differences between the groups in the present study in terms of sex, age, race, intellectual ability, pharmacological status, and psychiatric comorbidity were at least as small as in previous studies employing ASD individuals <xref ref-type="bibr" rid="pone.0039561-Tesink1">[5]</xref>, <xref ref-type="bibr" rid="pone.0039561-Lombardo1">[46]</xref>, <xref ref-type="bibr" rid="pone.0039561-Gilbert1">[64]</xref>, <xref ref-type="bibr" rid="pone.0039561-Mizuno1">[65]</xref>. As such, the group sizes and homogeneity were sufficient to support our findings.</p>
+      <p>By demonstrating significant contributions of the ACC/vmPFC and dmPFC in nonverbal-information-biased judgments, the present results suggest that both areas play important roles in the pathophysiology of communication in ASD individuals. Previous studies have suggested that the vmPFC is involved in self-referential mentalizing <xref ref-type="bibr" rid="pone.0039561-Lombardo1">[46]</xref>, <xref ref-type="bibr" rid="pone.0039561-Jenkins1">[66]</xref>, <xref ref-type="bibr" rid="pone.0039561-Tamir1">[67]</xref>, and that the dmPFC is associated with non-self-referential mentalizing and deeper objective reasoning <xref ref-type="bibr" rid="pone.0039561-Mitchell1">[68]</xref>–<xref ref-type="bibr" rid="pone.0039561-ShamayTsoory2">[70]</xref>. That is, both of these subregions of the mPFC are involved in mentalizing <xref ref-type="bibr" rid="pone.0039561-VanOverwalle1">[23]</xref>, and impairments of their activity may disrupt social judgments of hostility. The presently reported results are consistent with those previous findings, and suggest more specific functions of these regions during the processing of incongruent verbal-nonverbal social stimuli. Furthermore, this specific role for these brain regions (i.e., social judgments based on nonverbal information) is in accord with previous findings that explicit attention to nonverbal information during an irony comprehension task increased activity in the anterior portion of the dorsal mPFC in ASD children <xref ref-type="bibr" rid="pone.0039561-Wang2">[20]</xref>.</p>
+      <p>The right IFG and bilateral AI also exhibited significantly reduced activity during nonverbal-information-biased judgments in the ASD group compared with the TD group. Previous studies in TD individuals have repeatedly reported significant contributions of these brain regions to empathic processing of the emotions and sensations of other people (reviewed in <xref ref-type="bibr" rid="pone.0039561-Singer1">[25]</xref>, <xref ref-type="bibr" rid="pone.0039561-Iacoboni1">[71]</xref>). Functional and structural deficits in these brain regions in ASD individuals have been reported to be associated with clinical deficits in understanding other’s emotional states and in communicating with others <xref ref-type="bibr" rid="pone.0039561-Dapretto1">[72]</xref>–<xref ref-type="bibr" rid="pone.0039561-Yamasaki1">[74]</xref>. Notably, consistent with the current results, previous studies have also highlighted a crucial role of the AI in judging and categorizing uncertainty <xref ref-type="bibr" rid="pone.0039561-Grinband1">[75]</xref>.</p>
+      <p>In contrast to the mPFC, the amygdala showed larger activity in the ASD group than in the TD group. This enhanced activation was observed both during nonverbal-cue-biased judgments and during responding to the congruent stimuli. Anatomical and functional abnormalities in the amygdala of ASD individuals have been reported in a series of previous studies <xref ref-type="bibr" rid="pone.0039561-Dalton1">[55]</xref>, <xref ref-type="bibr" rid="pone.0039561-Klin1">[57]</xref>, <xref ref-type="bibr" rid="pone.0039561-Amaral1">[76]</xref>, <xref ref-type="bibr" rid="pone.0039561-Stanfield1">[77]</xref>. In particular, previous fMRI studies have suggested that ASD participants show greater activity in the amygdala than TD individuals when they see emotional facial expression <xref ref-type="bibr" rid="pone.0039561-Dalton1">[55]</xref>, <xref ref-type="bibr" rid="pone.0039561-Kleinhans1">[56]</xref>. This finding is consistent with the present observation of enhanced amygdala activation during responding to congruent stimuli. Moreover, the present study provided further evidence to support this observation because the enhanced activation in the ASD subjects during the nonverbal-cue-biased judgments could be interpreted as a consequence of an enhanced response to nonverbal information, such as facial expressions.</p>
+      <p>To validate our findings, we excluded the possibility that all brain regions in the ASD subjects exhibited less brain activity than those in the TD subjects. Even after global normalization, we detected enhanced activation in the amygdala in response to congruent emotional cues in the ASD subjects. This enhanced activation in the amygdala furthermore excludes the possibility that training-related effects influenced our findings. In the present study, before the fMRI scanning, the ASD participants required a longer training period to learn the task than the TD participants (ASD: nine times; TD: three times). If the ASD participants became more habituated to the emotional stimuli during training than the TD controls, they may have exhibited less activity in the amygdala <xref ref-type="bibr" rid="pone.0039561-Kuhl1">[47]</xref>. The enhanced activation in the amygdala in the ASD subjects minimizes this possibility and further validates our main findings.</p>
+      <p>The behavioral pattern in the response times to incongruent stimuli data excluded the possibility that the ASD participants may have been unable to perceive nonverbal information. If this was the case, ASD individuals would not have been able to sense the incongruence between nonverbal and verbal information. However, as in the TD participants, the response times to incongruent stimuli were significantly prolonged compared to the response times to congruent stimuli in the ASD participants (<xref ref-type="fig" rid="pone-0039561-g001">Fig. 1C</xref>), which is consistent with a previous study <xref ref-type="bibr" rid="pone.0039561-Tesink1">[5]</xref>. In addition, the response times did not differ between the ASD and TD groups, for either incongruent or congruent stimuli, as was observed in another previous study <xref ref-type="bibr" rid="pone.0039561-Wang1">[4]</xref>. This behavioral pattern suggests that the ASD participants were able to perceive the verbal and nonverbal information and sense the incongruence of the stimuli, which is in line with a previous behavioral study of conflicting verbal-nonverbal information in ASD individuals <xref ref-type="bibr" rid="pone.0039561-Kuzmanovic1">[17]</xref>.</p>
+      <p>Finally, by estimating the effects of the interaction among the types of judgments and the groups, we also excluded the possibility that activation in the brain regions in which the ASD subjects exhibited less activity reflected conflict monitoring rather than the effects of impaired nonverbal-cue-biased judgments. The detected activations were based on differences in brain activity during the nonverbal-cue-biased judgments compared to verbal-cue-biased judgments. Therefore, we can assume that the influence of the conflict monitoring on these activations was minimal.</p>
+      <p>In conclusion, the present study demonstrated that significantly decreased brain activity in the right IFG, bilateral AI, and ventral and dorsal mPFC was associated with impaired social judgments of incongruent verbal-nonverbal information in high-functioning non-medicated adult males with ASD. In particular, the nonverbal-cue-biased judgments recruited the ACC/vmPFC and dmPFC in the TD group, and diminished activity in these two regions in the ASD subjects was predictive of the extent of their impairments in communicating with other people. Through disrupting important cognitive systems such as mentalizing, empathy, and judging uncertainty, dysfunction in these brain regions may play a role in shaping the characteristic tendencies of individuals with ASD to make impaired social judgments.</p>
+    </sec>
+    <sec id="s5">
+      <title>Supporting Information</title>
+      <supplementary-material id="pone.0039561.s001" mimetype="Video/mp4" position="float" xlink:href="info:doi/10.1371/journal.pone.0039561.s001" xlink:type="simple">
+        <label>Video S1</label>
+        <caption>
+          <p>(MP4)</p>
+        </caption>
+      </supplementary-material>
+      <supplementary-material id="pone.0039561.s002" mimetype="Video/mp4" position="float" xlink:href="info:doi/10.1371/journal.pone.0039561.s002" xlink:type="simple">
+        <label>Video S2</label>
+        <caption>
+          <p>(MP4)</p>
+        </caption>
+      </supplementary-material>
+      <supplementary-material id="pone.0039561.s003" mimetype="Video/mp4" position="float" xlink:href="info:doi/10.1371/journal.pone.0039561.s003" xlink:type="simple">
+        <label>Video S3</label>
+        <caption>
+          <p>(MP4)</p>
+        </caption>
+      </supplementary-material>
+      <supplementary-material id="pone.0039561.s004" mimetype="Video/mp4" position="float" xlink:href="info:doi/10.1371/journal.pone.0039561.s004" xlink:type="simple">
+        <label>Video S4</label>
+        <caption>
+          <p>Each video is a representative stimulus for each type of stimuli used in the present study. In a video, one of 20 professional actors (10 males and 10 females) appears and speaks an emotional word (positive or negative) with emotional facial expression and prosody (happy: positive or disgust: negative). In VideoS1.mp4 and VideoS3.mp4, the actor speaks “(You look) Distressed” in Japanese with disgust or happy facial expression and prosody, respectively. In VideoS2.mp4 and VideoS4.mp4, he speaks “(You are) Friendly” in Japanese with disgust or happy facial expression and prosody, respectively.</p>
+          <p>(MP4)</p>
+        </caption>
+      </supplementary-material>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>We thank Mr. Takao Shimizu for his cooperation in introducing professional actors to us.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="pone.0039561-Schultz1">
+        <label>1</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Schultz</surname><given-names>RT</given-names></name><name name-style="western"><surname>Gauthier</surname><given-names>I</given-names></name><name name-style="western"><surname>Klin</surname><given-names>A</given-names></name><name name-style="western"><surname>Fulbright</surname><given-names>RK</given-names></name><name name-style="western"><surname>Anderson</surname><given-names>AW</given-names></name><etal/></person-group>             <year>2000</year>             <article-title>Abnormal ventral temporal cortical activity during face discrimination among individuals with autism and Asperger syndrome.</article-title>             <source>Arch Gen Psychiatry</source>             <volume>57</volume>             <fpage>331</fpage>             <lpage>340</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0039561-Critchley1">
+        <label>2</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Critchley</surname><given-names>H</given-names></name><name name-style="western"><surname>Melmed</surname><given-names>R</given-names></name><name name-style="western"><surname>Featherstone</surname><given-names>E</given-names></name></person-group>             <year>2001</year>             <article-title>Brain activity during biofeedback relaxation: A functional neuroimaging investigation.</article-title>             <source>Brain</source>          </element-citation>
+      </ref>
+      <ref id="pone.0039561-Frith1">
+        <label>3</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Frith</surname><given-names>U</given-names></name></person-group>             <year>2004</year>             <article-title>Emanuel Miller lecture: confusions and controversies about Asperger syndrome. J Child Psychol Psychiatry 45: 672–686.</article-title>             <comment>doi: 10.1111/j.1469-7610.2004.00262x</comment>                      </element-citation>
+      </ref>
+      <ref id="pone.0039561-Wang1">
+        <label>4</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Wang</surname><given-names>AT</given-names></name><name name-style="western"><surname>Lee</surname><given-names>SS</given-names></name><name name-style="western"><surname>Sigman</surname><given-names>M</given-names></name><name name-style="western"><surname>Dapretto</surname><given-names>M</given-names></name></person-group>             <year>2006</year>             <article-title>Neural basis of irony comprehension in children with autism: the role of prosody and context. Brain 129: 932–943.</article-title>             <comment>doi: 10.1093/brain/awl032</comment>           </element-citation>
+      </ref>
+      <ref id="pone.0039561-Tesink1">
+        <label>5</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Tesink</surname><given-names>CMJY</given-names></name><name name-style="western"><surname>Buitelaar</surname><given-names>JK</given-names></name><name name-style="western"><surname>Petersson</surname><given-names>KM</given-names></name><name name-style="western"><surname>van der Gaag</surname><given-names>RJ</given-names></name><name name-style="western"><surname>Kan</surname><given-names>CC</given-names></name><etal/></person-group>             <year>2009</year>             <article-title>Neural correlates of pragmatic language comprehension in autism spectrum disorders. Brain 132: 1941–1952.</article-title>             <comment>doi:10.1093/brain/awp103</comment>           </element-citation>
+      </ref>
+      <ref id="pone.0039561-Yamasue1">
+        <label>6</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Yamasue</surname><given-names>H</given-names></name><name name-style="western"><surname>Kuwabara</surname><given-names>H</given-names></name><name name-style="western"><surname>Kawakubo</surname><given-names>Y</given-names></name><name name-style="western"><surname>Kasai</surname><given-names>K</given-names></name></person-group>             <year>2009</year>             <article-title>Oxytocin, sexually dimorphic features of the social brain, and autism. Psychiatry Clin Neurosci 63: 129–140.</article-title>             <comment>doi:10.1111/j.1440-1819.2009.01944x</comment>          </element-citation>
+      </ref>
+      <ref id="pone.0039561-Groen1">
+        <label>7</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Groen</surname><given-names>WB</given-names></name><name name-style="western"><surname>Tesink</surname><given-names>C</given-names></name><name name-style="western"><surname>Petersson</surname><given-names>KM</given-names></name><name name-style="western"><surname>van Berkum</surname><given-names>J</given-names></name><name name-style="western"><surname>van der Gaag</surname><given-names>RJ</given-names></name><etal/></person-group>             <year>2010</year>             <article-title>Semantic, factual, and social language comprehension in adolescents with autism: an FMRI study. Cerebral Cortex 20: 1937–1945.</article-title>             <comment>doi:10.1093/cercor/bhp264</comment>           </element-citation>
+      </ref>
+      <ref id="pone.0039561-Schwartz1">
+        <label>8</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Schwartz</surname><given-names>C</given-names></name><name name-style="western"><surname>Bente</surname><given-names>G</given-names></name><name name-style="western"><surname>Gawronski</surname><given-names>A</given-names></name><name name-style="western"><surname>Schilbach</surname><given-names>L</given-names></name><name name-style="western"><surname>Vogeley</surname><given-names>K</given-names></name></person-group>             <year>2010</year>             <article-title>Responses to nonverbal behaviour of dynamic virtual characters in high-functioning autism. J Autism Dev Disord 40: 100–111.</article-title>             <comment>doi:10.1007/s10803-009-0843-z</comment>                      </element-citation>
+      </ref>
+      <ref id="pone.0039561-Happ1">
+        <label>9</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Happé</surname><given-names>FG</given-names></name></person-group>             <year>1993</year>             <article-title>Communicative competence and theory of mind in autism: a test of relevance theory.</article-title>             <source>Cognition</source>             <volume>48</volume>             <fpage>101</fpage>             <lpage>119</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0039561-TagerFlusberg1">
+        <label>10</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Tager-Flusberg</surname><given-names>H</given-names></name><name name-style="western"><surname>Joseph</surname><given-names>RM</given-names></name></person-group>             <year>2003</year>             <article-title>Identifying neurocognitive phenotypes in autism. Philos Trans R Soc Lond, B, Biol Sci 358: 303–314.</article-title>             <comment>doi:10.1098/rstb.2002.1198</comment>           </element-citation>
+      </ref>
+      <ref id="pone.0039561-Schultz2">
+        <label>11</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Schultz</surname><given-names>RT</given-names></name><name name-style="western"><surname>Gauthier</surname><given-names>I</given-names></name><name name-style="western"><surname>Klin</surname><given-names>A</given-names></name><name name-style="western"><surname>Fulbright</surname><given-names>RK</given-names></name><name name-style="western"><surname>Anderson</surname><given-names>AW</given-names></name><etal/></person-group>             <year>2000</year>             <article-title>Abnormal ventral temporal cortical activity during face discrimination among individuals with autism and Asperger syndrome.</article-title>             <source>Arch Gen Psychiatry</source>             <volume>57</volume>             <fpage>331</fpage>             <lpage>340</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0039561-Pelphrey1">
+        <label>12</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Pelphrey</surname><given-names>KA</given-names></name><name name-style="western"><surname>Morris</surname><given-names>JP</given-names></name><name name-style="western"><surname>McCarthy</surname><given-names>G</given-names></name></person-group>             <year>2005</year>             <article-title>Neural basis of eye gaze processing deficits in autism. Brain 128: 1038–1048.</article-title>             <comment>doi:10.1093/brain/awh404</comment>           </element-citation>
+      </ref>
+      <ref id="pone.0039561-Nakano1">
+        <label>13</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Nakano</surname><given-names>T</given-names></name><name name-style="western"><surname>Tanaka</surname><given-names>K</given-names></name><name name-style="western"><surname>Endo</surname><given-names>Y</given-names></name><name name-style="western"><surname>Yamane</surname><given-names>Y</given-names></name><name name-style="western"><surname>Yamamoto</surname><given-names>T</given-names></name><etal/></person-group>             <year>2010</year>             <article-title>Atypical gaze patterns in children and adults with autism spectrum disorders dissociated from developmental changes in gaze behaviour. P R Soc B 277: 2935–2943.</article-title>             <comment>doi:10.1098/rspb.2010.0587</comment>           </element-citation>
+      </ref>
+      <ref id="pone.0039561-Neuhaus1">
+        <label>14</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Neuhaus</surname><given-names>E</given-names></name><name name-style="western"><surname>Beauchaine</surname><given-names>TP</given-names></name><name name-style="western"><surname>Bernier</surname><given-names>R</given-names></name></person-group>             <year>2010</year>             <article-title>Neurobiological correlates of social functioning in autism. Clin Psychol Rev 30: 733–748.</article-title>             <comment>doi:10.1016/j.cpr.2010.05.007</comment>           </element-citation>
+      </ref>
+      <ref id="pone.0039561-Frith2">
+        <label>15</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Frith</surname><given-names>U</given-names></name><name name-style="western"><surname>Happe</surname><given-names>F</given-names></name></person-group>             <year>1994</year>             <article-title>Language and communication in autistic disorders. Philos Trans R Soc Lond, B, Biol Sci 346: 97–104.</article-title>             <comment>doi:10.1098/rstb.1994.0133</comment>           </element-citation>
+      </ref>
+      <ref id="pone.0039561-Ozonoff1">
+        <label>16</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Ozonoff</surname><given-names>S</given-names></name><name name-style="western"><surname>Miller</surname><given-names>JN</given-names></name></person-group>             <year>1996</year>             <article-title>An exploration of right-hemisphere contributions to the pragmatic impairments of autism. Brain Lang 52: 411–434.</article-title>             <comment>doi:10.1006/brln.1996.0022</comment>           </element-citation>
+      </ref>
+      <ref id="pone.0039561-Kuzmanovic1">
+        <label>17</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Kuzmanovic</surname><given-names>B</given-names></name><name name-style="western"><surname>Schilbach</surname><given-names>L</given-names></name><name name-style="western"><surname>Lehnhardt</surname><given-names>F</given-names></name></person-group>             <year>2010</year>             <article-title>Impact of verbal and nonverbal information on impression formation in high-functioning autism.</article-title>             <source>Research in Autism Spectrum Disorders</source>          </element-citation>
+      </ref>
+      <ref id="pone.0039561-Ruffman1">
+        <label>18</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Ruffman</surname><given-names>T</given-names></name><name name-style="western"><surname>Garnham</surname><given-names>W</given-names></name><name name-style="western"><surname>Rideout</surname><given-names>P</given-names></name></person-group>             <year>2001</year>             <article-title>Social understanding in autism: eye gaze as a measure of core insights.</article-title>             <source>J Child Psychol Psychiatry</source>             <volume>42</volume>             <fpage>1083</fpage>             <lpage>1094</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0039561-Senju1">
+        <label>19</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Senju</surname><given-names>A</given-names></name><name name-style="western"><surname>Southgate</surname><given-names>V</given-names></name><name name-style="western"><surname>White</surname><given-names>S</given-names></name><name name-style="western"><surname>Frith</surname><given-names>U</given-names></name></person-group>             <year>2009</year>             <article-title>Mindblind eyes: an absence of spontaneous theory of mind in Asperger syndrome. Science 325: 883–885.</article-title>             <comment>doi:10.1126/science.1176170</comment>           </element-citation>
+      </ref>
+      <ref id="pone.0039561-Wang2">
+        <label>20</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Wang</surname><given-names>AT</given-names></name><name name-style="western"><surname>Lee</surname><given-names>SS</given-names></name><name name-style="western"><surname>Sigman</surname><given-names>M</given-names></name><name name-style="western"><surname>Dapretto</surname><given-names>M</given-names></name></person-group>             <year>2007</year>             <article-title>Reading affect in the face and voice: neural correlates of interpreting communicative intent in children and adolescents with autism spectrum disorders. Arch Gen Psychiatry 64: 698–708.</article-title>             <comment>doi:10.1001/archpsyc.64.6.698</comment>           </element-citation>
+      </ref>
+      <ref id="pone.0039561-Tesink2">
+        <label>21</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Tesink</surname><given-names>CMJY</given-names></name><name name-style="western"><surname>Buitelaar</surname><given-names>JK</given-names></name><name name-style="western"><surname>Petersson</surname><given-names>KM</given-names></name><name name-style="western"><surname>van der Gaag</surname><given-names>RJ</given-names></name><name name-style="western"><surname>Teunisse</surname><given-names>J-P</given-names></name><etal/></person-group>             <year>2011</year>             <article-title>Neural correlates of language comprehension in autism spectrum disorders: when language conflicts with world knowledge. Neuropsychologia 49: 1095–1104.</article-title>             <comment>doi:10.1016/j.neuropsychologia.2011.01.018</comment>           </element-citation>
+      </ref>
+      <ref id="pone.0039561-Adolphs1">
+        <label>22</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Adolphs</surname><given-names>R</given-names></name></person-group>             <year>2010</year>             <article-title>Conceptual challenges and directions for social neuroscience. Neuron 65: 752–767.</article-title>             <comment>doi:10.1016/j.neuron.2010.03.006</comment>           </element-citation>
+      </ref>
+      <ref id="pone.0039561-VanOverwalle1">
+        <label>23</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Van Overwalle</surname><given-names>F</given-names></name><name name-style="western"><surname>Baetens</surname><given-names>K</given-names></name></person-group>             <year>2009</year>             <article-title>Understanding others' actions and goals by mirror and mentalizing systems: a meta-analysis. NeuroImage 48: 564–584.</article-title>             <comment>doi:10.1016/j.neuroimage.2009.06.009</comment>           </element-citation>
+      </ref>
+      <ref id="pone.0039561-Ridderinkhof1">
+        <label>24</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Ridderinkhof</surname><given-names>KR</given-names></name><name name-style="western"><surname>Ullsperger</surname><given-names>M</given-names></name><name name-style="western"><surname>Crone</surname><given-names>EA</given-names></name><name name-style="western"><surname>Nieuwenhuis</surname><given-names>S</given-names></name></person-group>             <year>2004</year>             <article-title>The role of the medial frontal cortex in cognitive control. Science 306: 443–447.</article-title>             <comment>doi:10.1126/science.1100301</comment>           </element-citation>
+      </ref>
+      <ref id="pone.0039561-Singer1">
+        <label>25</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Singer</surname><given-names>T</given-names></name><name name-style="western"><surname>Lamm</surname><given-names>C</given-names></name></person-group>             <year>2009</year>             <article-title>The social neuroscience of empathy. Ann N Y Acad Sci 1156: 81–96.</article-title>             <source>doi</source>             <volume>10</volume>             <issue>1111/j.1749-6632.2009.04418</issue>             <fpage>x</fpage>          </element-citation>
+      </ref>
+      <ref id="pone.0039561-Association1">
+        <label>26</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Association</surname><given-names>AP</given-names></name><name name-style="western"><surname>DSM-IV</surname><given-names>APATFO</given-names></name></person-group>             <year>2000</year>             <article-title>Diagnostic and statistical manual of mental disorders. American Psychiatric Publishing, Inc.</article-title>             <source>p</source>          </element-citation>
+      </ref>
+      <ref id="pone.0039561-Lord1">
+        <label>27</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Lord</surname><given-names>C</given-names></name><name name-style="western"><surname>Rutter</surname><given-names>M</given-names></name><name name-style="western"><surname>Le Couteur</surname><given-names>A</given-names></name></person-group>             <year>1994</year>             <article-title>Autism Diagnostic Interview-Revised: a revised version of a diagnostic interview for caregivers of individuals with possible pervasive developmental disorders.</article-title>             <source>J Autism Dev Disord</source>             <volume>24</volume>             <fpage>659</fpage>             <lpage>685</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0039561-Schopler1">
+        <label>28</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Schopler</surname><given-names>E</given-names></name><name name-style="western"><surname>Reichler</surname><given-names>RJ</given-names></name><name name-style="western"><surname>DeVellis</surname><given-names>RF</given-names></name><name name-style="western"><surname>Daly</surname><given-names>K</given-names></name></person-group>             <year>1980</year>             <article-title>Toward objective classification of childhood autism: Childhood Autism Rating Scale (CARS).</article-title>             <source>J Autism Dev Disord</source>             <volume>10</volume>             <fpage>91</fpage>             <lpage>103</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0039561-Saemundsen1">
+        <label>29</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Saemundsen</surname><given-names>E</given-names></name><name name-style="western"><surname>Magnússon</surname><given-names>P</given-names></name><name name-style="western"><surname>Smári</surname><given-names>J</given-names></name><name name-style="western"><surname>Sigurdardóttir</surname><given-names>S</given-names></name></person-group>             <year>2003</year>             <article-title>Autism Diagnostic Interview-Revised and the Childhood Autism Rating Scale: convergence and discrepancy in diagnosing autism.</article-title>             <source>J Autism Dev Disord</source>             <volume>33</volume>             <fpage>319</fpage>             <lpage>328</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0039561-Pilowsky1">
+        <label>30</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Pilowsky</surname><given-names>T</given-names></name><name name-style="western"><surname>Yirmiya</surname><given-names>N</given-names></name><name name-style="western"><surname>Shulman</surname><given-names>C</given-names></name><name name-style="western"><surname>Dover</surname><given-names>R</given-names></name></person-group>             <year>1998</year>             <article-title>The Autism Diagnostic Interview-Revised and the Childhood Autism Rating Scale: differences between diagnostic systems and comparison between genders.</article-title>             <source>J Autism Dev Disord</source>             <volume>28</volume>             <fpage>143</fpage>             <lpage>151</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0039561-First1">
+        <label>31</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>First</surname><given-names>MB</given-names></name><name name-style="western"><surname>Spitzer</surname><given-names>RL</given-names></name><name name-style="western"><surname>Gibbon</surname><given-names>M</given-names></name><name name-style="western"><surname>Williams</surname><given-names>JBW</given-names></name></person-group>             <year>1997</year>             <article-title>Structured Clinical Interview for DSM-IV Axis I Disorders (SCID-I), Clinician Version (Administration Booklet). American Psychiatric Publishing, Inc.</article-title>             <source>p</source>          </element-citation>
+      </ref>
+      <ref id="pone.0039561-Oldfield1">
+        <label>32</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Oldfield</surname><given-names>RC</given-names></name></person-group>             <year>1971</year>             <article-title>The assessment and analysis of handedness: the Edinburgh inventory.</article-title>             <source>Neuropsychologia</source>             <volume>9</volume>             <fpage>97</fpage>             <lpage>113</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0039561-Hollingshead1">
+        <label>33</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Hollingshead</surname><given-names>A</given-names></name></person-group>             <year>1957</year>             <article-title>Two factor index of social position. Yale University: New Haven.</article-title>             <source>pp</source>          </element-citation>
+      </ref>
+      <ref id="pone.0039561-Wakabayashi1">
+        <label>34</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Wakabayashi</surname><given-names>A</given-names></name><name name-style="western"><surname>Baron-Cohen</surname><given-names>S</given-names></name><name name-style="western"><surname>Wheelwright</surname><given-names>S</given-names></name><name name-style="western"><surname>Tojo</surname><given-names>Y</given-names></name></person-group>             <year>2006</year>             <article-title>The Autism-Spectrum Quotient (AQ) in Japan: A cross-cultural comparison. J Autism Dev Disord 36: 263–270.</article-title>             <comment>doi:10.1007/s10803-005-0061-2</comment>                      </element-citation>
+      </ref>
+      <ref id="pone.0039561-BaronCohen1">
+        <label>35</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Baron-Cohen</surname><given-names>S</given-names></name><name name-style="western"><surname>Wheelwright</surname><given-names>S</given-names></name><name name-style="western"><surname>Skinner</surname><given-names>R</given-names></name><name name-style="western"><surname>Martin</surname><given-names>J</given-names></name><name name-style="western"><surname>Clubley</surname><given-names>E</given-names></name></person-group>             <year>2001</year>             <article-title>The autism-spectrum quotient (AQ): evidence from Asperger syndrome/high-functioning autism, males and females, scientists and mathematicians.</article-title>             <source>J Autism Dev Disord</source>             <volume>31</volume>             <fpage>5</fpage>             <lpage>17</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0039561-Matsuoka1">
+        <label>36</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Matsuoka</surname><given-names>K</given-names></name><name name-style="western"><surname>Uno</surname><given-names>M</given-names></name><name name-style="western"><surname>Kasai</surname><given-names>K</given-names></name><name name-style="western"><surname>Koyama</surname><given-names>K</given-names></name><name name-style="western"><surname>Kim</surname><given-names>Y</given-names></name></person-group>             <year>2006</year>             <article-title>Estimation of premorbid IQ in individuals with Alzheimer's disease using Japanese ideographic script (Kanji) compound words: Japanese version of National Adult Reading Test. Psychiatry Clin Neurosci 60: 332–339.</article-title>             <comment>doi:10.1111/j.1440-1819.2006.01510x</comment>                      </element-citation>
+      </ref>
+      <ref id="pone.0039561-Nelson1">
+        <label>37</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Nelson</surname><given-names>H</given-names></name></person-group>             <year>1982</year>             <article-title>National Adult Reading Test (NART): For the Assessment of Premorbid Intelligence in Patients with Dementia: Test Manual.</article-title>          </element-citation>
+      </ref>
+      <ref id="pone.0039561-Wechsler1">
+        <label>38</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Wechsler</surname><given-names>D</given-names></name></person-group>             <year>1981</year>             <article-title>Wechsler adult intelligence scale-revised manual. New York: Psychological Corporation.</article-title>             <source>pp</source>          </element-citation>
+      </ref>
+      <ref id="pone.0039561-Hoddes1">
+        <label>39</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Hoddes</surname><given-names>E</given-names></name><name name-style="western"><surname>Zarcone</surname><given-names>V</given-names></name><name name-style="western"><surname>Smythe</surname><given-names>H</given-names></name><name name-style="western"><surname>Phillips</surname><given-names>R</given-names></name><name name-style="western"><surname>Dement</surname><given-names>WC</given-names></name></person-group>             <year>1973</year>             <article-title>Quantification of sleepiness: a new approach.</article-title>             <source>Psychophysiology</source>             <volume>10</volume>             <fpage>431</fpage>             <lpage>436</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0039561-Bradley1">
+        <label>40</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Bradley</surname><given-names>M</given-names></name><name name-style="western"><surname>Lang</surname><given-names>P</given-names></name></person-group>             <year>1999</year>             <article-title>Affective norms for English words (ANEW): Instruction manual and affective ratings.</article-title>             <source>University of Florida: The Center for Research in Psychophysiology</source>          </element-citation>
+      </ref>
+      <ref id="pone.0039561-Logan1">
+        <label>41</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Logan</surname><given-names>GD</given-names></name><name name-style="western"><surname>Zbrodoff</surname><given-names>NJ</given-names></name></person-group>             <year>1979</year>             <article-title>When it helps to be misled: Facilitative effects of increasing the frequency of conflicting stimuli in a Stroop-like task.</article-title>             <source>Mem Cognit</source>             <volume>7</volume>             <fpage>166</fpage>             <lpage>174</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0039561-Gratton1">
+        <label>42</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Gratton</surname><given-names>G</given-names></name><name name-style="western"><surname>Coles</surname><given-names>MG</given-names></name><name name-style="western"><surname>Donchin</surname><given-names>E</given-names></name></person-group>             <year>1992</year>             <article-title>Optimizing the use of information: strategic control of activation of responses.</article-title>             <source>J Exp Psychol Gen</source>             <volume>121</volume>             <fpage>480</fpage>             <lpage>506</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0039561-Egner1">
+        <label>43</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Egner</surname><given-names>T</given-names></name><name name-style="western"><surname>Hirsch</surname><given-names>J</given-names></name></person-group>             <year>2005</year>             <article-title>Cognitive control mechanisms resolve conflict through cortical amplification of task-relevant information. Nat Neurosci 8: 1784–1790.</article-title>             <comment>doi:10.1038/nn1594</comment>           </element-citation>
+      </ref>
+      <ref id="pone.0039561-Cocosco1">
+        <label>44</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Cocosco</surname><given-names>CA</given-names></name><name name-style="western"><surname>Kollokian</surname><given-names>V</given-names></name><name name-style="western"><surname>Kwan</surname><given-names>RKS</given-names></name><name name-style="western"><surname>Pike</surname><given-names>GB</given-names></name><name name-style="western"><surname>Evans</surname><given-names>AC</given-names></name></person-group>             <year>1997</year>             <article-title>BrainWeb: Online Interface to a 3D MRI Simulated Brain Database.</article-title>             <source>NeuroImage</source>          </element-citation>
+      </ref>
+      <ref id="pone.0039561-VanOverwalle2">
+        <label>45</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Van Overwalle</surname><given-names>F</given-names></name></person-group>             <year>2011</year>             <article-title>A dissociation between social mentalizing and general reasoning. NeuroImage 54: 1589–1599.</article-title>             <comment>doi:10.1016/j.neuroimage.2010.09.043</comment>           </element-citation>
+      </ref>
+      <ref id="pone.0039561-Lombardo1">
+        <label>46</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Lombardo</surname><given-names>MV</given-names></name><name name-style="western"><surname>Chakrabarti</surname><given-names>B</given-names></name><name name-style="western"><surname>Bullmore</surname><given-names>ET</given-names></name><name name-style="western"><surname>Sadek</surname><given-names>SA</given-names></name><name name-style="western"><surname>Pasco</surname><given-names>G</given-names></name><etal/></person-group>             <year>2010</year>             <article-title>Atypical neural self-representation in autism. Brain 133: 611–624.</article-title>             <comment>doi:10.1093/brain/awp306</comment>           </element-citation>
+      </ref>
+      <ref id="pone.0039561-Kuhl1">
+        <label>47</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Kuhl</surname><given-names>BA</given-names></name><name name-style="western"><surname>Shah</surname><given-names>AT</given-names></name><name name-style="western"><surname>Dubrow</surname><given-names>S</given-names></name><name name-style="western"><surname>Wagner</surname><given-names>AD</given-names></name></person-group>             <year>2010</year>             <article-title>Resistance to forgetting associated with hippocampus-mediated reactivation during new learning. Nat Neurosci 13: 501–506.</article-title>             <comment>doi:10.1038/nn.2498</comment>           </element-citation>
+      </ref>
+      <ref id="pone.0039561-TzourioMazoyer1">
+        <label>48</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Tzourio-Mazoyer</surname><given-names>N</given-names></name><name name-style="western"><surname>Landeau</surname><given-names>B</given-names></name><name name-style="western"><surname>Papathanassiou</surname><given-names>D</given-names></name><name name-style="western"><surname>Crivello</surname><given-names>F</given-names></name><name name-style="western"><surname>Etard</surname><given-names>O</given-names></name><etal/></person-group>             <year>2002</year>             <article-title>Automated anatomical labeling of activations in SPM using a macroscopic anatomical parcellation of the MNI MRI single-subject brain. NeuroImage 15: 273–289.</article-title>             <comment>doi:10.1006/nimg.2001.0978</comment>           </element-citation>
+      </ref>
+      <ref id="pone.0039561-Otten1">
+        <label>49</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Otten</surname><given-names>LJ</given-names></name><name name-style="western"><surname>Henson</surname><given-names>RNA</given-names></name><name name-style="western"><surname>Rugg</surname><given-names>MD</given-names></name></person-group>             <year>2002</year>             <article-title>State-related and item-related neural correlates of successful memory encoding. Nat Neurosci 5: 1339–1344.</article-title>             <comment>doi:10.1038/nn967</comment>           </element-citation>
+      </ref>
+      <ref id="pone.0039561-Davis1">
+        <label>50</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Davis</surname><given-names>MH</given-names></name><name name-style="western"><surname>Johnsrude</surname><given-names>IS</given-names></name></person-group>             <year>2003</year>             <article-title>Hierarchical processing in spoken language comprehension.</article-title>             <source>J Neurosci</source>             <volume>23</volume>             <fpage>3423</fpage>             <lpage>3431</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0039561-GrillSpector1">
+        <label>51</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Grill-Spector</surname><given-names>K</given-names></name><name name-style="western"><surname>Knouf</surname><given-names>N</given-names></name><name name-style="western"><surname>Kanwisher</surname><given-names>N</given-names></name></person-group>             <year>2004</year>             <article-title>The fusiform face area subserves face perception, not generic within-category identification. Nat Neurosci 7: 555–562.</article-title>             <comment>doi:10.1038/nn1224</comment>           </element-citation>
+      </ref>
+      <ref id="pone.0039561-Heekeren1">
+        <label>52</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Heekeren</surname><given-names>HR</given-names></name><name name-style="western"><surname>Marrett</surname><given-names>S</given-names></name><name name-style="western"><surname>Bandettini</surname><given-names>PA</given-names></name><name name-style="western"><surname>Ungerleider</surname><given-names>LG</given-names></name></person-group>             <year>2004</year>             <article-title>A general mechanism for perceptual decision-making in the human brain. Nature 431: 859–862.</article-title>             <comment>doi:10.1038/nature02966</comment>           </element-citation>
+      </ref>
+      <ref id="pone.0039561-Suzuki1">
+        <label>53</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Suzuki</surname><given-names>S</given-names></name><name name-style="western"><surname>Niki</surname><given-names>K</given-names></name><name name-style="western"><surname>Fujisaki</surname><given-names>S</given-names></name><name name-style="western"><surname>Akiyama</surname><given-names>E</given-names></name></person-group>             <year>2011</year>             <article-title>Neural basis of conditional cooperation. Soc Cogn Affect Neurosci 6: 338–347.</article-title>             <comment>doi:10.1093/scan/nsq042</comment>           </element-citation>
+      </ref>
+      <ref id="pone.0039561-Morishima1">
+        <label>54</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Morishima</surname><given-names>Y</given-names></name><name name-style="western"><surname>Okuda</surname><given-names>J</given-names></name><name name-style="western"><surname>Sakai</surname><given-names>K</given-names></name></person-group>             <year>2010</year>             <article-title>Reactive mechanism of cognitive control system. Cerebral Cortex 20: 2675–2683.</article-title>             <comment>doi:10.1093/cercor/bhq013</comment>           </element-citation>
+      </ref>
+      <ref id="pone.0039561-Dalton1">
+        <label>55</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Dalton</surname><given-names>KM</given-names></name><name name-style="western"><surname>Nacewicz</surname><given-names>BM</given-names></name><name name-style="western"><surname>Johnstone</surname><given-names>T</given-names></name><name name-style="western"><surname>Schaefer</surname><given-names>HS</given-names></name><name name-style="western"><surname>Gernsbacher</surname><given-names>MA</given-names></name><etal/></person-group>             <year>2005</year>             <article-title>Gaze fixation and the neural circuitry of face processing in autism. Nat Neurosci 8: 519–526.</article-title>             <comment>doi:10.1038/nn1421</comment>           </element-citation>
+      </ref>
+      <ref id="pone.0039561-Kleinhans1">
+        <label>56</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Kleinhans</surname><given-names>NM</given-names></name><name name-style="western"><surname>Johnson</surname><given-names>LC</given-names></name><name name-style="western"><surname>Richards</surname><given-names>T</given-names></name><name name-style="western"><surname>Mahurin</surname><given-names>R</given-names></name><name name-style="western"><surname>Greenson</surname><given-names>J</given-names></name><etal/></person-group>             <year>2009</year>             <article-title>Reduced neural habituation in the amygdala and social impairments in autism spectrum disorders. Am J Psychiatry 166: 467–475.</article-title>             <comment>doi:10.1176/appi.ajp.2008.07101681</comment>           </element-citation>
+      </ref>
+      <ref id="pone.0039561-Klin1">
+        <label>57</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Klin</surname><given-names>A</given-names></name><name name-style="western"><surname>Jones</surname><given-names>W</given-names></name><name name-style="western"><surname>Schultz</surname><given-names>R</given-names></name><name name-style="western"><surname>Volkmar</surname><given-names>F</given-names></name><name name-style="western"><surname>Cohen</surname><given-names>D</given-names></name></person-group>             <year>2002</year>             <article-title>Defining and quantifying the social phenotype in autism.</article-title>             <source>Am J Psychiatry</source>             <volume>159</volume>             <fpage>895</fpage>             <lpage>908</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0039561-Bowler1">
+        <label>58</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Bowler</surname><given-names>DM</given-names></name></person-group>             <year>1992</year>             <article-title>“Theory of mind” in Asperger's syndrome.</article-title>             <source>J Child Psychol Psychiatry</source>             <volume>33</volume>             <fpage>877</fpage>             <lpage>893</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0039561-Peterson1">
+        <label>59</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Peterson</surname><given-names>CC</given-names></name><name name-style="western"><surname>Slaughter</surname><given-names>VP</given-names></name><name name-style="western"><surname>Paynter</surname><given-names>J</given-names></name></person-group>             <year>2007</year>             <article-title>Social maturity and theory of mind in typically developing children and those on the autism spectrum. J Child Psychol Psychiatry 48: 1243–1250.</article-title>             <comment>doi:10.1111/j.1469-7610.2007.01810x</comment>                      </element-citation>
+      </ref>
+      <ref id="pone.0039561-ShamayTsoory1">
+        <label>60</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Shamay-Tsoory</surname><given-names>SG</given-names></name></person-group>             <year>2008</year>             <article-title>Recognition of “fortune of others” emotions in Asperger syndrome and high functioning autism. J Autism Dev Disord 38: 1451–1461.</article-title>             <comment>doi:10.1007/s10803-007-0515-9</comment>                      </element-citation>
+      </ref>
+      <ref id="pone.0039561-Ramachandran1">
+        <label>61</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Ramachandran</surname><given-names>R</given-names></name><name name-style="western"><surname>Mitchell</surname><given-names>P</given-names></name><name name-style="western"><surname>Ropar</surname><given-names>D</given-names></name></person-group>             <year>2009</year>             <article-title>Do individuals with autism spectrum disorders infer traits from behavior? J Child Psychol Psychiatry 50: 871–878.</article-title>             <comment>doi:10.1111/j.1469-7610.2009.02053x</comment>                      </element-citation>
+      </ref>
+      <ref id="pone.0039561-Castelli1">
+        <label>62</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Castelli</surname><given-names>F</given-names></name><name name-style="western"><surname>Frith</surname><given-names>CD</given-names></name><name name-style="western"><surname>Happé</surname><given-names>F</given-names></name><name name-style="western"><surname>Frith</surname><given-names>U</given-names></name></person-group>             <year>2002</year>             <article-title>Autism, Asperger syndrome and brain mechanisms for the attribution of mental states to animated shapes.</article-title>             <source>Brain</source>             <volume>125</volume>             <fpage>1839</fpage>             <lpage>1849</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0039561-Kana1">
+        <label>63</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Kana</surname><given-names>RK</given-names></name><name name-style="western"><surname>Keller</surname><given-names>TA</given-names></name><name name-style="western"><surname>Cherkassky</surname><given-names>VL</given-names></name><name name-style="western"><surname>Minshew</surname><given-names>NJ</given-names></name><name name-style="western"><surname>Just</surname><given-names>MA</given-names></name></person-group>             <year>2009</year>             <article-title>Atypical frontal-posterior synchronization of Theory of Mind regions in autism during mental state attribution. Soc Neurosci 4: 135–152.</article-title>             <comment>doi:10.1080/17470910802198510</comment>           </element-citation>
+      </ref>
+      <ref id="pone.0039561-Gilbert1">
+        <label>64</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Gilbert</surname><given-names>SJ</given-names></name><name name-style="western"><surname>Meuwese</surname><given-names>JDI</given-names></name><name name-style="western"><surname>Towgood</surname><given-names>KJ</given-names></name><name name-style="western"><surname>Frith</surname><given-names>CD</given-names></name><name name-style="western"><surname>Burgess</surname><given-names>PW</given-names></name></person-group>             <year>2009</year>             <article-title>Abnormal functional specialization within medial prefrontal cortex in high-functioning autism: a multi-voxel similarity analysis. Brain 132: 869–878.</article-title>             <comment>doi:10.1093/brain/awn365</comment>           </element-citation>
+      </ref>
+      <ref id="pone.0039561-Mizuno1">
+        <label>65</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Mizuno</surname><given-names>A</given-names></name><name name-style="western"><surname>Liu</surname><given-names>Y</given-names></name><name name-style="western"><surname>Williams</surname><given-names>DL</given-names></name><name name-style="western"><surname>Keller</surname><given-names>TA</given-names></name><name name-style="western"><surname>Minshew</surname><given-names>NJ</given-names></name><etal/></person-group>             <year>2011</year>             <article-title>The neural basis of deictic shifting in linguistic perspective-taking in high-functioning autism. Brain 134: 2422–2435.</article-title>             <comment>doi:10.1093/brain/awr151</comment>           </element-citation>
+      </ref>
+      <ref id="pone.0039561-Jenkins1">
+        <label>66</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Jenkins</surname><given-names>AC</given-names></name><name name-style="western"><surname>Mitchell</surname><given-names>JP</given-names></name></person-group>             <year>2010</year>             <article-title>Mentalizing under uncertainty: dissociated neural responses to ambiguous and unambiguous mental state inferences. Cerebral Cortex 20: 404–410.</article-title>             <comment>doi:10.1093/cercor/bhp109</comment>           </element-citation>
+      </ref>
+      <ref id="pone.0039561-Tamir1">
+        <label>67</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Tamir</surname><given-names>DI</given-names></name><name name-style="western"><surname>Mitchell</surname><given-names>JP</given-names></name></person-group>             <year>2010</year>             <article-title>Neural correlates of anchoring-and-adjustment during mentalizing. Proc Natl Acad Sci USA 107: 10827–10832.</article-title>             <comment>doi:10.1073/pnas.1003242107</comment>           </element-citation>
+      </ref>
+      <ref id="pone.0039561-Mitchell1">
+        <label>68</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Mitchell</surname><given-names>JP</given-names></name><name name-style="western"><surname>Macrae</surname><given-names>CN</given-names></name><name name-style="western"><surname>Banaji</surname><given-names>MR</given-names></name></person-group>             <year>2006</year>             <article-title>Dissociable medial prefrontal contributions to judgments of similar and dissimilar others. Neuron 50: 655–663.</article-title>             <comment>doi:10.1016/j.neuron.2006.03.040</comment>           </element-citation>
+      </ref>
+      <ref id="pone.0039561-Coricelli1">
+        <label>69</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Coricelli</surname><given-names>G</given-names></name><name name-style="western"><surname>Nagel</surname><given-names>R</given-names></name></person-group>             <year>2009</year>             <article-title>Neural correlates of depth of strategic reasoning in medial prefrontal cortex. Proc Natl Acad Sci USA 106: 9163–9168.</article-title>             <comment>doi:10.1073/pnas.0807721106</comment>           </element-citation>
+      </ref>
+      <ref id="pone.0039561-ShamayTsoory2">
+        <label>70</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Shamay-Tsoory</surname><given-names>SG</given-names></name><name name-style="western"><surname>Aharon-Peretz</surname><given-names>J</given-names></name><name name-style="western"><surname>Perry</surname><given-names>D</given-names></name></person-group>             <year>2009</year>             <article-title>Two systems for empathy: a double dissociation between emotional and cognitive empathy in inferior frontal gyrus versus ventromedial prefrontal lesions. Brain 132: 617–627.</article-title>             <comment>doi:10.1093/brain/awn279</comment>           </element-citation>
+      </ref>
+      <ref id="pone.0039561-Iacoboni1">
+        <label>71</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Iacoboni</surname><given-names>M</given-names></name><name name-style="western"><surname>Dapretto</surname><given-names>M</given-names></name></person-group>             <year>2006</year>             <article-title>The mirror neuron system and the consequences of its dysfunction. Nat Rev Neurosci 7: 942–951.</article-title>             <comment>doi:10.1038/nrn2024</comment>           </element-citation>
+      </ref>
+      <ref id="pone.0039561-Dapretto1">
+        <label>72</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Dapretto</surname><given-names>M</given-names></name><name name-style="western"><surname>Davies</surname><given-names>MS</given-names></name><name name-style="western"><surname>Pfeifer</surname><given-names>JH</given-names></name><name name-style="western"><surname>Scott</surname><given-names>AA</given-names></name><name name-style="western"><surname>Sigman</surname><given-names>M</given-names></name><etal/></person-group>             <year>2006</year>             <article-title>Understanding emotions in others: mirror neuron dysfunction in children with autism spectrum disorders. Nat Neurosci 9: 28–30.</article-title>             <comment>doi:10.1038/nn1611</comment>           </element-citation>
+      </ref>
+      <ref id="pone.0039561-Kosaka1">
+        <label>73</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Kosaka</surname><given-names>H</given-names></name><name name-style="western"><surname>Omori</surname><given-names>M</given-names></name><name name-style="western"><surname>Munesue</surname><given-names>T</given-names></name><name name-style="western"><surname>Ishitobi</surname><given-names>M</given-names></name><name name-style="western"><surname>Matsumura</surname><given-names>Y</given-names></name><etal/></person-group>             <year>2010</year>             <article-title>Smaller insula and inferior frontal volumes in young adults with pervasive developmental disorders. NeuroImage 50: 1357–1363.</article-title>             <comment>doi:10.1016/j.neuroimage.2010.01.085</comment>           </element-citation>
+      </ref>
+      <ref id="pone.0039561-Yamasaki1">
+        <label>74</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Yamasaki</surname><given-names>S</given-names></name><name name-style="western"><surname>Yamasue</surname><given-names>H</given-names></name><name name-style="western"><surname>Abe</surname><given-names>O</given-names></name><name name-style="western"><surname>Suga</surname><given-names>M</given-names></name><name name-style="western"><surname>Yamada</surname><given-names>H</given-names></name><etal/></person-group>             <year>2010</year>             <article-title>Reduced gray matter volume of pars opercularis is associated with impaired social communication in high-functioning autism spectrum disorders. Biol Psychiatry 68: 1141–1147.</article-title>             <comment>doi:10.1016/j.biopsych.2010.07.012</comment>           </element-citation>
+      </ref>
+      <ref id="pone.0039561-Grinband1">
+        <label>75</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Grinband</surname><given-names>J</given-names></name><name name-style="western"><surname>Hirsch</surname><given-names>J</given-names></name><name name-style="western"><surname>Ferrera</surname><given-names>VP</given-names></name></person-group>             <year>2006</year>             <article-title>A neural representation of categorization uncertainty in the human brain. Neuron 49: 757–763.</article-title>             <comment>doi:10.1016/j.neuron.2006.01.032</comment>           </element-citation>
+      </ref>
+      <ref id="pone.0039561-Amaral1">
+        <label>76</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Amaral</surname><given-names>DG</given-names></name><name name-style="western"><surname>Schumann</surname><given-names>CM</given-names></name><name name-style="western"><surname>Nordahl</surname><given-names>CW</given-names></name></person-group>             <year>2008</year>             <article-title>Neuroanatomy of autism. Trends Neurosci 31: 137–145.</article-title>             <comment>doi:10.1016/j.tins.2007.12.005</comment>           </element-citation>
+      </ref>
+      <ref id="pone.0039561-Stanfield1">
+        <label>77</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Stanfield</surname><given-names>AC</given-names></name><name name-style="western"><surname>McIntosh</surname><given-names>AM</given-names></name><name name-style="western"><surname>Spencer</surname><given-names>MD</given-names></name><name name-style="western"><surname>Philip</surname><given-names>R</given-names></name><name name-style="western"><surname>Gaur</surname><given-names>S</given-names></name><etal/></person-group>             <year>2008</year>             <article-title>Towards a neuroanatomy of autism: a systematic review and meta-analysis of structural magnetic resonance imaging studies. Eur Psychiatry 23: 289–299.</article-title>             <comment>doi:10.1016/j.eurpsy.2007.05.006</comment>           </element-citation>
+      </ref>
+    </ref-list>
+    
+  </back>
+</article>
